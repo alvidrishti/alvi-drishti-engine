@@ -1,0 +1,237 @@
+{
+  "profession_id": "PROF_HOTEL_WORKER_001",
+
+  "profession": "Hotel Worker",
+
+  "sector": "Hospitality",
+
+  "sub_sector": "Accommodation And Guest Services",
+
+  "core_identity": [
+    "Guest Experience Provider",
+    "Hospitality Frontliner",
+    "Service Quality Maintainer",
+    "Tourism Support Professional",
+    "Comfort And Convenience Facilitator"
+  ],
+
+  "profession_archetype": [
+    "Host",
+    "Caretaker",
+    "Service Provider",
+    "Coordinator"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Medium-High",
+
+    "cashflow_type": "Salary Plus Service Incentives",
+
+    "income_sources": [
+      "Hotel Salary",
+      "Service Charges",
+      "Performance Bonuses",
+      "Event Support Services"
+    ],
+
+    "peak_income_periods": [
+      "Tourist Season",
+      "Holiday Season",
+      "Wedding And Conference Season"
+    ],
+
+    "financial_stress_periods": [
+      "Off Tourist Season",
+      "Low Occupancy Period"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Guest Focused",
+      "Service Oriented",
+      "Procedure Based",
+      "Problem Solving"
+    ],
+
+    "trust_sources": [
+      "Hotel Policies",
+      "Customer Feedback",
+      "Supervisors",
+      "Hospitality Standards"
+    ],
+
+    "fear_drivers": [
+      "Guest Complaints",
+      "Service Failure",
+      "Negative Reviews",
+      "Operational Mistakes"
+    ],
+
+    "motivation_drivers": [
+      "Guest Satisfaction",
+      "Professional Growth",
+      "Recognition",
+      "Stable Income"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Guest Assistance",
+      "Room Preparation",
+      "Check In Support",
+      "Service Coordination",
+      "Problem Resolution"
+    ],
+
+    "weekly_patterns": [
+      "Service Review",
+      "Guest Feedback Analysis",
+      "Hospitality Training",
+      "Team Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Customer Service",
+      "Communication",
+      "Hospitality Management",
+      "Conflict Resolution",
+      "Teamwork",
+      "Professional Etiquette"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Uniform",
+      "Hotel Access System",
+      "Communication Device",
+      "Hospitality Training",
+      "Guest Service Knowledge"
+    ]
+  },
+
+  "emotion_dna": [
+    "Patience",
+    "Friendliness",
+    "Responsibility",
+    "Empathy",
+    "Professionalism"
+  ],
+
+  "memory_dna": [
+    "First Guest Check In",
+    "Handling VIP Guest",
+    "Busy Holiday Season",
+    "Exceptional Service Recognition",
+    "Guest Appreciation Moment"
+  ],
+
+  "social_dna": {
+    "community_role": "Hospitality Facilitator",
+
+    "social_status": "Service Professional",
+
+    "community_connections": [
+      "Guests",
+      "Hotel Staff",
+      "Managers",
+      "Tour Operators",
+      "Event Organizers"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Presentation Conscious",
+      "Quality Focused",
+      "Service Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Professional Appearance",
+      "Comfort",
+      "Work Efficiency",
+      "Guest Interaction Needs"
+    ],
+
+    "purchase_barriers": [
+      "Poor Quality",
+      "Unprofessional Image",
+      "Low Durability"
+    ]
+  },
+
+  "visual_dna": [
+    "Hotel Lobby",
+    "Reception Desk",
+    "Guest Room",
+    "Uniformed Staff",
+    "Hospitality Environment"
+  ],
+
+  "object_dna": [
+    "Room Key Card",
+    "Guest Register",
+    "Uniform",
+    "Reception Computer",
+    "Service Trolley",
+    "Communication Radio"
+  ],
+
+  "sound_dna": [
+    "Lobby Conversations",
+    "Phone Ringing",
+    "Guest Check In",
+    "Luggage Movement",
+    "Hotel Ambience"
+  ],
+
+  "smell_dna": [
+    "Fresh Linen",
+    "Hotel Lobby Fragrance",
+    "Clean Rooms",
+    "Coffee",
+    "Air Conditioned Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Welcoming Guest",
+    "Solving Guest Problem",
+    "Preparing Room",
+    "Receiving Positive Review",
+    "Managing Peak Check In Time"
+  ],
+
+  "risk_dna": [
+    "Guest Complaint",
+    "Service Failure",
+    "Operational Error",
+    "Work Stress",
+    "Seasonal Employment Fluctuation"
+  ],
+
+  "aspiration_dna": [
+    "Hotel Management Position",
+    "Hospitality Excellence",
+    "International Career",
+    "Financial Stability",
+    "Professional Recognition"
+  ],
+
+  "identity_markers": [
+    "Guest Service",
+    "Hotel Uniform",
+    "Hospitality Skills",
+    "Customer Satisfaction"
+  ],
+
+  "profession_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
