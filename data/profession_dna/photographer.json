@@ -1,0 +1,242 @@
+{
+  "profession_id": "PROF_PHOTOGRAPHER_001",
+
+  "profession": "Photographer",
+
+  "sector": "Visual Media",
+
+  "sub_sector": "Photography And Visual Documentation",
+
+  "core_identity": [
+    "Reality Capturer",
+    "Visual Storyteller",
+    "Memory Preserver",
+    "Moment Collector",
+    "Human Experience Documentarian"
+  ],
+
+  "profession_archetype": [
+    "Observer",
+    "Artist",
+    "Documentarian",
+    "Storyteller"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Project And Event Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Assignment Based",
+
+    "income_sources": [
+      "Wedding Photography",
+      "Commercial Shoots",
+      "Event Coverage",
+      "Portrait Sessions",
+      "Brand Campaigns",
+      "Photo Licensing"
+    ],
+
+    "peak_income_periods": [
+      "Wedding Season",
+      "Festival Season",
+      "Corporate Event Season"
+    ],
+
+    "financial_stress_periods": [
+      "Off Season",
+      "Equipment Failure",
+      "Low Booking Period"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Visual First",
+      "Moment Driven",
+      "Story Focused",
+      "Detail Sensitive"
+    ],
+
+    "trust_sources": [
+      "Visual Observation",
+      "Field Experience",
+      "Creative Community",
+      "Client Feedback"
+    ],
+
+    "fear_drivers": [
+      "Missing Critical Moment",
+      "Equipment Failure",
+      "Creative Burnout",
+      "Client Dissatisfaction"
+    ],
+
+    "motivation_drivers": [
+      "Creating Timeless Images",
+      "Visual Impact",
+      "Recognition",
+      "Storytelling Excellence"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Location Scouting",
+      "Equipment Preparation",
+      "Photo Capture",
+      "Image Selection",
+      "Editing And Delivery"
+    ],
+
+    "weekly_patterns": [
+      "Client Meetings",
+      "Portfolio Updates",
+      "Gear Maintenance",
+      "Creative Research"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Composition",
+      "Lighting Control",
+      "Camera Operation",
+      "Photo Editing",
+      "Visual Storytelling",
+      "Human Observation"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Camera",
+      "Lenses",
+      "Memory Cards",
+      "Editing Computer",
+      "Backup Storage",
+      "Lighting Equipment"
+    ]
+  },
+
+  "emotion_dna": [
+    "Curiosity",
+    "Creativity",
+    "Patience",
+    "Observation",
+    "Perfectionism"
+  ],
+
+  "memory_dna": [
+    "First Paid Shoot",
+    "First Wedding Coverage",
+    "Award Winning Photo",
+    "Iconic Moment Capture",
+    "Portfolio Breakthrough"
+  ],
+
+  "social_dna": {
+    "community_role": "Memory Preserver",
+
+    "social_status": "Visual Creator",
+
+    "community_connections": [
+      "Clients",
+      "Models",
+      "Brands",
+      "Media Professionals",
+      "Creative Community"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Gear Focused",
+      "Quality Driven",
+      "Performance Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Better Image Quality",
+      "Reliability",
+      "Workflow Speed",
+      "Creative Capability"
+    ],
+
+    "purchase_barriers": [
+      "High Equipment Cost",
+      "Low ROI",
+      "Technology Obsolescence"
+    ]
+  },
+
+  "visual_dna": [
+    "Camera Viewfinder",
+    "Golden Hour Light",
+    "Wedding Stage",
+    "Street Scene",
+    "Portrait Session",
+    "Documentary Moment"
+  ],
+
+  "object_dna": [
+    "Camera",
+    "Lens",
+    "Tripod",
+    "Memory Card",
+    "Drone",
+    "Camera Bag"
+  ],
+
+  "sound_dna": [
+    "Camera Shutter",
+    "Flash Trigger",
+    "Crowd Activity",
+    "Wedding Music",
+    "Client Direction"
+  ],
+
+  "smell_dna": [
+    "Outdoor Environment",
+    "Camera Equipment",
+    "Studio Space",
+    "Fresh Prints",
+    "Event Venue"
+  ],
+
+  "micro_moment_dna": [
+    "Pressing Shutter At Perfect Moment",
+    "Reviewing Captured Frame",
+    "Changing Lens",
+    "Directing Subject",
+    "Delivering Final Gallery"
+  ],
+
+  "risk_dna": [
+    "Data Loss",
+    "Equipment Damage",
+    "Missed Shot",
+    "Creative Fatigue",
+    "Client Dispute"
+  ],
+
+  "aspiration_dna": [
+    "Iconic Portfolio",
+    "International Recognition",
+    "Own Studio",
+    "Visual Legacy",
+    "Commercial Excellence"
+  ],
+
+  "identity_markers": [
+    "Camera",
+    "Lens Collection",
+    "Visual Storytelling",
+    "Moment Capture"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
