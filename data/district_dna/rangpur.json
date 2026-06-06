@@ -1,5 +1,7 @@
 {
-  "district": "Rangpur",
+  "district_id": "BD-RNG-001",
+
+  "district_name": "Rangpur",
 
   "division": "Rangpur",
 
@@ -7,116 +9,136 @@
 
   "dataset_version": "24.0",
 
-  "geography": {
-    "region": "North Bengal",
-    "terrain": "Floodplain",
-    "major_rivers": [
-      "Teesta",
-      "Ghaghat"
-    ],
-    "climate_type": "Subtropical Monsoon"
-  },
+  "geography_dna": [
+    "Northern Bangladesh",
+    "Floodplain Geography",
+    "Teesta River Influence",
+    "Agricultural Landscape",
+    "Flat Rural Terrain"
+  ],
 
-  "climate_profile": {
-    "summer": "Hot",
-    "winter": "Cold",
-    "rainfall_level": "Medium-High",
-    "flood_risk": "Medium",
-    "drought_risk": "Medium"
-  },
+  "climate_dna": [
+    "Cold Winter",
+    "Dense Winter Fog",
+    "Humid Monsoon",
+    "Moderate Rainfall",
+    "Hot Summer"
+  ],
 
-  "economy_profile": {
-    "primary_sector": "Agriculture",
+  "light_dna": [
+    "Soft Winter Morning Light",
+    "Dense Fog Diffusion",
+    "Golden Agricultural Sunset",
+    "Monsoon Overcast Sky",
+    "Dust Filtered Afternoon Light"
+  ],
 
-    "major_crops": [
-      "Rice",
-      "Potato",
-      "Maize",
-      "Wheat",
-      "Vegetables"
-    ],
+  "architecture_dna": [
+    "Rural Tin Roof Houses",
+    "Brick Village Homes",
+    "Agricultural Storage Structures",
+    "Traditional Courtyard Houses",
+    "Roadside Rural Markets"
+  ],
 
-    "major_industries": [
-      "Agriculture",
-      "Food Processing",
-      "Small Trade"
-    ],
+  "transport_dna": [
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Motorcycle",
+    "Agricultural Transport Van",
+    "Local Bus"
+  ],
 
-    "economic_growth": "Medium"
-  },
+  "occupation_dna": [
+    "Farmer",
+    "Agricultural Laborer",
+    "Small Business Owner",
+    "Teacher",
+    "Driver",
+    "Government Employee"
+  ],
 
-  "population_profile": {
-    "urbanization_level": "Low-Medium",
-    "population_density": "High",
-    "migration_pattern": "Domestic Migration"
-  },
+  "food_dna": [
+    "Rice",
+    "Potato",
+    "Maize",
+    "Winter Vegetables",
+    "Traditional Pitha",
+    "Milk Tea"
+  ],
 
-  "profession_profile": {
-    "common_professions": [
-      "Farmer",
-      "Day Laborer",
-      "Small Business Owner",
-      "Teacher",
-      "Driver",
-      "Government Employee"
-    ]
-  },
+  "behavior_dna": [
+    "Morning Tea Stall Gathering",
+    "Winter Fire Warming",
+    "Agricultural Market Bargaining",
+    "Roadside Crop Trading",
+    "Community Based Problem Solving",
+    "Evening Tea Discussion"
+  ],
 
-  "education_profile": {
-    "education_access": "Medium",
-    "literacy_trend": "Improving",
-    "higher_education_access": "Medium"
-  },
+  "object_dna": [
+    "Potato Sack",
+    "Bamboo Basket",
+    "Tea Glass",
+    "Agricultural Sprayer",
+    "Rickshaw Bell",
+    "Plastic Crop Crate",
+    "Village Bench"
+  ],
 
-  "technology_profile": {
-    "internet_access": "Medium",
-    "smartphone_adoption": "Medium-High",
-    "digital_payment_adoption": "Growing"
-  },
+  "memory_dna": [
+    "Winter Morning Fog",
+    "School Assembly Bell",
+    "Village Tea Stall",
+    "Potato Harvest Season",
+    "Cold Morning Sunlight"
+  ],
 
-  "culture_profile": {
-    "primary_language": "Bangla",
-    "community_orientation": "High",
-    "religious_diversity": "Low-Medium",
-    "cultural_identity": "Strong Northern Bengal Heritage"
-  },
+  "sound_dna": [
+    "Rickshaw Bell",
+    "Village Loudspeaker",
+    "Morning Azan",
+    "Agricultural Market Noise",
+    "Tea Stall Conversations"
+  ],
 
-  "infrastructure_profile": {
-    "road_connectivity": "Medium",
-    "electricity_access": "High",
-    "healthcare_access": "Medium",
-    "transport_access": "Medium"
-  },
+  "smell_dna": [
+    "Fresh Soil",
+    "Potato Storage",
+    "Milk Tea Steam",
+    "Winter Fog Moisture",
+    "Harvested Crop Fields"
+  ],
 
-  "risk_profile": {
-    "natural_disasters": [
-      "Flood",
-      "River Erosion",
-      "Cold Wave"
-    ],
+  "landmark_dna": [
+    "Tajhat Palace",
+    "Carmichael College",
+    "Rangpur Zoo",
+    "Town Hall Area"
+  ],
 
-    "economic_risks": [
-      "Crop Failure",
-      "Commodity Price Volatility"
-    ]
-  },
+  "micro_dna": [
+    "Winter Litchi Market",
+    "Cold Season Tea Gathering",
+    "Village Fog Corridor",
+    "Agricultural Roadside Stall",
+    "Potato Loaded Van",
+    "Morning Fog Covered Field",
+    "Roadside Mustard Flower Strip",
+    "Rural Tea Stall Biscuit Jar",
+    "Bamboo Crop Carrier",
+    "Northern Winter Clothing Pattern"
+  ],
 
-  "opportunity_profile": {
-    "growth_sectors": [
-      "Modern Agriculture",
-      "Agri Technology",
-      "Food Processing",
-      "E-Commerce"
-    ],
+  "identity_markers": [
+    "Northern Winter Culture",
+    "Agricultural Economy",
+    "Potato Production",
+    "Dense Seasonal Fog",
+    "Tea Stall Social Culture"
+  ],
 
-    "future_potential": "High"
-  },
+  "district_uniqueness_score": 95,
 
-  "reality_factors": {
-    "environment_factor": 85,
-    "economic_factor": 75,
-    "technology_factor": 60,
-    "social_factor": 80,
-    "infrastructure_factor": 70
-  }
+  "three_second_identity_test": "PASS"
 }
