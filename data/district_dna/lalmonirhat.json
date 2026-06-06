@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-LAL-004",
+
+  "district_name": "Lalmonirhat",
+
+  "division": "Rangpur",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Northern Border District",
+    "Teesta Basin",
+    "Agricultural Plain",
+    "Cross Border Landscape",
+    "Rail Connected Region"
+  ],
+
+  "climate_dna": [
+    "Severe Winter",
+    "Dense Winter Fog",
+    "Humid Monsoon",
+    "Cool Northern Air",
+    "Seasonal Rainfall"
+  ],
+
+  "light_dna": [
+    "Fog Covered Railway Morning",
+    "Cold Blue Winter Sunrise",
+    "Golden Paddy Field Evening",
+    "Monsoon Cloud Filtered Light",
+    "Rail Track Horizon Light"
+  ],
+
+  "architecture_dna": [
+    "Railway Settlement Housing",
+    "Tin Roof Rural Homes",
+    "Railway Staff Quarters",
+    "Border Area Structures",
+    "Village Market Buildings"
+  ],
+
+  "transport_dna": [
+    "Train",
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Railway Worker",
+    "Small Trader",
+    "Day Laborer",
+    "Teacher",
+    "Driver"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Fish",
+    "Milk Tea",
+    "Winter Pitha",
+    "Potato",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Railway Platform Waiting",
+    "Early Morning Train Observation",
+    "Tea Stall Discussion",
+    "Market Bargaining",
+    "Winter Fire Gathering",
+    "Bicycle Based Daily Commute"
+  ],
+
+  "object_dna": [
+    "Railway Ticket",
+    "Platform Bench",
+    "Cycle Bell",
+    "Tea Glass",
+    "Rail Crossing Barrier",
+    "Station Loudspeaker",
+    "Waiting Room Fan"
+  ],
+
+  "memory_dna": [
+    "Winter Railway Journey",
+    "Fog Covered Platform",
+    "Train Horn At Dawn",
+    "Station Tea Stall",
+    "Childhood Train Watching"
+  ],
+
+  "sound_dna": [
+    "Train Horn",
+    "Rail Track Vibration",
+    "Station Announcement",
+    "Cycle Bell",
+    "Morning Azan"
+  ],
+
+  "smell_dna": [
+    "Railway Grease",
+    "Tea Steam",
+    "Winter Fog Moisture",
+    "Wet Platform Concrete",
+    "Fresh Soil"
+  ],
+
+  "landmark_dna": [
+    "Lalmonirhat Railway Junction",
+    "Historic Railway Zone",
+    "Teesta Region",
+    "Northern Railway Infrastructure"
+  ],
+
+  "micro_dna": [
+    "Railway Crossing Hut",
+    "Fog Covered Platform",
+    "Cycle Waiting Zone",
+    "Northern Rail Culture",
+    "Tea Stall Beside Platform",
+    "Station Clock Gathering Point",
+    "Morning Fog On Rail Tracks",
+    "Bicycle Parked Near Station",
+    "Train Arrival Crowd Pattern",
+    "Railway Worker Signal Flag"
+  ],
+
+  "identity_markers": [
+    "Railway Heritage",
+    "Northern Border Identity",
+    "Winter Fog Culture",
+    "Station Based Social Life",
+    "Railway Economy"
+  ],
+
+  "district_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
