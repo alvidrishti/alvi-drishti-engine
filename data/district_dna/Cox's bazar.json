@@ -1,0 +1,334 @@
+{
+  "district_id": "BD-COX-045",
+
+  "district_name": "Cox's Bazar",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "World's Longest Sea Beach",
+    "Tourism Capital",
+    "Marine Civilization",
+    "Bay Of Bengal Gateway",
+    "Global Coastal Identity"
+  ],
+
+  "geography_dna": {
+    "major_water_bodies": [
+      "Bay Of Bengal",
+      "Bakkhali River",
+      "Naf River"
+    ],
+
+    "terrain": [
+      "Sea Beach",
+      "Coastal Plain",
+      "Sand Dune Belt",
+      "Marine Horizon",
+      "Hill-Sea Transition"
+    ],
+
+    "ocean_dependency_score": 100,
+    "tourism_dependency_score": 99,
+    "marine_identity_score": 100
+  },
+
+  "historical_dna": [
+    "Ancient Coastal Trade Routes",
+    "Arakan Influence",
+    "Maritime Settlement History",
+    "Fishing Civilization Evolution",
+    "Tourism Expansion Era"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Tourism",
+      "Fishing",
+      "Hospitality Industry",
+      "Marine Commerce"
+    ],
+
+    "secondary": [
+      "Transport",
+      "Retail Business",
+      "Restaurant Industry",
+      "Tour Guide Economy"
+    ],
+
+    "economic_identity": [
+      "Tourism Economy",
+      "Marine Economy",
+      "Hospitality Economy",
+      "Beach Commerce"
+    ]
+  },
+
+  "occupation_dna": [
+    "Fisherman",
+    "Hotel Employee",
+    "Tour Guide",
+    "Restaurant Owner",
+    "Boat Operator",
+    "Tourism Entrepreneur"
+  ],
+
+  "transport_dna": {
+    "marine_transport": [
+      "Fishing Trawler",
+      "Speed Boat",
+      "Tourist Boat"
+    ],
+
+    "land_transport": [
+      "Bus",
+      "Private Car",
+      "Motorcycle",
+      "Auto Rickshaw"
+    ],
+
+    "identity": [
+      "Tourism Mobility",
+      "Marine Access Network"
+    ]
+  },
+
+  "tourism_dna": [
+    "Beach Tourism",
+    "Marine Recreation",
+    "Sunrise Tourism",
+    "Sunset Tourism",
+    "Island Tourism",
+    "Adventure Tourism"
+  ],
+
+  "beach_dna": [
+    "Endless Sand Horizon",
+    "Wave Pattern Memory",
+    "Beach Walking Culture",
+    "Sunrise Gathering",
+    "Sunset Observation"
+  ],
+
+  "marine_dna": [
+    "Deep Sea Fishing",
+    "Trawler Culture",
+    "Marine Weather Awareness",
+    "Coastal Navigation",
+    "Sea Based Livelihood"
+  ],
+
+  "food_dna": [
+    "Sea Fish",
+    "Lobster",
+    "Crab",
+    "Shrimp",
+    "Rice",
+    "Coconut Based Foods"
+  ],
+
+  "market_dna": [
+    "Beach Market",
+    "Marine Fish Market",
+    "Tourism Retail Economy",
+    "Seafood Commerce",
+    "Seasonal Tourist Trade"
+  ],
+
+  "festival_dna": [
+    "Beach Festival",
+    "Tourism Season Celebration",
+    "Eid Tourism Rush",
+    "Coastal Cultural Programs"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Cox's Bazar Coastal Accent",
+      "Tourism Industry Vocabulary",
+      "Marine Trade Expressions"
+    ]
+  },
+
+  "religious_dna": [
+    "Coastal Mosque Culture",
+    "Marine Community Spirituality",
+    "Multi Cultural Tourism Interaction"
+  ],
+
+  "social_dna": [
+    "Tourism Based Relationships",
+    "Fishing Community Networks",
+    "Hospitality Culture",
+    "Seasonal Visitor Interaction"
+  ],
+
+  "emotion_dna": [
+    "Sea Pride",
+    "Tourism Identity",
+    "Coastal Freedom",
+    "Marine Heritage",
+    "Sunset Nostalgia"
+  ],
+
+  "visual_dna": [
+    "Endless Beach Horizon",
+    "Orange Sunset Reflection",
+    "Fishing Boats On Shore",
+    "Blue Ocean View",
+    "Tourist Crowd At Beach"
+  ],
+
+  "color_palette_dna": [
+    "Ocean Blue",
+    "Beach Sand Gold",
+    "Sunset Orange",
+    "Wave White",
+    "Palm Green"
+  ],
+
+  "behavior_dna": [
+    "Beach Walking",
+    "Sunset Watching",
+    "Fishing Net Repair",
+    "Tourist Interaction",
+    "Tea Stall Discussion",
+    "Sea Weather Monitoring"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Beach Umbrella",
+    "Tourist Camera",
+    "Boat Rope",
+    "Seafood Basket",
+    "Tea Glass",
+    "Life Jacket"
+  ],
+
+  "sound_dna": [
+    "Sea Waves",
+    "Fishing Boat Engine",
+    "Beach Crowd",
+    "Seagull Calls",
+    "Night Beach Wind"
+  ],
+
+  "smell_dna": [
+    "Salt Air",
+    "Sea Breeze",
+    "Fresh Seafood",
+    "Beach Sand",
+    "Ocean Moisture"
+  ],
+
+  "childhood_memory_dna": [
+    "Collecting Seashells",
+    "Watching Fishing Boats",
+    "Beach Football",
+    "Sunset With Family",
+    "Storm Season Memories"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Tourism Peak",
+      "Beach Crowd Surge"
+    ],
+
+    "monsoon": [
+      "Storm Monitoring",
+      "High Wave Activity",
+      "Fishing Restrictions"
+    ],
+
+    "winter": [
+      "Tourist Season Peak",
+      "Clear Beach Horizon"
+    ]
+  },
+
+  "night_dna": [
+    "Beachfront Lighting",
+    "Night Sea Breeze",
+    "Tourist Gathering",
+    "Seafood Restaurant Activity",
+    "Marine Horizon Darkness"
+  ],
+
+  "risk_dna": [
+    "Cyclone Exposure",
+    "Storm Surge Risk",
+    "Coastal Erosion",
+    "Tourism Season Dependency"
+  ],
+
+  "migration_dna": [
+    "Tourism Workforce Migration",
+    "Fishing Labor Movement",
+    "Hospitality Industry Recruitment"
+  ],
+
+  "commercial_dna": [
+    "Hotel Economy",
+    "Resort Economy",
+    "Tourism Branding",
+    "Seafood Supply Chain",
+    "Beach Commerce Network"
+  ],
+
+  "international_dna": [
+    "Foreign Tourism Exposure",
+    "Global Beach Branding",
+    "International Visitor Interaction"
+  ],
+
+  "memory_dna": [
+    "Longest Beach Identity",
+    "Sunset Horizon Memory",
+    "Storm Season Stories",
+    "Tourism Growth Era",
+    "Fishing Heritage"
+  ],
+
+  "micro_dna": [
+    "Footprints On Wet Sand",
+    "Fishing Boat Returning At Dawn",
+    "Red Crab Crossing Beach",
+    "Tourist Taking Sunset Photos",
+    "Sea Wave Touching Shoreline",
+    "Beach Tea Stall At Dusk",
+    "Life Jacket Hanging On Boat",
+    "Palm Tree Beside Shore",
+    "Children Playing Football On Sand",
+    "Orange Sun Sinking Into Horizon"
+  ],
+
+  "landmark_dna": [
+    "Cox's Bazar Sea Beach",
+    "Himchari",
+    "Inani Beach",
+    "Marine Drive",
+    "Maheshkhali",
+    "Saint Martin's Gateway",
+    "Laboni Point"
+  ],
+
+  "identity_markers": [
+    "World's Longest Sea Beach",
+    "Tourism Capital",
+    "Marine Civilization",
+    "Bay Of Bengal Identity",
+    "Global Coastal Gateway"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
