@@ -1,0 +1,243 @@
+{
+  "profession_id": "PROF_JOURNALIST_001",
+
+  "profession": "Journalist",
+
+  "sector": "Media",
+
+  "sub_sector": "News And Information",
+
+  "core_identity": [
+    "Reality Observer",
+    "Public Information Provider",
+    "Story Investigator",
+    "Narrative Builder",
+    "Voice Of Society"
+  ],
+
+  "profession_archetype": [
+    "Observer",
+    "Investigator",
+    "Communicator",
+    "Witness"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly And Assignment Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary Plus Reporting Assignments",
+
+    "income_sources": [
+      "News Organization Salary",
+      "Special Reports",
+      "Media Projects",
+      "Content Production"
+    ],
+
+    "peak_income_periods": [
+      "Election Coverage",
+      "Major National Events",
+      "High Profile Investigations"
+    ],
+
+    "financial_stress_periods": [
+      "Media Industry Slowdown",
+      "Contract Instability"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Fact Driven",
+      "Evidence Based",
+      "Curiosity Motivated",
+      "Public Interest Focused"
+    ],
+
+    "trust_sources": [
+      "Eyewitnesses",
+      "Official Documents",
+      "Field Verification",
+      "Multiple Sources"
+    ],
+
+    "fear_drivers": [
+      "Misinformation",
+      "Source Failure",
+      "Loss Of Credibility",
+      "Reporting Error"
+    ],
+
+    "motivation_drivers": [
+      "Truth Discovery",
+      "Public Awareness",
+      "Impactful Reporting",
+      "Professional Recognition"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "News Monitoring",
+      "Field Reporting",
+      "Interviewing Sources",
+      "Fact Verification",
+      "Story Writing"
+    ],
+
+    "weekly_patterns": [
+      "Investigative Research",
+      "Editorial Meetings",
+      "Community Observation",
+      "Source Development"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Interviewing",
+      "Fact Checking",
+      "Storytelling",
+      "Research",
+      "Observation",
+      "Communication"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Notebook",
+      "Recorder",
+      "Smartphone",
+      "Camera",
+      "Internet Access"
+    ]
+  },
+
+  "emotion_dna": [
+    "Curiosity",
+    "Persistence",
+    "Skepticism",
+    "Responsibility",
+    "Courage"
+  ],
+
+  "memory_dna": [
+    "First Published Story",
+    "Breaking News Coverage",
+    "Field Investigation",
+    "Exclusive Interview",
+    "Major Public Event"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Information Provider",
+
+    "social_status": "Public Communicator",
+
+    "community_connections": [
+      "Citizens",
+      "Editors",
+      "Officials",
+      "Sources",
+      "Media Community"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Utility Focused",
+      "Technology Driven",
+      "Information Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Faster Reporting",
+      "Better Documentation",
+      "Higher Reliability",
+      "Field Efficiency"
+    ],
+
+    "purchase_barriers": [
+      "Low Accuracy",
+      "Poor Reliability",
+      "Limited Functionality"
+    ]
+  },
+
+  "visual_dna": [
+    "Press Conference",
+    "Newsroom",
+    "Field Reporting",
+    "Camera Crew",
+    "Interview Setup"
+  ],
+
+  "object_dna": [
+    "Microphone",
+    "Press Card",
+    "Camera",
+    "Notebook",
+    "Recorder",
+    "Laptop"
+  ],
+
+  "sound_dna": [
+    "Newsroom Activity",
+    "Interview Conversations",
+    "Press Conference Audio",
+    "Keyboard Typing",
+    "Live Broadcast"
+  ],
+
+  "smell_dna": [
+    "Newsroom Environment",
+    "Fresh Print Media",
+    "Outdoor Reporting Locations",
+    "Coffee",
+    "Electronics"
+  ],
+
+  "micro_moment_dna": [
+    "Breaking News Alert",
+    "Interviewing Witness",
+    "Verifying Information",
+    "Publishing Story",
+    "Reporting Live From Scene"
+  ],
+
+  "risk_dna": [
+    "Misinformation",
+    "Source Manipulation",
+    "Public Criticism",
+    "Field Safety Risks",
+    "Credibility Damage"
+  ],
+
+  "aspiration_dna": [
+    "Investigative Excellence",
+    "Public Impact",
+    "National Recognition",
+    "Truth Seeking",
+    "Media Leadership"
+  ],
+
+  "identity_markers": [
+    "Press Card",
+    "Microphone",
+    "Field Reporting",
+    "Story Investigation"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
