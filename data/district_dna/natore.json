@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-NAT-012",
+
+  "district_name": "Natore",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Chalan Beel Region",
+    "Wetland Ecosystem",
+    "Northwestern Agricultural Plain",
+    "Seasonal Water Landscape",
+    "Historic Settlement Zone"
+  ],
+
+  "climate_dna": [
+    "Humid Monsoon",
+    "Cold Winter",
+    "Seasonal Fog",
+    "Hot Summer",
+    "Wetland Moisture Influence"
+  ],
+
+  "light_dna": [
+    "Beel Sunrise Reflection",
+    "Fog Covered Winter Morning",
+    "Golden Wetland Sunset",
+    "Monsoon Cloud Diffusion",
+    "Water Surface Light Reflection"
+  ],
+
+  "architecture_dna": [
+    "Natore Rajbari Heritage",
+    "Traditional Zamindari Structures",
+    "Rural Courtyard Houses",
+    "Wetland Village Settlements",
+    "Historic Brick Architecture"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Boat",
+    "Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Small Trader",
+    "Teacher",
+    "Government Employee",
+    "Agricultural Laborer"
+  ],
+
+  "food_dna": [
+    "Kachagolla",
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Wetland Fishing Activity",
+    "Morning Market Gathering",
+    "Tea Stall Discussion",
+    "Agricultural Trading",
+    "Festival Sweet Purchase",
+    "Beel Based Livelihood Activity"
+  ],
+
+  "object_dna": [
+    "Kachagolla Box",
+    "Fishing Net",
+    "Tea Glass",
+    "Rice Sack",
+    "Bamboo Basket",
+    "Boat Paddle",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Kachagolla Purchase",
+    "Natore Rajbari Visit",
+    "Winter Fog Morning",
+    "Chalan Beel Boat Journey",
+    "Village Market Day"
+  ],
+
+  "sound_dna": [
+    "Boat Movement",
+    "Morning Azan",
+    "Wetland Bird Calls",
+    "Tea Stall Conversation",
+    "Market Crowd Noise"
+  ],
+
+  "smell_dna": [
+    "Fresh Kachagolla",
+    "Wetland Water",
+    "Tea Steam",
+    "Fresh Soil",
+    "Morning Fog Moisture"
+  ],
+
+  "landmark_dna": [
+    "Natore Rajbari",
+    "Chalan Beel",
+    "Historic Zamindari Complex",
+    "Wetland Heritage Areas"
+  ],
+
+  "micro_dna": [
+    "Kachagolla Shop Display",
+    "Rajbari Archway Pattern",
+    "Boat Crossing Chalan Beel",
+    "Fog Covered Wetland Morning",
+    "Fishing Net Drying Beside House",
+    "Sweet Shop Queue",
+    "Water Reflection Sunset",
+    "Beel Side Tea Stall",
+    "Village Boat Landing Point",
+    "Traditional Zamindari Courtyard"
+  ],
+
+  "identity_markers": [
+    "Chalan Beel Culture",
+    "Kachagolla Heritage",
+    "Natore Rajbari",
+    "Wetland Economy",
+    "Zamindari Legacy"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
