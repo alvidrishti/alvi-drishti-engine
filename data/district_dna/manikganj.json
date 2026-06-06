@@ -1,0 +1,315 @@
+{
+  "district_id": "BD-MAN-058",
+
+  "district_name": "Manikganj",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Jamuna-Padma Corridor",
+    "Riverbank Civilization",
+    "Agricultural Trade Belt",
+    "Dhaka Gateway Region",
+    "Central Bengal Frontier"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Jamuna River Influence",
+      "Padma River Influence",
+      "Dhaleshwari River",
+      "Floodplain Agriculture",
+      "River Corridor Settlements"
+    ],
+
+    "terrain": [
+      "Alluvial Floodplain",
+      "Riverbank Settlements",
+      "Agricultural Plains",
+      "Char Formation Zones"
+    ],
+
+    "river_dependency_score": 99,
+    "gateway_score": 95,
+    "agricultural_score": 97
+  },
+
+  "historical_dna": [
+    "River Trade Heritage",
+    "Ferry Crossing Legacy",
+    "Agricultural Expansion History",
+    "Dhaka Access Corridor",
+    "Central Bengal Settlement Evolution"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Rice Production",
+      "Vegetable Farming",
+      "River Commerce"
+    ],
+
+    "secondary": [
+      "Transport Services",
+      "Livestock",
+      "Retail Trade"
+    ],
+
+    "economic_identity": [
+      "Agricultural Economy",
+      "Transit Economy",
+      "River Trade Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Trader",
+    "Transport Worker",
+    "Teacher",
+    "Business Owner",
+    "Day Laborer"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Vegetable Farming",
+    "Jute Production",
+    "Mustard Farming",
+    "Seasonal Cropping"
+  ],
+
+  "river_dna": [
+    "Jamuna Adaptation",
+    "Padma Connectivity",
+    "Floodplain Living",
+    "Riverbank Erosion Awareness",
+    "Boat Commerce"
+  ],
+
+  "transport_dna": {
+    "major_routes": [
+      "Dhaka-Aricha Corridor",
+      "Regional Highway Network",
+      "River Crossing Routes"
+    ],
+
+    "traditional_transport": [
+      "Boat",
+      "Ferry",
+      "Rickshaw"
+    ],
+
+    "modern_transport": [
+      "Bus",
+      "Truck",
+      "Motorcycle"
+    ]
+  },
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Milk Tea",
+    "Pitha",
+    "Beef Curry",
+    "Seasonal Vegetables"
+  ],
+
+  "market_dna": [
+    "Agricultural Markets",
+    "River Trade Centers",
+    "Livestock Markets",
+    "Highway Commerce Zones",
+    "Village Bazaars"
+  ],
+
+  "festival_dna": [
+    "Eid Celebrations",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Boat Race Events",
+    "Community Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Central Bengal Dialect",
+      "River Community Expressions",
+      "Agricultural Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Religious Traditions",
+    "Eid Congregation Culture",
+    "Shrine Visiting Heritage"
+  ],
+
+  "social_dna": [
+    "Village Cooperation",
+    "Extended Family Networks",
+    "Market Based Relationships",
+    "River Community Bonds"
+  ],
+
+  "emotion_dna": [
+    "River Pride",
+    "Land Attachment",
+    "Family Responsibility",
+    "Agricultural Identity",
+    "Gateway Region Confidence"
+  ],
+
+  "visual_dna": [
+    "Wide River Horizons",
+    "Golden Paddy Fields",
+    "Ferry Crossings",
+    "Village Roads",
+    "Floodplain Landscapes"
+  ],
+
+  "color_palette_dna": [
+    "River Blue",
+    "Harvest Gold",
+    "Field Green",
+    "Mud Brown",
+    "Fog Gray"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussions",
+    "Market Bargaining",
+    "Agricultural Planning",
+    "River Monitoring",
+    "Community Cooperation"
+  ],
+
+  "object_dna": [
+    "Rice Sack",
+    "Fishing Net",
+    "Tea Glass",
+    "Boat Rope",
+    "Bamboo Basket",
+    "Agricultural Tools"
+  ],
+
+  "sound_dna": [
+    "Ferry Horn",
+    "River Waves",
+    "Azan",
+    "Market Activity",
+    "Village Conversations"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Wet Soil",
+    "Fresh Fish",
+    "Tea Steam",
+    "Harvest Crops"
+  ],
+
+  "childhood_memory_dna": [
+    "Ferry Journeys",
+    "Village Football",
+    "Swimming In Rivers",
+    "Harvest Season Activities",
+    "School Field Gatherings"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Agricultural Trade",
+      "River Transport"
+    ],
+
+    "monsoon": [
+      "Floodplain Expansion",
+      "River Monitoring",
+      "Boat Dependency"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Village Sports",
+      "Wedding Season"
+    ]
+  },
+
+  "night_dna": [
+    "Highway Lights",
+    "Tea Stall Adda",
+    "Quiet Riverbanks",
+    "Market Activity"
+  ],
+
+  "risk_dna": [
+    "River Erosion",
+    "Flood Risk",
+    "Agricultural Dependency",
+    "Climate Variability"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Student Migration",
+    "Transport Workforce Mobility"
+  ],
+
+  "commercial_dna": [
+    "Agricultural Supply Chains",
+    "River Commerce",
+    "Transit Trade",
+    "Regional Market Networks"
+  ],
+
+  "memory_dna": [
+    "Jamuna Flood Memories",
+    "Ferry Crossing Stories",
+    "Harvest Traditions",
+    "Village Fair Culture",
+    "Riverbank Life"
+  ],
+
+  "micro_dna": [
+    "Ferry Crossing At Dawn",
+    "Tea Stall Beside Highway",
+    "Rice Drying In Courtyard",
+    "Fishing Net Hanging Near Riverbank",
+    "Truck Carrying Vegetables To Dhaka",
+    "Children Playing Football On Open Field",
+    "Fog Covering Winter Morning",
+    "Boat Tied To Bamboo Pole",
+    "Village Market Before Eid",
+    "Sunset Reflection On Jamuna Water"
+  ],
+
+  "landmark_dna": [
+    "Jamuna River Belt",
+    "Padma Influence Zone",
+    "Aricha Corridor",
+    "Manikganj Town",
+    "Dhaleshwari River"
+  ],
+
+  "identity_markers": [
+    "Jamuna-Padma Corridor",
+    "Riverbank Civilization",
+    "Agricultural Trade Belt",
+    "Dhaka Gateway Region",
+    "Central Bengal Frontier"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
