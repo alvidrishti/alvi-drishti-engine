@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-JOY-010",
+
+  "district_name": "Joypurhat",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Northwestern Agricultural Plain",
+    "Barind Influence Zone",
+    "Border Trade Corridor",
+    "Fertile Crop Region",
+    "Rural Settlement Landscape"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Cold Winter",
+    "Dense Winter Fog",
+    "Humid Monsoon",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Fog Covered Railway Morning",
+    "Golden Sugarcane Field Sunset",
+    "Winter Sunrise Through Mist",
+    "Monsoon Cloud Filtered Light",
+    "Harvest Season Afternoon Glow"
+  ],
+
+  "architecture_dna": [
+    "Rural Brick Homes",
+    "Railway Settlement Buildings",
+    "Traditional Village Courtyards",
+    "Agricultural Storage Structures",
+    "Local Market Complexes"
+  ],
+
+  "transport_dna": [
+    "Train",
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Sugarcane Cultivator",
+    "Trader",
+    "Railway Worker",
+    "Teacher",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Sugarcane Products",
+    "Milk Tea",
+    "Pitha",
+    "Freshwater Fish",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Sugarcane Harvest Activity",
+    "Railway Platform Waiting",
+    "Tea Stall Gathering",
+    "Market Bargaining",
+    "Crop Trading Activity",
+    "Winter Fire Gathering"
+  ],
+
+  "object_dna": [
+    "Sugarcane Bundle",
+    "Tea Glass",
+    "Railway Ticket",
+    "Bamboo Basket",
+    "Crop Storage Sack",
+    "Rickshaw Bell",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Sugarcane Harvest Season",
+    "Village Railway Journey",
+    "Winter Fog Morning",
+    "Tea Stall Discussion",
+    "Market Day Experience"
+  ],
+
+  "sound_dna": [
+    "Train Horn",
+    "Market Crowd Noise",
+    "Morning Azan",
+    "Rickshaw Bell",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Fresh Sugarcane",
+    "Tea Steam",
+    "Fresh Soil",
+    "Harvested Crops",
+    "Winter Fog Moisture"
+  ],
+
+  "landmark_dna": [
+    "Joypurhat Railway Region",
+    "Agricultural Trading Areas",
+    "Historic Rural Settlements",
+    "Border Trade Routes"
+  ],
+
+  "micro_dna": [
+    "Sugarcane Loaded Van",
+    "Fog Covered Railway Crossing",
+    "Brick Kiln Chimney Horizon",
+    "Morning Tea Stall Crowd",
+    "Village Rail Platform Bench",
+    "Crop Market Sack Cluster",
+    "Sugarcane Juice Stall",
+    "Winter Shawl Gathering",
+    "Railway Signal Beside Field",
+    "Border Trade Transport Queue"
+  ],
+
+  "identity_markers": [
+    "Sugarcane Culture",
+    "Railway Heritage",
+    "Agricultural Economy",
+    "Border Trade Influence",
+    "Northwestern Rural Identity"
+  ],
+
+  "district_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
