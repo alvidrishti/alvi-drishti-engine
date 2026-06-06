@@ -1,0 +1,318 @@
+{
+  "profession_id": "PROF_ECOMMERCE_SELLER_001",
+
+  "profession": "Ecommerce Seller",
+
+  "sector": "Digital Commerce",
+
+  "sub_sector": "Online Retail And Marketplace Commerce",
+
+  "core_identity": [
+    "Digital Merchant",
+    "Online Brand Builder",
+    "Consumer Problem Solver",
+    "Marketplace Operator",
+    "Digital Economy Participant"
+  ],
+
+  "profession_archetype": [
+    "Merchant",
+    "Growth Builder",
+    "Marketer",
+    "Digital Entrepreneur"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Digital Commerce Civilization",
+
+    "secondary_layers": [
+      "Platform Economy",
+      "Consumer Economy",
+      "Logistics Integration",
+      "Digital Payments",
+      "Brand Economy"
+    ]
+  },
+
+  "commerce_dna": {
+    "sales_channels": [
+      "Facebook Commerce",
+      "Online Marketplace",
+      "Own Website",
+      "Instagram Commerce",
+      "Live Selling",
+      "Mobile Commerce"
+    ],
+
+    "business_models": [
+      "Reselling",
+      "Private Label",
+      "Dropshipping",
+      "Import Based Selling",
+      "Direct Manufacturing"
+    ],
+
+    "conversion_factors": [
+      "Product Quality",
+      "Trust",
+      "Delivery Speed",
+      "Price Competitiveness",
+      "Customer Reviews"
+    ]
+  },
+
+  "consumer_psychology_dna": {
+    "purchase_triggers": [
+      "Discount",
+      "Urgency",
+      "Social Proof",
+      "Convenience",
+      "Lifestyle Aspiration"
+    ],
+
+    "trust_builders": [
+      "Customer Reviews",
+      "Real Photos",
+      "Cash On Delivery",
+      "Brand Consistency",
+      "Fast Response"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Daily",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Order Based",
+
+    "income_sources": [
+      "Product Sales",
+      "Marketplace Revenue",
+      "Affiliate Revenue",
+      "Repeat Customers",
+      "Brand Partnerships"
+    ],
+
+    "peak_income_periods": [
+      "Eid Season",
+      "Online Campaign Days",
+      "Festival Season",
+      "Year End Sales"
+    ],
+
+    "financial_stress_periods": [
+      "Low Conversion Period",
+      "High Return Rate",
+      "Advertising Loss"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Data Driven",
+      "Customer Centric",
+      "Growth Oriented",
+      "Experiment Focused"
+    ],
+
+    "trust_sources": [
+      "Sales Analytics",
+      "Customer Feedback",
+      "Market Trends",
+      "Platform Data"
+    ],
+
+    "fear_drivers": [
+      "Account Restriction",
+      "Negative Reviews",
+      "Low Sales",
+      "Inventory Loss",
+      "Advertising Failure"
+    ],
+
+    "motivation_drivers": [
+      "Business Growth",
+      "Financial Freedom",
+      "Brand Building",
+      "Market Leadership"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Order Processing",
+      "Customer Messaging",
+      "Product Posting",
+      "Campaign Monitoring",
+      "Delivery Coordination"
+    ],
+
+    "weekly_patterns": [
+      "Inventory Review",
+      "Ad Optimization",
+      "Competitor Analysis",
+      "Product Research"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Digital Marketing",
+      "Sales Copywriting",
+      "Customer Service",
+      "Product Research",
+      "Inventory Management",
+      "Analytics Interpretation"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Smartphone",
+      "Internet Connection",
+      "Marketplace Account",
+      "Payment Gateway",
+      "Inventory System",
+      "Delivery Partner"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Patience",
+    "Adaptability",
+    "Persistence",
+    "Creativity"
+  ],
+
+  "memory_dna": [
+    "First Online Order",
+    "First 100 Orders",
+    "First Viral Product",
+    "First Customer Review",
+    "First Profitable Month"
+  ],
+
+  "social_dna": {
+    "community_role": "Digital Merchant",
+
+    "social_status": "Online Entrepreneur",
+
+    "community_connections": [
+      "Customers",
+      "Delivery Agents",
+      "Suppliers",
+      "Influencers",
+      "Marketplace Platforms"
+    ]
+  },
+
+  "platform_dna": {
+    "dependency_level": "Very High",
+
+    "critical_platforms": [
+      "Marketplace",
+      "Social Media",
+      "Payment Gateway",
+      "Delivery Network"
+    ],
+
+    "platform_risks": [
+      "Account Suspension",
+      "Algorithm Changes",
+      "Policy Changes",
+      "Competition Increase"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "ROI Focused",
+      "Growth Driven",
+      "Customer Retention Focused"
+    ],
+
+    "purchase_triggers": [
+      "Higher Conversion",
+      "Brand Visibility",
+      "Customer Demand",
+      "Market Trends"
+    ],
+
+    "purchase_barriers": [
+      "Capital Constraints",
+      "Inventory Risk",
+      "Market Saturation"
+    ]
+  },
+
+  "visual_dna": [
+    "Product Photography",
+    "Online Store Dashboard",
+    "Order Packaging",
+    "Delivery Parcels",
+    "Sales Analytics Screen"
+  ],
+
+  "object_dna": [
+    "Smartphone",
+    "Laptop",
+    "Packaging Materials",
+    "Order Invoice",
+    "Product Catalog",
+    "Marketplace Dashboard"
+  ],
+
+  "sound_dna": [
+    "Order Notifications",
+    "Customer Messages",
+    "Delivery Calls",
+    "Live Selling Broadcast",
+    "Payment Confirmation Alerts"
+  ],
+
+  "smell_dna": [
+    "Packaging Materials",
+    "Warehouse Products",
+    "Fresh Inventory",
+    "Printing Ink",
+    "Storage Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Receiving New Order",
+    "Packaging Product",
+    "Responding To Customer",
+    "Checking Daily Sales",
+    "Receiving Positive Review"
+  ],
+
+  "risk_dna": [
+    "Fake Orders",
+    "Return Fraud",
+    "Platform Dependency",
+    "Inventory Dead Stock",
+    "Advertising Loss",
+    "Negative Reviews"
+  ],
+
+  "aspiration_dna": [
+    "National Ecommerce Brand",
+    "Private Label Expansion",
+    "Financial Independence",
+    "Regional Market Expansion",
+    "Digital Commerce Leadership"
+  ],
+
+  "identity_markers": [
+    "Online Store",
+    "Marketplace Presence",
+    "Order Fulfillment",
+    "Digital Sales Growth"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
