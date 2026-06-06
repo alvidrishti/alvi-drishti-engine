@@ -1,0 +1,285 @@
+{
+  "profession_id": "PROF_REAL_ESTATE_AGENT_001",
+
+  "profession": "Real Estate Agent",
+
+  "sector": "Real Estate",
+
+  "sub_sector": "Property Brokerage And Advisory",
+
+  "core_identity": [
+    "Property Connector",
+    "Housing Opportunity Facilitator",
+    "Land Market Navigator",
+    "Investment Guide",
+    "Urban Growth Participant"
+  ],
+
+  "profession_archetype": [
+    "Broker",
+    "Negotiator",
+    "Connector",
+    "Advisor"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Property Civilization",
+
+    "secondary_layers": [
+      "Urban Expansion",
+      "Housing Development",
+      "Land Capitalization",
+      "Investment Economy",
+      "Wealth Formation"
+    ]
+  },
+
+  "property_dna": {
+    "property_types": [
+      "Residential Apartment",
+      "Village Land",
+      "Commercial Space",
+      "Industrial Plot",
+      "Housing Project",
+      "Agricultural Land"
+    ],
+
+    "transaction_types": [
+      "Sale",
+      "Purchase",
+      "Rent",
+      "Lease",
+      "Investment Acquisition"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Commission Based",
+
+    "income_stability": "Low-Medium",
+
+    "cashflow_type": "Deal Based",
+
+    "income_sources": [
+      "Property Sales Commission",
+      "Rental Brokerage",
+      "Investment Advisory",
+      "Developer Partnerships",
+      "Land Transactions"
+    ],
+
+    "peak_income_periods": [
+      "Housing Market Boom",
+      "Urban Expansion Cycle",
+      "Large Development Projects"
+    ],
+
+    "financial_stress_periods": [
+      "Market Slowdown",
+      "Interest Rate Increase",
+      "Property Demand Drop"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Opportunity Driven",
+      "Relationship Based",
+      "Market Sensitive",
+      "Negotiation Focused"
+    ],
+
+    "trust_sources": [
+      "Market Intelligence",
+      "Property Records",
+      "Developer Networks",
+      "Client Referrals"
+    ],
+
+    "fear_drivers": [
+      "Deal Collapse",
+      "Legal Dispute",
+      "Market Crash",
+      "Client Distrust"
+    ],
+
+    "motivation_drivers": [
+      "High Commission",
+      "Market Influence",
+      "Client Success",
+      "Business Expansion"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Property Visits",
+      "Client Meetings",
+      "Market Monitoring",
+      "Negotiations",
+      "Lead Generation"
+    ],
+
+    "weekly_patterns": [
+      "Developer Coordination",
+      "Property Documentation Review",
+      "Site Inspections",
+      "Network Building"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Negotiation",
+      "Sales",
+      "Market Analysis",
+      "Client Management",
+      "Property Valuation",
+      "Communication"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Property Database",
+      "Client Network",
+      "Transportation",
+      "Mobile Communication",
+      "Legal Documentation Access"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Persistence",
+    "Confidence",
+    "Adaptability",
+    "Competitiveness"
+  ],
+
+  "memory_dna": [
+    "First Property Sale",
+    "Largest Commission Earned",
+    "First Housing Project Deal",
+    "Major Client Referral",
+    "Market Boom Experience"
+  ],
+
+  "social_dna": {
+    "community_role": "Property Market Facilitator",
+
+    "social_status": "Market Connector",
+
+    "community_connections": [
+      "Buyers",
+      "Sellers",
+      "Developers",
+      "Lawyers",
+      "Bankers",
+      "Surveyors"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Construction Sites",
+      "Housing Projects",
+      "Property Offices",
+      "Urban Expansion Zones",
+      "Land Development Areas"
+    ],
+
+    "mobility_requirement": "Very High",
+
+    "market_dependency": "High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "ROI Focused",
+      "Network Driven",
+      "Growth Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Higher Conversion",
+      "Market Advantage",
+      "Client Acquisition",
+      "Business Expansion"
+    ],
+
+    "purchase_barriers": [
+      "Market Uncertainty",
+      "Legal Complexity",
+      "Capital Risk"
+    ]
+  },
+
+  "visual_dna": [
+    "Apartment Project",
+    "Property Site Visit",
+    "Land Plot",
+    "Sales Office",
+    "Construction Crane"
+  ],
+
+  "object_dna": [
+    "Property Brochure",
+    "Site Map",
+    "Sales Agreement",
+    "Business Card",
+    "Smartphone",
+    "Property Portfolio"
+  ],
+
+  "sound_dna": [
+    "Client Negotiation",
+    "Construction Activity",
+    "Office Discussions",
+    "Property Presentation",
+    "Phone Calls"
+  ],
+
+  "smell_dna": [
+    "Fresh Construction",
+    "Office Environment",
+    "New Apartment Interior",
+    "Open Land",
+    "Building Materials"
+  ],
+
+  "micro_moment_dna": [
+    "Closing Property Deal",
+    "Showing Apartment To Client",
+    "Negotiating Price",
+    "Receiving Commission",
+    "Signing Agreement"
+  ],
+
+  "risk_dna": [
+    "Deal Failure",
+    "Legal Dispute",
+    "Market Volatility",
+    "Client Trust Loss",
+    "Documentation Error"
+  ],
+
+  "aspiration_dna": [
+    "Top Market Broker",
+    "Own Real Estate Firm",
+    "Large Investment Network",
+    "High Value Transactions",
+    "Financial Independence"
+  ],
+
+  "identity_markers": [
+    "Property Listings",
+    "Client Network",
+    "Site Visits",
+    "Deal Negotiation"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
