@@ -1,0 +1,292 @@
+{
+  "district_id": "BD-FEN-047",
+
+  "district_name": "Feni",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Border Trade Corridor",
+    "Entrepreneurial Culture",
+    "Transport Gateway",
+    "Commercial Agriculture",
+    "Migration Economy"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Feni River",
+      "Eastern Floodplain",
+      "Border Trade Zone",
+      "Dhaka-Chattogram Corridor"
+    ],
+
+    "terrain": [
+      "Agricultural Plain",
+      "River Basin",
+      "Trade Corridor Landscape"
+    ],
+
+    "connectivity_score": 99,
+    "trade_dependency_score": 96
+  },
+
+  "historical_dna": [
+    "Ancient Trade Passage",
+    "Regional Market Heritage",
+    "Border Commerce Development",
+    "Transport Hub Evolution",
+    "Commercial Expansion Era"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Trade",
+      "Agriculture",
+      "Small Business",
+      "Transport Services"
+    ],
+
+    "secondary": [
+      "Retail Commerce",
+      "Migration Income",
+      "Food Processing"
+    ],
+
+    "economic_identity": [
+      "Border Economy",
+      "SME Economy",
+      "Transport Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Trader",
+    "Business Owner",
+    "Farmer",
+    "Transport Worker",
+    "Shop Owner",
+    "Service Professional"
+  ],
+
+  "entrepreneurship_dna": [
+    "Small Business Ownership",
+    "Family Commerce Networks",
+    "Retail Expansion Culture",
+    "Investment Mindset",
+    "Self Employment Tradition"
+  ],
+
+  "transport_dna": {
+    "highway_network": [
+      "Dhaka-Chattogram Highway",
+      "Regional Trade Routes"
+    ],
+
+    "local_transport": [
+      "Rickshaw",
+      "Auto Rickshaw",
+      "Bus",
+      "Motorcycle"
+    ],
+
+    "identity": [
+      "Transit Gateway",
+      "Trade Mobility Hub"
+    ]
+  },
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Beef Curry",
+    "Local Snacks"
+  ],
+
+  "market_dna": [
+    "Wholesale Market Culture",
+    "Roadside Commerce",
+    "Agricultural Trade",
+    "Transport Economy Markets",
+    "Cross Regional Business Activity"
+  ],
+
+  "festival_dna": [
+    "Eid Commerce Rush",
+    "Market Festivals",
+    "School Cultural Events",
+    "Community Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Feni Accent",
+      "Trade Vocabulary",
+      "Border Region Expressions"
+    ]
+  },
+
+  "social_dna": [
+    "Business Oriented Families",
+    "Migration Networks",
+    "Strong Community Relations",
+    "Commercial Cooperation"
+  ],
+
+  "emotion_dna": [
+    "Business Pride",
+    "Economic Ambition",
+    "Family Advancement",
+    "Commercial Identity",
+    "Regional Confidence"
+  ],
+
+  "visual_dna": [
+    "Busy Highway Markets",
+    "Roadside Tea Stalls",
+    "Agricultural Trade Centers",
+    "Commercial Signboards",
+    "Transport Hub Activity"
+  ],
+
+  "color_palette_dna": [
+    "Highway Gray",
+    "Market Red",
+    "Field Green",
+    "Commerce Blue",
+    "Dust Brown"
+  ],
+
+  "behavior_dna": [
+    "Business Negotiation",
+    "Tea Stall Discussion",
+    "Market Bargaining",
+    "Transport Coordination",
+    "Investment Planning"
+  ],
+
+  "object_dna": [
+    "Shop Ledger",
+    "Tea Glass",
+    "Business Signboard",
+    "Rice Sack",
+    "Motorcycle",
+    "Market Calculator",
+    "Delivery Carton"
+  ],
+
+  "sound_dna": [
+    "Highway Traffic",
+    "Market Bargaining",
+    "Bus Horn",
+    "Tea Stall Discussion",
+    "Azan"
+  ],
+
+  "smell_dna": [
+    "Tea Steam",
+    "Fresh Produce",
+    "Rain Wet Soil",
+    "Market Air",
+    "Roadside Food"
+  ],
+
+  "childhood_memory_dna": [
+    "Highway Bus Journeys",
+    "Village Market Visits",
+    "School Sports Events",
+    "Tea Stall Gatherings",
+    "Family Business Exposure"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Agricultural Trading",
+      "Transport Peak Activity"
+    ],
+
+    "monsoon": [
+      "Floodplain Adaptation",
+      "Rain Covered Highways"
+    ],
+
+    "winter": [
+      "Market Expansion",
+      "Festival Commerce"
+    ]
+  },
+
+  "night_dna": [
+    "Highway Lights",
+    "Late Night Tea Stalls",
+    "Transport Movement",
+    "Commercial Activity"
+  ],
+
+  "risk_dna": [
+    "Transport Dependency",
+    "Market Competition",
+    "Trade Volatility",
+    "Youth Migration"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Business Migration",
+    "International Workforce Movement"
+  ],
+
+  "commercial_dna": [
+    "Regional Trade Network",
+    "Small Business Expansion",
+    "Transport Commerce",
+    "Agricultural Supply Chain"
+  ],
+
+  "memory_dna": [
+    "Highway Growth Era",
+    "Market Expansion",
+    "Family Business Stories",
+    "Regional Trade Success"
+  ],
+
+  "micro_dna": [
+    "Tea Stall Beside Highway",
+    "Bus Stopping At Market",
+    "Trader Calculating Accounts",
+    "Motorcycle Parked Outside Shop",
+    "Rice Sacks In Wholesale Market",
+    "Delivery Truck Loading Goods",
+    "Students Gathering At Roadside Tea Stall",
+    "Rain Covered Highway Lights",
+    "Market Crowd Before Eid",
+    "Small Business Signboards Along Main Road"
+  ],
+
+  "landmark_dna": [
+    "Feni River",
+    "Mohipal Area",
+    "Dhaka-Chattogram Highway Corridor",
+    "Regional Commercial Centers"
+  ],
+
+  "identity_markers": [
+    "Border Trade Corridor",
+    "Entrepreneurial Culture",
+    "Transport Gateway",
+    "Commercial Agriculture",
+    "Migration Economy"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
