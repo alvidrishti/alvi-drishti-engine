@@ -1,34 +1,113 @@
 {
   "reality_object": {
-    "id": "",
-    "version": "1.0",
+    "id": "AUTO_GENERATED",
+    "version": "24.0",
+
+    "metadata": {
+      "created_at": "",
+      "updated_at": "",
+      "source": "",
+      "confidence_level": 0
+    },
 
     "district_dna": {
       "district": "",
       "division": "",
-      "country": ""
+      "country": "",
+
+      "climate": "",
+      "economy": "",
+      "culture": "",
+      "infrastructure": "",
+      "technology_adoption": "",
+
+      "major_industries": [],
+      "common_professions": [],
+      "key_challenges": [],
+      "key_opportunities": []
     },
 
     "profession_dna": {
       "profession": "",
-      "sector": ""
+      "sector": "",
+      "sub_sector": "",
+
+      "income_pattern": "",
+      "income_stability": "",
+      "physical_demand": "",
+      "mental_demand": "",
+
+      "required_skills": [],
+      "required_assets": [],
+
+      "common_risks": [],
+      "common_goals": []
     },
 
     "life_stage_dna": {
       "life_stage": "",
-      "age_range": ""
+      "age": 0,
+
+      "education_level": "",
+      "family_status": "",
+
+      "primary_goals": [],
+      "primary_concerns": [],
+
+      "financial_capacity": "",
+      "health_capacity": ""
     },
 
     "decision_dna": {
       "decision_type": "",
-      "risk_tolerance": ""
+
+      "risk_tolerance": "",
+      "planning_horizon": "",
+
+      "motivation_drivers": [],
+      "fear_drivers": [],
+
+      "decision_biases": []
+    },
+
+    "environment_dna": {
+      "weather_condition": "",
+      "season": "",
+      "economic_condition": "",
+      "political_condition": "",
+      "technology_condition": ""
+    },
+
+    "social_dna": {
+      "family_influence": "",
+      "community_influence": "",
+      "peer_influence": "",
+      "social_pressure": ""
     },
 
     "reality_analysis": {
       "reality_score": 0,
       "confidence_score": 0,
       "gap_score": 0,
-      "contradiction_score": 0
+      "contradiction_score": 0,
+
+      "identified_gaps": [],
+      "identified_contradictions": [],
+
+      "risk_flags": [],
+      "opportunity_flags": []
+    },
+
+    "simulation_output": {
+      "best_case": {},
+      "expected_case": {},
+      "worst_case": {}
+    },
+
+    "decision_support": {
+      "recommended_actions": [],
+      "avoid_actions": [],
+      "priority_actions": []
     }
   }
 }
