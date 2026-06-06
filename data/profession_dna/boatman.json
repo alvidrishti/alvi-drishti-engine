@@ -1,0 +1,288 @@
+{
+  "profession_id": "PROF_BOATMAN_001",
+
+  "profession": "Boatman",
+
+  "sector": "Water Transportation",
+
+  "sub_sector": "River And Inland Water Mobility",
+
+  "core_identity": [
+    "River Navigator",
+    "Water Transport Provider",
+    "Flood Season Connector",
+    "River Civilization Carrier",
+    "Water Survival Specialist"
+  ],
+
+  "profession_archetype": [
+    "Navigator",
+    "Provider",
+    "Survivor",
+    "Guide"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "River Civilization",
+
+    "secondary_layers": [
+      "Flood Adaptation",
+      "Char Economy",
+      "Water Mobility",
+      "Traditional Transport",
+      "River Trade"
+    ]
+  },
+
+  "river_dna": {
+    "river_dependency": "Very High",
+
+    "primary_water_bodies": [
+      "Jamuna",
+      "Padma",
+      "Meghna",
+      "Brahmaputra",
+      "Teesta",
+      "Dharla",
+      "Karatoya"
+    ],
+
+    "navigation_conditions": [
+      "Monsoon Current",
+      "Dry Season Shallow Water",
+      "Fog",
+      "Storm Conditions",
+      "Night Navigation"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Daily And Seasonal",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Trip Based",
+
+    "income_sources": [
+      "Passenger Transport",
+      "Goods Transport",
+      "River Crossing Services",
+      "Fishing Support",
+      "Emergency Flood Transport"
+    ],
+
+    "peak_income_periods": [
+      "Monsoon Season",
+      "Flood Season",
+      "Market Days"
+    ],
+
+    "financial_stress_periods": [
+      "Storm Damage",
+      "Low Water Season",
+      "Engine Failure"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Weather Aware",
+      "Risk Sensitive",
+      "Experience Driven",
+      "Survival Focused"
+    ],
+
+    "trust_sources": [
+      "River Knowledge",
+      "Weather Observation",
+      "Senior Boatmen",
+      "Local Experience"
+    ],
+
+    "fear_drivers": [
+      "Boat Capsizing",
+      "Storm",
+      "Passenger Injury",
+      "River Erosion",
+      "Income Loss"
+    ],
+
+    "motivation_drivers": [
+      "Family Survival",
+      "Community Service",
+      "Daily Income",
+      "River Mastery"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Checking River Conditions",
+      "Preparing Boat",
+      "Passenger Loading",
+      "River Navigation",
+      "Boat Maintenance"
+    ],
+
+    "weekly_patterns": [
+      "Engine Inspection",
+      "Fuel Purchase",
+      "Dock Maintenance",
+      "Community Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "River Navigation",
+      "Weather Reading",
+      "Boat Handling",
+      "Passenger Safety",
+      "Emergency Response",
+      "Mechanical Repair"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Boat",
+      "Life Jackets",
+      "Navigation Experience",
+      "Fuel Supply",
+      "Repair Tools"
+    ]
+  },
+
+  "emotion_dna": [
+    "Courage",
+    "Patience",
+    "Alertness",
+    "Responsibility",
+    "Resilience"
+  ],
+
+  "memory_dna": [
+    "First Solo River Crossing",
+    "Major Flood Season",
+    "Storm Survival Experience",
+    "Emergency Rescue Mission",
+    "New Boat Purchase"
+  ],
+
+  "social_dna": {
+    "community_role": "River Connector",
+
+    "social_status": "Essential Transport Provider",
+
+    "community_connections": [
+      "Fishermen",
+      "Farmers",
+      "Market Traders",
+      "River Communities",
+      "Passengers"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "River",
+      "Char Island",
+      "Boat Ghat",
+      "Flooded Area",
+      "Riverside Market"
+    ],
+
+    "weather_exposure": "Extreme",
+
+    "seasonal_dependency": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Durability Focused",
+      "Safety Driven",
+      "Utility Based"
+    ],
+
+    "purchase_triggers": [
+      "Boat Reliability",
+      "Fuel Efficiency",
+      "Passenger Safety",
+      "Long Service Life"
+    ],
+
+    "purchase_barriers": [
+      "High Cost",
+      "Maintenance Burden",
+      "Weather Damage Risk"
+    ]
+  },
+
+  "visual_dna": [
+    "Wooden Boat",
+    "River Crossing",
+    "Char Island",
+    "Flooded Landscape",
+    "Boat Ghat"
+  ],
+
+  "object_dna": [
+    "Boat",
+    "Oar",
+    "Engine",
+    "Anchor",
+    "Life Jacket",
+    "Rope"
+  ],
+
+  "sound_dna": [
+    "River Waves",
+    "Boat Engine",
+    "Oar Splash",
+    "Passenger Voices",
+    "Wind Across Water"
+  ],
+
+  "smell_dna": [
+    "River Water",
+    "Wet Wood",
+    "Engine Fuel",
+    "Mud",
+    "Fresh Rain"
+  ],
+
+  "micro_moment_dna": [
+    "Crossing Strong Current",
+    "Docking At Riverbank",
+    "Rescuing Passenger During Flood",
+    "Navigating Through Fog",
+    "Loading Market Goods"
+  ],
+
+  "risk_dna": [
+    "Drowning Risk",
+    "Storm Damage",
+    "Boat Capsizing",
+    "River Erosion",
+    "Mechanical Failure"
+  ],
+
+  "aspiration_dna": [
+    "Larger Boat",
+    "Stable Income",
+    "Family Security",
+    "River Business Expansion",
+    "Community Respect"
+  ],
+
+  "identity_markers": [
+    "Boat",
+    "River Navigation",
+    "Flood Season Work",
+    "Water Transport"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
