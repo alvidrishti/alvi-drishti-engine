@@ -1,0 +1,310 @@
+{
+  "district_id": "BD-RAN-051",
+
+  "district_name": "Rangamati",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Kaptai Lake Civilization",
+    "Indigenous Cultural Mosaic",
+    "Hill Water Harmony",
+    "Highland Tourism Heritage",
+    "Mountain Lake Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Kaptai Lake",
+      "Chittagong Hill Tracts",
+      "Forest Hills",
+      "Mountain Valleys",
+      "Lake Islands"
+    ],
+
+    "terrain": [
+      "Mountain Landscape",
+      "Lake Network",
+      "Forest Highlands",
+      "Valley Settlements"
+    ],
+
+    "water_identity_score": 100,
+    "hill_identity_score": 97,
+    "tourism_score": 95
+  },
+
+  "historical_dna": [
+    "Hill Tracts Heritage",
+    "Kaptai Lake Transformation",
+    "Indigenous Community Legacy",
+    "Traditional Highland Governance",
+    "Mountain Trade Routes"
+  ],
+
+  "cultural_dna": [
+    "Chakma Heritage",
+    "Marma Heritage",
+    "Tripura Heritage",
+    "Tanchangya Heritage",
+    "Multi Ethnic Coexistence"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Tourism",
+      "Agriculture",
+      "Fishing",
+      "Forestry"
+    ],
+
+    "secondary": [
+      "Handicrafts",
+      "Fruit Production",
+      "Boat Services"
+    ],
+
+    "economic_identity": [
+      "Lake Economy",
+      "Tourism Economy",
+      "Hill Agriculture"
+    ]
+  },
+
+  "occupation_dna": [
+    "Boat Operator",
+    "Tourism Worker",
+    "Farmer",
+    "Fisherman",
+    "Handicraft Producer",
+    "Teacher"
+  ],
+
+  "lake_dna": [
+    "Kaptai Boat Life",
+    "Island Connectivity",
+    "Lake Fishing Culture",
+    "Water Transport Dependency",
+    "Lake Tourism Economy"
+  ],
+
+  "agriculture_dna": [
+    "Jhum Cultivation",
+    "Fruit Farming",
+    "Hill Vegetables",
+    "Mixed Highland Agriculture"
+  ],
+
+  "forest_dna": [
+    "Bamboo Resources",
+    "Forest Trails",
+    "Wild Landscape Memory",
+    "Nature Based Living"
+  ],
+
+  "food_dna": [
+    "Bamboo Shoot Dishes",
+    "Lake Fish",
+    "Traditional Indigenous Cuisine",
+    "Rice",
+    "Hill Fruits",
+    "Smoked Foods"
+  ],
+
+  "market_dna": [
+    "Hill Market Culture",
+    "Handicraft Trading",
+    "Tourism Commerce",
+    "Lake Side Markets",
+    "Fruit Trading Centers"
+  ],
+
+  "festival_dna": [
+    "Biju Festival",
+    "Boisu Festival",
+    "Traditional Water Festival",
+    "Community Cultural Events",
+    "Harvest Celebrations"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "community_languages": [
+      "Chakma",
+      "Marma",
+      "Tripura",
+      "Tanchangya"
+    ]
+  },
+
+  "religious_dna": [
+    "Buddhist Heritage",
+    "Temple Based Community Life",
+    "Mosque Communities",
+    "Traditional Cultural Spirituality"
+  ],
+
+  "social_dna": [
+    "Community Cooperation",
+    "Village Based Governance",
+    "Strong Cultural Preservation",
+    "Inter Ethnic Relationships"
+  ],
+
+  "emotion_dna": [
+    "Lake Pride",
+    "Hill Identity",
+    "Cultural Preservation",
+    "Landscape Attachment",
+    "Community Belonging"
+  ],
+
+  "visual_dna": [
+    "Blue Kaptai Water",
+    "Green Layered Hills",
+    "Lake Islands",
+    "Hanging Bridge Reflection",
+    "Traditional Indigenous Dress"
+  ],
+
+  "color_palette_dna": [
+    "Lake Blue",
+    "Forest Green",
+    "Mountain Gray",
+    "Bamboo Yellow",
+    "Traditional Textile Red"
+  ],
+
+  "behavior_dna": [
+    "Boat Travel",
+    "Community Festivals",
+    "Tourism Interaction",
+    "Handicraft Production",
+    "Hill Market Gathering"
+  ],
+
+  "object_dna": [
+    "Wooden Boat",
+    "Bamboo Basket",
+    "Traditional Textile",
+    "Fishing Net",
+    "Fruit Basket",
+    "Handmade Crafts"
+  ],
+
+  "sound_dna": [
+    "Boat Engine Across Lake",
+    "Forest Birds",
+    "Mountain Wind",
+    "Festival Drums",
+    "Water Against Wooden Boats"
+  ],
+
+  "smell_dna": [
+    "Fresh Lake Water",
+    "Forest Soil",
+    "Wet Bamboo",
+    "Mountain Rain",
+    "Wood Smoke"
+  ],
+
+  "childhood_memory_dna": [
+    "Boat Trips Across Kaptai Lake",
+    "Festival Celebrations",
+    "Swimming In Lake Water",
+    "Hill Trail Adventures",
+    "Fruit Harvest Seasons"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Tourism Activity",
+      "Fruit Harvest"
+    ],
+
+    "monsoon": [
+      "Lake Expansion",
+      "Cloud Covered Hills",
+      "Peak Green Landscape"
+    ],
+
+    "winter": [
+      "Clear Lake Views",
+      "Tourist Season",
+      "Outdoor Festivals"
+    ]
+  },
+
+  "night_dna": [
+    "Lake Reflection Lights",
+    "Quiet Mountain Settlements",
+    "Festival Bonfires",
+    "Boat Lights Across Water"
+  ],
+
+  "risk_dna": [
+    "Landslide Risk",
+    "Climate Vulnerability",
+    "Tourism Dependency",
+    "Remote Connectivity Challenges"
+  ],
+
+  "migration_dna": [
+    "Education Migration",
+    "Tourism Employment Movement",
+    "Urban Workforce Mobility"
+  ],
+
+  "commercial_dna": [
+    "Tourism Branding",
+    "Handicraft Economy",
+    "Lake Tourism Services",
+    "Fruit Supply Chains"
+  ],
+
+  "memory_dna": [
+    "Kaptai Lake Journey",
+    "Biju Celebrations",
+    "Hill Market Days",
+    "Traditional Community Festivals",
+    "Lake Sunset Memories"
+  ],
+
+  "micro_dna": [
+    "Boat Crossing Blue Lake Water",
+    "Hanging Bridge Reflection At Sunset",
+    "Children Jumping From Wooden Jetty",
+    "Traditional Textile Hanging Outside House",
+    "Clouds Touching Hilltops",
+    "Bamboo Basket In Local Market",
+    "Festival Drums Echoing Across Valley",
+    "Fishing Boat Returning At Dawn",
+    "Fruit Stalls Beside Lake Road",
+    "Morning Mist Above Kaptai Water"
+  ],
+
+  "landmark_dna": [
+    "Kaptai Lake",
+    "Rangamati Hanging Bridge",
+    "Rajban Vihara",
+    "Shuvolong Waterfall",
+    "Hill Tracts Landscape"
+  ],
+
+  "identity_markers": [
+    "Kaptai Lake Civilization",
+    "Indigenous Cultural Mosaic",
+    "Hill Water Harmony",
+    "Tourism Heritage",
+    "Mountain Lake Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
