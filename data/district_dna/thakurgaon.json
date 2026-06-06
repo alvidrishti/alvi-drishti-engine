@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-THA-007",
+
+  "district_name": "Thakurgaon",
+
+  "division": "Rangpur",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Northern Border Plain",
+    "Agricultural Landscape",
+    "Open Horizon Farmland",
+    "Fertile Cultivation Zone",
+    "Northwestern Bangladesh"
+  ],
+
+  "climate_dna": [
+    "Very Cold Winter",
+    "Dense Winter Fog",
+    "Dry Winter Season",
+    "Humid Monsoon",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Golden Wheat Field Sunrise",
+    "Fog Covered Winter Morning",
+    "Wide Horizon Sunset",
+    "Monsoon Cloud Filtered Light",
+    "Harvest Season Afternoon Glow"
+  ],
+
+  "architecture_dna": [
+    "Rural Brick Homes",
+    "Tin Roof Houses",
+    "Agricultural Storage Buildings",
+    "Village Market Structures",
+    "Border Area Settlements"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus",
+    "Crop Transport Vehicles"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Agricultural Laborer",
+    "Small Trader",
+    "Teacher",
+    "Driver",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Wheat",
+    "Mango",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Wheat Harvest Activity",
+    "Morning Field Inspection",
+    "Tea Stall Gathering",
+    "Market Bargaining",
+    "Winter Fire Gathering",
+    "Crop Trading Activity"
+  ],
+
+  "object_dna": [
+    "Wheat Sack",
+    "Tea Glass",
+    "Crop Storage Drum",
+    "Bamboo Basket",
+    "Harvest Tool",
+    "Village Bench",
+    "Agricultural Sprayer"
+  ],
+
+  "memory_dna": [
+    "Winter Fog Morning",
+    "Wheat Harvest Season",
+    "Mango Orchard Childhood",
+    "Village Tea Stall",
+    "Border Area Rural Life"
+  ],
+
+  "sound_dna": [
+    "Morning Azan",
+    "Rickshaw Bell",
+    "Field Worker Conversation",
+    "Village Loudspeaker",
+    "Market Activity Noise"
+  ],
+
+  "smell_dna": [
+    "Fresh Wheat",
+    "Harvested Crops",
+    "Tea Steam",
+    "Morning Fog Moisture",
+    "Fresh Soil"
+  ],
+
+  "landmark_dna": [
+    "Thakurgaon Sugar Mill Area",
+    "Tangon River Region",
+    "Historic Zamindar Heritage Sites",
+    "Northern Agricultural Belt"
+  ],
+
+  "micro_dna": [
+    "Golden Wheat Horizon",
+    "Fog Covered Crop Road",
+    "Mango Orchard Path",
+    "Border Area Farmland",
+    "Crop Loaded Tractor",
+    "Winter Tea Gathering",
+    "Field Side Bamboo Shelter",
+    "Harvest Season Grain Yard",
+    "Open Sky Agricultural Landscape",
+    "Northern Winter Shawl Culture"
+  ],
+
+  "identity_markers": [
+    "Wheat Culture",
+    "Mango Heritage",
+    "Open Horizon Agriculture",
+    "Northern Winter Identity",
+    "Border Farming Lifestyle"
+  ],
+
+  "district_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
