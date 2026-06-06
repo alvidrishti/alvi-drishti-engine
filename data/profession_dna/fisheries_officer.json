@@ -1,0 +1,274 @@
+{
+  "profession_id": "PROF_FISHERIES_OFFICER_001",
+
+  "profession": "Fisheries Officer",
+
+  "sector": "Fisheries And Aquatic Resources",
+
+  "sub_sector": "Fisheries Management And Development",
+
+  "core_identity": [
+    "Aquatic Resource Guardian",
+    "Fish Production Facilitator",
+    "Blue Economy Contributor",
+    "Food Security Protector",
+    "Fisher Community Advisor"
+  ],
+
+  "profession_archetype": [
+    "Scientist",
+    "Resource Manager",
+    "Advisor",
+    "Conservationist"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Aquatic Civilization",
+
+    "secondary_layers": [
+      "Food Security",
+      "Blue Economy",
+      "River Economy",
+      "Coastal Development",
+      "Protein Supply System"
+    ]
+  },
+
+  "aquatic_ecosystem_dna": {
+    "water_systems": [
+      "Rivers",
+      "Beels",
+      "Haors",
+      "Ponds",
+      "Coastal Waters",
+      "Marine Fisheries"
+    ],
+
+    "species_focus": [
+      "Hilsa",
+      "Rohu",
+      "Catla",
+      "Mrigel",
+      "Tilapia",
+      "Shrimp"
+    ],
+
+    "ecosystem_functions": [
+      "Fish Breeding",
+      "Stock Conservation",
+      "Habitat Protection",
+      "Sustainable Harvesting"
+    ]
+  },
+
+  "food_security_dna": {
+    "national_roles": [
+      "Protein Supply",
+      "Nutrition Support",
+      "Rural Livelihood",
+      "Export Earnings"
+    ],
+
+    "critical_dependencies": [
+      "Water Quality",
+      "Fish Breeding",
+      "Climate Stability",
+      "Disease Control"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Government Salary Based",
+
+    "income_sources": [
+      "Government Employment",
+      "Aquaculture Projects",
+      "Research Programs",
+      "Training Activities"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Science Based",
+      "Resource Focused",
+      "Sustainability Driven",
+      "Community Oriented"
+    ],
+
+    "trust_sources": [
+      "Fishery Research",
+      "Field Data",
+      "Water Analysis",
+      "Government Policy"
+    ],
+
+    "fear_drivers": [
+      "Fish Stock Collapse",
+      "Water Pollution",
+      "Disease Outbreak",
+      "Illegal Fishing"
+    ],
+
+    "motivation_drivers": [
+      "Food Security",
+      "Resource Conservation",
+      "Fisher Welfare",
+      "Economic Growth"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Pond Inspection",
+      "Fish Farm Monitoring",
+      "Farmer Consultation",
+      "Water Quality Testing",
+      "Field Reporting"
+    ],
+
+    "weekly_patterns": [
+      "Training Programs",
+      "Disease Investigation",
+      "Production Review",
+      "Resource Assessment"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Aquaculture",
+      "Fish Biology",
+      "Water Quality Analysis",
+      "Disease Management",
+      "Farmer Training",
+      "Resource Assessment"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Water Testing Kit",
+      "Fish Sampling Tools",
+      "Research Data",
+      "Field Transport",
+      "Training Materials"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Scientific Curiosity",
+    "Patience",
+    "Environmental Awareness",
+    "Community Commitment"
+  ],
+
+  "memory_dna": [
+    "First Fish Farm Inspection",
+    "Hilsa Conservation Campaign",
+    "Disease Outbreak Response",
+    "Aquaculture Success Project",
+    "Fisher Community Training"
+  ],
+
+  "social_dna": {
+    "community_role": "Aquatic Resource Advisor",
+
+    "social_status": "Natural Resource Professional",
+
+    "community_connections": [
+      "Fishermen",
+      "Fish Farmers",
+      "Researchers",
+      "Government Agencies",
+      "Exporters"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Fish Farm",
+      "River",
+      "Haor",
+      "Coastal Area",
+      "Research Facility"
+    ],
+
+    "climate_dependency": "Very High",
+
+    "ecological_sensitivity": "Very High"
+  },
+
+  "visual_dna": [
+    "Fish Farm",
+    "River Fishing",
+    "Water Sampling",
+    "Fish Hatchery",
+    "Hilsa Migration Route"
+  ],
+
+  "object_dna": [
+    "Water Testing Kit",
+    "Fish Net",
+    "Sampling Container",
+    "Field Notebook",
+    "Fish Feed",
+    "Research Equipment"
+  ],
+
+  "sound_dna": [
+    "River Water",
+    "Fishing Boats",
+    "Fish Farm Aerators",
+    "Community Meetings",
+    "Water Movement"
+  ],
+
+  "smell_dna": [
+    "Fresh Water",
+    "Fish Pond",
+    "Wet Soil",
+    "River Air",
+    "Aquaculture Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Testing Water Quality",
+    "Releasing Fish Fry",
+    "Training Fish Farmer",
+    "Inspecting Hatchery",
+    "Monitoring Fish Health"
+  ],
+
+  "risk_dna": [
+    "Fish Disease Outbreak",
+    "Water Pollution",
+    "Climate Change Impact",
+    "Overfishing",
+    "Habitat Loss"
+  ],
+
+  "aspiration_dna": [
+    "Sustainable Fisheries",
+    "Blue Economy Growth",
+    "National Food Security",
+    "Fish Export Expansion",
+    "Healthy Aquatic Ecosystems"
+  ],
+
+  "identity_markers": [
+    "Fish Farm Monitoring",
+    "Water Resource Management",
+    "Aquaculture Development",
+    "Fisher Community Support"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
