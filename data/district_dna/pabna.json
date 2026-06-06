@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-PAB-014",
+
+  "district_name": "Pabna",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Padma Basin",
+    "Jamuna Influence Zone",
+    "Riverine Agricultural Plain",
+    "Industrial Growth Corridor",
+    "Central Western Bangladesh"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Humid Monsoon",
+    "Cold Winter",
+    "Seasonal Fog",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Padma Riverside Sunset",
+    "Winter Fog Morning",
+    "Rooppur Industrial Night Glow",
+    "Golden Crop Field Afternoon",
+    "Monsoon Cloud Diffusion"
+  ],
+
+  "architecture_dna": [
+    "Rooppur Nuclear Infrastructure",
+    "Hardinge Bridge Engineering Heritage",
+    "Traditional Courtyard Homes",
+    "Dairy Farm Structures",
+    "Urban Commercial Buildings"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Cargo Truck",
+    "Intercity Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Dairy Farmer",
+    "Industrial Worker",
+    "Trader",
+    "Teacher",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Milk",
+    "Yogurt",
+    "Rice",
+    "Milk Tea",
+    "Freshwater Fish",
+    "Traditional Sweets"
+  ],
+
+  "behavior_dna": [
+    "Milk Collection Activity",
+    "Dairy Trading",
+    "Agricultural Market Negotiation",
+    "Tea Stall Discussion",
+    "Industrial Shift Routine",
+    "River Market Trading"
+  ],
+
+  "object_dna": [
+    "Milk Can",
+    "Tea Glass",
+    "Rice Sack",
+    "Market Weighing Scale",
+    "Bamboo Basket",
+    "Dairy Collection Container",
+    "Transport Cargo Rope"
+  ],
+
+  "memory_dna": [
+    "Milk Collection Morning",
+    "Hardinge Bridge Journey",
+    "Winter Fog Morning",
+    "River Market Experience",
+    "Rooppur Development Era"
+  ],
+
+  "sound_dna": [
+    "Morning Azan",
+    "Milk Collection Vehicle",
+    "Market Crowd Noise",
+    "Train Crossing Bridge",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Fresh Milk",
+    "Tea Steam",
+    "River Moisture",
+    "Fresh Soil",
+    "Harvested Crops"
+  ],
+
+  "landmark_dna": [
+    "Rooppur Nuclear Power Plant",
+    "Hardinge Bridge",
+    "Padma River Belt",
+    "Ishwardi Railway Junction"
+  ],
+
+  "micro_dna": [
+    "Milk Can Loaded Van",
+    "Hardinge Bridge Steel Pattern",
+    "Rooppur Construction Skyline",
+    "Dairy Collection Point",
+    "Morning Milk Market",
+    "Fog Covered Railway Line",
+    "Industrial Worker Transport Bus",
+    "Tea Stall Near Railway Crossing",
+    "Milk Processing Facility",
+    "Padma Riverside Trading Spot"
+  ],
+
+  "identity_markers": [
+    "Nuclear Energy Hub",
+    "Dairy Economy",
+    "Hardinge Bridge Heritage",
+    "Industrial Agriculture",
+    "Padma Corridor Identity"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
