@@ -1,0 +1,283 @@
+{
+  "profession_id": "PROF_STREET_VENDOR_001",
+
+  "profession": "Street Vendor",
+
+  "sector": "Informal Commerce",
+
+  "sub_sector": "Mobile Retail And Street Trade",
+
+  "core_identity": [
+    "Mobile Merchant",
+    "Street Economy Participant",
+    "Neighborhood Retail Provider",
+    "Opportunity Driven Seller",
+    "Urban Survival Entrepreneur"
+  ],
+
+  "profession_archetype": [
+    "Trader",
+    "Survivor",
+    "Salesperson",
+    "Micro Entrepreneur"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Informal Commerce Civilization",
+
+    "secondary_layers": [
+      "Urban Survival",
+      "Cash Economy",
+      "Micro Retail",
+      "Street Culture",
+      "Daily Consumption"
+    ]
+  },
+
+  "vendor_dna": {
+    "vendor_types": [
+      "Fruit Seller",
+      "Vegetable Seller",
+      "Snack Vendor",
+      "Clothing Hawker",
+      "Seasonal Product Seller",
+      "Mobile Accessories Seller"
+    ],
+
+    "mobility_pattern": [
+      "Walking Vendor",
+      "Push Cart Vendor",
+      "Bicycle Vendor",
+      "Roadside Stall Vendor"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Daily",
+
+    "income_stability": "Low-Medium",
+
+    "cashflow_type": "Cash Sale Based",
+
+    "income_sources": [
+      "Product Sales",
+      "Seasonal Goods",
+      "Festival Demand",
+      "Impulse Purchases"
+    ],
+
+    "peak_income_periods": [
+      "Festival Season",
+      "School Opening Season",
+      "Evening Market Hours",
+      "Weekend Crowds"
+    ],
+
+    "financial_stress_periods": [
+      "Bad Weather",
+      "Low Foot Traffic",
+      "Inventory Loss"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Opportunity Driven",
+      "Customer Responsive",
+      "Cashflow Focused",
+      "Location Sensitive"
+    ],
+
+    "trust_sources": [
+      "Customer Demand",
+      "Market Observation",
+      "Supplier Relationships",
+      "Street Experience"
+    ],
+
+    "fear_drivers": [
+      "Unsold Inventory",
+      "Weather Damage",
+      "Low Sales",
+      "Economic Slowdown"
+    ],
+
+    "motivation_drivers": [
+      "Daily Earnings",
+      "Family Support",
+      "Business Growth",
+      "Financial Independence"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Morning Inventory Purchase",
+      "Travel To Selling Location",
+      "Customer Engagement",
+      "Price Negotiation",
+      "Evening Cash Counting"
+    ],
+
+    "weekly_patterns": [
+      "Supplier Visits",
+      "Stock Replenishment",
+      "Market Analysis",
+      "Equipment Maintenance"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Salesmanship",
+      "Price Negotiation",
+      "Customer Interaction",
+      "Inventory Handling",
+      "Cash Management",
+      "Market Awareness"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Inventory",
+      "Push Cart Or Display Setup",
+      "Cash Float",
+      "Supplier Network",
+      "Storage Space"
+    ]
+  },
+
+  "emotion_dna": [
+    "Persistence",
+    "Optimism",
+    "Adaptability",
+    "Resilience",
+    "Independence"
+  ],
+
+  "memory_dna": [
+    "First Day Selling",
+    "First Profitable Week",
+    "Festival Sales Boom",
+    "Inventory Loss Experience",
+    "Business Expansion Milestone"
+  ],
+
+  "social_dna": {
+    "community_role": "Accessible Retail Provider",
+
+    "social_status": "Working Entrepreneur",
+
+    "community_connections": [
+      "Customers",
+      "Suppliers",
+      "Other Vendors",
+      "Local Residents",
+      "Market Traders"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Footpath",
+      "Bus Stand",
+      "Railway Station",
+      "School Gate",
+      "Market Area"
+    ],
+
+    "weather_dependency": "High",
+
+    "mobility_level": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Low Cost Focused",
+      "Fast Turnover Driven",
+      "Demand Sensitive"
+    ],
+
+    "purchase_triggers": [
+      "High Margin",
+      "Fast Selling Product",
+      "Seasonal Demand",
+      "Customer Trends"
+    ],
+
+    "purchase_barriers": [
+      "Inventory Risk",
+      "Capital Shortage",
+      "Storage Problems"
+    ]
+  },
+
+  "visual_dna": [
+    "Push Cart",
+    "Footpath Stall",
+    "Crowded Market",
+    "Hanging Products",
+    "Street Customers"
+  ],
+
+  "object_dna": [
+    "Push Cart",
+    "Product Basket",
+    "Plastic Sheet",
+    "Cash Box",
+    "Portable Stool",
+    "Inventory Bags"
+  ],
+
+  "sound_dna": [
+    "Vendor Calls",
+    "Customer Bargaining",
+    "Traffic Noise",
+    "Street Activity",
+    "Market Announcements"
+  ],
+
+  "smell_dna": [
+    "Fresh Fruits",
+    "Street Food",
+    "Road Dust",
+    "Plastic Packaging",
+    "Open Air Market"
+  ],
+
+  "micro_moment_dna": [
+    "Making First Sale Of Day",
+    "Negotiating Price",
+    "Avoiding Rain Damage",
+    "Restocking Inventory",
+    "Counting Daily Profit"
+  ],
+
+  "risk_dna": [
+    "Weather Exposure",
+    "Inventory Loss",
+    "Low Sales Volume",
+    "Health Issues",
+    "Capital Shortage"
+  ],
+
+  "aspiration_dna": [
+    "Permanent Shop Ownership",
+    "Higher Daily Income",
+    "Business Expansion",
+    "Family Security",
+    "Financial Stability"
+  ],
+
+  "identity_markers": [
+    "Push Cart",
+    "Street Selling",
+    "Cash Transactions",
+    "Mobile Retail"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
