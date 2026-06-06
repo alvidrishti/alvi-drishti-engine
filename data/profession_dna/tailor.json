@@ -1,0 +1,238 @@
+{
+  "profession_id": "PROF_TAILOR_001",
+
+  "profession": "Tailor",
+
+  "sector": "Apparel And Fashion",
+
+  "sub_sector": "Custom Garment Production",
+
+  "core_identity": [
+    "Clothing Craftsman",
+    "Personal Fit Specialist",
+    "Fashion Service Provider",
+    "Festival Economy Contributor",
+    "Identity Through Clothing Creator"
+  ],
+
+  "profession_archetype": [
+    "Craftsman",
+    "Designer",
+    "Creator",
+    "Service Provider"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Order Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Piece And Project Based",
+
+    "income_sources": [
+      "Custom Tailoring",
+      "Clothing Alteration",
+      "School Uniform Orders",
+      "Festival Clothing Orders",
+      "Boutique Production"
+    ],
+
+    "peak_income_periods": [
+      "Eid Season",
+      "Wedding Season",
+      "School Admission Season"
+    ],
+
+    "financial_stress_periods": [
+      "Off Season",
+      "Low Order Period"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Customer Focused",
+      "Precision Driven",
+      "Craftsmanship Oriented",
+      "Deadline Sensitive"
+    ],
+
+    "trust_sources": [
+      "Customer Feedback",
+      "Experience",
+      "Fashion Trends",
+      "Community Reputation"
+    ],
+
+    "fear_drivers": [
+      "Late Delivery",
+      "Measurement Error",
+      "Customer Dissatisfaction",
+      "Loss Of Reputation"
+    ],
+
+    "motivation_drivers": [
+      "Customer Satisfaction",
+      "Business Growth",
+      "Creative Expression",
+      "Craftsmanship Excellence"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Taking Measurements",
+      "Cutting Fabric",
+      "Sewing Garments",
+      "Customer Fittings",
+      "Order Tracking"
+    ],
+
+    "weekly_patterns": [
+      "Fabric Procurement",
+      "Machine Maintenance",
+      "Fashion Trend Observation",
+      "Order Planning"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Pattern Making",
+      "Measurement Taking",
+      "Sewing",
+      "Fabric Knowledge",
+      "Garment Fitting",
+      "Customer Communication"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Sewing Machine",
+      "Measuring Tape",
+      "Fabric Cutting Tools",
+      "Iron",
+      "Work Table"
+    ]
+  },
+
+  "emotion_dna": [
+    "Patience",
+    "Precision",
+    "Creativity",
+    "Responsibility",
+    "Craft Pride"
+  ],
+
+  "memory_dna": [
+    "First Completed Garment",
+    "First Eid Rush",
+    "Opening Tailor Shop",
+    "Satisfied Customer Experience",
+    "Learning From Master Tailor"
+  ],
+
+  "social_dna": {
+    "community_role": "Clothing Service Provider",
+
+    "social_status": "Skilled Artisan",
+
+    "community_connections": [
+      "Customers",
+      "Fabric Sellers",
+      "Boutiques",
+      "Fashion Workers",
+      "Local Community"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Quality Focused",
+      "Fabric Conscious",
+      "Tool Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Better Fabric Quality",
+      "Faster Production",
+      "Fashion Demand",
+      "Customer Requests"
+    ],
+
+    "purchase_barriers": [
+      "High Material Cost",
+      "Low Order Volume",
+      "Equipment Failure"
+    ]
+  },
+
+  "visual_dna": [
+    "Tailor Shop",
+    "Sewing Machine",
+    "Fabric Rolls",
+    "Measurement Session",
+    "Finished Garments"
+  ],
+
+  "object_dna": [
+    "Sewing Machine",
+    "Measuring Tape",
+    "Scissors",
+    "Needles",
+    "Fabric",
+    "Tailor Chalk"
+  ],
+
+  "sound_dna": [
+    "Sewing Machine Noise",
+    "Scissors Cutting Fabric",
+    "Customer Discussions",
+    "Iron Steam",
+    "Workshop Activity"
+  ],
+
+  "smell_dna": [
+    "Fresh Fabric",
+    "Ironed Clothes",
+    "Workshop Air",
+    "New Garments",
+    "Textile Materials"
+  ],
+
+  "micro_moment_dna": [
+    "Taking Customer Measurements",
+    "Cutting Fabric Pattern",
+    "Completing Final Stitch",
+    "Customer Trial Fitting",
+    "Delivering Finished Garment"
+  ],
+
+  "risk_dna": [
+    "Measurement Mistake",
+    "Fabric Damage",
+    "Order Delay",
+    "Machine Breakdown",
+    "Seasonal Demand Fluctuation"
+  ],
+
+  "aspiration_dna": [
+    "Own Fashion Brand",
+    "Larger Workshop",
+    "Higher Income",
+    "Master Craftsmanship",
+    "Community Reputation"
+  ],
+
+  "identity_markers": [
+    "Sewing Machine",
+    "Measuring Tape",
+    "Custom Clothing",
+    "Craftsmanship"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
