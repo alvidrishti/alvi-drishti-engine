@@ -1,0 +1,243 @@
+{
+  "profession_id": "PROF_LAWYER_001",
+
+  "profession": "Lawyer",
+
+  "sector": "Legal Services",
+
+  "sub_sector": "Advocacy And Legal Representation",
+
+  "core_identity": [
+    "Justice Advocate",
+    "Rights Protector",
+    "Legal Strategist",
+    "Dispute Resolver",
+    "Courtroom Representative"
+  ],
+
+  "profession_archetype": [
+    "Advocate",
+    "Strategist",
+    "Defender",
+    "Negotiator"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Case And Retainer Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Client Fee Based",
+
+    "income_sources": [
+      "Court Cases",
+      "Legal Consultation",
+      "Corporate Retainers",
+      "Document Drafting",
+      "Arbitration Services"
+    ],
+
+    "peak_income_periods": [
+      "High Case Volume Period",
+      "Corporate Contract Season"
+    ],
+
+    "financial_stress_periods": [
+      "Low Client Flow",
+      "Early Career Stage"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Evidence Based",
+      "Strategic",
+      "Analytical",
+      "Precedent Driven"
+    ],
+
+    "trust_sources": [
+      "Law",
+      "Case Precedents",
+      "Legal Research",
+      "Court Judgments"
+    ],
+
+    "fear_drivers": [
+      "Case Loss",
+      "Professional Misconduct",
+      "Client Dissatisfaction",
+      "Reputation Damage"
+    ],
+
+    "motivation_drivers": [
+      "Justice",
+      "Client Success",
+      "Professional Reputation",
+      "Legal Excellence"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Case Review",
+      "Client Consultation",
+      "Court Appearance",
+      "Legal Research",
+      "Document Preparation"
+    ],
+
+    "weekly_patterns": [
+      "Case Strategy Planning",
+      "Client Meetings",
+      "Court Scheduling",
+      "Legal Networking"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Legal Research",
+      "Advocacy",
+      "Negotiation",
+      "Critical Thinking",
+      "Public Speaking",
+      "Document Drafting"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Law Degree",
+      "Bar Enrollment",
+      "Legal Library Access",
+      "Court Network",
+      "Case Management System"
+    ]
+  },
+
+  "emotion_dna": [
+    "Determination",
+    "Responsibility",
+    "Confidence",
+    "Persistence",
+    "Professional Pride"
+  ],
+
+  "memory_dna": [
+    "First Court Appearance",
+    "First Case Victory",
+    "First Client Representation",
+    "Landmark Legal Argument",
+    "Bar Enrollment Day"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Legal Representative",
+
+    "social_status": "Justice System Professional",
+
+    "community_connections": [
+      "Clients",
+      "Judges",
+      "Lawyers",
+      "Court Staff",
+      "Legal Community"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Professional Utility Focused",
+      "Knowledge Driven",
+      "Reputation Conscious"
+    ],
+
+    "purchase_triggers": [
+      "Professional Advantage",
+      "Efficiency",
+      "Credibility",
+      "Long Term Value"
+    ],
+
+    "purchase_barriers": [
+      "Low Reliability",
+      "Poor Professional Value",
+      "Questionable Quality"
+    ]
+  },
+
+  "visual_dna": [
+    "Courtroom",
+    "Legal Files",
+    "Law Books",
+    "Judge Bench",
+    "Client Consultation Desk"
+  ],
+
+  "object_dna": [
+    "Case File",
+    "Law Book",
+    "Legal Pad",
+    "Court ID",
+    "Laptop",
+    "Client Documents"
+  ],
+
+  "sound_dna": [
+    "Court Proceedings",
+    "Legal Arguments",
+    "Client Discussions",
+    "Keyboard Typing",
+    "Courtroom Announcements"
+  ],
+
+  "smell_dna": [
+    "Old Law Books",
+    "Paper Documents",
+    "Court Building Interior",
+    "Office Environment",
+    "Fresh Printouts"
+  ],
+
+  "micro_moment_dna": [
+    "Presenting Argument In Court",
+    "Cross Examining Witness",
+    "Reviewing Evidence",
+    "Meeting Client",
+    "Drafting Legal Notice"
+  ],
+
+  "risk_dna": [
+    "Case Defeat",
+    "Professional Complaint",
+    "Reputation Loss",
+    "Client Conflict",
+    "Legal Liability"
+  ],
+
+  "aspiration_dna": [
+    "Landmark Case Victory",
+    "Senior Advocate Status",
+    "Legal Influence",
+    "Professional Excellence",
+    "Public Recognition"
+  ],
+
+  "identity_markers": [
+    "Court Appearance",
+    "Legal Files",
+    "Law Books",
+    "Client Representation"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
