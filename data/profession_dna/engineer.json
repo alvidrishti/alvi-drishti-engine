@@ -1,0 +1,242 @@
+{
+  "profession_id": "PROF_ENGINEER_001",
+
+  "profession": "Engineer",
+
+  "sector": "Engineering",
+
+  "sub_sector": "Infrastructure And Technology",
+
+  "core_identity": [
+    "Problem Solver",
+    "System Builder",
+    "Infrastructure Creator",
+    "Technology Implementer",
+    "Future Development Contributor"
+  ],
+
+  "profession_archetype": [
+    "Builder",
+    "Designer",
+    "Optimizer",
+    "Innovator"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Corporate Employment",
+      "Project Consulting",
+      "Contract Work",
+      "Technical Services"
+    ],
+
+    "peak_income_periods": [
+      "Major Project Completion",
+      "Promotion Cycle"
+    ],
+
+    "financial_stress_periods": [
+      "Career Entry Stage"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Logic Driven",
+      "Data Oriented",
+      "Risk Calculated",
+      "Efficiency Focused"
+    ],
+
+    "trust_sources": [
+      "Technical Standards",
+      "Engineering Data",
+      "Project Experience",
+      "Professional Networks"
+    ],
+
+    "fear_drivers": [
+      "System Failure",
+      "Project Delay",
+      "Design Error",
+      "Safety Risk"
+    ],
+
+    "motivation_drivers": [
+      "Innovation",
+      "Problem Solving",
+      "Career Growth",
+      "Technical Excellence"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Project Review",
+      "Technical Analysis",
+      "Team Meetings",
+      "Design Work",
+      "Problem Resolution"
+    ],
+
+    "weekly_patterns": [
+      "Site Inspection",
+      "Progress Evaluation",
+      "Technical Documentation",
+      "Client Communication"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Technical Analysis",
+      "Design Thinking",
+      "Project Management",
+      "Mathematics",
+      "System Optimization",
+      "Problem Solving"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Engineering Degree",
+      "Laptop",
+      "Technical Software",
+      "Project Documents",
+      "Professional Certification"
+    ]
+  },
+
+  "emotion_dna": [
+    "Achievement",
+    "Responsibility",
+    "Curiosity",
+    "Precision",
+    "Innovation Drive"
+  ],
+
+  "memory_dna": [
+    "First Engineering Project",
+    "Graduation Day",
+    "Site Visit Experience",
+    "Successful Project Delivery",
+    "Technical Breakthrough"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Infrastructure Builder",
+
+    "social_status": "Technical Professional",
+
+    "community_connections": [
+      "Engineers",
+      "Architects",
+      "Project Managers",
+      "Clients",
+      "Technical Teams"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Performance Focused",
+      "Technology Driven",
+      "Quality Conscious"
+    ],
+
+    "purchase_triggers": [
+      "Efficiency Gain",
+      "Technical Advantage",
+      "Reliability",
+      "Long Term Value"
+    ],
+
+    "purchase_barriers": [
+      "Poor Quality",
+      "Technical Limitations",
+      "Low Reliability"
+    ]
+  },
+
+  "visual_dna": [
+    "Construction Site",
+    "Blueprint",
+    "Laptop",
+    "Safety Helmet",
+    "Bridge",
+    "Factory Infrastructure"
+  ],
+
+  "object_dna": [
+    "Laptop",
+    "Blueprint",
+    "Calculator",
+    "Safety Helmet",
+    "Engineering Drawing",
+    "ID Card"
+  ],
+
+  "sound_dna": [
+    "Construction Activity",
+    "Machine Operation",
+    "Team Discussions",
+    "Office Environment",
+    "Project Meetings"
+  ],
+
+  "smell_dna": [
+    "Concrete",
+    "Steel",
+    "Construction Site",
+    "Office Environment",
+    "Fresh Print Documents"
+  ],
+
+  "micro_moment_dna": [
+    "Reviewing Blueprint",
+    "Inspecting Construction Quality",
+    "Solving Technical Issue",
+    "Presenting Project Update",
+    "Testing System Performance"
+  ],
+
+  "risk_dna": [
+    "Project Failure",
+    "Safety Incident",
+    "Technical Error",
+    "Budget Overrun",
+    "Deadline Pressure"
+  ],
+
+  "aspiration_dna": [
+    "Technical Mastery",
+    "Major Project Leadership",
+    "Innovation",
+    "Financial Growth",
+    "Industry Recognition"
+  ],
+
+  "identity_markers": [
+    "Blueprint",
+    "Safety Helmet",
+    "Technical Analysis",
+    "Project Delivery"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
