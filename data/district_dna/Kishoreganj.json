@@ -1,0 +1,303 @@
+{
+  "district_id": "BD-KIS-056",
+
+  "district_name": "Kishoreganj",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Haor Civilization",
+    "Wetland Society",
+    "Boat Mobility Culture",
+    "Monsoon Water World",
+    "Eastern Bengal Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Haor Basin",
+      "Mithamoin Region",
+      "Nikli Wetlands",
+      "Brahmaputra Influence",
+      "Seasonal Inland Water System"
+    ],
+
+    "terrain": [
+      "Haor Landscape",
+      "Wetland Plains",
+      "Seasonal Water World",
+      "Flood Basin Settlements"
+    ],
+
+    "water_dependency_score": 100,
+    "haor_identity_score": 100,
+    "boat_mobility_score": 98
+  },
+
+  "historical_dna": [
+    "Haor Settlement Heritage",
+    "River-Wetland Trade Networks",
+    "Boat Civilization Legacy",
+    "Eastern Bengal Cultural Evolution",
+    "Agricultural Wetland Adaptation"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Rice Cultivation",
+      "Fishing",
+      "Agriculture",
+      "Wetland Commerce"
+    ],
+
+    "secondary": [
+      "Livestock",
+      "Small Business",
+      "Seasonal Trade"
+    ],
+
+    "economic_identity": [
+      "Haor Economy",
+      "Fishing Economy",
+      "Monsoon Agriculture"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Boat Operator",
+    "Trader",
+    "Teacher",
+    "Day Laborer"
+  ],
+
+  "haor_dna": [
+    "Seasonal Inland Sea Experience",
+    "Boat Based Connectivity",
+    "Water Adapted Lifestyle",
+    "Floodplain Living",
+    "Wetland Resource Dependency"
+  ],
+
+  "transport_dna": {
+    "water_transport": [
+      "Wooden Boat",
+      "Engine Boat",
+      "Fishing Boat"
+    ],
+
+    "land_transport": [
+      "Motorcycle",
+      "Rickshaw",
+      "Local Bus"
+    ],
+
+    "identity": [
+      "Boat Highway Society",
+      "Seasonal Water Mobility"
+    ]
+  },
+
+  "food_dna": [
+    "Freshwater Fish",
+    "Rice",
+    "Shutki",
+    "Milk Tea",
+    "Pitha",
+    "Duck Curry"
+  ],
+
+  "market_dna": [
+    "Haor Fish Markets",
+    "Seasonal Agricultural Markets",
+    "Boat Based Commerce",
+    "Wetland Trading Centers"
+  ],
+
+  "festival_dna": [
+    "Boat Race",
+    "Harvest Festivals",
+    "Eid Gatherings",
+    "Haor Cultural Events"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Kishoreganj Dialect",
+      "Haor Expressions",
+      "Wetland Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Rural Life",
+    "Shrine Heritage",
+    "Community Religious Gatherings",
+    "Eid Congregation Identity"
+  ],
+
+  "social_dna": [
+    "Village Cooperation",
+    "Boat Community Networks",
+    "Extended Family Structures",
+    "Wetland Survival Culture"
+  ],
+
+  "emotion_dna": [
+    "Haor Pride",
+    "Water Attachment",
+    "Community Dependence",
+    "Monsoon Nostalgia",
+    "Landscape Belonging"
+  ],
+
+  "visual_dna": [
+    "Endless Haor Horizon",
+    "Boats Crossing Open Water",
+    "Flooded Wetlands",
+    "Golden Paddy Islands",
+    "Monsoon Sky Reflections"
+  ],
+
+  "color_palette_dna": [
+    "Water Blue",
+    "Wetland Green",
+    "Monsoon Gray",
+    "Harvest Gold",
+    "Mud Brown"
+  ],
+
+  "behavior_dna": [
+    "Boat Travel",
+    "Fishing Activities",
+    "Tea Stall Discussions",
+    "Flood Monitoring",
+    "Community Cooperation"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Wooden Boat",
+    "Boat Paddle",
+    "Fish Basket",
+    "Tea Glass",
+    "Rice Sack"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "Wetland Birds",
+    "Water Waves",
+    "Azan Across Open Water",
+    "Fish Market Activity"
+  ],
+
+  "smell_dna": [
+    "Freshwater Air",
+    "Wetland Vegetation",
+    "Fresh Fish",
+    "Tea Steam",
+    "Rain Wet Soil"
+  ],
+
+  "childhood_memory_dna": [
+    "Boat Journey To School",
+    "Swimming In Flood Water",
+    "Fishing With Family",
+    "Boat Race Festivals",
+    "Monsoon Adventures"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Fishing Activities",
+      "Wetland Agriculture"
+    ],
+
+    "monsoon": [
+      "Haor Expansion",
+      "Boat Dependency",
+      "Water World Transformation"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Migratory Birds",
+      "Dry Season Markets"
+    ]
+  },
+
+  "night_dna": [
+    "Boat Lights Across Haor",
+    "Quiet Wetland Villages",
+    "Fishing Activity At Night",
+    "Tea Stall Gatherings"
+  ],
+
+  "risk_dna": [
+    "Flash Flood Risk",
+    "Crop Vulnerability",
+    "Water Isolation",
+    "Climate Dependency"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Student Migration",
+    "Seasonal Workforce Mobility"
+  ],
+
+  "commercial_dna": [
+    "Fish Supply Chains",
+    "Rice Commerce",
+    "Boat Transport Economy",
+    "Wetland Market Networks"
+  ],
+
+  "memory_dna": [
+    "Monsoon Water World",
+    "Boat Race Traditions",
+    "Haor Harvest Seasons",
+    "Flood Survival Stories",
+    "Wetland Childhood Memories"
+  ],
+
+  "micro_dna": [
+    "Boat Tied To Bamboo Pole",
+    "Children Traveling To School By Boat",
+    "Fishing Nets Drying Near Wetland House",
+    "Endless Water Horizon During Monsoon",
+    "Fish Market At Dawn",
+    "Fog Floating Above Haor Water",
+    "Duck Flock Crossing Flooded Fields",
+    "Tea Stall Beside Boat Ghat",
+    "Sunset Reflection Across Wetland",
+    "Engine Boat Carrying Market Goods"
+  ],
+
+  "landmark_dna": [
+    "Mithamoin Haor Region",
+    "Nikli Haor",
+    "Bajitpur Wetlands",
+    "Historic Haor Settlements"
+  ],
+
+  "identity_markers": [
+    "Haor Civilization",
+    "Wetland Culture",
+    "Boat Mobility Society",
+    "Monsoon Water World",
+    "Eastern Bengal Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
