@@ -1,5 +1,7 @@
 {
-  "district": "Kurigram",
+  "district_id": "BD-KRG-002",
+
+  "district_name": "Kurigram",
 
   "division": "Rangpur",
 
@@ -7,117 +9,136 @@
 
   "dataset_version": "24.0",
 
-  "geography": {
-    "region": "North Bengal",
-    "terrain": "River Basin and Floodplain",
-    "major_rivers": [
-      "Brahmaputra",
-      "Dharla",
-      "Teesta"
-    ],
-    "climate_type": "Subtropical Monsoon"
-  },
+  "geography_dna": [
+    "Brahmaputra Basin",
+    "Dharla River System",
+    "Teesta Influence Zone",
+    "Char Land Geography",
+    "Seasonal Floodplain"
+  ],
 
-  "climate_profile": {
-    "summer": "Hot",
-    "winter": "Very Cold",
-    "rainfall_level": "High",
-    "flood_risk": "Very High",
-    "drought_risk": "Low-Medium"
-  },
+  "climate_dna": [
+    "Extreme Winter Cold",
+    "Heavy Monsoon Influence",
+    "River Fog",
+    "High Humidity",
+    "Seasonal Flood Climate"
+  ],
 
-  "economy_profile": {
-    "primary_sector": "Agriculture",
+  "light_dna": [
+    "Fog Filtered Winter Sunrise",
+    "River Mist Morning Light",
+    "Monsoon Cloud Diffusion",
+    "Char Land Sunset Glow",
+    "Cold Blue Winter Morning"
+  ],
 
-    "major_crops": [
-      "Rice",
-      "Maize",
-      "Jute",
-      "Potato",
-      "Vegetables"
-    ],
+  "architecture_dna": [
+    "Raised Rural Houses",
+    "Flood Adapted Housing",
+    "Tin Roof Settlements",
+    "Char Settlement Structures",
+    "Riverbank Villages"
+  ],
 
-    "major_industries": [
-      "Agriculture",
-      "Livestock",
-      "Small Trade"
-    ],
+  "transport_dna": [
+    "Boat",
+    "Motorcycle",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Rural Transport Van"
+  ],
 
-    "economic_growth": "Medium-Low"
-  },
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Day Laborer",
+    "Boat Operator",
+    "Livestock Farmer",
+    "Small Trader"
+  ],
 
-  "population_profile": {
-    "urbanization_level": "Low",
-    "population_density": "Medium",
-    "migration_pattern": "Seasonal Labor Migration"
-  },
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Potato",
+    "Seasonal Vegetables",
+    "Pitha",
+    "Milk Tea"
+  ],
 
-  "profession_profile": {
-    "common_professions": [
-      "Farmer",
-      "Day Laborer",
-      "Fisherman",
-      "Small Business Owner",
-      "Driver"
-    ]
-  },
+  "behavior_dna": [
+    "Flood Preparation Activity",
+    "River Water Monitoring",
+    "Fishing Net Repair",
+    "Livestock Relocation During Flood",
+    "Char Land Cultivation",
+    "Winter Fire Gathering"
+  ],
 
-  "education_profile": {
-    "education_access": "Medium",
-    "literacy_trend": "Improving",
-    "higher_education_access": "Low-Medium"
-  },
+  "object_dna": [
+    "Fishing Net",
+    "Flood Marker Bamboo",
+    "Rope Tied Boat",
+    "Mud Covered Sandal",
+    "Livestock Feed Basket",
+    "Bamboo Pole",
+    "Water Container"
+  ],
 
-  "technology_profile": {
-    "internet_access": "Medium",
-    "smartphone_adoption": "Medium",
-    "digital_payment_adoption": "Growing"
-  },
+  "memory_dna": [
+    "Flood Season Migration",
+    "Riverbank Childhood",
+    "Winter Fog Morning",
+    "Boat Travel Memory",
+    "Flood Water Marking"
+  ],
 
-  "culture_profile": {
-    "primary_language": "Bangla",
-    "community_orientation": "Very High",
-    "religious_diversity": "Low",
-    "cultural_identity": "River-Based Northern Heritage"
-  },
+  "sound_dna": [
+    "Boat Engine Sound",
+    "River Water Flow",
+    "Morning Azan",
+    "Fishing Net Movement",
+    "Livestock Calls"
+  ],
 
-  "infrastructure_profile": {
-    "road_connectivity": "Medium",
-    "electricity_access": "High",
-    "healthcare_access": "Low-Medium",
-    "transport_access": "Medium"
-  },
+  "smell_dna": [
+    "Wet River Soil",
+    "Fresh Fish",
+    "Flood Water Mud",
+    "Winter Fire Smoke",
+    "Livestock Shed"
+  ],
 
-  "risk_profile": {
-    "natural_disasters": [
-      "Flood",
-      "River Erosion",
-      "Cold Wave"
-    ],
+  "landmark_dna": [
+    "Dharla River",
+    "Brahmaputra Char Areas",
+    "Teesta Basin Region",
+    "Kurigram River Settlements"
+  ],
 
-    "economic_risks": [
-      "Crop Loss",
-      "Poverty",
-      "Employment Instability"
-    ]
-  },
+  "micro_dna": [
+    "Flood Marker Bamboo",
+    "Char Soil Edge",
+    "Rope Tied Fishing Boat",
+    "Seasonal Flood Scar",
+    "Raised Livestock Platform",
+    "Riverbank Sand Deposit",
+    "Temporary Flood Shelter",
+    "Net Drying Beside House",
+    "Boat Pulled Onto Mud Bank",
+    "Children Crossing Flood Water Path"
+  ],
 
-  "opportunity_profile": {
-    "growth_sectors": [
-      "Modern Agriculture",
-      "Livestock",
-      "River Economy",
-      "Digital Services"
-    ],
+  "identity_markers": [
+    "River Life",
+    "Char Culture",
+    "Flood Adaptation",
+    "Fishing Economy",
+    "Northern River Heritage"
+  ],
 
-    "future_potential": "Medium-High"
-  },
+  "district_uniqueness_score": 97,
 
-  "reality_factors": {
-    "environment_factor": 95,
-    "economic_factor": 65,
-    "technology_factor": 55,
-    "social_factor": 90,
-    "infrastructure_factor": 60
-  }
+  "three_second_identity_test": "PASS"
 }
