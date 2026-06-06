@@ -1,0 +1,261 @@
+{
+  "profession_id": "PROF_FACTORY_MANAGER_001",
+
+  "profession": "Factory Manager",
+
+  "sector": "Manufacturing",
+
+  "sub_sector": "Industrial Operations Management",
+
+  "core_identity": [
+    "Production Leader",
+    "Workforce Coordinator",
+    "Operational Decision Maker",
+    "Industrial Efficiency Driver",
+    "Factory Performance Controller"
+  ],
+
+  "profession_archetype": [
+    "Manager",
+    "Organizer",
+    "Leader",
+    "Optimizer"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Industrial Civilization",
+
+    "secondary_layers": [
+      "Employment Creation",
+      "Export Economy",
+      "Supply Chain",
+      "Urban Industry"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Management Salary",
+      "Performance Bonus",
+      "Operational Incentives",
+      "Corporate Benefits"
+    ],
+
+    "peak_income_periods": [
+      "Production Target Achievement",
+      "Annual Performance Review"
+    ],
+
+    "financial_stress_periods": [
+      "Factory Downsizing",
+      "Industry Slowdown"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Data Driven",
+      "Efficiency Focused",
+      "Target Oriented",
+      "Risk Managed"
+    ],
+
+    "trust_sources": [
+      "Production Reports",
+      "Factory Data",
+      "Workforce Feedback",
+      "Corporate Guidelines"
+    ],
+
+    "fear_drivers": [
+      "Production Failure",
+      "Worker Unrest",
+      "Safety Incident",
+      "Target Miss"
+    ],
+
+    "motivation_drivers": [
+      "Operational Success",
+      "Career Advancement",
+      "Factory Growth",
+      "Workforce Performance"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Production Monitoring",
+      "Worker Coordination",
+      "Quality Control Review",
+      "Management Meetings",
+      "Problem Resolution"
+    ],
+
+    "weekly_patterns": [
+      "Performance Evaluation",
+      "Production Planning",
+      "Safety Review",
+      "Supply Chain Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Leadership",
+      "Operations Management",
+      "Production Planning",
+      "Quality Assurance",
+      "Workforce Management",
+      "Problem Solving"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Management Training",
+      "Factory Systems Access",
+      "Production Data",
+      "Communication Tools",
+      "Industrial Knowledge"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Leadership",
+    "Pressure",
+    "Discipline",
+    "Achievement"
+  ],
+
+  "memory_dna": [
+    "First Factory Assignment",
+    "Production Crisis Resolution",
+    "Promotion To Manager",
+    "Major Export Order Completion",
+    "Safety Milestone Achievement"
+  ],
+
+  "social_dna": {
+    "community_role": "Industrial Leader",
+
+    "social_status": "Corporate Management Professional",
+
+    "community_connections": [
+      "Workers",
+      "Engineers",
+      "Executives",
+      "Suppliers",
+      "Buyers"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Factory Floor",
+      "Production Line",
+      "Management Office",
+      "Warehouse",
+      "Industrial Zone"
+    ],
+
+    "noise_level": "High",
+
+    "operational_intensity": "Continuous"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Efficiency Driven",
+      "Productivity Focused",
+      "Cost Conscious"
+    ],
+
+    "purchase_triggers": [
+      "Higher Output",
+      "Lower Cost",
+      "Safety Improvement",
+      "Automation"
+    ],
+
+    "purchase_barriers": [
+      "High Investment Cost",
+      "Operational Disruption",
+      "Low ROI"
+    ]
+  },
+
+  "visual_dna": [
+    "Production Line",
+    "Factory Floor",
+    "Worker Teams",
+    "Management Dashboard",
+    "Industrial Machinery"
+  ],
+
+  "object_dna": [
+    "Production Report",
+    "Safety Helmet",
+    "Factory ID Card",
+    "Management Dashboard",
+    "Walkie Talkie",
+    "Quality Checklist"
+  ],
+
+  "sound_dna": [
+    "Machine Operations",
+    "Production Line Activity",
+    "Worker Communication",
+    "Factory Alarms",
+    "Forklift Movement"
+  ],
+
+  "smell_dna": [
+    "Industrial Environment",
+    "Machine Oil",
+    "Textile Materials",
+    "Warehouse Air",
+    "Factory Floor"
+  ],
+
+  "micro_moment_dna": [
+    "Reviewing Production Numbers",
+    "Solving Machine Downtime",
+    "Addressing Worker Team",
+    "Inspecting Quality Output",
+    "Approving Production Schedule"
+  ],
+
+  "risk_dna": [
+    "Production Delay",
+    "Worker Accident",
+    "Quality Failure",
+    "Supply Chain Disruption",
+    "Operational Loss"
+  ],
+
+  "aspiration_dna": [
+    "Factory Director Role",
+    "Industry Leadership",
+    "Operational Excellence",
+    "Export Growth",
+    "Corporate Success"
+  ],
+
+  "identity_markers": [
+    "Production Leadership",
+    "Factory Operations",
+    "Workforce Coordination",
+    "Industrial Management"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
