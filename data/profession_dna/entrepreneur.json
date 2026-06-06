@@ -1,0 +1,246 @@
+{
+  "profession_id": "PROF_ENTREPRENEUR_001",
+
+  "profession": "Entrepreneur",
+
+  "sector": "Business",
+
+  "sub_sector": "Enterprise Creation",
+
+  "core_identity": [
+    "Opportunity Creator",
+    "Risk Capital Allocator",
+    "Innovation Driver",
+    "Job Creator",
+    "Future Economy Builder"
+  ],
+
+  "profession_archetype": [
+    "Founder",
+    "Builder",
+    "Visionary",
+    "Risk Taker"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Highly Variable",
+
+    "income_stability": "Low-Medium",
+
+    "cashflow_type": "Business Performance Based",
+
+    "income_sources": [
+      "Business Revenue",
+      "Equity Growth",
+      "Partnership Income",
+      "Investments",
+      "New Ventures"
+    ],
+
+    "peak_income_periods": [
+      "Business Expansion",
+      "Product Success",
+      "Market Growth"
+    ],
+
+    "financial_stress_periods": [
+      "Startup Stage",
+      "Cashflow Crisis",
+      "Market Downturn"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Opportunity Driven",
+      "Risk Calculated",
+      "Future Oriented",
+      "Growth Focused"
+    ],
+
+    "trust_sources": [
+      "Market Signals",
+      "Customer Feedback",
+      "Business Data",
+      "Founder Network"
+    ],
+
+    "fear_drivers": [
+      "Business Failure",
+      "Cashflow Collapse",
+      "Market Irrelevance",
+      "Competitive Disruption"
+    ],
+
+    "motivation_drivers": [
+      "Freedom",
+      "Impact",
+      "Wealth Creation",
+      "Innovation",
+      "Legacy Building"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Market Monitoring",
+      "Team Coordination",
+      "Problem Solving",
+      "Customer Interaction",
+      "Strategic Planning"
+    ],
+
+    "weekly_patterns": [
+      "Business Review",
+      "Growth Planning",
+      "Partnership Meetings",
+      "Opportunity Evaluation"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Leadership",
+      "Sales",
+      "Negotiation",
+      "Financial Thinking",
+      "Strategic Planning",
+      "Execution"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Business Network",
+      "Market Knowledge",
+      "Startup Capital",
+      "Customer Access",
+      "Leadership Capability"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Optimism",
+    "Resilience",
+    "Persistence",
+    "Competitive Drive"
+  ],
+
+  "memory_dna": [
+    "First Business Launch",
+    "First Customer",
+    "First Profit",
+    "Major Failure",
+    "Growth Breakthrough"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Economic Creator",
+
+    "social_status": "Business Builder",
+
+    "community_connections": [
+      "Customers",
+      "Investors",
+      "Founders",
+      "Employees",
+      "Partners"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "ROI Driven",
+      "Growth Focused",
+      "Efficiency Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Revenue Growth",
+      "Market Advantage",
+      "Automation",
+      "Scalability"
+    ],
+
+    "purchase_barriers": [
+      "Poor ROI",
+      "Limited Growth Potential",
+      "Operational Complexity"
+    ]
+  },
+
+  "visual_dna": [
+    "Startup Office",
+    "Business Meeting",
+    "Whiteboard Strategy",
+    "Pitch Deck",
+    "Growth Dashboard"
+  ],
+
+  "object_dna": [
+    "Laptop",
+    "Business Plan",
+    "Investor Pitch Deck",
+    "Smartphone",
+    "Financial Dashboard",
+    "Whiteboard"
+  ],
+
+  "sound_dna": [
+    "Team Discussions",
+    "Client Calls",
+    "Pitch Presentations",
+    "Office Collaboration",
+    "Strategy Meetings"
+  ],
+
+  "smell_dna": [
+    "Coffee",
+    "Office Workspace",
+    "Fresh Documents",
+    "Coworking Space",
+    "Electronics"
+  ],
+
+  "micro_moment_dna": [
+    "Closing First Sale",
+    "Pitching Investor",
+    "Hiring First Employee",
+    "Launching Product",
+    "Reviewing Growth Metrics"
+  ],
+
+  "risk_dna": [
+    "Startup Failure",
+    "Cash Burn",
+    "Market Rejection",
+    "Team Breakdown",
+    "Competitive Threat"
+  ],
+
+  "aspiration_dna": [
+    "Industry Leadership",
+    "Business Scale",
+    "Global Expansion",
+    "Financial Freedom",
+    "Long Term Legacy"
+  ],
+
+  "identity_markers": [
+    "Business Creation",
+    "Risk Taking",
+    "Innovation",
+    "Growth Building"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
