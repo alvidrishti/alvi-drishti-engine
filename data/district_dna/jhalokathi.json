@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-JHA-030",
+
+  "district_name": "Jhalokathi",
+
+  "division": "Barishal",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Canal Network District",
+    "River Delta Landscape",
+    "Southern Waterway Region",
+    "Floodplain Settlement",
+    "River Trade Corridor"
+  ],
+
+  "climate_dna": [
+    "Humid River Climate",
+    "Heavy Monsoon",
+    "Warm Winter",
+    "High Humidity",
+    "Seasonal Storm Exposure"
+  ],
+
+  "light_dna": [
+    "Canal Sunrise Reflection",
+    "Supari Garden Morning Light",
+    "Golden River Sunset",
+    "Monsoon Water Reflection",
+    "Fog Covered Canal Dawn"
+  ],
+
+  "architecture_dna": [
+    "Canal Side Settlements",
+    "Traditional Wooden River Houses",
+    "Launch Ghat Infrastructure",
+    "Riverside Market Buildings",
+    "Supari Storage Warehouses"
+  ],
+
+  "transport_dna": [
+    "Launch",
+    "Boat",
+    "Engine Boat",
+    "Rickshaw",
+    "Motorcycle"
+  ],
+
+  "occupation_dna": [
+    "Trader",
+    "Boat Operator",
+    "Supari Farmer",
+    "Fisherman",
+    "Small Business Owner",
+    "Transport Worker"
+  ],
+
+  "food_dna": [
+    "River Fish",
+    "Rice",
+    "Supari Related Products",
+    "Milk Tea",
+    "Coconut Based Foods",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "Canal Based Travel",
+    "River Market Trading",
+    "Tea Stall Discussion",
+    "Launch Terminal Waiting",
+    "Supari Trading Activity",
+    "Evening Riverside Gathering"
+  ],
+
+  "object_dna": [
+    "Boat Rope",
+    "Supari Basket",
+    "Tea Glass",
+    "Launch Ticket",
+    "Fish Basket",
+    "Cargo Sack",
+    "Wooden Paddle"
+  ],
+
+  "memory_dna": [
+    "Launch Journey",
+    "Canal Crossing Experience",
+    "River Market Morning",
+    "Monsoon Canal Overflow",
+    "Supari Harvest Season"
+  ],
+
+  "sound_dna": [
+    "Launch Horn",
+    "Boat Engine",
+    "Canal Water Movement",
+    "Morning Azan",
+    "Market Crowd Noise"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Fresh Supari",
+    "Tea Steam",
+    "Canal Water Moisture",
+    "Wet Wooden Jetty"
+  ],
+
+  "landmark_dna": [
+    "Gabkhan Channel",
+    "Jhalokathi River Port",
+    "Southern Canal Network",
+    "Historic River Trade Routes"
+  ],
+
+  "micro_dna": [
+    "Supari Basket Loaded Boat",
+    "Canal Side Tea Stall",
+    "Launch Waiting Crowd",
+    "Wooden Jetty Beside Market",
+    "Morning River Cargo Activity",
+    "Fog Covered Canal Bridge",
+    "Boat Tied To Supari Tree",
+    "River Market Auction Area",
+    "Monsoon Overflow Canal Edge",
+    "Evening Gathering At Launch Ghat"
+  ],
+
+  "identity_markers": [
+    "Canal City Heritage",
+    "Supari Economy",
+    "River Trade Culture",
+    "Launch Connectivity",
+    "Waterway Civilization"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
