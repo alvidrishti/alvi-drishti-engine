@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-BRA-042",
+
+  "district_name": "Brahmanbaria",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Titas River Basin",
+    "Eastern Floodplain",
+    "River Settlement Landscape",
+    "Agricultural Plain",
+    "Historic Cultural Region"
+  ],
+
+  "climate_dna": [
+    "Humid Monsoon",
+    "Moderate Winter",
+    "Seasonal Fog",
+    "Hot Summer",
+    "River Influenced Climate"
+  ],
+
+  "light_dna": [
+    "Titas River Sunrise",
+    "Golden Paddy Sunset",
+    "Winter Fog Morning",
+    "Riverside Evening Glow",
+    "Monsoon Reflection Light"
+  ],
+
+  "architecture_dna": [
+    "Traditional Riverside Homesteads",
+    "Historic Cultural Buildings",
+    "Village Courtyard Houses",
+    "River Market Structures",
+    "Educational Institutions"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Boat",
+    "CNG Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Trader",
+    "Teacher",
+    "Musician",
+    "Small Business Owner",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables",
+    "Traditional Sweets"
+  ],
+
+  "behavior_dna": [
+    "Musical Gathering",
+    "Tea Stall Discussion",
+    "River Market Trading",
+    "Cultural Program Participation",
+    "Community Festival Activity",
+    "Agricultural Commerce"
+  ],
+
+  "object_dna": [
+    "Dotara",
+    "Harmonium",
+    "Tea Glass",
+    "Fishing Net",
+    "Rice Sack",
+    "Market Ledger",
+    "Bamboo Basket"
+  ],
+
+  "memory_dna": [
+    "Titas Riverside Evening",
+    "Village Cultural Program",
+    "Winter Fog Morning",
+    "River Journey",
+    "Community Festival"
+  ],
+
+  "sound_dna": [
+    "Folk Music Performance",
+    "Morning Azan",
+    "River Water Movement",
+    "Market Crowd Noise",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Tea Steam",
+    "Fresh Soil",
+    "Rain Wet Grass",
+    "Fresh Fish"
+  ],
+
+  "landmark_dna": [
+    "Titas River",
+    "Historic Cultural Centers",
+    "Traditional River Markets",
+    "Ashuganj Economic Corridor"
+  ],
+
+  "micro_dna": [
+    "Dotara Hanging Inside Village House",
+    "Tea Stall Beside Titas River",
+    "Boat Crossing Morning Mist",
+    "Cultural Program Stage Setup",
+    "Fishing Net Drying Near Riverbank",
+    "Market Day Crowd",
+    "Children Playing Beside Riverside Field",
+    "Winter Fog Across Paddy Field",
+    "Village Music Rehearsal",
+    "Sunset Reflection On Titas Water"
+  ],
+
+  "identity_markers": [
+    "Titas Civilization",
+    "Musical Heritage",
+    "Cultural Legacy",
+    "River Economy",
+    "Eastern Plains Identity"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
