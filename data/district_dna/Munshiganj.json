@@ -1,0 +1,309 @@
+{
+  "district_id": "BD-MUN-059",
+
+  "district_name": "Munshiganj",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Bikrampur Civilization",
+    "Intellectual Heritage",
+    "River Trade Society",
+    "Historic Bengal Identity",
+    "Padma-Dhaleshwari Legacy"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Padma River",
+      "Dhaleshwari River",
+      "Ichamati River",
+      "Meghna Influence",
+      "River Delta Network"
+    ],
+
+    "terrain": [
+      "River Floodplain",
+      "Historical Settlement Zone",
+      "Delta Landscape",
+      "Canal Network"
+    ],
+
+    "historical_density_score": 100,
+    "river_dependency_score": 97,
+    "civilization_score": 100
+  },
+
+  "historical_dna": [
+    "Ancient Bikrampur Civilization",
+    "Atish Dipankar Legacy",
+    "Medieval Bengal Heritage",
+    "River Trade Networks",
+    "Educational Renaissance History"
+  ],
+
+  "civilization_dna": [
+    "Bikrampur Knowledge Center",
+    "Scholarly Tradition",
+    "Historical Urban Settlements",
+    "Cultural Leadership"
+  ],
+
+  "intellectual_dna": [
+    "Academic Heritage",
+    "Literary Culture",
+    "Historical Scholarship",
+    "Education Oriented Families",
+    "Knowledge Prestige Identity"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Trade",
+      "Retail Business",
+      "River Commerce"
+    ],
+
+    "secondary": [
+      "Small Industry",
+      "Service Economy",
+      "Transport"
+    ],
+
+    "economic_identity": [
+      "River Economy",
+      "Trade Economy",
+      "Knowledge Economy Heritage"
+    ]
+  },
+
+  "occupation_dna": [
+    "Teacher",
+    "Farmer",
+    "Trader",
+    "Government Employee",
+    "Business Owner",
+    "Student"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Vegetable Farming",
+    "Betel Nut Production",
+    "Fruit Cultivation",
+    "Homestead Agriculture"
+  ],
+
+  "river_dna": [
+    "Padma Connectivity",
+    "Boat Commerce",
+    "Canal Mobility",
+    "Floodplain Adaptation",
+    "River Market Tradition"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Hilsa",
+    "Freshwater Fish",
+    "Pitha",
+    "Milk Tea",
+    "Traditional Bengali Cuisine"
+  ],
+
+  "market_dna": [
+    "River Markets",
+    "Agricultural Trade Centers",
+    "Traditional Bazaars",
+    "Regional Commerce Networks"
+  ],
+
+  "festival_dna": [
+    "Eid Celebrations",
+    "Historical Commemoration Events",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Educational Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Bikrampur Dialect",
+      "Historical Bengal Expressions",
+      "River Community Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Historic Religious Sites",
+    "Sufi Traditions",
+    "Village Congregation Culture"
+  ],
+
+  "social_dna": [
+    "Education Focused Families",
+    "Strong Kinship Networks",
+    "Community Prestige Culture",
+    "Multi Generational Households"
+  ],
+
+  "emotion_dna": [
+    "Historical Pride",
+    "Intellectual Identity",
+    "River Attachment",
+    "Family Legacy",
+    "Cultural Belonging"
+  ],
+
+  "visual_dna": [
+    "Ancient Settlement Landscapes",
+    "River Horizons",
+    "Green Agricultural Fields",
+    "Historic Mosques",
+    "Canal Networks"
+  ],
+
+  "color_palette_dna": [
+    "River Blue",
+    "Heritage Brown",
+    "Field Green",
+    "Fog Gray",
+    "Harvest Gold"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussions",
+    "Academic Conversations",
+    "Community Gatherings",
+    "Market Bargaining",
+    "Historical Storytelling"
+  ],
+
+  "object_dna": [
+    "Books",
+    "Tea Glass",
+    "Fishing Net",
+    "Rice Sack",
+    "Wooden Boat",
+    "Historical Documents"
+  ],
+
+  "sound_dna": [
+    "Azan",
+    "River Waves",
+    "Market Activity",
+    "School Bell",
+    "Village Conversations"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Old Books",
+    "Tea Steam",
+    "Wet Soil",
+    "Fresh Fish"
+  ],
+
+  "childhood_memory_dna": [
+    "Boat Journeys",
+    "School Competitions",
+    "Village Football",
+    "Historical Site Visits",
+    "Eid Gatherings"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "River Commerce",
+      "Agricultural Activity"
+    ],
+
+    "monsoon": [
+      "Floodplain Expansion",
+      "Boat Mobility",
+      "Canal Connectivity"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Educational Programs",
+      "Village Sports"
+    ]
+  },
+
+  "night_dna": [
+    "Tea Stall Adda",
+    "Quiet Riverbanks",
+    "Market Lights",
+    "Community Discussions"
+  ],
+
+  "risk_dna": [
+    "Flood Risk",
+    "River Erosion",
+    "Urban Expansion Pressure",
+    "Climate Vulnerability"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Student Migration",
+    "Professional Mobility"
+  ],
+
+  "commercial_dna": [
+    "Agricultural Supply Chains",
+    "River Trade Networks",
+    "Retail Commerce",
+    "Regional Business Activity"
+  ],
+
+  "memory_dna": [
+    "Bikrampur Heritage",
+    "River Trade Stories",
+    "Educational Legacy",
+    "Historical Narratives",
+    "Family Traditions"
+  ],
+
+  "micro_dna": [
+    "Boat Crossing Canal At Dawn",
+    "Students Walking To School",
+    "Tea Stall Beside Historic Road",
+    "Old Mosque In Village Center",
+    "Books Stacked In Family Home",
+    "Fog Covering Winter Morning",
+    "Market Crowd Before Eid",
+    "Fishing Net Drying Beside Riverbank",
+    "Rice Fields Reflecting Sunset",
+    "Community Gathering Under Banyan Tree"
+  ],
+
+  "landmark_dna": [
+    "Bikrampur Region",
+    "Atish Dipankar Heritage Sites",
+    "Padma River Belt",
+    "Dhaleshwari River",
+    "Munshiganj Town"
+  ],
+
+  "identity_markers": [
+    "Bikrampur Civilization",
+    "Intellectual Heritage",
+    "River Trade Society",
+    "Historic Bengal Identity",
+    "Padma-Dhaleshwari Legacy"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
