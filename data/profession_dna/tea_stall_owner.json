@@ -1,0 +1,270 @@
+{
+  "profession_id": "PROF_TEA_STALL_OWNER_001",
+
+  "profession": "Tea Stall Owner",
+
+  "sector": "Food And Beverage",
+
+  "sub_sector": "Informal Hospitality And Retail",
+
+  "core_identity": [
+    "Community Gathering Host",
+    "Local Information Hub",
+    "Street Economy Operator",
+    "Daily Conversation Facilitator",
+    "Neighborhood Relationship Builder"
+  ],
+
+  "profession_archetype": [
+    "Host",
+    "Observer",
+    "Connector",
+    "Micro Entrepreneur"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Community Civilization",
+
+    "secondary_layers": [
+      "Informal Economy",
+      "Local Information Exchange",
+      "Political Discussion",
+      "Social Memory",
+      "Street Culture"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Daily",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Cash Transaction Based",
+
+    "income_sources": [
+      "Tea Sales",
+      "Biscuits And Snacks",
+      "Cigarettes",
+      "Soft Drinks",
+      "Mobile Recharge",
+      "Small Convenience Items"
+    ],
+
+    "peak_income_periods": [
+      "Morning Rush",
+      "Office Break Time",
+      "Evening Gathering Hours",
+      "Election Season"
+    ],
+
+    "financial_stress_periods": [
+      "Heavy Rain",
+      "Road Construction",
+      "Economic Slowdown"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Customer Focused",
+      "Relationship Driven",
+      "Cashflow Conscious",
+      "Practical"
+    ],
+
+    "trust_sources": [
+      "Regular Customers",
+      "Local Networks",
+      "Market Experience",
+      "Community Reputation"
+    ],
+
+    "fear_drivers": [
+      "Low Customer Flow",
+      "Price Increases",
+      "Business Closure",
+      "Debt Accumulation"
+    ],
+
+    "motivation_drivers": [
+      "Family Income",
+      "Business Stability",
+      "Community Respect",
+      "Customer Loyalty"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Opening Stall Early Morning",
+      "Preparing Tea",
+      "Serving Customers",
+      "Listening To Local Discussions",
+      "Managing Inventory"
+    ],
+
+    "weekly_patterns": [
+      "Purchasing Supplies",
+      "Maintaining Equipment",
+      "Tracking Expenses",
+      "Building Customer Relationships"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Tea Preparation",
+      "Customer Service",
+      "Cash Management",
+      "Conversation Handling",
+      "Inventory Control",
+      "Relationship Building"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Tea Kettle",
+      "Gas Stove",
+      "Tea Glasses",
+      "Shop Structure",
+      "Cash Box",
+      "Supplier Network"
+    ]
+  },
+
+  "emotion_dna": [
+    "Friendliness",
+    "Patience",
+    "Curiosity",
+    "Resilience",
+    "Hospitality"
+  ],
+
+  "memory_dna": [
+    "First Day Of Business",
+    "First Regular Customer",
+    "Election Discussion Gathering",
+    "Festival Rush",
+    "Business Expansion Moment"
+  ],
+
+  "social_dna": {
+    "community_role": "Informal Community Hub",
+
+    "social_status": "Known Local Figure",
+
+    "community_connections": [
+      "Rickshaw Pullers",
+      "Shopkeepers",
+      "Office Workers",
+      "Students",
+      "Local Leaders",
+      "Daily Customers"
+    ]
+  },
+
+  "community_observation_dna": {
+    "common_topics": [
+      "Politics",
+      "Sports",
+      "Local News",
+      "Jobs",
+      "Agriculture",
+      "Market Prices"
+    ],
+
+    "information_flow_role": "High",
+
+    "community_memory_strength": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Cost Sensitive",
+      "Supplier Driven",
+      "Daily Cashflow Focused"
+    ],
+
+    "purchase_triggers": [
+      "Customer Demand",
+      "Lower Cost",
+      "Better Quality",
+      "Reliable Supply"
+    ],
+
+    "purchase_barriers": [
+      "Price Volatility",
+      "Low Cash Reserve",
+      "Supply Disruption"
+    ]
+  },
+
+  "visual_dna": [
+    "Roadside Tea Stall",
+    "Steam Rising From Tea",
+    "Plastic Chairs",
+    "Customers Gathering",
+    "Busy Street Corner"
+  ],
+
+  "object_dna": [
+    "Tea Kettle",
+    "Glass Cups",
+    "Bench",
+    "Biscuit Jar",
+    "Cash Box",
+    "Newspaper"
+  ],
+
+  "sound_dna": [
+    "Tea Cup Clinking",
+    "Customer Conversations",
+    "Political Debates",
+    "Street Traffic",
+    "Tea Being Poured"
+  ],
+
+  "smell_dna": [
+    "Fresh Tea",
+    "Milk",
+    "Ginger",
+    "Roadside Dust",
+    "Biscuits And Snacks"
+  ],
+
+  "micro_moment_dna": [
+    "Pouring Fresh Tea",
+    "Serving Regular Customer",
+    "Listening To Local Debate",
+    "Counting Daily Earnings",
+    "Closing Stall At Night"
+  ],
+
+  "risk_dna": [
+    "Business Competition",
+    "Weather Disruption",
+    "Supply Cost Increase",
+    "Health Issues",
+    "Low Customer Traffic"
+  ],
+
+  "aspiration_dna": [
+    "Larger Shop",
+    "Stable Family Income",
+    "More Customers",
+    "Business Expansion",
+    "Community Respect"
+  ],
+
+  "identity_markers": [
+    "Tea Kettle",
+    "Roadside Stall",
+    "Customer Gathering",
+    "Community Conversations"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
