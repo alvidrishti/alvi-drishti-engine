@@ -1,0 +1,241 @@
+{
+  "profession_id": "PROF_SHOPKEEPER_001",
+
+  "profession": "Shopkeeper",
+
+  "sector": "Retail Commerce",
+
+  "sub_sector": "Local Retail Business",
+
+  "core_identity": [
+    "Community Merchant",
+    "Daily Needs Provider",
+    "Local Economy Operator",
+    "Customer Relationship Builder",
+    "Neighborhood Commerce Hub"
+  ],
+
+  "profession_archetype": [
+    "Merchant",
+    "Provider",
+    "Connector",
+    "Community Observer"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Daily",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Sales Based",
+
+    "income_sources": [
+      "Retail Sales",
+      "Wholesale Margin",
+      "Mobile Recharge",
+      "Digital Payment Services"
+    ],
+
+    "peak_income_periods": [
+      "Eid Season",
+      "Festival Season",
+      "Monthly Salary Week"
+    ],
+
+    "financial_stress_periods": [
+      "Low Customer Flow",
+      "Market Inflation"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Profit Oriented",
+      "Customer Focused",
+      "Inventory Driven",
+      "Relationship Based"
+    ],
+
+    "trust_sources": [
+      "Regular Customers",
+      "Wholesalers",
+      "Market Trends",
+      "Business Experience"
+    ],
+
+    "fear_drivers": [
+      "Low Sales",
+      "Inventory Loss",
+      "Debt Accumulation",
+      "New Competition"
+    ],
+
+    "motivation_drivers": [
+      "Higher Profit",
+      "Business Expansion",
+      "Customer Loyalty",
+      "Family Stability"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Opening Shop Early",
+      "Customer Service",
+      "Inventory Monitoring",
+      "Supplier Communication",
+      "Cash Counting"
+    ],
+
+    "weekly_patterns": [
+      "Stock Replenishment",
+      "Market Visit",
+      "Sales Analysis",
+      "Supplier Settlement"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Customer Service",
+      "Inventory Management",
+      "Price Negotiation",
+      "Cash Handling",
+      "Business Communication"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Shop Space",
+      "Inventory",
+      "Cash Float",
+      "Mobile Phone",
+      "Business Ledger"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Patience",
+    "Customer Trust",
+    "Competition",
+    "Business Pride"
+  ],
+
+  "memory_dna": [
+    "First Sale",
+    "Opening Day",
+    "Festival Rush",
+    "Business Expansion",
+    "Long Term Customer Relationships"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Local Merchant",
+
+    "social_status": "Community Business Figure",
+
+    "community_connections": [
+      "Customers",
+      "Wholesalers",
+      "Local Residents",
+      "Business Community"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Margin Focused",
+      "Volume Oriented",
+      "Relationship Driven"
+    ],
+
+    "purchase_triggers": [
+      "Higher Demand",
+      "Better Profit Margin",
+      "Customer Requests",
+      "Market Trends"
+    ],
+
+    "purchase_barriers": [
+      "Low Capital",
+      "Storage Limitations",
+      "Market Uncertainty"
+    ]
+  },
+
+  "visual_dna": [
+    "Retail Shop",
+    "Product Shelves",
+    "Cash Counter",
+    "Customer Crowd",
+    "Market Environment"
+  ],
+
+  "object_dna": [
+    "Cash Box",
+    "Calculator",
+    "Business Ledger",
+    "Product Shelves",
+    "Mobile Payment QR Code",
+    "Receipt Book"
+  ],
+
+  "sound_dna": [
+    "Customer Conversations",
+    "Market Activity",
+    "Cash Drawer",
+    "Mobile Payment Notifications",
+    "Supplier Calls"
+  ],
+
+  "smell_dna": [
+    "Tea",
+    "Packaged Goods",
+    "Market Air",
+    "Fresh Products",
+    "Shop Interior"
+  ],
+
+  "micro_moment_dna": [
+    "Making First Sale Of The Day",
+    "Negotiating Product Price",
+    "Restocking Inventory",
+    "Handling Customer Complaint",
+    "Closing Cash Count"
+  ],
+
+  "risk_dna": [
+    "Low Sales",
+    "Inventory Damage",
+    "Price Inflation",
+    "Competition",
+    "Cashflow Problems"
+  ],
+
+  "aspiration_dna": [
+    "Larger Shop",
+    "Higher Profit",
+    "Multiple Branches",
+    "Family Prosperity",
+    "Business Reputation"
+  ],
+
+  "identity_markers": [
+    "Cash Counter",
+    "Customer Relationships",
+    "Inventory Management",
+    "Daily Sales Tracking"
+  ],
+
+  "profession_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
