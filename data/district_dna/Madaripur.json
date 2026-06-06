@@ -1,0 +1,296 @@
+{
+  "district_id": "BD-MAD-057",
+
+  "district_name": "Madaripur",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Arial Khan Civilization",
+    "River Delta Heritage",
+    "Migration Network Society",
+    "Agricultural Commerce",
+    "Central Delta Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Arial Khan River",
+      "Kumar River",
+      "Delta Floodplain",
+      "Wetland Agriculture",
+      "Canal Network"
+    ],
+
+    "terrain": [
+      "River Delta",
+      "Floodplain",
+      "Agricultural Lowlands",
+      "Wetland Settlements"
+    ],
+
+    "river_dependency_score": 98,
+    "delta_identity_score": 99,
+    "agricultural_score": 97
+  },
+
+  "historical_dna": [
+    "River Trade Heritage",
+    "Delta Settlement Expansion",
+    "Traditional Agricultural Society",
+    "Canal Based Commerce",
+    "Migration Driven Family Networks"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Rice Cultivation",
+      "Fishing",
+      "Retail Trade"
+    ],
+
+    "secondary": [
+      "Migration Income",
+      "Livestock",
+      "Small Business"
+    ],
+
+    "economic_identity": [
+      "Delta Economy",
+      "Agricultural Commerce",
+      "Migration Supported Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Trader",
+    "Teacher",
+    "Business Owner",
+    "Day Laborer"
+  ],
+
+  "agriculture_dna": [
+    "Rice Production",
+    "Jute Cultivation",
+    "Vegetable Farming",
+    "Betel Nut Production",
+    "Homestead Agriculture"
+  ],
+
+  "river_dna": [
+    "Arial Khan Connectivity",
+    "Boat Based Commerce",
+    "Flood Adaptation",
+    "Riverbank Settlements",
+    "Canal Mobility"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Pitha",
+    "Milk Tea",
+    "Duck Curry",
+    "Seasonal Vegetables"
+  ],
+
+  "market_dna": [
+    "Agricultural Markets",
+    "Fish Trading Centers",
+    "Canal Side Bazaars",
+    "Village Commerce Hubs",
+    "Regional Trade Networks"
+  ],
+
+  "festival_dna": [
+    "Eid Celebrations",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Boat Race Events",
+    "Community Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Madaripur Dialect",
+      "Central Delta Expressions",
+      "River Community Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Shrine Traditions",
+    "Village Religious Gatherings",
+    "Eid Congregation Culture"
+  ],
+
+  "social_dna": [
+    "Extended Family Networks",
+    "Migration Connected Households",
+    "Village Cooperation",
+    "Community Reputation System"
+  ],
+
+  "emotion_dna": [
+    "River Attachment",
+    "Village Pride",
+    "Migration Sacrifice",
+    "Family Responsibility",
+    "Delta Identity"
+  ],
+
+  "visual_dna": [
+    "Arial Khan River Horizon",
+    "Green Paddy Fields",
+    "Canal Networks",
+    "Village Roads",
+    "Floodplain Landscapes"
+  ],
+
+  "color_palette_dna": [
+    "Delta Green",
+    "River Blue",
+    "Harvest Gold",
+    "Mud Brown",
+    "Fog Gray"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussion",
+    "Agricultural Planning",
+    "Market Bargaining",
+    "Community Gatherings",
+    "Flood Monitoring"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Rice Sack",
+    "Tea Glass",
+    "Wooden Boat",
+    "Bamboo Basket",
+    "Agricultural Tools"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "Azan",
+    "Market Activity",
+    "River Water Movement",
+    "Village Conversations"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Fresh Fish",
+    "Wet Soil",
+    "Tea Steam",
+    "Rice Harvest"
+  ],
+
+  "childhood_memory_dna": [
+    "Boat Journeys",
+    "Swimming In Canals",
+    "Village Football",
+    "Harvest Season Activities",
+    "Eid Gatherings"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Agricultural Trading",
+      "Fishing Activities"
+    ],
+
+    "monsoon": [
+      "Floodplain Expansion",
+      "Boat Dependency",
+      "River Navigation"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Village Sports",
+      "Wedding Season"
+    ]
+  },
+
+  "night_dna": [
+    "Tea Stall Adda",
+    "Village Market Lights",
+    "Quiet Riverbanks",
+    "Community Gatherings"
+  ],
+
+  "risk_dna": [
+    "Flood Risk",
+    "River Erosion",
+    "Agricultural Dependency",
+    "Climate Variability"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Middle East Migration",
+    "Student Migration",
+    "Seasonal Workforce Movement"
+  ],
+
+  "commercial_dna": [
+    "Agricultural Supply Chain",
+    "Fish Commerce",
+    "Migration Driven Investment",
+    "Regional Trade Networks"
+  ],
+
+  "memory_dna": [
+    "Arial Khan Flood Memories",
+    "Boat Race Traditions",
+    "Harvest Seasons",
+    "Village Fair Stories",
+    "Migration Success Narratives"
+  ],
+
+  "micro_dna": [
+    "Boat Moored Beside Canal",
+    "Rice Drying In Courtyard",
+    "Tea Stall Near Village Market",
+    "Fishing Net Hanging On Bamboo Fence",
+    "Children Playing Football On Open Field",
+    "Fog Covering Winter Morning",
+    "Farmer Returning Home At Sunset",
+    "Canal Side Bazaar Activity",
+    "Village Mosque Loudspeaker",
+    "Flood Water Reflecting Evening Sky"
+  ],
+
+  "landmark_dna": [
+    "Arial Khan River",
+    "Kumar River Basin",
+    "Madaripur Town",
+    "Delta Canal Networks",
+    "Traditional Agricultural Belt"
+  ],
+
+  "identity_markers": [
+    "Arial Khan Civilization",
+    "River Delta Heritage",
+    "Migration Network Society",
+    "Agricultural Commerce",
+    "Central Delta Identity"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
