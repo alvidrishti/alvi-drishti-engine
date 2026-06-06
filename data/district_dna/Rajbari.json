@@ -1,0 +1,304 @@
+{
+  "district_id": "BD-RAJ-062",
+
+  "district_name": "Rajbari",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Padma Gateway",
+    "Rail-River Heritage",
+    "Agricultural Trade Corridor",
+    "Western Entry Point",
+    "River Junction Civilization"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Padma River",
+      "Madhumati Influence",
+      "Floodplain Agriculture",
+      "Daulatdia River Corridor",
+      "Western Transport Gateway"
+    ],
+
+    "terrain": [
+      "Alluvial Floodplain",
+      "Riverbank Settlements",
+      "Agricultural Plains",
+      "Transport Corridor Zones"
+    ],
+
+    "river_dependency_score": 99,
+    "gateway_score": 100,
+    "trade_corridor_score": 98
+  },
+
+  "historical_dna": [
+    "Padma River Commerce",
+    "Railway Expansion Heritage",
+    "Daulatdia Transit History",
+    "Agricultural Market Development",
+    "Western Bengal Connectivity"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Transport Services",
+      "Trade",
+      "River Commerce"
+    ],
+
+    "secondary": [
+      "Livestock",
+      "Retail Business",
+      "Fisheries"
+    ],
+
+    "economic_identity": [
+      "Transit Economy",
+      "Agricultural Economy",
+      "Gateway Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Trader",
+    "Transport Worker",
+    "Ferry Worker",
+    "Business Owner",
+    "Teacher"
+  ],
+
+  "transport_dna": {
+    "major_routes": [
+      "Daulatdia Ferry Corridor",
+      "Dhaka-Western Bangladesh Route",
+      "Rail Connectivity Network"
+    ],
+
+    "transport_identity": [
+      "National Transit Hub",
+      "River Crossing Gateway",
+      "Logistics Corridor"
+    ]
+  },
+
+  "river_dna": [
+    "Padma Dependency",
+    "Ferry Culture",
+    "River Trade Networks",
+    "Floodplain Adaptation",
+    "Riverbank Commerce"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Jute Production",
+    "Vegetable Farming",
+    "Mustard Farming",
+    "Commercial Agriculture"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Padma Fish",
+    "Milk Tea",
+    "Pitha",
+    "Beef Curry",
+    "Traditional Bengali Cuisine"
+  ],
+
+  "market_dna": [
+    "Agricultural Wholesale Markets",
+    "Transit Commerce",
+    "Ferry Terminal Economy",
+    "Regional Trade Centers",
+    "Livestock Markets"
+  ],
+
+  "festival_dna": [
+    "Eid Homecoming Rush",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Community Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Rajbari Dialect",
+      "Padma River Expressions",
+      "Trade Corridor Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Religious Networks",
+    "Eid Congregation Culture"
+  ],
+
+  "social_dna": [
+    "Transit Community Interactions",
+    "Agricultural Family Networks",
+    "Market Based Relationships",
+    "Village Cooperation"
+  ],
+
+  "emotion_dna": [
+    "Gateway Pride",
+    "River Attachment",
+    "Agricultural Identity",
+    "Community Responsibility",
+    "Regional Importance"
+  ],
+
+  "visual_dna": [
+    "Padma River Horizon",
+    "Daulatdia Ferry Activity",
+    "Railway Tracks",
+    "Agricultural Fields",
+    "Transport Corridors"
+  ],
+
+  "color_palette_dna": [
+    "Padma Blue",
+    "Transit Gray",
+    "Harvest Gold",
+    "Field Green",
+    "Mud Brown"
+  ],
+
+  "behavior_dna": [
+    "Market Bargaining",
+    "Transport Coordination",
+    "Tea Stall Discussion",
+    "Agricultural Planning",
+    "River Monitoring"
+  ],
+
+  "object_dna": [
+    "Ferry Ticket",
+    "Rice Sack",
+    "Tea Glass",
+    "Fishing Net",
+    "Railway Signal",
+    "Transport Ledger"
+  ],
+
+  "sound_dna": [
+    "Ferry Horn",
+    "Train Movement",
+    "Market Activity",
+    "River Waves",
+    "Azan"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Tea Steam",
+    "Fresh Fish",
+    "Wet Soil",
+    "Transport Terminal Atmosphere"
+  ],
+
+  "childhood_memory_dna": [
+    "Ferry Crossings",
+    "Train Watching",
+    "Village Football",
+    "Padma River Visits",
+    "Harvest Season Activities"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Agricultural Trading",
+      "Transit Activity"
+    ],
+    "monsoon": [
+      "Padma Expansion",
+      "Flood Monitoring",
+      "River Dependency"
+    ],
+    "winter": [
+      "Harvest Season",
+      "Transport Peak Activity"
+    ]
+  },
+
+  "night_dna": [
+    "Ferry Terminal Lights",
+    "Highway Traffic",
+    "Tea Stall Adda",
+    "Transit Economy Activity"
+  ],
+
+  "risk_dna": [
+    "River Erosion",
+    "Flood Risk",
+    "Transport Dependency",
+    "Climate Vulnerability"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Transit Workforce Mobility",
+    "Student Migration"
+  ],
+
+  "commercial_dna": [
+    "Transit Commerce",
+    "Agricultural Supply Chains",
+    "River Trade Networks",
+    "National Logistics Connectivity"
+  ],
+
+  "memory_dna": [
+    "Daulatdia Ferry Heritage",
+    "Padma Flood Stories",
+    "Railway Memories",
+    "Harvest Traditions",
+    "Transit Corridor Evolution"
+  ],
+
+  "micro_dna": [
+    "Ferry Waiting At Daulatdia Ghat",
+    "Truck Queue Near River Crossing",
+    "Tea Stall Beside Highway",
+    "Train Passing Through Rural Landscape",
+    "Rice Sacks Loaded For Transport",
+    "Padma Sunset Reflection",
+    "Market Crowd Before Eid",
+    "Fog Covering Railway Line",
+    "Boat Moving Across Wide River",
+    "Farmers Gathering At Wholesale Market"
+  ],
+
+  "landmark_dna": [
+    "Daulatdia Ghat",
+    "Padma River",
+    "Rajbari Town",
+    "Railway Heritage Corridors",
+    "Agricultural Trade Centers"
+  ],
+
+  "identity_markers": [
+    "Padma Gateway",
+    "Rail-River Heritage",
+    "Agricultural Trade Corridor",
+    "Western Entry Point",
+    "River Junction Civilization"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
