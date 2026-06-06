@@ -1,15 +1,106 @@
 {
   "profession": "Farmer",
 
+  "version": "1.0",
+
   "sector": "Agriculture",
 
-  "income_pattern": "Seasonal",
+  "sub_sectors": [
+    "Crop Farming",
+    "Vegetable Farming",
+    "Fruit Farming",
+    "Livestock",
+    "Poultry"
+  ],
 
-  "physical_demand": "High",
+  "income_profile": {
+    "income_pattern": "Seasonal",
+    "income_stability": "Low",
+    "income_growth_potential": "Medium",
+    "financial_risk": "High"
+  },
 
-  "economic_risk": "High",
+  "work_profile": {
+    "physical_demand": "Very High",
+    "mental_demand": "Medium",
+    "working_hours": "Sunrise to Sunset",
+    "work_environment": "Outdoor"
+  },
 
-  "technology_adoption": "Low-Medium",
+  "education_profile": {
+    "minimum_education": "None to Secondary",
+    "skill_dependency": "High",
+    "technology_literacy": "Low-Medium"
+  },
+
+  "decision_profile": {
+    "decision_style": [
+      "Experience Driven",
+      "Weather Driven",
+      "Market Driven"
+    ],
+
+    "risk_tolerance": "Medium",
+
+    "planning_horizon": "Seasonal"
+  },
+
+  "dependency_profile": {
+    "weather_dependency": 95,
+    "market_dependency": 85,
+    "government_dependency": 70,
+    "technology_dependency": 40,
+    "community_dependency": 60
+  },
+
+  "primary_goals": [
+    "Stable Crop Production",
+    "Family Income",
+    "Land Preservation",
+    "Debt Reduction",
+    "Business Expansion"
+  ],
+
+  "primary_concerns": [
+    "Flood",
+    "Drought",
+    "Crop Disease",
+    "Market Price Volatility",
+    "Input Cost Increase",
+    "Natural Disaster"
+  ],
+
+  "key_assets": [
+    "Agricultural Land",
+    "Livestock",
+    "Irrigation Access",
+    "Farming Equipment",
+    "Storage Facilities"
+  ],
+
+  "common_skills": [
+    "Crop Planning",
+    "Seed Selection",
+    "Irrigation Management",
+    "Pest Control",
+    "Harvest Management",
+    "Market Negotiation"
+  ],
+
+  "psychology_profile": {
+    "future_orientation": "Medium",
+    "adaptability": "Medium",
+    "uncertainty_exposure": "Very High",
+    "community_orientation": "High"
+  },
+
+  "reality_factors": {
+    "environment_factor": 95,
+    "economic_factor": 85,
+    "technology_factor": 40,
+    "social_factor": 70,
+    "policy_factor": 65
+  },
 
   "dataset_version": "1.0"
 }
