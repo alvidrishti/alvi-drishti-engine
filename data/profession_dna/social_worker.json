@@ -1,0 +1,239 @@
+{
+  "profession_id": "PROF_SOCIAL_WORKER_001",
+
+  "profession": "Social Worker",
+
+  "sector": "Social Development",
+
+  "sub_sector": "Community Support And Human Services",
+
+  "core_identity": [
+    "Community Advocate",
+    "Human Support Facilitator",
+    "Social Protection Provider",
+    "Development Catalyst",
+    "Vulnerability Response Specialist"
+  ],
+
+  "profession_archetype": [
+    "Helper",
+    "Advocate",
+    "Protector",
+    "Community Builder"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary And Project Based",
+
+    "income_sources": [
+      "NGO Employment",
+      "Development Projects",
+      "Community Programs",
+      "Humanitarian Initiatives",
+      "Social Research Activities"
+    ],
+
+    "peak_income_periods": [
+      "Major Project Launch",
+      "Emergency Response Programs",
+      "International Funding Cycles"
+    ],
+
+    "financial_stress_periods": [
+      "Project Closure",
+      "Funding Shortage"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Human Centered",
+      "Needs Based",
+      "Empathy Driven",
+      "Impact Focused"
+    ],
+
+    "trust_sources": [
+      "Community Feedback",
+      "Field Observation",
+      "Research Data",
+      "Development Frameworks"
+    ],
+
+    "fear_drivers": [
+      "Community Harm",
+      "Project Failure",
+      "Resource Shortage",
+      "Loss Of Trust"
+    ],
+
+    "motivation_drivers": [
+      "Helping People",
+      "Social Change",
+      "Community Development",
+      "Human Impact"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Community Visits",
+      "Beneficiary Assessment",
+      "Case Documentation",
+      "Stakeholder Meetings",
+      "Support Coordination"
+    ],
+
+    "weekly_patterns": [
+      "Field Monitoring",
+      "Program Evaluation",
+      "Community Awareness Sessions",
+      "Reporting Activities"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Community Engagement",
+      "Counseling",
+      "Case Management",
+      "Conflict Resolution",
+      "Communication",
+      "Project Coordination"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Field Documentation Tools",
+      "Community Network",
+      "Transportation Access",
+      "Training Resources",
+      "Mobile Communication"
+    ]
+  },
+
+  "emotion_dna": [
+    "Empathy",
+    "Compassion",
+    "Resilience",
+    "Patience",
+    "Service Commitment"
+  ],
+
+  "memory_dna": [
+    "First Community Intervention",
+    "Disaster Response Experience",
+    "Family Rehabilitation Success",
+    "Community Transformation Story",
+    "Beneficiary Achievement"
+  ],
+
+  "social_dna": {
+    "community_role": "Support Facilitator",
+
+    "social_status": "Development Professional",
+
+    "community_connections": [
+      "Families",
+      "Children",
+      "Community Leaders",
+      "NGOs",
+      "Government Services",
+      "Volunteers"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Impact Oriented",
+      "Cost Conscious",
+      "Utility Focused"
+    ],
+
+    "purchase_triggers": [
+      "Community Benefit",
+      "Operational Efficiency",
+      "Human Impact",
+      "Long Term Sustainability"
+    ],
+
+    "purchase_barriers": [
+      "Resource Waste",
+      "Low Community Value",
+      "Poor Accessibility"
+    ]
+  },
+
+  "visual_dna": [
+    "Community Meeting",
+    "Field Visit",
+    "Village Gathering",
+    "Awareness Session",
+    "Development Workshop"
+  ],
+
+  "object_dna": [
+    "Field Notebook",
+    "Survey Form",
+    "Community Map",
+    "Awareness Materials",
+    "ID Card",
+    "Training Toolkit"
+  ],
+
+  "sound_dna": [
+    "Community Discussions",
+    "Awareness Sessions",
+    "Children Playing",
+    "Village Meetings",
+    "Training Activities"
+  ],
+
+  "smell_dna": [
+    "Community Center",
+    "Rural Environment",
+    "Field Office",
+    "Training Materials",
+    "Outdoor Gatherings"
+  ],
+
+  "micro_moment_dna": [
+    "Listening To Community Concern",
+    "Helping Vulnerable Family",
+    "Conducting Awareness Session",
+    "Documenting Case Report",
+    "Celebrating Community Success"
+  ],
+
+  "risk_dna": [
+    "Burnout",
+    "Emotional Fatigue",
+    "Funding Instability",
+    "Community Conflict",
+    "Project Failure"
+  ],
+
+  "aspiration_dna": [
+    "Large Scale Social Impact",
+    "Community Empowerment",
+    "Policy Influence",
+    "Human Development",
+    "Sustainable Change"
+  ],
+
+  "identity_markers": [
+    "Field Work",
+    "Community Engagement",
+    "Human Support",
+    "Development Programs"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
