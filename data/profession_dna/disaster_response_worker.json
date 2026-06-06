@@ -1,0 +1,261 @@
+{
+  "profession_id": "PROF_DISASTER_RESPONSE_WORKER_001",
+
+  "profession": "Disaster Response Worker",
+
+  "sector": "Emergency Management",
+
+  "sub_sector": "Disaster Response And Humanitarian Relief",
+
+  "core_identity": [
+    "Human Survival Protector",
+    "Emergency Response Specialist",
+    "Community Resilience Builder",
+    "Crisis Coordinator",
+    "Disaster Relief Facilitator"
+  ],
+
+  "profession_archetype": [
+    "Protector",
+    "Responder",
+    "Coordinator",
+    "Humanitarian"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Survival Civilization",
+
+    "secondary_layers": [
+      "Climate Adaptation",
+      "Humanitarian Relief",
+      "Disaster Recovery",
+      "Community Resilience"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly And Mission Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary And Project Based",
+
+    "income_sources": [
+      "NGO Employment",
+      "Government Programs",
+      "Emergency Missions",
+      "Humanitarian Projects"
+    ],
+
+    "peak_income_periods": [
+      "Major Disaster Events",
+      "Emergency Relief Programs"
+    ],
+
+    "financial_stress_periods": [
+      "Project Funding Gaps",
+      "Mission Downtime"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Rapid Response",
+      "Human Life First",
+      "Risk Prioritized",
+      "Resource Optimized"
+    ],
+
+    "trust_sources": [
+      "Field Intelligence",
+      "Weather Alerts",
+      "Emergency Protocols",
+      "Local Community Reports"
+    ],
+
+    "fear_drivers": [
+      "Loss Of Life",
+      "Relief Failure",
+      "Delayed Response",
+      "Resource Shortage"
+    ],
+
+    "motivation_drivers": [
+      "Saving Lives",
+      "Community Recovery",
+      "Humanitarian Impact",
+      "Emergency Effectiveness"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Situation Monitoring",
+      "Emergency Coordination",
+      "Resource Distribution",
+      "Community Assessment",
+      "Field Reporting"
+    ],
+
+    "weekly_patterns": [
+      "Preparedness Training",
+      "Risk Mapping",
+      "Simulation Exercises",
+      "Relief Logistics Planning"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Emergency Response",
+      "First Aid",
+      "Logistics Coordination",
+      "Risk Assessment",
+      "Community Mobilization",
+      "Crisis Communication"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Emergency Kit",
+      "Communication Equipment",
+      "Transportation Access",
+      "Protective Gear",
+      "Relief Distribution Tools"
+    ]
+  },
+
+  "emotion_dna": [
+    "Courage",
+    "Compassion",
+    "Urgency",
+    "Responsibility",
+    "Resilience"
+  ],
+
+  "memory_dna": [
+    "First Disaster Deployment",
+    "Major Flood Response",
+    "Cyclone Shelter Operation",
+    "Successful Rescue Mission",
+    "Community Recovery Project"
+  ],
+
+  "social_dna": {
+    "community_role": "Emergency Protector",
+
+    "social_status": "Humanitarian Frontliner",
+
+    "community_connections": [
+      "Affected Families",
+      "Volunteers",
+      "Government Agencies",
+      "NGOs",
+      "Rescue Teams"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Flood Zones",
+      "Cyclone Shelters",
+      "Disaster Areas",
+      "Relief Camps",
+      "Emergency Operations Centers"
+    ],
+
+    "weather_dependency": "Extreme",
+
+    "hazard_exposure": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Reliability Focused",
+      "Durability Driven",
+      "Emergency Utility Based"
+    ],
+
+    "purchase_triggers": [
+      "Life Saving Capability",
+      "Field Reliability",
+      "Rapid Deployment",
+      "Disaster Readiness"
+    ],
+
+    "purchase_barriers": [
+      "Equipment Failure Risk",
+      "Low Reliability",
+      "High Maintenance"
+    ]
+  },
+
+  "visual_dna": [
+    "Flood Rescue Boat",
+    "Cyclone Shelter",
+    "Relief Distribution",
+    "Emergency Operations Center",
+    "Rescue Team Deployment"
+  ],
+
+  "object_dna": [
+    "Life Jacket",
+    "Relief Package",
+    "Emergency Radio",
+    "First Aid Kit",
+    "Rescue Rope",
+    "Disaster Assessment Form"
+  ],
+
+  "sound_dna": [
+    "Emergency Siren",
+    "Rescue Team Communication",
+    "Helicopter Noise",
+    "Storm Winds",
+    "Relief Distribution Activity"
+  ],
+
+  "smell_dna": [
+    "Flood Water",
+    "Wet Soil",
+    "Relief Supplies",
+    "Emergency Shelter Environment",
+    "Rain And Mud"
+  ],
+
+  "micro_moment_dna": [
+    "Rescuing Flood Victim",
+    "Distributing Relief Package",
+    "Activating Emergency Alert",
+    "Setting Up Shelter",
+    "Reuniting Family Members"
+  ],
+
+  "risk_dna": [
+    "Extreme Weather Exposure",
+    "Disease Outbreak",
+    "Resource Shortage",
+    "Physical Injury",
+    "Psychological Trauma"
+  ],
+
+  "aspiration_dna": [
+    "Zero Preventable Deaths",
+    "Stronger Community Resilience",
+    "Disaster Prepared Nation",
+    "Rapid Emergency Response",
+    "Long Term Recovery Success"
+  ],
+
+  "identity_markers": [
+    "Emergency Deployment",
+    "Relief Operations",
+    "Community Rescue",
+    "Disaster Recovery Support"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
