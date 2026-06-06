@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-SHE-036",
+
+  "district_name": "Sherpur",
+
+  "division": "Mymensingh",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Garo Hills Foothills",
+    "Northern Border Region",
+    "Forest Landscape",
+    "Hill Plain Transition Zone",
+    "Indigenous Settlement Area"
+  ],
+
+  "climate_dna": [
+    "Heavy Monsoon",
+    "Cool Winter",
+    "Forest Humidity",
+    "Seasonal Fog",
+    "Moderate Summer Heat"
+  ],
+
+  "light_dna": [
+    "Forest Filtered Morning Light",
+    "Hill Edge Sunrise",
+    "Madhutila Sunset Glow",
+    "Fog Covered Woodland Dawn",
+    "Golden Forest Afternoon"
+  ],
+
+  "architecture_dna": [
+    "Indigenous Village Housing",
+    "Forest Edge Settlements",
+    "Raised Rural Homes",
+    "Traditional Bamboo Structures",
+    "Eco Tourism Facilities"
+  ],
+
+  "transport_dna": [
+    "Motorcycle",
+    "Rickshaw",
+    "Local Bus",
+    "Auto Rickshaw",
+    "Forest Road Transport"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Forest Worker",
+    "Small Trader",
+    "Teacher",
+    "Tourism Worker",
+    "Day Laborer"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Forest Fruits",
+    "Milk Tea",
+    "Pitha",
+    "Freshwater Fish",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Forest Resource Collection",
+    "Community Gathering",
+    "Tea Stall Discussion",
+    "Border Market Trading",
+    "Eco Tourism Activity",
+    "Traditional Cultural Events"
+  ],
+
+  "object_dna": [
+    "Bamboo Basket",
+    "Forest Collection Bag",
+    "Tea Glass",
+    "Wooden Stool",
+    "Traditional Farming Tool",
+    "Market Sack",
+    "Bamboo Fence"
+  ],
+
+  "memory_dna": [
+    "Madhutila Visit",
+    "Forest Picnic Memory",
+    "Winter Fog Morning",
+    "Border Area Journey",
+    "Traditional Festival Gathering"
+  ],
+
+  "sound_dna": [
+    "Forest Birds",
+    "Morning Azan",
+    "Wind Through Trees",
+    "Market Crowd Noise",
+    "Village Conversation"
+  ],
+
+  "smell_dna": [
+    "Forest Soil",
+    "Wet Leaves",
+    "Tea Steam",
+    "Morning Fog Moisture",
+    "Fresh Bamboo"
+  ],
+
+  "landmark_dna": [
+    "Madhutila Eco Park",
+    "Garo Hills Gateway",
+    "Nalitabari Border Region",
+    "Forest Tourism Areas"
+  ],
+
+  "micro_dna": [
+    "Forest Road Through Sal Trees",
+    "Bamboo Basket Hanging On Wall",
+    "Morning Fog Across Forest Edge",
+    "Madhutila Viewpoint Crowd",
+    "Indigenous Village Pathway",
+    "Tea Stall Beside Forest Road",
+    "Wooden Bridge Over Small Stream",
+    "Border Market Day Activity",
+    "Forest Bird Flock At Dawn",
+    "Hill Horizon Behind Rice Field"
+  ],
+
+  "identity_markers": [
+    "Garo Hills Gateway",
+    "Madhutila Heritage",
+    "Forest Culture",
+    "Indigenous Identity",
+    "Hill Forest Landscape"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
