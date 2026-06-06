@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-PAN-008",
+
+  "district_name": "Panchagarh",
+
+  "division": "Rangpur",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Northernmost Bangladesh",
+    "Border Landscape",
+    "Tea Garden Region",
+    "Stone Bearing River Basin",
+    "Open Northern Plain"
+  ],
+
+  "climate_dna": [
+    "Extreme Winter",
+    "Dense Winter Fog",
+    "Cool Northern Air",
+    "Humid Monsoon",
+    "Low Summer Humidity"
+  ],
+
+  "light_dna": [
+    "Kanchenjunga Dawn Visibility",
+    "Tea Garden Morning Light",
+    "Winter Fog Diffusion",
+    "Golden Tea Field Sunset",
+    "Crystal Clear Winter Sky"
+  ],
+
+  "architecture_dna": [
+    "Tea Estate Structures",
+    "Rural Tin Roof Homes",
+    "Border Market Buildings",
+    "Agricultural Storage Facilities",
+    "Stone Trade Warehouses"
+  ],
+
+  "transport_dna": [
+    "Motorcycle",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Stone Transport Truck",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Tea Worker",
+    "Farmer",
+    "Stone Collector",
+    "Small Trader",
+    "Driver",
+    "Agricultural Laborer"
+  ],
+
+  "food_dna": [
+    "Tea",
+    "Rice",
+    "Milk Tea",
+    "Winter Pitha",
+    "Fresh Vegetables",
+    "Local Fish"
+  ],
+
+  "behavior_dna": [
+    "Tea Leaf Collection",
+    "Stone Sorting Activity",
+    "Winter Morning Tea Gathering",
+    "Border Market Trading",
+    "Agricultural Market Bargaining",
+    "Tea Garden Work Routine"
+  ],
+
+  "object_dna": [
+    "Tea Basket",
+    "Tea Leaf Sack",
+    "Stone Collection Basket",
+    "Tea Glass",
+    "Tea Worker Hat",
+    "Crop Storage Bag",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Tea Garden Childhood",
+    "Kanchenjunga Sunrise Memory",
+    "Winter Fog Morning",
+    "Tea Estate Path",
+    "Border Market Experience"
+  ],
+
+  "sound_dna": [
+    "Tea Garden Worker Conversation",
+    "Morning Azan",
+    "Tea Processing Activity",
+    "Market Crowd Noise",
+    "Motorcycle Movement"
+  ],
+
+  "smell_dna": [
+    "Fresh Tea Leaves",
+    "Tea Factory Aroma",
+    "Morning Fog Moisture",
+    "Fresh Soil",
+    "Wood Smoke"
+  ],
+
+  "landmark_dna": [
+    "Banglabandha Land Port",
+    "Tea Garden Belt",
+    "Karatoa Region",
+    "Northern Border Corridor"
+  ],
+
+  "micro_dna": [
+    "Kanchenjunga Visible On Clear Winter Morning",
+    "Tea Basket Carried On Back",
+    "Stone Collection Along River Bed",
+    "Tea Estate Walking Path",
+    "Border Truck Queue",
+    "Winter Fog Over Tea Garden",
+    "Tea Leaf Drying Activity",
+    "Northernmost Bangladesh Signboard",
+    "Stone Sorting Yard",
+    "Tea Garden Bicycle Commute"
+  ],
+
+  "identity_markers": [
+    "Tea Culture",
+    "Kanchenjunga Visibility",
+    "Stone Economy",
+    "Northern Border Identity",
+    "Bangladesh Northern Gateway"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
