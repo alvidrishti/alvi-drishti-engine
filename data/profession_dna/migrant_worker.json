@@ -1,0 +1,298 @@
+{
+  "profession_id": "PROF_MIGRANT_WORKER_001",
+
+  "profession": "Migrant Worker",
+
+  "sector": "Labor Migration",
+
+  "sub_sector": "Domestic And Overseas Employment",
+
+  "core_identity": [
+    "Economic Migrant",
+    "Family Provider",
+    "Remittance Contributor",
+    "Opportunity Seeker",
+    "Sacrifice Driven Worker"
+  ],
+
+  "profession_archetype": [
+    "Provider",
+    "Survivor",
+    "Explorer",
+    "Builder"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Migration Civilization",
+
+    "secondary_layers": [
+      "Remittance Economy",
+      "Family Mobility",
+      "Labor Export",
+      "Economic Transformation",
+      "Urbanization"
+    ]
+  },
+
+  "migration_dna": {
+    "migration_types": [
+      "Village To City",
+      "District To Dhaka",
+      "Bangladesh To Gulf",
+      "Bangladesh To Malaysia",
+      "Bangladesh To Europe"
+    ],
+
+    "migration_drivers": [
+      "Income Opportunity",
+      "Family Survival",
+      "Debt Repayment",
+      "Social Mobility",
+      "Future Security"
+    ],
+
+    "migration_costs": [
+      "Family Separation",
+      "Cultural Adjustment",
+      "Homesickness",
+      "Financial Risk"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary And Remittance Based",
+
+    "income_sources": [
+      "Construction Labor",
+      "Factory Work",
+      "Domestic Services",
+      "Industrial Employment",
+      "Overseas Contracts"
+    ],
+
+    "peak_income_periods": [
+      "Contract Renewal",
+      "Overtime Season",
+      "Economic Boom Periods"
+    ],
+
+    "financial_stress_periods": [
+      "Job Loss",
+      "Contract Expiration",
+      "Recruitment Debt"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Family First",
+      "Income Maximization",
+      "Survival Focused",
+      "Long Term Sacrifice"
+    ],
+
+    "trust_sources": [
+      "Former Migrants",
+      "Recruitment Networks",
+      "Family Advice",
+      "Community Experience"
+    ],
+
+    "fear_drivers": [
+      "Job Loss",
+      "Visa Problems",
+      "Family Emergency",
+      "Income Disruption",
+      "Workplace Exploitation"
+    ],
+
+    "motivation_drivers": [
+      "Family Prosperity",
+      "House Construction",
+      "Children Education",
+      "Debt Freedom",
+      "Economic Mobility"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Long Work Hours",
+      "Family Communication",
+      "Budget Tracking",
+      "Remittance Planning",
+      "Workplace Adaptation"
+    ],
+
+    "weekly_patterns": [
+      "Sending Money Home",
+      "Community Gatherings",
+      "Contract Monitoring",
+      "Future Planning"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Physical Endurance",
+      "Adaptability",
+      "Work Discipline",
+      "Cross Cultural Adjustment",
+      "Basic Financial Planning",
+      "Communication"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Passport",
+      "Work Permit",
+      "Employment Contract",
+      "Mobile Banking Access",
+      "Family Support Network"
+    ]
+  },
+
+  "emotion_dna": [
+    "Sacrifice",
+    "Loneliness",
+    "Hope",
+    "Responsibility",
+    "Determination"
+  ],
+
+  "memory_dna": [
+    "Leaving Home",
+    "First Overseas Flight",
+    "First Remittance Sent",
+    "Family Reunion",
+    "House Construction Milestone"
+  ],
+
+  "family_dna": {
+    "family_role": "Primary Provider",
+
+    "family_expectations": [
+      "Regular Remittance",
+      "Financial Support",
+      "Future Security",
+      "Social Mobility"
+    ],
+
+    "family_pressures": [
+      "Medical Expenses",
+      "Education Costs",
+      "Debt Repayment",
+      "House Construction"
+    ]
+  },
+
+  "social_dna": {
+    "community_role": "Economic Contributor",
+
+    "social_status": "Provider",
+
+    "community_connections": [
+      "Family",
+      "Fellow Migrants",
+      "Recruitment Networks",
+      "Home Community",
+      "Workplace Groups"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Family Focused",
+      "Savings Oriented",
+      "Future Driven"
+    ],
+
+    "purchase_triggers": [
+      "House Building",
+      "Family Welfare",
+      "Education",
+      "Income Growth"
+    ],
+
+    "purchase_barriers": [
+      "Financial Uncertainty",
+      "Debt Burden",
+      "Job Instability"
+    ]
+  },
+
+  "visual_dna": [
+    "Airport Departure",
+    "Worker Dormitory",
+    "Construction Site",
+    "Remittance Center",
+    "Family Video Call"
+  ],
+
+  "object_dna": [
+    "Passport",
+    "Work Permit",
+    "Mobile Phone",
+    "Remittance Receipt",
+    "Travel Bag",
+    "Employment Contract"
+  ],
+
+  "sound_dna": [
+    "Airport Announcements",
+    "Construction Activity",
+    "Family Voice Call",
+    "Factory Noise",
+    "Foreign City Sounds"
+  ],
+
+  "smell_dna": [
+    "Worker Dormitory",
+    "Industrial Workplace",
+    "Airport Environment",
+    "Foreign City Air",
+    "Home Village Memory"
+  ],
+
+  "micro_moment_dna": [
+    "Sending Money Home",
+    "Video Calling Family",
+    "Receiving Child's Exam Result",
+    "Renewing Work Contract",
+    "Returning Home After Years"
+  ],
+
+  "risk_dna": [
+    "Workplace Injury",
+    "Contract Fraud",
+    "Visa Problems",
+    "Family Separation",
+    "Mental Stress",
+    "Economic Exploitation"
+  ],
+
+  "aspiration_dna": [
+    "Permanent Financial Stability",
+    "Own House",
+    "Children University Education",
+    "Business Ownership",
+    "Debt Free Life",
+    "Respect In Community"
+  ],
+
+  "identity_markers": [
+    "Remittance Sending",
+    "Family Sacrifice",
+    "Migration Journey",
+    "Economic Provider"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
