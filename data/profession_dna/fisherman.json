@@ -1,0 +1,229 @@
+{
+  "profession_id": "PROF_FISHERMAN_001",
+
+  "profession": "Fisherman",
+
+  "sector": "Fisheries",
+
+  "sub_sector": "Capture Fishing And Aquaculture",
+
+  "core_identity": [
+    "Water Provider",
+    "River Civilization Worker",
+    "Nature Dependent Earner",
+    "Risk Bearing Producer",
+    "Fishing Community Member"
+  ],
+
+  "profession_archetype": [
+    "Provider",
+    "Explorer",
+    "Survivor",
+    "Resource Harvester"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Seasonal",
+
+    "income_stability": "Low-Medium",
+
+    "cashflow_type": "Catch Based",
+
+    "income_sources": [
+      "River Fishing",
+      "Haor Fishing",
+      "Pond Aquaculture",
+      "Fish Trading"
+    ],
+
+    "peak_income_periods": [
+      "High Catch Season"
+    ],
+
+    "financial_stress_periods": [
+      "Fishing Ban Season",
+      "Storm Season"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Nature Driven",
+      "Experience Based",
+      "Community Influenced",
+      "Risk Adaptive"
+    ],
+
+    "trust_sources": [
+      "Senior Fishermen",
+      "Weather Forecast",
+      "Fishing Community",
+      "Local Traders"
+    ],
+
+    "fear_drivers": [
+      "Storm",
+      "Low Fish Availability",
+      "Boat Damage",
+      "Fishing Restrictions"
+    ],
+
+    "motivation_drivers": [
+      "Higher Catch",
+      "Family Support",
+      "Boat Ownership",
+      "Income Stability"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Early Morning Departure",
+      "Net Inspection",
+      "Fishing Activity",
+      "Catch Sorting",
+      "Fish Market Visit"
+    ],
+
+    "weekly_patterns": [
+      "Boat Maintenance",
+      "Net Repair",
+      "Fish Trading"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Fishing Techniques",
+      "Net Handling",
+      "Boat Navigation",
+      "Weather Reading",
+      "Fish Preservation"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Fishing Boat",
+      "Fishing Net",
+      "Storage Containers",
+      "Safety Equipment"
+    ]
+  },
+
+  "emotion_dna": [
+    "Freedom",
+    "Uncertainty",
+    "Resilience",
+    "Nature Respect",
+    "Family Responsibility"
+  ],
+
+  "memory_dna": [
+    "First Fishing Trip",
+    "Big Catch Story",
+    "Storm Survival Experience",
+    "Family Fishing Tradition",
+    "Boat Purchase Memory"
+  ],
+
+  "social_dna": {
+    "community_role": "Food Provider",
+
+    "social_status": "Fishing Community Contributor",
+
+    "community_connections": [
+      "Fishing Groups",
+      "Fish Traders",
+      "Boat Owners",
+      "Local Markets"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Utility Focused",
+      "Price Sensitive",
+      "Durability Driven"
+    ],
+
+    "purchase_triggers": [
+      "Better Catch",
+      "Longer Equipment Life",
+      "Weather Protection"
+    ],
+
+    "purchase_barriers": [
+      "Low Capital",
+      "Seasonal Income",
+      "Market Uncertainty"
+    ]
+  },
+
+  "visual_dna": [
+    "Fishing Boat",
+    "River Horizon",
+    "Fishing Net",
+    "Fish Basket",
+    "Morning Mist"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Boat Paddle",
+    "Fish Basket",
+    "Ice Box",
+    "Raincoat"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Waves",
+    "Bird Calls",
+    "Net Pulling Sounds",
+    "Fish Market Activity"
+  ],
+
+  "smell_dna": [
+    "Fresh Fish",
+    "River Air",
+    "Wet Rope",
+    "Boat Wood",
+    "Morning Mist"
+  ],
+
+  "micro_moment_dna": [
+    "Casting Net",
+    "Checking Weather",
+    "Sorting Catch",
+    "Negotiating Fish Price",
+    "Returning At Sunrise"
+  ],
+
+  "risk_dna": [
+    "Storm",
+    "Boat Accident",
+    "Low Catch",
+    "Fishing Ban",
+    "Market Price Drop"
+  ],
+
+  "aspiration_dna": [
+    "Own Bigger Boat",
+    "Higher Income",
+    "Better Equipment",
+    "Children Education",
+    "Financial Security"
+  ],
+
+  "identity_markers": [
+    "Fishing Net",
+    "Boat Ownership",
+    "Morning River Journey",
+    "Fish Market Presence"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
