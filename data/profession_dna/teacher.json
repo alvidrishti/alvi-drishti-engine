@@ -1,0 +1,234 @@
+{
+  "profession_id": "PROF_TEACHER_001",
+
+  "profession": "Teacher",
+
+  "sector": "Education",
+
+  "sub_sector": "School And Academic Education",
+
+  "core_identity": [
+    "Knowledge Builder",
+    "Future Generation Mentor",
+    "Social Development Contributor",
+    "Community Educator",
+    "Human Capital Creator"
+  ],
+
+  "profession_archetype": [
+    "Mentor",
+    "Guide",
+    "Educator",
+    "Community Leader"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "School Salary",
+      "Private Tuition",
+      "Coaching",
+      "Academic Programs"
+    ],
+
+    "peak_income_periods": [
+      "Exam Season",
+      "Coaching Season"
+    ],
+
+    "financial_stress_periods": [
+      "Unexpected Family Expenses"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Knowledge Driven",
+      "Long Term Thinking",
+      "Responsibility Focused",
+      "Socially Influenced"
+    ],
+
+    "trust_sources": [
+      "Education System",
+      "Academic Community",
+      "Books",
+      "Experienced Teachers"
+    ],
+
+    "fear_drivers": [
+      "Student Failure",
+      "Loss Of Reputation",
+      "Career Stagnation",
+      "Family Financial Pressure"
+    ],
+
+    "motivation_drivers": [
+      "Student Success",
+      "Social Respect",
+      "Knowledge Sharing",
+      "Community Contribution"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Class Preparation",
+      "Teaching",
+      "Student Evaluation",
+      "Lesson Planning",
+      "Academic Guidance"
+    ],
+
+    "weekly_patterns": [
+      "Exam Preparation",
+      "Parent Communication",
+      "Professional Development"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Teaching",
+      "Communication",
+      "Student Management",
+      "Subject Knowledge",
+      "Assessment Design"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Books",
+      "Teaching Materials",
+      "Laptop",
+      "Smartphone",
+      "Educational Resources"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Pride",
+    "Patience",
+    "Empathy",
+    "Achievement Through Students"
+  ],
+
+  "memory_dna": [
+    "First Classroom",
+    "First Successful Student",
+    "Exam Duty Experiences",
+    "School Events",
+    "Student Achievements"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Educator",
+
+    "social_status": "Respected Community Member",
+
+    "community_connections": [
+      "Students",
+      "Parents",
+      "Teachers",
+      "School Administration"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Value Driven",
+      "Education Focused",
+      "Quality Conscious"
+    ],
+
+    "purchase_triggers": [
+      "Educational Benefit",
+      "Long Term Value",
+      "Professional Need"
+    ],
+
+    "purchase_barriers": [
+      "Budget Constraints",
+      "Unnecessary Luxury"
+    ]
+  },
+
+  "visual_dna": [
+    "Classroom",
+    "Whiteboard",
+    "Books",
+    "Students",
+    "School Campus"
+  ],
+
+  "object_dna": [
+    "Marker",
+    "Attendance Register",
+    "Books",
+    "Lesson Plan",
+    "Teacher ID Card"
+  ],
+
+  "sound_dna": [
+    "School Bell",
+    "Student Discussions",
+    "Classroom Teaching",
+    "Morning Assembly",
+    "Exam Hall Silence"
+  ],
+
+  "smell_dna": [
+    "Books",
+    "Paper",
+    "Classroom Air",
+    "Tea",
+    "School Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Taking Attendance",
+    "Explaining Difficult Concepts",
+    "Checking Exam Papers",
+    "Motivating Students",
+    "Meeting Parents"
+  ],
+
+  "risk_dna": [
+    "Burnout",
+    "Workload Pressure",
+    "Career Plateau",
+    "Student Performance Pressure"
+  ],
+
+  "aspiration_dna": [
+    "Student Success",
+    "Professional Growth",
+    "Social Respect",
+    "Educational Impact",
+    "Financial Stability"
+  ],
+
+  "identity_markers": [
+    "Classroom Presence",
+    "Books",
+    "Lesson Planning",
+    "Student Guidance"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
