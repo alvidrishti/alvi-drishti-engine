@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-PIR-032",
+
+  "district_name": "Pirojpur",
+
+  "division": "Barishal",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Canal Network Region",
+    "River Garden Landscape",
+    "Southern Delta Plain",
+    "Orchard Belt",
+    "Waterway Civilization"
+  ],
+
+  "climate_dna": [
+    "Humid River Climate",
+    "Heavy Monsoon",
+    "Warm Winter",
+    "High Humidity",
+    "Seasonal Storm Exposure"
+  ],
+
+  "light_dna": [
+    "Floating Market Sunrise",
+    "Canal Reflection Light",
+    "Guava Orchard Morning Glow",
+    "Golden River Sunset",
+    "Fog Covered Canal Dawn"
+  ],
+
+  "architecture_dna": [
+    "Canal Side Settlements",
+    "Traditional Orchard Homes",
+    "Floating Market Infrastructure",
+    "Wooden River Jetties",
+    "Riverside Market Buildings"
+  ],
+
+  "transport_dna": [
+    "Boat",
+    "Engine Boat",
+    "Launch",
+    "Rickshaw",
+    "Motorcycle"
+  ],
+
+  "occupation_dna": [
+    "Guava Farmer",
+    "Boat Operator",
+    "Trader",
+    "Fisherman",
+    "Small Business Owner",
+    "Farmer"
+  ],
+
+  "food_dna": [
+    "Guava",
+    "River Fish",
+    "Rice",
+    "Milk Tea",
+    "Coconut Based Foods",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "Floating Market Trading",
+    "Boat Based Commerce",
+    "Canal Travel",
+    "Tea Stall Discussion",
+    "Orchard Harvest Activity",
+    "River Market Negotiation"
+  ],
+
+  "object_dna": [
+    "Guava Basket",
+    "Wooden Boat",
+    "Tea Glass",
+    "Boat Rope",
+    "Floating Market Crate",
+    "Fruit Sorting Tray",
+    "Bamboo Basket"
+  ],
+
+  "memory_dna": [
+    "Floating Market Morning",
+    "Guava Harvest Season",
+    "Canal Journey",
+    "Monsoon Waterway Experience",
+    "River Market Gathering"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "Canal Water Movement",
+    "Fruit Market Bargaining",
+    "Morning Azan",
+    "River Trade Activity"
+  ],
+
+  "smell_dna": [
+    "Fresh Guava",
+    "River Air",
+    "Tea Steam",
+    "Wet Wood Jetty",
+    "Canal Water Moisture"
+  ],
+
+  "landmark_dna": [
+    "Swarupkathi Floating Market",
+    "Guava Orchard Belt",
+    "Southern Canal Network",
+    "Historic Water Trade Routes"
+  ],
+
+  "micro_dna": [
+    "Guava Loaded Wooden Boat",
+    "Floating Market Fruit Auction",
+    "Canal Side Tea Stall",
+    "Fruit Basket Floating Beside Boat",
+    "Morning Orchard Harvest",
+    "Wooden Jetty Covered With Fruit Crates",
+    "Boat Queue Inside Canal",
+    "Guava Sorting Activity",
+    "Fog Covered Waterway",
+    "Floating Market Crowd At Sunrise"
+  ],
+
+  "identity_markers": [
+    "Floating Market Culture",
+    "Guava Heritage",
+    "Canal Civilization",
+    "River Garden Identity",
+    "Southern Orchard Economy"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
