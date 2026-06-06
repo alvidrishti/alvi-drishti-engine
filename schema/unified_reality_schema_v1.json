@@ -1,0 +1,34 @@
+{
+  "reality_object": {
+    "id": "",
+    "version": "1.0",
+
+    "district_dna": {
+      "district": "",
+      "division": "",
+      "country": ""
+    },
+
+    "profession_dna": {
+      "profession": "",
+      "sector": ""
+    },
+
+    "life_stage_dna": {
+      "life_stage": "",
+      "age_range": ""
+    },
+
+    "decision_dna": {
+      "decision_type": "",
+      "risk_tolerance": ""
+    },
+
+    "reality_analysis": {
+      "reality_score": 0,
+      "confidence_score": 0,
+      "gap_score": 0,
+      "contradiction_score": 0
+    }
+  }
+}
