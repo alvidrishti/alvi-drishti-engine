@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-MYM-034",
+
+  "district_name": "Mymensingh",
+
+  "division": "Mymensingh",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Old Brahmaputra River Basin",
+    "North Central Floodplain",
+    "Agricultural Landscape",
+    "River Campus Region",
+    "Historic Settlement Zone"
+  ],
+
+  "climate_dna": [
+    "Humid Monsoon",
+    "Moderate Winter",
+    "Seasonal Fog",
+    "Hot Summer",
+    "River Influenced Climate"
+  ],
+
+  "light_dna": [
+    "Old Brahmaputra Sunrise",
+    "Campus Morning Light",
+    "Winter Fog Over River",
+    "Golden Riverside Sunset",
+    "Monsoon Cloud Reflection"
+  ],
+
+  "architecture_dna": [
+    "Bangladesh Agricultural University Campus",
+    "Muktagacha Zamindar Architecture",
+    "Colonial Educational Buildings",
+    "Riverfront Structures",
+    "Traditional Courtyard Homes"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Bus",
+    "Boat"
+  ],
+
+  "occupation_dna": [
+    "Student",
+    "Teacher",
+    "Farmer",
+    "Government Employee",
+    "Trader",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Muktagacha Monda",
+    "Rice",
+    "River Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Campus Discussion Culture",
+    "Tea Stall Debate",
+    "Riverside Evening Gathering",
+    "Agricultural Market Trading",
+    "Student Group Activities",
+    "Cultural Program Participation"
+  ],
+
+  "object_dna": [
+    "Book Stack",
+    "Student ID Card",
+    "Tea Glass",
+    "Monda Box",
+    "Bicycle",
+    "Campus Bench",
+    "Rice Sack"
+  ],
+
+  "memory_dna": [
+    "Campus Life",
+    "Muktagacha Monda Purchase",
+    "Old Brahmaputra Riverside Walk",
+    "Winter Fog Morning",
+    "University Admission Journey"
+  ],
+
+  "sound_dna": [
+    "Campus Announcement",
+    "Morning Azan",
+    "Student Discussion",
+    "Rickshaw Bell",
+    "Riverside Wind"
+  ],
+
+  "smell_dna": [
+    "Fresh Monda",
+    "Tea Steam",
+    "River Air",
+    "Book Paper Smell",
+    "Morning Fog Moisture"
+  ],
+
+  "landmark_dna": [
+    "Bangladesh Agricultural University",
+    "Muktagacha Rajbari",
+    "Old Brahmaputra River",
+    "Shashi Lodge"
+  ],
+
+  "micro_dna": [
+    "Students Sitting Under Campus Tree",
+    "Tea Stall Beside University Gate",
+    "Monda Display In Sweet Shop",
+    "Old Brahmaputra Riverside Bench",
+    "Bicycle Parked Near Academic Building",
+    "Winter Fog Across Campus Field",
+    "Book Fair On University Ground",
+    "Campus Bus Stop Crowd",
+    "Evening Walk Beside River",
+    "Muktagacha Sweet Shop Queue"
+  ],
+
+  "identity_markers": [
+    "Agricultural University",
+    "Old Brahmaputra Heritage",
+    "Muktagacha Monda",
+    "Educational Identity",
+    "River Campus Culture"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
