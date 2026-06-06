@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-JAM-033",
+
+  "district_name": "Jamalpur",
+
+  "division": "Mymensingh",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Jamuna River Basin",
+    "Char Landscape",
+    "Floodplain Geography",
+    "River Erosion Zone",
+    "Northern Agricultural Region"
+  ],
+
+  "climate_dna": [
+    "Humid Monsoon",
+    "Seasonal Flooding",
+    "Cold Winter",
+    "Dense River Fog",
+    "Hot Summer"
+  ],
+
+  "light_dna": [
+    "Char Land Sunrise",
+    "Jamuna Sunset Reflection",
+    "Winter Fog Morning",
+    "Floodplain Golden Evening",
+    "Monsoon Cloud Diffusion"
+  ],
+
+  "architecture_dna": [
+    "Raised Flood Adapted Homes",
+    "Char Settlement Housing",
+    "Tin Roof Villages",
+    "Riverbank Settlements",
+    "Temporary Flood Structures"
+  ],
+
+  "transport_dna": [
+    "Boat",
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Day Laborer",
+    "Boat Operator",
+    "Trader",
+    "Nakshi Kantha Artisan"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables",
+    "Homemade Dairy Foods"
+  ],
+
+  "behavior_dna": [
+    "Flood Preparation Activity",
+    "Char Farming",
+    "Fishing Net Repair",
+    "Tea Stall Discussion",
+    "Riverbank Monitoring",
+    "Community Flood Support"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Boat Rope",
+    "Nakshi Kantha",
+    "Tea Glass",
+    "Rice Sack",
+    "Flood Marker Bamboo",
+    "Bamboo Basket"
+  ],
+
+  "memory_dna": [
+    "Flood Season Memory",
+    "River Erosion Experience",
+    "Char Migration",
+    "Nakshi Kantha Crafting",
+    "Winter Fog Morning"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Current",
+    "Morning Azan",
+    "Market Crowd Noise",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Wet River Soil",
+    "Fresh Fish",
+    "Tea Steam",
+    "Floodplain Mud",
+    "Winter Morning Air"
+  ],
+
+  "landmark_dna": [
+    "Jamuna River Belt",
+    "Char Settlements",
+    "Historic River Trade Routes",
+    "Floodplain Agricultural Areas"
+  ],
+
+  "micro_dna": [
+    "Flood Marker Bamboo Beside House",
+    "Nakshi Kantha Hanging On Veranda",
+    "Boat Pulled Onto Char Land",
+    "River Erosion Crack Near Homestead",
+    "Tea Stall On Embankment",
+    "Children Crossing Sandy Char Path",
+    "Fishing Net Drying Beside House",
+    "Temporary Flood Shelter",
+    "Rice Sack Loaded Boat",
+    "Winter Fog Across Jamuna Char"
+  ],
+
+  "identity_markers": [
+    "Jamuna Char Culture",
+    "Flood Adaptation",
+    "Nakshi Kantha Heritage",
+    "River Economy",
+    "Char Life Identity"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
