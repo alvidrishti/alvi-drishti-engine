@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-NAR-025",
+
+  "district_name": "Narail",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Chitra River Basin",
+    "Southwestern River Plain",
+    "Rural Settlement Landscape",
+    "Agricultural Heartland",
+    "Community Based Village Network"
+  ],
+
+  "climate_dna": [
+    "Humid Monsoon",
+    "Warm Summer",
+    "Cool Winter",
+    "Seasonal Fog",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Chitra Riverside Sunrise",
+    "Golden Paddy Sunset",
+    "Winter Fog Morning",
+    "Riverside Evening Glow",
+    "Village Sports Field Afternoon Light"
+  ],
+
+  "architecture_dna": [
+    "Traditional Riverside Homesteads",
+    "Rural Courtyard Houses",
+    "Community Sports Grounds",
+    "Village Market Structures",
+    "Cultural Heritage Buildings"
+  ],
+
+  "transport_dna": [
+    "Boat",
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Teacher",
+    "Small Trader",
+    "Government Employee",
+    "Sports Organizer"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables",
+    "Traditional Sweets"
+  ],
+
+  "behavior_dna": [
+    "Community Sports Gathering",
+    "Riverside Evening Adda",
+    "Tea Stall Discussion",
+    "Agricultural Market Trading",
+    "Fishing Activity",
+    "Village Fair Participation"
+  ],
+
+  "object_dna": [
+    "Cricket Bat",
+    "Football",
+    "Tea Glass",
+    "Fishing Net",
+    "Rice Sack",
+    "Boat Paddle",
+    "Village Trophy"
+  ],
+
+  "memory_dna": [
+    "Mashrafe Cricket Memory",
+    "Village Football Tournament",
+    "Chitra River Boat Journey",
+    "Winter Fog Morning",
+    "Tea Stall Discussion"
+  ],
+
+  "sound_dna": [
+    "Cricket Match Applause",
+    "Football Crowd Noise",
+    "Morning Azan",
+    "River Boat Engine",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Fresh Soil",
+    "Tea Steam",
+    "Fishing Net",
+    "Winter Morning Moisture"
+  ],
+
+  "landmark_dna": [
+    "Chitra River",
+    "SM Sultan Heritage Sites",
+    "Mashrafe Associated Locations",
+    "Historic Rural Cultural Grounds"
+  ],
+
+  "micro_dna": [
+    "Cricket Bat Leaning Against Tea Stall",
+    "Village Football Tournament Banner",
+    "Chitra Riverside Gathering",
+    "Children Playing Cricket On Open Field",
+    "Boat Tied Beside Banyan Tree",
+    "Winter Fog Across Sports Ground",
+    "Tea Stall Sports Debate",
+    "Village Trophy Display Cabinet",
+    "Riverside Fishing Net Drying",
+    "SM Sultan Inspired Rural Art Wall"
+  ],
+
+  "identity_markers": [
+    "Mashrafe Legacy",
+    "SM Sultan Heritage",
+    "Chitra River Culture",
+    "Rural Sports Identity",
+    "Community Spirit"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
