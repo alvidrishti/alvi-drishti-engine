@@ -1,0 +1,308 @@
+{
+  "profession_id": "PROF_FACTORY_OWNER_001",
+
+  "profession": "Factory Owner",
+
+  "sector": "Manufacturing",
+
+  "sub_sector": "Industrial Ownership And Production",
+
+  "core_identity": [
+    "Industrial Capital Allocator",
+    "Employment Creator",
+    "Production Ecosystem Builder",
+    "Export Economy Contributor",
+    "Economic Power Holder"
+  ],
+
+  "profession_archetype": [
+    "Owner",
+    "Builder",
+    "Investor",
+    "Industrial Leader"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Industrial Capital Civilization",
+
+    "secondary_layers": [
+      "Employment Generation",
+      "Export Manufacturing",
+      "Supply Chain Development",
+      "Urban Industrialization",
+      "National Economic Growth"
+    ]
+  },
+
+  "ownership_dna": {
+    "ownership_models": [
+      "Garment Factory",
+      "Food Processing Factory",
+      "Textile Mill",
+      "Light Engineering Factory",
+      "Consumer Goods Factory",
+      "Export Manufacturing Unit"
+    ],
+
+    "responsibility_scope": [
+      "Workforce",
+      "Production",
+      "Finance",
+      "Compliance",
+      "Market Expansion"
+    ]
+  },
+
+  "economic_power_dna": {
+    "influence_areas": [
+      "Employment Creation",
+      "Local Economy",
+      "Export Earnings",
+      "Industrial Development",
+      "Supply Chain Networks"
+    ],
+
+    "capital_allocation": [
+      "Machinery Investment",
+      "Factory Expansion",
+      "Workforce Development",
+      "Technology Upgrade",
+      "Market Growth"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Business Performance Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Revenue And Profit Based",
+
+    "income_sources": [
+      "Product Sales",
+      "Export Orders",
+      "Industrial Contracts",
+      "Wholesale Distribution",
+      "Strategic Partnerships"
+    ],
+
+    "peak_income_periods": [
+      "Large Export Orders",
+      "Market Expansion",
+      "Production Efficiency Growth"
+    ],
+
+    "financial_stress_periods": [
+      "Global Demand Drop",
+      "Raw Material Price Shock",
+      "Production Disruption",
+      "Labor Crisis"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Capital Focused",
+      "Growth Oriented",
+      "Risk Managed",
+      "Long Term Strategic"
+    ],
+
+    "trust_sources": [
+      "Financial Reports",
+      "Market Demand",
+      "Production Data",
+      "Industry Intelligence"
+    ],
+
+    "fear_drivers": [
+      "Factory Closure",
+      "Export Loss",
+      "Cashflow Crisis",
+      "Workforce Instability",
+      "Global Competition"
+    ],
+
+    "motivation_drivers": [
+      "Business Expansion",
+      "Industrial Legacy",
+      "Market Leadership",
+      "Wealth Creation",
+      "Economic Influence"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Production Review",
+      "Executive Meetings",
+      "Financial Monitoring",
+      "Client Communication",
+      "Strategic Decision Making"
+    ],
+
+    "weekly_patterns": [
+      "Factory Inspection",
+      "Investor Discussion",
+      "Market Analysis",
+      "Expansion Planning"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Business Leadership",
+      "Capital Management",
+      "Industrial Strategy",
+      "Negotiation",
+      "Risk Management",
+      "Supply Chain Understanding"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Factory Infrastructure",
+      "Industrial Machinery",
+      "Capital Reserve",
+      "Management Team",
+      "Supplier Network",
+      "Buyer Network"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Responsibility",
+    "Pressure",
+    "Confidence",
+    "Vision"
+  ],
+
+  "memory_dna": [
+    "Opening First Factory",
+    "First Export Shipment",
+    "Hiring First 100 Workers",
+    "Factory Expansion",
+    "Economic Crisis Survival"
+  ],
+
+  "social_dna": {
+    "community_role": "Industrial Employer",
+
+    "social_status": "Economic Influencer",
+
+    "community_connections": [
+      "Workers",
+      "Managers",
+      "Export Buyers",
+      "Banks",
+      "Government Agencies",
+      "Industrial Associations"
+    ]
+  },
+
+  "workforce_dna": {
+    "employee_relationship": [
+      "Employment Provider",
+      "Workplace Decision Maker",
+      "Skill Development Sponsor"
+    ],
+
+    "workforce_scale": [
+      "Small Factory",
+      "Medium Factory",
+      "Large Industrial Complex"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Scale Focused",
+      "Efficiency Driven",
+      "Capital Intensive"
+    ],
+
+    "purchase_triggers": [
+      "Production Increase",
+      "Cost Reduction",
+      "Technology Upgrade",
+      "Market Demand"
+    ],
+
+    "purchase_barriers": [
+      "Capital Risk",
+      "Market Uncertainty",
+      "Operational Complexity"
+    ]
+  },
+
+  "visual_dna": [
+    "Factory Complex",
+    "Production Floor",
+    "Executive Office",
+    "Industrial Machinery",
+    "Export Containers"
+  ],
+
+  "object_dna": [
+    "Factory Blueprint",
+    "Financial Report",
+    "Industrial Machinery",
+    "Export Contract",
+    "Management Dashboard",
+    "Safety Helmet"
+  ],
+
+  "sound_dna": [
+    "Factory Operations",
+    "Management Meetings",
+    "Machine Activity",
+    "Production Updates",
+    "Industrial Logistics"
+  ],
+
+  "smell_dna": [
+    "Industrial Environment",
+    "Textile Materials",
+    "Machine Oil",
+    "Warehouse Air",
+    "Production Floor"
+  ],
+
+  "micro_moment_dna": [
+    "Approving Factory Expansion",
+    "Signing Export Contract",
+    "Walking Production Floor",
+    "Reviewing Profit Report",
+    "Launching New Production Line"
+  ],
+
+  "risk_dna": [
+    "Industrial Accident",
+    "Export Market Loss",
+    "Cashflow Crisis",
+    "Supply Chain Breakdown",
+    "Labor Disruption",
+    "Regulatory Changes"
+  ],
+
+  "aspiration_dna": [
+    "National Industry Leadership",
+    "Global Export Presence",
+    "Industrial Empire",
+    "Generational Wealth",
+    "Economic Legacy"
+  ],
+
+  "identity_markers": [
+    "Factory Ownership",
+    "Industrial Infrastructure",
+    "Employment Creation",
+    "Export Production"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
