@@ -1,0 +1,301 @@
+{
+  "district_id": "BD-GOP-055",
+
+  "district_name": "Gopalganj",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Political Legacy",
+    "Tungipara Heritage",
+    "National Historical Memory",
+    "Madhumati Civilization",
+    "Agricultural Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Madhumati River",
+      "Kumar River",
+      "Wetland Basin",
+      "Peat Soil Region",
+      "Southern Floodplain"
+    ],
+
+    "terrain": [
+      "Floodplain",
+      "Wetland Agriculture",
+      "River Settlement Network",
+      "Rural Landscape"
+    ],
+
+    "river_dependency_score": 95,
+    "historical_significance_score": 100,
+    "agricultural_identity_score": 97
+  },
+
+  "historical_dna": [
+    "Tungipara Historical Legacy",
+    "National Leadership Heritage",
+    "Liberation War Memory",
+    "Political Development History",
+    "River Settlement Evolution"
+  ],
+
+  "political_dna": [
+    "National Leadership Memory",
+    "Political Pilgrimage Culture",
+    "State Formation Narrative",
+    "Historic Public Gatherings",
+    "National Identity Connection"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Rice Cultivation",
+      "Fishing",
+      "Retail Trade"
+    ],
+
+    "secondary": [
+      "Livestock",
+      "Small Business",
+      "Government Services"
+    ],
+
+    "economic_identity": [
+      "Agricultural Economy",
+      "River Economy",
+      "Service Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Teacher",
+    "Government Employee",
+    "Trader",
+    "Fisherman",
+    "Small Business Owner"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Jute Production",
+    "Vegetable Farming",
+    "Fish Farming",
+    "Homestead Agriculture"
+  ],
+
+  "river_dna": [
+    "Madhumati River Connectivity",
+    "Flood Adaptation",
+    "Fishing Tradition",
+    "Riverbank Community Life"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Pitha",
+    "Milk Tea",
+    "Duck Curry",
+    "Traditional Bengali Cuisine"
+  ],
+
+  "market_dna": [
+    "Agricultural Markets",
+    "Fish Trading Centers",
+    "Village Bazaars",
+    "Regional Commerce Hubs"
+  ],
+
+  "festival_dna": [
+    "Eid Celebrations",
+    "Victory Day Programs",
+    "National Commemorative Events",
+    "Village Fairs",
+    "Harvest Festivals"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Faridpur-Gopalganj Dialect",
+      "River Basin Expressions",
+      "Agricultural Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Religious Gatherings",
+    "Eid Congregation Identity",
+    "Shrine Visiting Traditions"
+  ],
+
+  "social_dna": [
+    "Strong Family Networks",
+    "Village Cooperation",
+    "Community Leadership Respect",
+    "Multi Generational Households"
+  ],
+
+  "emotion_dna": [
+    "Historical Pride",
+    "Political Memory",
+    "Land Attachment",
+    "Community Identity",
+    "National Connection"
+  ],
+
+  "visual_dna": [
+    "Green Paddy Fields",
+    "Madhumati Riverbanks",
+    "Village Roads",
+    "Memorial Landscapes",
+    "Wetland Horizons"
+  ],
+
+  "color_palette_dna": [
+    "Paddy Green",
+    "River Blue",
+    "Wetland Gray",
+    "Harvest Gold",
+    "Soil Brown"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussion",
+    "Community Gatherings",
+    "Agricultural Planning",
+    "National Day Participation",
+    "Market Bargaining"
+  ],
+
+  "object_dna": [
+    "Rice Sack",
+    "Fishing Net",
+    "Tea Glass",
+    "Bamboo Basket",
+    "Wooden Boat",
+    "Agricultural Tools"
+  ],
+
+  "sound_dna": [
+    "Azan",
+    "River Water Movement",
+    "Market Activity",
+    "Village Announcements",
+    "Political Commemorative Speeches"
+  ],
+
+  "smell_dna": [
+    "Wet Soil",
+    "Fresh Rice",
+    "River Air",
+    "Tea Steam",
+    "Rain On Paddy Fields"
+  ],
+
+  "childhood_memory_dna": [
+    "Swimming In Canals",
+    "Village Football",
+    "School Field Gatherings",
+    "River Boat Trips",
+    "National Day Events"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Crop Management",
+      "Fishing Activities"
+    ],
+
+    "monsoon": [
+      "Floodplain Expansion",
+      "Boat Dependency",
+      "Wetland Revival"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Village Sports",
+      "Picnic Activities"
+    ]
+  },
+
+  "night_dna": [
+    "Quiet Village Roads",
+    "Tea Stall Adda",
+    "Market Lights",
+    "Community Gatherings"
+  ],
+
+  "risk_dna": [
+    "Flood Risk",
+    "Waterlogging",
+    "Agricultural Dependency",
+    "Climate Variability"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Student Migration",
+    "Government Service Mobility"
+  ],
+
+  "commercial_dna": [
+    "Agricultural Supply Chains",
+    "Fish Commerce",
+    "Regional Retail Networks",
+    "Service Economy"
+  ],
+
+  "memory_dna": [
+    "Tungipara Legacy",
+    "Liberation War Memory",
+    "Madhumati Flood Stories",
+    "Harvest Seasons",
+    "Village Fair Traditions"
+  ],
+
+  "micro_dna": [
+    "Morning Fog Above Madhumati River",
+    "School Children Walking Rural Roads",
+    "Tea Stall Beside Market Area",
+    "Rice Drying In Courtyard",
+    "Fishing Nets Hanging Near Canal",
+    "Village Gathering Around Memorial Site",
+    "Boat Crossing Floodplain Water",
+    "Harvested Paddy Stacked Beside Home",
+    "Winter Sports Tournament Field",
+    "Sunset Reflection On Wetlands"
+  ],
+
+  "landmark_dna": [
+    "Tungipara",
+    "Madhumati River",
+    "Gopalganj Town",
+    "Historic Memorial Areas",
+    "Wetland Agricultural Belt"
+  ],
+
+  "identity_markers": [
+    "Political Legacy",
+    "Tungipara Heritage",
+    "National Historical Memory",
+    "Madhumati Civilization",
+    "Agricultural Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
