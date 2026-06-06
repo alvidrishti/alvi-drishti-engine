@@ -1,0 +1,145 @@
+{
+  "district_id": "BD-RAJ-015",
+
+  "district_name": "Rajshahi",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Padma River Corridor",
+    "Barind Region Edge",
+    "Urban River Landscape",
+    "Northwestern Bangladesh",
+    "Historic Settlement Zone"
+  ],
+
+  "climate_dna": [
+    "Hot Dry Summer",
+    "Cold Winter",
+    "Dense Winter Fog",
+    "Moderate Monsoon",
+    "Low Rainfall Compared To National Average"
+  ],
+
+  "light_dna": [
+    "Padma Sunset Glow",
+    "University Campus Morning Light",
+    "Winter Fog Sunrise",
+    "Mango Orchard Summer Light",
+    "Silk Market Evening Illumination"
+  ],
+
+  "architecture_dna": [
+    "Rajshahi University Architecture",
+    "Historic Silk Trade Buildings",
+    "Padma Riverside Structures",
+    "Colonial Educational Buildings",
+    "Urban Cultural Complexes"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "City Bus",
+    "Intercity Transport"
+  ],
+
+  "occupation_dna": [
+    "Teacher",
+    "Student",
+    "Silk Trader",
+    "Mango Farmer",
+    "Business Owner",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Mango",
+    "Rice",
+    "Milk Tea",
+    "Traditional Sweets",
+    "Freshwater Fish",
+    "Street Snacks"
+  ],
+
+  "behavior_dna": [
+    "Campus Discussion Culture",
+    "Tea Stall Debate",
+    "Padma Riverside Evening Walk",
+    "Book Fair Participation",
+    "Academic Gathering",
+    "Cultural Event Attendance"
+  ],
+
+  "object_dna": [
+    "Silk Fabric Roll",
+    "Book Stack",
+    "Tea Glass",
+    "Mango Crate",
+    "University ID Card",
+    "Rickshaw Bell",
+    "Campus Bench"
+  ],
+
+  "memory_dna": [
+    "Padma Riverside Sunset",
+    "University Admission Journey",
+    "Mango Season",
+    "Winter Campus Morning",
+    "Book Fair Experience"
+  ],
+
+  "sound_dna": [
+    "Campus Announcement",
+    "Morning Azan",
+    "Tea Stall Discussion",
+    "Rickshaw Bell",
+    "Padma Riverside Wind"
+  ],
+
+  "smell_dna": [
+    "Fresh Mango",
+    "Tea Steam",
+    "Padma Riverside Air",
+    "Book Paper Smell",
+    "Winter Morning Moisture"
+  ],
+
+  "landmark_dna": [
+    "Rajshahi University",
+    "Padma River Embankment",
+    "Varendra Research Museum",
+    "Shaheb Bazar",
+    "Rajshahi Silk Industry Zone"
+  ],
+
+  "micro_dna": [
+    "Padma Riverside Walking Path",
+    "University Campus Tea Stall",
+    "Silk Fabric Hanging In Shop",
+    "Summer Mango Market",
+    "Book Fair Crowd",
+    "Campus Bicycle Parking",
+    "Winter Fog Over University Field",
+    "Shaheb Bazar Morning Activity",
+    "Padma Embankment Gathering",
+    "Student Discussion Circle"
+  ],
+
+  "identity_markers": [
+    "Silk City",
+    "Educational Capital",
+    "Padma Heritage",
+    "Mango Culture",
+    "Academic Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
