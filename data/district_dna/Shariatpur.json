@@ -1,0 +1,310 @@
+{
+  "district_id": "BD-SHA-063",
+
+  "district_name": "Shariatpur",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Padma-Meghna Delta Civilization",
+    "River Erosion Society",
+    "Migration Network System",
+    "Char Frontier Culture",
+    "Waterland Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Padma River",
+      "Meghna River",
+      "Arial Khan River",
+      "Delta Floodplain",
+      "Char Landscapes"
+    ],
+
+    "terrain": [
+      "Delta Plain",
+      "Char Settlements",
+      "Flood Basin",
+      "Riverbank Communities",
+      "Seasonal Water Zones"
+    ],
+
+    "river_dependency_score": 100,
+    "erosion_exposure_score": 100,
+    "char_identity_score": 98
+  },
+
+  "historical_dna": [
+    "Delta Settlement Expansion",
+    "River Trade Heritage",
+    "Char Formation History",
+    "Migration Driven Society",
+    "Floodplain Adaptation Civilization"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Fishing",
+      "River Commerce",
+      "Remittance Economy"
+    ],
+
+    "secondary": [
+      "Livestock",
+      "Small Trade",
+      "Transport Services"
+    ],
+
+    "economic_identity": [
+      "Delta Economy",
+      "Migration Economy",
+      "River Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Boat Operator",
+    "Trader",
+    "Migrant Worker",
+    "Day Laborer"
+  ],
+
+  "river_dna": [
+    "Padma Dependency",
+    "Meghna Connectivity",
+    "Boat Based Mobility",
+    "Flood Adaptation",
+    "River Survival Culture"
+  ],
+
+  "char_dna": [
+    "New Land Settlement",
+    "Char Agriculture",
+    "Temporary Geography Adaptation",
+    "Land Loss And Rebuilding",
+    "Frontier Living"
+  ],
+
+  "migration_dna": {
+    "internal": [
+      "Dhaka Employment Migration",
+      "Industrial Workforce Movement"
+    ],
+
+    "international": [
+      "Middle East Migration",
+      "Malaysia Migration",
+      "Remittance Family Structure"
+    ],
+
+    "identity": [
+      "Migration Resilience",
+      "Economic Mobility"
+    ]
+  },
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Shutki",
+    "Duck Curry",
+    "Milk Tea",
+    "Seasonal Pitha"
+  ],
+
+  "market_dna": [
+    "River Markets",
+    "Fish Trading Centers",
+    "Char Commerce",
+    "Agricultural Wholesale Markets",
+    "Launch Ghat Economy"
+  ],
+
+  "festival_dna": [
+    "Eid Homecoming",
+    "Boat Race Events",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Community Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Shariatpur Dialect",
+      "Delta Expressions",
+      "River Community Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Madrasa Networks",
+    "Eid Congregation Identity",
+    "Religious Social Cohesion"
+  ],
+
+  "social_dna": [
+    "Migration Connected Families",
+    "River Community Cooperation",
+    "Char Settlement Networks",
+    "Extended Family Structures"
+  ],
+
+  "emotion_dna": [
+    "River Attachment",
+    "Loss And Rebuilding Mentality",
+    "Migration Sacrifice",
+    "Family Responsibility",
+    "Delta Pride"
+  ],
+
+  "visual_dna": [
+    "Wide River Horizons",
+    "Char Islands",
+    "Boat Traffic",
+    "Floodplain Agriculture",
+    "Riverbank Settlements"
+  ],
+
+  "color_palette_dna": [
+    "River Blue",
+    "Delta Green",
+    "Mud Brown",
+    "Monsoon Gray",
+    "Harvest Gold"
+  ],
+
+  "behavior_dna": [
+    "Boat Travel",
+    "Flood Monitoring",
+    "Market Bargaining",
+    "Tea Stall Discussions",
+    "Migration Planning"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Boat Rope",
+    "Rice Sack",
+    "Tea Glass",
+    "Launch Ticket",
+    "Remittance Receipt"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Waves",
+    "Azan Across Water",
+    "Fish Market Activity",
+    "Launch Horn"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Fresh Fish",
+    "Wet Soil",
+    "Tea Steam",
+    "Monsoon Moisture"
+  ],
+
+  "childhood_memory_dna": [
+    "Boat Journey To School",
+    "Swimming In Flood Water",
+    "Fishing With Family",
+    "Eid Homecoming",
+    "Char Exploration"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Agricultural Activities",
+      "River Commerce"
+    ],
+
+    "monsoon": [
+      "Flood Expansion",
+      "Boat Dependency",
+      "Char Transformation",
+      "River Erosion Monitoring"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Village Sports",
+      "Clear River Mornings"
+    ]
+  },
+
+  "night_dna": [
+    "Boat Lights Across River",
+    "Tea Stall Adda",
+    "Quiet Char Settlements",
+    "Launch Ghat Activity"
+  ],
+
+  "risk_dna": [
+    "River Erosion",
+    "Flood Risk",
+    "Char Instability",
+    "Migration Dependency",
+    "Climate Vulnerability"
+  ],
+
+  "commercial_dna": [
+    "Fish Supply Chains",
+    "Agricultural Commerce",
+    "River Transport Economy",
+    "Remittance Driven Investment"
+  ],
+
+  "memory_dna": [
+    "Padma Erosion Stories",
+    "Lost Villages Memory",
+    "Boat Race Traditions",
+    "Migration Success Narratives",
+    "Flood Survival Experiences"
+  ],
+
+  "micro_dna": [
+    "Boat Tied To Bamboo Pole On Char Shore",
+    "Children Crossing Canal By Small Boat",
+    "Fishing Nets Drying Beside House",
+    "Fog Covering Padma At Dawn",
+    "Launch Leaving River Terminal",
+    "Family Video Calling Overseas Worker",
+    "Rice Drying In Courtyard",
+    "Tea Stall Beside Embankment",
+    "Erosion Mark Near Village Road",
+    "Sunset Reflection Across Meghna Water"
+  ],
+
+  "landmark_dna": [
+    "Padma River Belt",
+    "Meghna River Corridor",
+    "Arial Khan River",
+    "Shariatpur Town",
+    "Char Regions"
+  ],
+
+  "identity_markers": [
+    "Padma-Meghna Delta",
+    "River Erosion Civilization",
+    "Migration Network Society",
+    "Char Frontier Culture",
+    "Waterland Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
