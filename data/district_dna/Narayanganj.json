@@ -1,0 +1,300 @@
+{
+  "district_id": "BD-NAR-060",
+
+  "district_name": "Narayanganj",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Industrial River Port",
+    "Shitalakshya Civilization",
+    "Commercial Gateway",
+    "Manufacturing Heritage",
+    "Merchant City Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Shitalakshya River",
+      "Dhaleshwari River",
+      "Meghna River Influence",
+      "River Port Network",
+      "Industrial Urban Belt"
+    ],
+
+    "terrain": [
+      "River City",
+      "Industrial Corridor",
+      "Urban Commercial Landscape",
+      "Port Settlements"
+    ],
+
+    "river_dependency_score": 99,
+    "industrialization_score": 100,
+    "commercial_importance_score": 100
+  },
+
+  "historical_dna": [
+    "Jute Trade Capital Heritage",
+    "Colonial River Commerce",
+    "Merchant Community Legacy",
+    "Port Based Urbanization",
+    "Industrial Growth History"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Manufacturing",
+      "Textile Industry",
+      "River Commerce",
+      "Wholesale Trade"
+    ],
+
+    "secondary": [
+      "Logistics",
+      "Retail Business",
+      "Transport Services"
+    ],
+
+    "economic_identity": [
+      "Industrial Economy",
+      "Port Economy",
+      "Merchant Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Factory Worker",
+    "Business Owner",
+    "Trader",
+    "Port Worker",
+    "Transport Operator",
+    "Corporate Employee"
+  ],
+
+  "industrial_dna": [
+    "Textile Manufacturing",
+    "Garment Production",
+    "Warehouse Culture",
+    "Factory Shift System",
+    "Export Supply Chains"
+  ],
+
+  "river_port_dna": [
+    "Launch Terminal Activity",
+    "Cargo Transport",
+    "River Logistics",
+    "Port Commerce",
+    "Dockside Economy"
+  ],
+
+  "merchant_dna": [
+    "Wholesale Trading",
+    "Family Business Networks",
+    "Commercial Negotiation",
+    "Market Leadership",
+    "Investment Culture"
+  ],
+
+  "food_dna": [
+    "Bakarkhani",
+    "Kacchi Biryani",
+    "Tea",
+    "Street Food",
+    "Traditional Bengali Meals",
+    "Worker Canteen Food"
+  ],
+
+  "market_dna": [
+    "Wholesale Markets",
+    "Industrial Supply Markets",
+    "River Port Commerce",
+    "Business District Trading",
+    "Textile Trade Centers"
+  ],
+
+  "festival_dna": [
+    "Eid Commerce Rush",
+    "Industrial Community Celebrations",
+    "Business Association Events",
+    "Urban Cultural Programs"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Narayanganj Urban Dialect",
+      "Merchant Vocabulary",
+      "Industrial Workplace Expressions"
+    ]
+  },
+
+  "religious_dna": [
+    "Historic Mosques",
+    "Urban Religious Communities",
+    "Business Community Religious Networks",
+    "Riverfront Religious Heritage"
+  ],
+
+  "social_dna": [
+    "Merchant Families",
+    "Industrial Workforce Communities",
+    "Urban Neighborhood Culture",
+    "Commercial Networking"
+  ],
+
+  "emotion_dna": [
+    "Commercial Pride",
+    "Industrial Identity",
+    "Business Ambition",
+    "River Heritage",
+    "Urban Competitiveness"
+  ],
+
+  "visual_dna": [
+    "Factory Skylines",
+    "River Port Activity",
+    "Cargo Vessels",
+    "Warehouse Districts",
+    "Industrial Urban Streets"
+  ],
+
+  "color_palette_dna": [
+    "Industrial Gray",
+    "River Blue",
+    "Warehouse Brown",
+    "Steel Silver",
+    "Commercial Red"
+  ],
+
+  "behavior_dna": [
+    "Business Negotiation",
+    "Factory Commuting",
+    "Tea Stall Discussions",
+    "Commercial Planning",
+    "Port Logistics Coordination"
+  ],
+
+  "object_dna": [
+    "Factory ID Card",
+    "Shipping Documents",
+    "Warehouse Ledger",
+    "Tea Cup",
+    "Cargo Rope",
+    "Business Calculator"
+  ],
+
+  "sound_dna": [
+    "Factory Machinery",
+    "Port Loading Activity",
+    "Launch Horn",
+    "Market Bargaining",
+    "Urban Traffic"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Factory Environment",
+    "Tea Steam",
+    "Warehouse Goods",
+    "Street Food"
+  ],
+
+  "childhood_memory_dna": [
+    "Launch Terminal Visits",
+    "Factory Area Roads",
+    "Eid Shopping Crowds",
+    "Riverbank Walks",
+    "Urban School Life"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Industrial Production Peak",
+      "Commercial Activity"
+    ],
+
+    "monsoon": [
+      "River Port Challenges",
+      "Urban Waterlogging"
+    ],
+
+    "winter": [
+      "Business Expansion",
+      "Trade Season"
+    ]
+  },
+
+  "night_dna": [
+    "Factory Night Shifts",
+    "Port Lights",
+    "Late Night Logistics",
+    "Urban Food Streets"
+  ],
+
+  "risk_dna": [
+    "Industrial Pollution",
+    "Urban Congestion",
+    "River Pollution",
+    "Manufacturing Dependency"
+  ],
+
+  "migration_dna": [
+    "Industrial Workforce Migration",
+    "Business Migration",
+    "Dhaka Metropolitan Mobility"
+  ],
+
+  "commercial_dna": [
+    "Jute Heritage Branding",
+    "Industrial Supply Chains",
+    "Export Networks",
+    "Merchant Capital Culture"
+  ],
+
+  "memory_dna": [
+    "Jute Trade Era",
+    "Port Expansion",
+    "Industrial Growth",
+    "Merchant Family Legacy",
+    "River Commerce History"
+  ],
+
+  "micro_dna": [
+    "Cargo Boat Docking At River Port",
+    "Factory Workers Boarding Shift Bus",
+    "Tea Stall Beside Warehouse",
+    "Trucks Waiting At Industrial Gate",
+    "Shipping Documents On Merchant Desk",
+    "Launch Horn Echoing Across River",
+    "Warehouse Lights At Night",
+    "Market Crowds Before Eid",
+    "Textile Goods Being Loaded",
+    "Shitalakshya Reflection At Sunset"
+  ],
+
+  "landmark_dna": [
+    "Shitalakshya River",
+    "Narayanganj River Port",
+    "Adamjee Industrial Heritage",
+    "Sonargaon Influence Zone",
+    "Industrial Belt"
+  ],
+
+  "identity_markers": [
+    "Industrial River Port",
+    "Shitalakshya Civilization",
+    "Commercial Gateway",
+    "Manufacturing Heritage",
+    "Merchant City Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
