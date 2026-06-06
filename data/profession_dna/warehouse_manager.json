@@ -1,0 +1,315 @@
+{
+  "profession_id": "PROF_WAREHOUSE_MANAGER_001",
+
+  "profession": "Warehouse Manager",
+
+  "sector": "Supply Chain And Logistics",
+
+  "sub_sector": "Warehouse Operations And Inventory Management",
+
+  "core_identity": [
+    "Inventory Guardian",
+    "Storage Intelligence Controller",
+    "Supply Continuity Manager",
+    "Distribution Readiness Coordinator",
+    "Physical Asset Custodian"
+  ],
+
+  "profession_archetype": [
+    "Controller",
+    "Organizer",
+    "Coordinator",
+    "Custodian"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Inventory Civilization",
+
+    "secondary_layers": [
+      "Supply Chain Stability",
+      "National Commerce",
+      "Industrial Production",
+      "Retail Distribution",
+      "Food Security"
+    ]
+  },
+
+  "warehouse_dna": {
+    "warehouse_types": [
+      "Distribution Warehouse",
+      "Cold Storage",
+      "Industrial Warehouse",
+      "Retail Fulfillment Center",
+      "Export Warehouse",
+      "Agricultural Storage Facility"
+    ],
+
+    "inventory_categories": [
+      "Raw Materials",
+      "Finished Goods",
+      "Consumer Products",
+      "Industrial Components",
+      "Food Products",
+      "Medical Supplies"
+    ],
+
+    "storage_functions": [
+      "Receiving",
+      "Storage",
+      "Inventory Tracking",
+      "Order Fulfillment",
+      "Dispatch"
+    ]
+  },
+
+  "inventory_memory_dna": {
+    "core_function": "Physical Memory Of Commerce",
+
+    "memory_elements": [
+      "Stock Levels",
+      "Product Movements",
+      "Expiry Tracking",
+      "Supplier History",
+      "Demand Patterns"
+    ],
+
+    "critical_metrics": [
+      "Inventory Accuracy",
+      "Stock Availability",
+      "Turnover Rate",
+      "Storage Utilization",
+      "Order Accuracy"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Warehouse Operations Management",
+      "Inventory Control",
+      "Distribution Coordination",
+      "Supply Chain Projects"
+    ],
+
+    "peak_income_periods": [
+      "Peak Sales Season",
+      "Festival Distribution",
+      "Large Scale Logistics Expansion"
+    ],
+
+    "financial_stress_periods": [
+      "Warehouse Downsizing",
+      "Supply Chain Recession"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Accuracy Driven",
+      "System Based",
+      "Risk Preventive",
+      "Efficiency Focused"
+    ],
+
+    "trust_sources": [
+      "Inventory Reports",
+      "Warehouse Management Systems",
+      "Audit Results",
+      "Stock Analytics"
+    ],
+
+    "fear_drivers": [
+      "Inventory Loss",
+      "Stockout",
+      "Warehouse Fire",
+      "Data Inaccuracy",
+      "Order Failure"
+    ],
+
+    "motivation_drivers": [
+      "Operational Excellence",
+      "Inventory Accuracy",
+      "Customer Satisfaction",
+      "Supply Reliability"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Stock Verification",
+      "Inbound Shipment Monitoring",
+      "Outbound Dispatch Supervision",
+      "Inventory Reconciliation",
+      "Staff Coordination"
+    ],
+
+    "weekly_patterns": [
+      "Inventory Audit",
+      "Capacity Review",
+      "Safety Inspection",
+      "Supplier Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Inventory Management",
+      "Warehouse Operations",
+      "Data Analysis",
+      "Staff Supervision",
+      "Supply Chain Coordination",
+      "Process Optimization"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Warehouse Management System",
+      "Barcode Scanner",
+      "Inventory Database",
+      "Storage Infrastructure",
+      "Forklift Access",
+      "Security System"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Discipline",
+    "Precision",
+    "Alertness",
+    "Reliability"
+  ],
+
+  "memory_dna": [
+    "First Inventory Audit",
+    "Major Stock Recovery",
+    "Warehouse Expansion",
+    "Peak Season Fulfillment Success",
+    "Zero Loss Achievement"
+  ],
+
+  "social_dna": {
+    "community_role": "Inventory Stability Provider",
+
+    "social_status": "Operations Specialist",
+
+    "community_connections": [
+      "Logistics Managers",
+      "Factory Managers",
+      "Retail Distributors",
+      "Transport Operators",
+      "Suppliers",
+      "Warehouse Staff"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Warehouse Floor",
+      "Storage Racks",
+      "Loading Dock",
+      "Control Office",
+      "Distribution Center"
+    ],
+
+    "operational_intensity": "High",
+
+    "inventory_density": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Accuracy Focused",
+      "Automation Driven",
+      "Efficiency Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Better Inventory Visibility",
+      "Reduced Loss",
+      "Faster Fulfillment",
+      "Higher Storage Efficiency"
+    ],
+
+    "purchase_barriers": [
+      "Technology Cost",
+      "Implementation Complexity",
+      "Operational Disruption"
+    ]
+  },
+
+  "visual_dna": [
+    "Warehouse Racks",
+    "Forklift Operations",
+    "Inventory Shelves",
+    "Barcode Scanning",
+    "Loading Dock Activity"
+  ],
+
+  "object_dna": [
+    "Barcode Scanner",
+    "Inventory Sheet",
+    "Forklift",
+    "Pallet",
+    "Storage Rack",
+    "Warehouse Dashboard"
+  ],
+
+  "sound_dna": [
+    "Forklift Movement",
+    "Scanner Beeps",
+    "Loading Activity",
+    "Warehouse Announcements",
+    "Package Handling"
+  ],
+
+  "smell_dna": [
+    "Cardboard Packaging",
+    "Warehouse Air",
+    "Stored Products",
+    "Wooden Pallets",
+    "Industrial Storage Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Completing Inventory Audit",
+    "Locating Missing Stock",
+    "Approving Shipment Dispatch",
+    "Resolving Stock Mismatch",
+    "Receiving High Value Inventory"
+  ],
+
+  "risk_dna": [
+    "Inventory Shrinkage",
+    "Warehouse Fire",
+    "Stock Damage",
+    "Data Mismatch",
+    "Supply Chain Disruption",
+    "Equipment Failure"
+  ],
+
+  "aspiration_dna": [
+    "Smart Warehouse Leadership",
+    "Zero Inventory Loss",
+    "National Distribution Excellence",
+    "Automation Transformation",
+    "Operational Mastery"
+  ],
+
+  "identity_markers": [
+    "Inventory Accuracy",
+    "Warehouse Operations",
+    "Storage Systems",
+    "Distribution Readiness"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
