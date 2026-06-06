@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-JAS-019",
+
+  "district_name": "Jashore",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Southwestern Bangladesh",
+    "Trade Corridor Region",
+    "Agricultural Plain",
+    "Border Commerce Zone",
+    "Urban-Rural Mixed Landscape"
+  ],
+
+  "climate_dna": [
+    "Humid Subtropical Climate",
+    "Warm Summer",
+    "Moderate Winter",
+    "Monsoon Rainfall",
+    "High Humidity"
+  ],
+
+  "light_dna": [
+    "Flower Field Sunrise",
+    "Golden Agricultural Sunset",
+    "Monsoon Cloud Diffusion",
+    "Urban Market Night Glow",
+    "Winter Morning Mist"
+  ],
+
+  "architecture_dna": [
+    "Benapole Trade Infrastructure",
+    "Urban Commercial Buildings",
+    "Traditional Rural Homesteads",
+    "Flower Market Structures",
+    "Transport Warehouse Complexes"
+  ],
+
+  "transport_dna": [
+    "Truck",
+    "Bus",
+    "Motorcycle",
+    "Rickshaw",
+    "Cargo Transport"
+  ],
+
+  "occupation_dna": [
+    "Flower Farmer",
+    "Trader",
+    "Transport Worker",
+    "Business Owner",
+    "Teacher",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Vegetables",
+    "Traditional Sweets"
+  ],
+
+  "behavior_dna": [
+    "Flower Market Trading",
+    "Border Commerce Activity",
+    "Tea Stall Discussion",
+    "Transport Hub Negotiation",
+    "Agricultural Market Bargaining",
+    "Business Networking"
+  ],
+
+  "object_dna": [
+    "Flower Basket",
+    "Rose Bundle",
+    "Tea Glass",
+    "Cargo Receipt",
+    "Truck Loading Rope",
+    "Market Weighing Scale",
+    "Transport Ledger"
+  ],
+
+  "memory_dna": [
+    "Flower Festival Season",
+    "Benapole Border Journey",
+    "Winter Flower Harvest",
+    "Market Trading Experience",
+    "Tea Stall Discussions"
+  ],
+
+  "sound_dna": [
+    "Truck Engine Noise",
+    "Market Crowd Activity",
+    "Morning Azan",
+    "Flower Auction Calls",
+    "Rickshaw Bell"
+  ],
+
+  "smell_dna": [
+    "Fresh Rose Aroma",
+    "Flower Market Fragrance",
+    "Tea Steam",
+    "Fresh Soil",
+    "Rain-Wet Roads"
+  ],
+
+  "landmark_dna": [
+    "Benapole Land Port",
+    "Godkhali Flower Market",
+    "Jashore Airport",
+    "Historic Trade Corridor"
+  ],
+
+  "micro_dna": [
+    "Rose Basket Loaded Van",
+    "Flower Covered Pickup Truck",
+    "Godkhali Flower Auction",
+    "Border Cargo Truck Queue",
+    "Tea Stall Beside Transport Hub",
+    "Flower Farmer Sorting Roses",
+    "Early Morning Flower Market",
+    "Benapole Customs Gate Crowd",
+    "Flower Packaging Shed",
+    "Red Rose Field Horizon"
+  ],
+
+  "identity_markers": [
+    "Flower Capital",
+    "Benapole Gateway",
+    "Trade Corridor",
+    "Transport Hub",
+    "Border Commerce Culture"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
