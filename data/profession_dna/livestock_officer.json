@@ -1,0 +1,290 @@
+{
+  "profession_id": "PROF_LIVESTOCK_OFFICER_001",
+
+  "profession": "Livestock Officer",
+
+  "sector": "Livestock And Animal Resources",
+
+  "sub_sector": "Veterinary And Livestock Development",
+
+  "core_identity": [
+    "Animal Health Guardian",
+    "Livestock Economy Builder",
+    "Rural Wealth Protector",
+    "Food Security Contributor",
+    "Veterinary Development Specialist"
+  ],
+
+  "profession_archetype": [
+    "Veterinary Professional",
+    "Advisor",
+    "Resource Manager",
+    "Development Officer"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Animal Economy Civilization",
+
+    "secondary_layers": [
+      "Food Security",
+      "Rural Wealth Storage",
+      "Dairy Economy",
+      "Poultry Development",
+      "Veterinary Healthcare"
+    ]
+  },
+
+  "livestock_ecosystem_dna": {
+    "animal_categories": [
+      "Cattle",
+      "Buffalo",
+      "Goat",
+      "Sheep",
+      "Poultry",
+      "Duck"
+    ],
+
+    "production_systems": [
+      "Dairy Farming",
+      "Beef Production",
+      "Poultry Farming",
+      "Goat Farming",
+      "Breeding Programs"
+    ],
+
+    "ecosystem_functions": [
+      "Animal Health",
+      "Breed Improvement",
+      "Disease Control",
+      "Farmer Development"
+    ]
+  },
+
+  "food_security_dna": {
+    "national_roles": [
+      "Milk Production",
+      "Meat Supply",
+      "Egg Production",
+      "Nutrition Support",
+      "Rural Employment"
+    ],
+
+    "critical_dependencies": [
+      "Animal Health",
+      "Feed Supply",
+      "Disease Prevention",
+      "Veterinary Services"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Government Salary Based",
+
+    "income_sources": [
+      "Government Service",
+      "Livestock Projects",
+      "Veterinary Programs",
+      "Training Activities"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Science Based",
+      "Animal Welfare Focused",
+      "Data Driven",
+      "Community Oriented"
+    ],
+
+    "trust_sources": [
+      "Veterinary Research",
+      "Disease Surveillance",
+      "Field Data",
+      "Animal Health Records"
+    ],
+
+    "fear_drivers": [
+      "Disease Outbreak",
+      "Livestock Mortality",
+      "Farmer Losses",
+      "Food Supply Disruption"
+    ],
+
+    "motivation_drivers": [
+      "Animal Welfare",
+      "Farmer Prosperity",
+      "Food Security",
+      "Economic Development"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Farm Inspection",
+      "Animal Health Check",
+      "Vaccination Monitoring",
+      "Farmer Consultation",
+      "Disease Investigation"
+    ],
+
+    "weekly_patterns": [
+      "Vaccination Campaign",
+      "Livestock Training",
+      "Disease Surveillance",
+      "Field Reporting"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Veterinary Science",
+      "Animal Nutrition",
+      "Disease Diagnosis",
+      "Vaccination Management",
+      "Farmer Training",
+      "Breed Development"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Veterinary Kit",
+      "Vaccination Equipment",
+      "Disease Database",
+      "Field Vehicle",
+      "Animal Health Records"
+    ]
+  },
+
+  "emotion_dna": [
+    "Compassion",
+    "Responsibility",
+    "Patience",
+    "Scientific Curiosity",
+    "Community Commitment"
+  ],
+
+  "memory_dna": [
+    "First Vaccination Campaign",
+    "Major Disease Outbreak Response",
+    "Successful Dairy Project",
+    "Farmer Training Program",
+    "Breed Improvement Success"
+  ],
+
+  "social_dna": {
+    "community_role": "Animal Health Advisor",
+
+    "social_status": "Veterinary Development Professional",
+
+    "community_connections": [
+      "Farmers",
+      "Veterinarians",
+      "Dairy Producers",
+      "Poultry Farmers",
+      "Government Agencies"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Dairy Farm",
+      "Poultry Farm",
+      "Veterinary Clinic",
+      "Rural Community",
+      "Livestock Research Center"
+    ],
+
+    "climate_dependency": "High",
+
+    "biosecurity_sensitivity": "Very High"
+  },
+
+  "wealth_storage_dna": {
+    "rural_asset_role": [
+      "Household Wealth",
+      "Emergency Financial Buffer",
+      "Income Generation",
+      "Family Investment"
+    ],
+
+    "economic_functions": [
+      "Milk Sales",
+      "Meat Production",
+      "Breeding Income",
+      "Agricultural Support"
+    ]
+  },
+
+  "visual_dna": [
+    "Dairy Farm",
+    "Vaccination Campaign",
+    "Cattle Herd",
+    "Poultry Facility",
+    "Veterinary Inspection"
+  ],
+
+  "object_dna": [
+    "Veterinary Bag",
+    "Vaccine Container",
+    "Animal Tag",
+    "Medical Syringe",
+    "Health Record Book",
+    "Livestock Database"
+  ],
+
+  "sound_dna": [
+    "Cattle Sounds",
+    "Poultry Farm Activity",
+    "Farmer Discussions",
+    "Veterinary Equipment",
+    "Rural Farm Environment"
+  ],
+
+  "smell_dna": [
+    "Animal Feed",
+    "Farm Environment",
+    "Fresh Grass",
+    "Livestock Shelter",
+    "Veterinary Supplies"
+  ],
+
+  "micro_moment_dna": [
+    "Vaccinating Cattle",
+    "Diagnosing Disease",
+    "Training Farmer",
+    "Inspecting Dairy Farm",
+    "Responding To Outbreak"
+  ],
+
+  "risk_dna": [
+    "Animal Disease Outbreak",
+    "Biosecurity Failure",
+    "Feed Crisis",
+    "Climate Stress",
+    "Livestock Mortality"
+  ],
+
+  "aspiration_dna": [
+    "Disease Free Livestock Sector",
+    "National Dairy Growth",
+    "Rural Prosperity",
+    "Veterinary Excellence",
+    "Food Security Leadership"
+  ],
+
+  "identity_markers": [
+    "Animal Healthcare",
+    "Vaccination Programs",
+    "Farmer Support",
+    "Livestock Development"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
