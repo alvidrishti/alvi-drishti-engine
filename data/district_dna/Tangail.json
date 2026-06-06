@@ -1,0 +1,303 @@
+{
+  "district_id": "BD-TAN-064",
+
+  "district_name": "Tangail",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Tangail Saree Heritage",
+    "Handloom Civilization",
+    "Jamuna Floodplain Society",
+    "Entrepreneurial Agriculture",
+    "Central Bengal Cultural Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Jamuna River Influence",
+      "Old Brahmaputra Basin",
+      "Madhupur Tract Edge",
+      "Floodplain Agriculture",
+      "Loumohoni Wetlands"
+    ],
+
+    "terrain": [
+      "Floodplain",
+      "Agricultural Plains",
+      "Wetland Zones",
+      "Madhupur Elevated Land"
+    ],
+
+    "river_dependency_score": 95,
+    "cultural_identity_score": 100,
+    "agricultural_score": 98
+  },
+
+  "historical_dna": [
+    "Handloom Heritage Evolution",
+    "Jamuna Trade Networks",
+    "Traditional Weaving Communities",
+    "Agricultural Market Development",
+    "Central Bengal Cultural Growth"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Handloom Industry",
+      "Agriculture",
+      "Textile Commerce",
+      "Retail Trade"
+    ],
+
+    "secondary": [
+      "Livestock",
+      "Transport Services",
+      "Small Manufacturing"
+    ],
+
+    "economic_identity": [
+      "Handloom Economy",
+      "Agricultural Commerce",
+      "SME Enterprise Culture"
+    ]
+  },
+
+  "occupation_dna": [
+    "Weaver",
+    "Farmer",
+    "Textile Trader",
+    "Business Owner",
+    "Teacher",
+    "Transport Worker"
+  ],
+
+  "handloom_dna": [
+    "Tangail Saree Production",
+    "Family Weaving Tradition",
+    "Loom Based Economy",
+    "Artisan Heritage",
+    "Textile Entrepreneurship"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Jute Production",
+    "Vegetable Farming",
+    "Mustard Farming",
+    "Commercial Agriculture"
+  ],
+
+  "cultural_dna": [
+    "Tangail Saree Identity",
+    "Folk Music Heritage",
+    "Village Fair Culture",
+    "Artisan Community Networks",
+    "Traditional Craftsmanship"
+  ],
+
+  "food_dna": [
+    "Chomchom",
+    "Rice",
+    "River Fish",
+    "Milk Tea",
+    "Pitha",
+    "Traditional Bengali Cuisine"
+  ],
+
+  "market_dna": [
+    "Saree Markets",
+    "Agricultural Wholesale Centers",
+    "Handloom Trading Hubs",
+    "Village Bazaars",
+    "Regional Commerce Networks"
+  ],
+
+  "festival_dna": [
+    "Saree Festivals",
+    "Eid Celebrations",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Folk Cultural Events"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Tangail Dialect",
+      "Weaving Community Expressions",
+      "Central Bengal Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Religious Networks",
+    "Eid Congregation Culture",
+    "Traditional Social Gatherings"
+  ],
+
+  "social_dna": [
+    "Artisan Families",
+    "Business Networks",
+    "Village Cooperation",
+    "Multi Generational Craft Communities"
+  ],
+
+  "emotion_dna": [
+    "Craftsmanship Pride",
+    "Cultural Attachment",
+    "Entrepreneurial Confidence",
+    "Family Legacy",
+    "Regional Identity"
+  ],
+
+  "visual_dna": [
+    "Colorful Tangail Sarees",
+    "Traditional Loom Houses",
+    "Golden Paddy Fields",
+    "Village Markets",
+    "Jamuna Floodplain Landscapes"
+  ],
+
+  "color_palette_dna": [
+    "Saree Red",
+    "Indigo Blue",
+    "Harvest Gold",
+    "Field Green",
+    "Cotton White"
+  ],
+
+  "behavior_dna": [
+    "Loom Weaving",
+    "Market Bargaining",
+    "Tea Stall Discussions",
+    "Agricultural Planning",
+    "Family Enterprise Management"
+  ],
+
+  "object_dna": [
+    "Handloom Machine",
+    "Saree Roll",
+    "Tea Glass",
+    "Rice Sack",
+    "Cotton Thread",
+    "Weaving Tools"
+  ],
+
+  "sound_dna": [
+    "Loom Rhythms",
+    "Market Activity",
+    "Village Conversations",
+    "Azan",
+    "Agricultural Work Sounds"
+  ],
+
+  "smell_dna": [
+    "Fresh Cotton",
+    "Tea Steam",
+    "Wet Soil",
+    "Rice Harvest",
+    "Textile Workshop Environment"
+  ],
+
+  "childhood_memory_dna": [
+    "Watching Family Weave Sarees",
+    "Village Football",
+    "Market Visits",
+    "Harvest Season Activities",
+    "Eid Gatherings"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Textile Production",
+      "Agricultural Commerce"
+    ],
+
+    "monsoon": [
+      "Floodplain Adaptation",
+      "River Monitoring",
+      "Market Resilience"
+    ],
+
+    "winter": [
+      "Wedding Saree Demand",
+      "Harvest Season",
+      "Village Fairs"
+    ]
+  },
+
+  "night_dna": [
+    "Loom House Lights",
+    "Tea Stall Adda",
+    "Market Activity",
+    "Family Weaving Sessions"
+  ],
+
+  "risk_dna": [
+    "Flood Risk",
+    "Handloom Competition",
+    "Agricultural Dependency",
+    "Climate Variability"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Textile Trade Mobility",
+    "Student Migration"
+  ],
+
+  "commercial_dna": [
+    "Saree Supply Chains",
+    "Handloom Branding",
+    "Agricultural Commerce",
+    "Regional Trade Networks"
+  ],
+
+  "memory_dna": [
+    "Tangail Saree Legacy",
+    "Jamuna Flood Stories",
+    "Village Fair Traditions",
+    "Artisan Family History",
+    "Handloom Evolution"
+  ],
+
+  "micro_dna": [
+    "Weaver Operating Traditional Loom",
+    "Colorful Sarees Hanging To Dry",
+    "Tea Stall Beside Textile Market",
+    "Cotton Threads Arranged On Wooden Frame",
+    "Children Playing Near Loom House",
+    "Market Crowd Before Eid",
+    "Rice Fields Reflecting Sunset",
+    "Winter Wedding Saree Shopping",
+    "Fog Covering Rural Roads",
+    "Handloom Workshop Light At Night"
+  ],
+
+  "landmark_dna": [
+    "Tangail Saree Production Zones",
+    "Jamuna Floodplain",
+    "Madhupur Tract Edge",
+    "Tangail Town",
+    "Traditional Weaving Villages"
+  ],
+
+  "identity_markers": [
+    "Tangail Saree Heritage",
+    "Handloom Civilization",
+    "Jamuna Floodplain Society",
+    "Entrepreneurial Agriculture",
+    "Central Bengal Cultural Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
