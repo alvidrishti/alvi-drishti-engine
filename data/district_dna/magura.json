@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-MAG-023",
+
+  "district_name": "Magura",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Nabaganga River Basin",
+    "Southwestern Agricultural Plain",
+    "Rural Settlement Landscape",
+    "Crop Cultivation Region",
+    "Village Market Network"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Humid Monsoon",
+    "Cool Winter",
+    "Seasonal Fog",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Golden Paddy Sunrise",
+    "Village Fair Evening Lights",
+    "Winter Fog Morning",
+    "Nabaganga Riverside Sunset",
+    "Harvest Season Afternoon Glow"
+  ],
+
+  "architecture_dna": [
+    "Traditional Courtyard Homes",
+    "Village Fair Structures",
+    "Rural Market Buildings",
+    "Agricultural Storage Facilities",
+    "Historic Community Gathering Grounds"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus",
+    "Agricultural Transport Van"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Agricultural Laborer",
+    "Trader",
+    "Teacher",
+    "Small Business Owner",
+    "Transport Worker"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables",
+    "Traditional Sweets"
+  ],
+
+  "behavior_dna": [
+    "Village Fair Participation",
+    "Tea Stall Discussion",
+    "Agricultural Market Bargaining",
+    "Harvest Cooperation",
+    "Local Sports Gathering",
+    "Community Based Problem Solving"
+  ],
+
+  "object_dna": [
+    "Football",
+    "Tea Glass",
+    "Rice Sack",
+    "Bamboo Basket",
+    "Village Fair Banner",
+    "Harvest Tool",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Village Fair Night",
+    "Football Tournament",
+    "Winter Fog Morning",
+    "Harvest Season Gathering",
+    "Tea Stall Discussion"
+  ],
+
+  "sound_dna": [
+    "Football Match Crowd",
+    "Village Fair Microphone",
+    "Morning Azan",
+    "Market Crowd Noise",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Fresh Soil",
+    "Tea Steam",
+    "Harvested Crops",
+    "Fairground Food Aroma",
+    "Winter Morning Moisture"
+  ],
+
+  "landmark_dna": [
+    "Nabaganga River Region",
+    "Traditional Fair Grounds",
+    "Historic Rural Markets",
+    "Agricultural Heartland Areas"
+  ],
+
+  "micro_dna": [
+    "Village Football Tournament Banner",
+    "Tea Stall Beside Playground",
+    "Nabaganga Riverside Gathering",
+    "Harvest Season Grain Yard",
+    "Fairground Ferris Wheel",
+    "Bamboo Made Market Stalls",
+    "Winter Fog Across Crop Field",
+    "Community Sports Trophy Display",
+    "Evening Fair Loudspeaker",
+    "Rice Loaded Transport Van"
+  ],
+
+  "identity_markers": [
+    "Village Fair Culture",
+    "Rural Sports Heritage",
+    "Nabaganga River Life",
+    "Agricultural Identity",
+    "Community Based Culture"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
