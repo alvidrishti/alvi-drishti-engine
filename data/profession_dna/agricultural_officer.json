@@ -1,0 +1,264 @@
+{
+  "profession_id": "PROF_AGRICULTURAL_OFFICER_001",
+
+  "profession": "Agricultural Officer",
+
+  "sector": "Agriculture And Rural Development",
+
+  "sub_sector": "Agricultural Extension Services",
+
+  "core_identity": [
+    "Farmer Development Facilitator",
+    "Food Security Guardian",
+    "Agricultural Innovation Messenger",
+    "Rural Economy Supporter",
+    "Crop Productivity Advisor"
+  ],
+
+  "profession_archetype": [
+    "Advisor",
+    "Scientist",
+    "Educator",
+    "Development Agent"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Food Civilization",
+    "secondary_layers": [
+      "Rural Development",
+      "Climate Adaptation",
+      "Agricultural Economy",
+      "Food Security"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Government Salary Based",
+
+    "income_sources": [
+      "Government Employment",
+      "Agricultural Projects",
+      "Training Programs",
+      "Research Activities"
+    ],
+
+    "peak_income_periods": [
+      "Promotion Cycle",
+      "Project Implementation Period"
+    ],
+
+    "financial_stress_periods": [
+      "Large Family Obligations"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Data Driven",
+      "Science Based",
+      "Farmer Focused",
+      "Long Term Impact Oriented"
+    ],
+
+    "trust_sources": [
+      "Agricultural Research",
+      "Field Data",
+      "Crop Experiments",
+      "Government Guidelines"
+    ],
+
+    "fear_drivers": [
+      "Crop Failure",
+      "Farmer Loss",
+      "Food Shortage",
+      "Climate Disaster"
+    ],
+
+    "motivation_drivers": [
+      "Farmer Prosperity",
+      "Higher Food Production",
+      "Agricultural Modernization",
+      "National Development"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Field Visit",
+      "Farmer Consultation",
+      "Crop Monitoring",
+      "Training Session",
+      "Report Preparation"
+    ],
+
+    "weekly_patterns": [
+      "Village Outreach",
+      "Agricultural Demonstration",
+      "Problem Diagnosis",
+      "Department Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Agronomy",
+      "Crop Management",
+      "Farmer Training",
+      "Soil Analysis",
+      "Pest Management",
+      "Agricultural Extension"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Agricultural Degree",
+      "Field Transportation",
+      "Soil Testing Tools",
+      "Training Materials",
+      "Research Data Access"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Patience",
+    "Scientific Curiosity",
+    "Service Mindset",
+    "Development Pride"
+  ],
+
+  "memory_dna": [
+    "First Farmer Training",
+    "Successful Crop Intervention",
+    "Village Development Project",
+    "Flood Recovery Support",
+    "High Yield Demonstration Success"
+  ],
+
+  "social_dna": {
+    "community_role": "Agricultural Advisor",
+
+    "social_status": "Rural Development Professional",
+
+    "community_connections": [
+      "Farmers",
+      "Agricultural Researchers",
+      "Government Officials",
+      "Input Suppliers",
+      "Cooperatives"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Crop Fields",
+      "Village Communities",
+      "Agricultural Offices",
+      "Research Farms",
+      "Demonstration Plots"
+    ],
+
+    "weather_dependency": "High",
+
+    "seasonal_intensity": [
+      "Planting Season",
+      "Harvest Season",
+      "Flood Season",
+      "Drought Season"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Evidence Based",
+      "Productivity Focused",
+      "Farmer Benefit Driven"
+    ],
+
+    "purchase_triggers": [
+      "Higher Yield",
+      "Disease Resistance",
+      "Cost Reduction",
+      "Climate Resilience"
+    ],
+
+    "purchase_barriers": [
+      "Low Scientific Evidence",
+      "Farmer Adoption Resistance",
+      "High Cost"
+    ]
+  },
+
+  "visual_dna": [
+    "Rice Field",
+    "Farmer Training Session",
+    "Crop Demonstration Plot",
+    "Agricultural Office",
+    "Soil Testing Activity"
+  ],
+
+  "object_dna": [
+    "Soil Sample Kit",
+    "Crop Manual",
+    "Field Notebook",
+    "Agricultural Extension Materials",
+    "Plant Sample",
+    "Government ID Card"
+  ],
+
+  "sound_dna": [
+    "Farmer Discussions",
+    "Field Training",
+    "Agricultural Machinery",
+    "Bird Sounds",
+    "Village Activity"
+  ],
+
+  "smell_dna": [
+    "Fresh Soil",
+    "Rice Field",
+    "Crop Leaves",
+    "Rain On Farmland",
+    "Agricultural Inputs"
+  ],
+
+  "micro_moment_dna": [
+    "Diagnosing Crop Disease",
+    "Advising Farmer",
+    "Collecting Soil Sample",
+    "Conducting Field Demonstration",
+    "Monitoring Harvest Outcome"
+  ],
+
+  "risk_dna": [
+    "Climate Shock",
+    "Crop Disease Outbreak",
+    "Farmer Adoption Failure",
+    "Food Production Loss",
+    "Resource Constraints"
+  ],
+
+  "aspiration_dna": [
+    "Food Security Impact",
+    "Agricultural Innovation Leadership",
+    "Farmer Prosperity",
+    "National Productivity Growth",
+    "Rural Transformation"
+  ],
+
+  "identity_markers": [
+    "Field Visits",
+    "Crop Advisory",
+    "Farmer Training",
+    "Agricultural Development"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
