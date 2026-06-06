@@ -12,34 +12,34 @@
   "core_identity": [
     "Hilsa Capital",
     "River Confluence Civilization",
-    "Launch Port Heritage",
+    "Launch Heritage",
     "Fishing Economy",
-    "Waterway Trade Culture"
+    "Waterway Trade Hub"
   ],
 
   "geography_dna": {
     "major_rivers": [
       "Meghna",
-      "Dakatia"
+      "Dakatia",
+      "Padma Influence"
     ],
 
     "terrain": [
-      "Floodplain",
       "River Delta",
-      "Riverbank Settlements"
+      "Floodplain",
+      "Confluence Landscape"
     ],
 
-    "water_dominance_score": 98,
-
-    "river_dependency_score": 95
+    "water_dominance_score": 99,
+    "river_dependency_score": 97
   },
 
   "historical_dna": [
     "Ancient River Trade Route",
-    "Colonial River Commerce",
     "Launch Transport Heritage",
-    "Fishing Market Evolution",
-    "Traditional River Civilization"
+    "Hilsa Market Evolution",
+    "Colonial River Commerce",
+    "River Port Development"
   ],
 
   "economic_dna": {
@@ -57,8 +57,8 @@
 
     "economic_identity": [
       "Hilsa Economy",
-      "River Market Economy",
-      "Launch Economy"
+      "Launch Economy",
+      "River Commerce Economy"
     ]
   },
 
@@ -71,113 +71,89 @@
     "Transport Worker"
   ],
 
-  "transport_dna": {
-    "water_transport": [
-      "Launch",
-      "Fishing Boat",
-      "Cargo Boat"
-    ],
-
-    "land_transport": [
-      "Rickshaw",
-      "Motorcycle",
-      "Bus"
-    ],
-
-    "transport_identity": [
-      "Launch Terminal Culture",
-      "River Mobility"
-    ]
-  },
-
-  "food_dna": [
-    "Hilsa",
-    "Rice",
-    "Freshwater Fish",
-    "Pitha",
-    "Milk Tea"
-  ],
-
   "market_dna": [
-    "Fish Auction Market",
-    "River Port Market",
-    "Wholesale Fish Trade",
-    "Early Morning Trading Culture"
+    "Hilsa Auction Market",
+    "River Port Trading",
+    "Wholesale Fish Commerce",
+    "Early Morning Fish Market",
+    "Launch Terminal Economy"
   ],
 
   "festival_dna": [
     "Eid Market Rush",
-    "Riverfront Fair",
     "Fishing Season Celebration",
-    "Local Cultural Programs"
-  ],
-
-  "religious_dna": [
-    "Mosque Centered Community Life",
-    "Eid Congregation Memory",
-    "Riverbank Religious Gatherings"
+    "Riverfront Fair",
+    "Local Cultural Festival"
   ],
 
   "language_dna": {
     "primary_language": "Bangla",
-
     "regional_patterns": [
       "Chandpur Riverbelt Accent",
       "Fishing Community Vocabulary"
     ]
   },
 
+  "emotion_dna": [
+    "Hilsa Pride",
+    "River Identity",
+    "Launch Nostalgia",
+    "Fishing Heritage",
+    "Flood Resilience"
+  ],
+
   "social_dna": [
-    "River Based Community Bonding",
+    "River Community Bonding",
+    "Fishing Network Culture",
     "Tea Stall Discussion",
-    "Fishing Network Relationships",
     "Strong Family Connections"
   ],
 
-  "emotion_dna": [
-    "River Pride",
-    "Fishing Heritage Pride",
-    "Launch Journey Nostalgia",
-    "Flood Resilience"
+  "visual_dna": [
+    "Silver Hilsa Reflection",
+    "Dense Fishing Boat Cluster",
+    "Launch Terminal Crowd",
+    "River Sunset Horizon",
+    "Morning Fish Auction"
+  ],
+
+  "color_palette_dna": [
+    "Hilsa Silver",
+    "River Blue",
+    "Mud Brown",
+    "Sunset Orange",
+    "Net Green"
+  ],
+
+  "food_dna": [
+    "Hilsa",
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha"
   ],
 
   "behavior_dna": [
     "Fishing Net Repair",
     "River Watching",
     "Fish Auction Participation",
-    "Tea Stall Discussion",
-    "Launch Travel Routine"
-  ],
-
-  "visual_dna": [
-    "Silver Hilsa Reflection",
-    "Dense Fishing Boats",
-    "River Sunset",
-    "Launch Terminal Crowd",
-    "Morning Fish Market"
-  ],
-
-  "color_palette_dna": [
-    "River Blue",
-    "Hilsa Silver",
-    "Fishing Net Green",
-    "Sunset Orange",
-    "Mud Brown"
+    "Launch Travel Routine",
+    "Tea Stall Gathering"
   ],
 
   "object_dna": [
     "Fishing Net",
     "Hilsa Basket",
     "Boat Rope",
-    "Tea Glass",
     "Launch Ticket",
-    "Fish Crate"
+    "Fish Crate",
+    "Tea Glass"
   ],
 
   "sound_dna": [
     "Launch Horn",
-    "Fish Auction Shouting",
     "Boat Engine",
+    "Fish Auction Calls",
     "Morning Azan",
     "River Waves"
   ],
@@ -185,31 +161,29 @@
   "smell_dna": [
     "Fresh Hilsa",
     "River Air",
-    "Wet Net",
+    "Wet Fishing Net",
     "Tea Steam",
     "Morning Fish Market"
   ],
 
   "childhood_memory_dna": [
     "Watching Fishing Boats",
-    "Visiting Launch Ghat",
-    "Buying Hilsa With Family",
+    "Launch Ghat Visits",
+    "Hilsa Market Trips",
     "Riverbank Football",
-    "Monsoon Flood Memories"
+    "Monsoon Flood Memory"
   ],
 
   "seasonal_dna": {
     "summer": [
-      "River Trade Activity",
-      "Fishing Preparation"
+      "Fishing Preparation",
+      "River Trade Activity"
     ],
-
     "monsoon": [
-      "River Expansion",
       "Flood Adaptation",
+      "River Expansion",
       "Launch Dependency"
     ],
-
     "winter": [
       "Dense River Fog",
       "Morning Fish Market"
@@ -219,8 +193,8 @@
   "night_dna": [
     "Launch Terminal Lights",
     "Night Fish Trading",
-    "Riverside Tea Stall",
-    "Port Activity"
+    "Port Activity",
+    "Riverside Tea Stall"
   ],
 
   "risk_dna": [
@@ -238,37 +212,29 @@
 
   "commercial_dna": [
     "Hilsa Branding",
-    "Fish Export Chain",
+    "Fish Supply Chain",
     "River Trade Network",
-    "Transport Commerce"
-  ],
-
-  "memory_dna": [
-    "Hilsa Season",
-    "Launch Journey",
-    "River Sunset",
-    "Flood Year Memory",
-    "Fish Market Morning"
+    "Launch Commerce"
   ],
 
   "micro_dna": [
     "Hilsa Basket On Wet Dock",
     "Launch Horn Before Departure",
-    "Fishing Net Drying On Riverbank",
+    "Fishing Net Drying Beside River",
     "Morning Fish Auction Crowd",
-    "Fog Covered Meghna River",
+    "Fog Covered Meghna",
     "Tea Stall Beside Launch Ghat",
     "Boat Rope Tied To Bamboo Pole",
-    "Children Playing Near Riverbank",
-    "Fish Crates Being Loaded",
+    "Fish Crate Loading Activity",
+    "Children Playing On Riverbank",
     "Sunset Reflection On Meghna"
   ],
 
   "landmark_dna": [
     "Meghna-Dakatia Confluence",
     "Chandpur Launch Terminal",
-    "Historic River Port",
-    "Hilsa Landing Centers"
+    "Hilsa Landing Centers",
+    "Historic River Port"
   ],
 
   "identity_markers": [
