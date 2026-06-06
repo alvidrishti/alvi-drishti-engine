@@ -1,0 +1,292 @@
+{
+  "district_id": "BD-LAK-049",
+
+  "district_name": "Lakshmipur",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Meghna Delta Civilization",
+    "Migration Economy",
+    "River Erosion Memory",
+    "Coastal Agriculture",
+    "Char Frontier Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Meghna River",
+      "Delta Landscape",
+      "Coastal Floodplain",
+      "Char Settlements",
+      "Riverbank Communities"
+    ],
+
+    "terrain": [
+      "Delta Plain",
+      "Char Land",
+      "Floodplain Agriculture",
+      "Coastal Rural Landscape"
+    ],
+
+    "water_dependency_score": 95,
+    "erosion_exposure_score": 98,
+    "char_identity_score": 94
+  },
+
+  "historical_dna": [
+    "Meghna River Civilization",
+    "Traditional River Commerce",
+    "Char Settlement Expansion",
+    "Agricultural Development History",
+    "Migration Driven Family Networks"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Fishing",
+      "Retail Trade",
+      "Remittance Economy"
+    ],
+
+    "secondary": [
+      "Transport",
+      "Small Business",
+      "Livestock Farming"
+    ],
+
+    "economic_identity": [
+      "Migration Economy",
+      "Agricultural Economy",
+      "River Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Fisherman",
+    "Trader",
+    "Shop Owner",
+    "Day Laborer",
+    "Migrant Worker Family"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Vegetable Farming",
+    "Betel Nut Production",
+    "Homestead Agriculture",
+    "Seasonal Crop Rotation"
+  ],
+
+  "river_dna": [
+    "Meghna Dependency",
+    "Riverbank Settlement Pattern",
+    "Boat Connectivity",
+    "Erosion Adaptation"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Shutki",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables"
+  ],
+
+  "market_dna": [
+    "River Market Culture",
+    "Agricultural Trading",
+    "Local Bazaars",
+    "Fish Markets",
+    "Remittance Driven Commerce"
+  ],
+
+  "festival_dna": [
+    "Eid Homecoming",
+    "Village Fair",
+    "Harvest Celebrations",
+    "Community Sports Events"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Noakhali-Lakshmipur Dialect",
+      "River Community Expressions",
+      "Migration Influenced Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Madrasa Culture",
+    "Eid Congregation Identity",
+    "Religious Social Networks"
+  ],
+
+  "social_dna": [
+    "Migration Based Family Structure",
+    "Strong Kinship Networks",
+    "Village Cooperation",
+    "Community Reputation Culture"
+  ],
+
+  "emotion_dna": [
+    "Home Village Attachment",
+    "River Survival Mentality",
+    "Migration Sacrifice",
+    "Family Responsibility",
+    "Delta Pride"
+  ],
+
+  "visual_dna": [
+    "Wide Meghna Horizon",
+    "Char Landscape",
+    "Green Paddy Fields",
+    "Fishing Boats",
+    "Riverbank Settlements"
+  ],
+
+  "color_palette_dna": [
+    "River Blue",
+    "Delta Green",
+    "Mud Brown",
+    "Fog Gray",
+    "Harvest Gold"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussion",
+    "Market Bargaining",
+    "River Monitoring",
+    "Migration Planning",
+    "Community Gathering"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Rice Sack",
+    "Tea Glass",
+    "Boat Rope",
+    "Mobile Remittance Receipt",
+    "Bamboo Basket"
+  ],
+
+  "sound_dna": [
+    "River Waves",
+    "Boat Engine",
+    "Azan",
+    "Market Crowd",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Fresh Fish",
+    "Wet Soil",
+    "Tea Steam",
+    "Monsoon Moisture"
+  ],
+
+  "childhood_memory_dna": [
+    "Boat Crossing Experience",
+    "Village Football",
+    "Eid Family Reunion",
+    "Fishing By Canal",
+    "Flood Season Memories"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Crop Harvest",
+      "River Transport Activity"
+    ],
+
+    "monsoon": [
+      "Flood Adaptation",
+      "River Expansion",
+      "Erosion Monitoring"
+    ],
+
+    "winter": [
+      "Village Sports",
+      "Clear River Mornings"
+    ]
+  },
+
+  "night_dna": [
+    "Tea Stall Adda",
+    "Quiet Riverbanks",
+    "Generator Lights",
+    "Village Market Activity"
+  ],
+
+  "risk_dna": [
+    "River Erosion",
+    "Flood Risk",
+    "Cyclone Exposure",
+    "Migration Dependency"
+  ],
+
+  "migration_dna": [
+    "Dhaka Migration",
+    "Middle East Workforce Migration",
+    "Seasonal Labor Movement",
+    "Remittance Family Structure"
+  ],
+
+  "commercial_dna": [
+    "Agricultural Supply Chain",
+    "Fish Trade Network",
+    "Remittance Economy",
+    "Local Market Commerce"
+  ],
+
+  "memory_dna": [
+    "Meghna Erosion Stories",
+    "Eid Homecoming",
+    "Flood Years",
+    "Fishing Seasons",
+    "Migration Success Stories"
+  ],
+
+  "micro_dna": [
+    "Boat Tied To Bamboo Pole",
+    "Children Playing On Char Land",
+    "Tea Stall Beside River Road",
+    "Rice Drying In Courtyard",
+    "Fishing Net Hanging On Fence",
+    "Remittance Queue At Agent Shop",
+    "Fog Over Meghna River",
+    "Erosion Mark Near Homestead",
+    "Village Market Before Eid",
+    "Sunset Reflection Across Delta Water"
+  ],
+
+  "landmark_dna": [
+    "Meghna River Belt",
+    "Ramgati Coastal Region",
+    "Char Alexander",
+    "Delta Settlement Areas"
+  ],
+
+  "identity_markers": [
+    "Meghna Delta Civilization",
+    "Migration Economy",
+    "River Erosion Memory",
+    "Coastal Agriculture",
+    "Char Frontier Identity"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
