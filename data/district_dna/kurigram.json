@@ -1,0 +1,123 @@
+{
+  "district": "Kurigram",
+
+  "division": "Rangpur",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography": {
+    "region": "North Bengal",
+    "terrain": "River Basin and Floodplain",
+    "major_rivers": [
+      "Brahmaputra",
+      "Dharla",
+      "Teesta"
+    ],
+    "climate_type": "Subtropical Monsoon"
+  },
+
+  "climate_profile": {
+    "summer": "Hot",
+    "winter": "Very Cold",
+    "rainfall_level": "High",
+    "flood_risk": "Very High",
+    "drought_risk": "Low-Medium"
+  },
+
+  "economy_profile": {
+    "primary_sector": "Agriculture",
+
+    "major_crops": [
+      "Rice",
+      "Maize",
+      "Jute",
+      "Potato",
+      "Vegetables"
+    ],
+
+    "major_industries": [
+      "Agriculture",
+      "Livestock",
+      "Small Trade"
+    ],
+
+    "economic_growth": "Medium-Low"
+  },
+
+  "population_profile": {
+    "urbanization_level": "Low",
+    "population_density": "Medium",
+    "migration_pattern": "Seasonal Labor Migration"
+  },
+
+  "profession_profile": {
+    "common_professions": [
+      "Farmer",
+      "Day Laborer",
+      "Fisherman",
+      "Small Business Owner",
+      "Driver"
+    ]
+  },
+
+  "education_profile": {
+    "education_access": "Medium",
+    "literacy_trend": "Improving",
+    "higher_education_access": "Low-Medium"
+  },
+
+  "technology_profile": {
+    "internet_access": "Medium",
+    "smartphone_adoption": "Medium",
+    "digital_payment_adoption": "Growing"
+  },
+
+  "culture_profile": {
+    "primary_language": "Bangla",
+    "community_orientation": "Very High",
+    "religious_diversity": "Low",
+    "cultural_identity": "River-Based Northern Heritage"
+  },
+
+  "infrastructure_profile": {
+    "road_connectivity": "Medium",
+    "electricity_access": "High",
+    "healthcare_access": "Low-Medium",
+    "transport_access": "Medium"
+  },
+
+  "risk_profile": {
+    "natural_disasters": [
+      "Flood",
+      "River Erosion",
+      "Cold Wave"
+    ],
+
+    "economic_risks": [
+      "Crop Loss",
+      "Poverty",
+      "Employment Instability"
+    ]
+  },
+
+  "opportunity_profile": {
+    "growth_sectors": [
+      "Modern Agriculture",
+      "Livestock",
+      "River Economy",
+      "Digital Services"
+    ],
+
+    "future_potential": "Medium-High"
+  },
+
+  "reality_factors": {
+    "environment_factor": 95,
+    "economic_factor": 65,
+    "technology_factor": 55,
+    "social_factor": 90,
+    "infrastructure_factor": 60
+  }
+}
