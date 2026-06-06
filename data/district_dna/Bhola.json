@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-BHO-029",
+
+  "district_name": "Bhola",
+
+  "division": "Barishal",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Largest Island District",
+    "Meghna Estuary Region",
+    "River Sea Transition Zone",
+    "Char Landscape",
+    "Coastal Delta Plain"
+  ],
+
+  "climate_dna": [
+    "Humid Coastal Climate",
+    "Cyclone Exposure",
+    "Storm Surge Risk",
+    "Heavy Monsoon",
+    "High Humidity"
+  ],
+
+  "light_dna": [
+    "Meghna Sunrise Reflection",
+    "Golden River Sunset",
+    "Storm Cloud Horizon",
+    "Char Land Evening Glow",
+    "Winter River Fog"
+  ],
+
+  "architecture_dna": [
+    "Cyclone Resilient Homes",
+    "Char Settlement Housing",
+    "Fishing Village Structures",
+    "River Port Facilities",
+    "Raised Coastal Buildings"
+  ],
+
+  "transport_dna": [
+    "Launch",
+    "Fishing Boat",
+    "Engine Boat",
+    "Motorcycle",
+    "Rickshaw"
+  ],
+
+  "occupation_dna": [
+    "Fisherman",
+    "Boat Operator",
+    "Farmer",
+    "Trader",
+    "Fish Processor",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Hilsa",
+    "River Fish",
+    "Rice",
+    "Dry Fish",
+    "Milk Tea",
+    "Coconut Based Foods"
+  ],
+
+  "behavior_dna": [
+    "Hilsa Fishing Activity",
+    "River Tide Monitoring",
+    "Launch Based Travel",
+    "Tea Stall Gathering",
+    "Cyclone Preparation",
+    "Fish Market Trading"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Hilsa Basket",
+    "Boat Rope",
+    "Tea Glass",
+    "Life Jacket",
+    "Fish Storage Box",
+    "Engine Boat Fuel Can"
+  ],
+
+  "memory_dna": [
+    "Hilsa Season",
+    "Cyclone Shelter Experience",
+    "Launch Journey",
+    "River Crossing Memory",
+    "Monsoon Storm Night"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Waves",
+    "Fish Auction Calls",
+    "Morning Azan",
+    "Launch Horn"
+  ],
+
+  "smell_dna": [
+    "Fresh Hilsa",
+    "Salt Moisture",
+    "River Air",
+    "Tea Steam",
+    "Wet Coastal Soil"
+  ],
+
+  "landmark_dna": [
+    "Meghna River Belt",
+    "Char Fashion Region",
+    "Bhola Launch Terminal",
+    "Coastal Fishing Zones"
+  ],
+
+  "micro_dna": [
+    "Hilsa Basket At River Ghat",
+    "Fishing Boat Returning At Dawn",
+    "Char Land Crop Rows",
+    "Cyclone Shelter Direction Sign",
+    "Launch Passenger Queue",
+    "Fish Auction Before Sunrise",
+    "Boat Rope Tied To Bamboo Pole",
+    "Riverbank Erosion Mark",
+    "Engine Boat Fuel Station",
+    "Storm Warning Flag Beside Ghat"
+  ],
+
+  "identity_markers": [
+    "Island Identity",
+    "Hilsa Economy",
+    "Meghna Civilization",
+    "Char Culture",
+    "River Sea Lifestyle"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
