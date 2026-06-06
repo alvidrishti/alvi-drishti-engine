@@ -1,0 +1,238 @@
+{
+  "profession_id": "PROF_CHEF_001",
+
+  "profession": "Chef",
+
+  "sector": "Hospitality",
+
+  "sub_sector": "Food Preparation And Culinary Services",
+
+  "core_identity": [
+    "Food Creator",
+    "Taste Architect",
+    "Hospitality Professional",
+    "Cultural Food Preserver",
+    "Celebration Experience Builder"
+  ],
+
+  "profession_archetype": [
+    "Creator",
+    "Artist",
+    "Craftsman",
+    "Service Provider"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly And Event Based",
+
+    "income_stability": "Medium-High",
+
+    "cashflow_type": "Salary Plus Catering Revenue",
+
+    "income_sources": [
+      "Restaurant Salary",
+      "Catering Services",
+      "Private Events",
+      "Food Consulting",
+      "Special Menu Projects"
+    ],
+
+    "peak_income_periods": [
+      "Wedding Season",
+      "Eid Season",
+      "Festival Events"
+    ],
+
+    "financial_stress_periods": [
+      "Low Event Season",
+      "Restaurant Slowdowns"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Taste Driven",
+      "Customer Focused",
+      "Quality Oriented",
+      "Time Sensitive"
+    ],
+
+    "trust_sources": [
+      "Customer Feedback",
+      "Culinary Experience",
+      "Traditional Recipes",
+      "Ingredient Quality"
+    ],
+
+    "fear_drivers": [
+      "Food Quality Failure",
+      "Customer Dissatisfaction",
+      "Kitchen Accident",
+      "Ingredient Shortage"
+    ],
+
+    "motivation_drivers": [
+      "Customer Satisfaction",
+      "Culinary Excellence",
+      "Recognition",
+      "Business Success"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Ingredient Inspection",
+      "Food Preparation",
+      "Cooking",
+      "Kitchen Supervision",
+      "Menu Planning"
+    ],
+
+    "weekly_patterns": [
+      "Market Procurement",
+      "Recipe Testing",
+      "Inventory Review",
+      "Kitchen Maintenance"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Cooking",
+      "Food Presentation",
+      "Recipe Development",
+      "Kitchen Management",
+      "Ingredient Knowledge",
+      "Time Management"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Kitchen Equipment",
+      "Cooking Tools",
+      "Recipe Collection",
+      "Ingredient Supply Network",
+      "Food Safety Knowledge"
+    ]
+  },
+
+  "emotion_dna": [
+    "Creativity",
+    "Pride",
+    "Pressure",
+    "Passion",
+    "Perfectionism"
+  ],
+
+  "memory_dna": [
+    "First Signature Dish",
+    "First Restaurant Job",
+    "Successful Catering Event",
+    "Family Recipe Learning",
+    "Customer Appreciation"
+  ],
+
+  "social_dna": {
+    "community_role": "Food Experience Creator",
+
+    "social_status": "Hospitality Professional",
+
+    "community_connections": [
+      "Customers",
+      "Restaurant Staff",
+      "Suppliers",
+      "Food Community",
+      "Event Organizers"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Quality Focused",
+      "Freshness Driven",
+      "Efficiency Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Ingredient Quality",
+      "Kitchen Productivity",
+      "Customer Demand",
+      "Menu Innovation"
+    ],
+
+    "purchase_barriers": [
+      "Poor Ingredient Quality",
+      "High Cost",
+      "Supply Instability"
+    ]
+  },
+
+  "visual_dna": [
+    "Restaurant Kitchen",
+    "Cooking Station",
+    "Prepared Dishes",
+    "Chef Uniform",
+    "Food Presentation"
+  ],
+
+  "object_dna": [
+    "Chef Knife",
+    "Cooking Pot",
+    "Apron",
+    "Recipe Book",
+    "Serving Plate",
+    "Kitchen Tools"
+  ],
+
+  "sound_dna": [
+    "Sizzling Food",
+    "Kitchen Activity",
+    "Knife Chopping",
+    "Customer Orders",
+    "Restaurant Ambience"
+  ],
+
+  "smell_dna": [
+    "Fresh Spices",
+    "Cooked Food",
+    "Grilled Meat",
+    "Fresh Herbs",
+    "Restaurant Kitchen"
+  ],
+
+  "micro_moment_dna": [
+    "Tasting Dish Before Serving",
+    "Receiving Customer Compliment",
+    "Managing Rush Hour",
+    "Plating Signature Dish",
+    "Selecting Fresh Ingredients"
+  ],
+
+  "risk_dna": [
+    "Food Safety Incident",
+    "Kitchen Injury",
+    "Customer Complaint",
+    "Ingredient Price Increase",
+    "Operational Stress"
+  ],
+
+  "aspiration_dna": [
+    "Own Restaurant",
+    "Signature Cuisine",
+    "Culinary Recognition",
+    "Business Expansion",
+    "Food Industry Leadership"
+  ],
+
+  "identity_markers": [
+    "Chef Uniform",
+    "Kitchen Leadership",
+    "Signature Dish",
+    "Food Creativity"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
