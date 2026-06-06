@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-NIL-005",
+
+  "district_name": "Nilphamari",
+
+  "division": "Rangpur",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Northern Agricultural Plain",
+    "Open Field Landscape",
+    "Teesta Influence Region",
+    "Rural Farming Zone",
+    "Flat Cultivation Area"
+  ],
+
+  "climate_dna": [
+    "Cold Winter",
+    "Dense Morning Fog",
+    "Humid Monsoon",
+    "Hot Summer",
+    "Seasonal Rainfall"
+  ],
+
+  "light_dna": [
+    "Fog Filtered Winter Sunrise",
+    "Mustard Field Golden Glow",
+    "Wide Open Horizon Light",
+    "Monsoon Cloud Diffusion",
+    "Agricultural Sunset Light"
+  ],
+
+  "architecture_dna": [
+    "Rural Brick Houses",
+    "Tin Roof Homes",
+    "Agricultural Storage Structures",
+    "Village Market Buildings",
+    "Railway Village Settlements"
+  ],
+
+  "transport_dna": [
+    "Train",
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Agricultural Transport Van"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Agricultural Laborer",
+    "Small Trader",
+    "Teacher",
+    "Railway Worker",
+    "Driver"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Potato",
+    "Mustard Oil",
+    "Milk Tea",
+    "Winter Pitha",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Morning Field Inspection",
+    "Mustard Harvest Activity",
+    "Tea Stall Discussion",
+    "Railway Crossing Waiting",
+    "Agricultural Market Trading",
+    "Winter Fire Gathering"
+  ],
+
+  "object_dna": [
+    "Mustard Sack",
+    "Tea Glass",
+    "Railway Signal",
+    "Bamboo Basket",
+    "Crop Storage Bag",
+    "Agricultural Sprayer",
+    "Village Bench"
+  ],
+
+  "memory_dna": [
+    "Yellow Mustard Season",
+    "Winter Morning Fog",
+    "Village Railway Crossing",
+    "Harvest Season Activity",
+    "Tea Stall Conversations"
+  ],
+
+  "sound_dna": [
+    "Train Horn",
+    "Rickshaw Bell",
+    "Morning Azan",
+    "Field Worker Conversation",
+    "Village Market Noise"
+  ],
+
+  "smell_dna": [
+    "Mustard Flower",
+    "Fresh Soil",
+    "Tea Steam",
+    "Harvested Crops",
+    "Winter Fog Moisture"
+  ],
+
+  "landmark_dna": [
+    "Saidpur Region Connection",
+    "Nilphamari Railway Areas",
+    "Agricultural Field Belt",
+    "Northern Farming Landscape"
+  ],
+
+  "micro_dna": [
+    "Mustard Field Horizon",
+    "Railway Village Crossing",
+    "Agricultural Storage Yards",
+    "Northern Field Roads",
+    "Yellow Mustard Bloom Season",
+    "Fog Covered Crop Field",
+    "Village Railway Waiting Crowd",
+    "Potato Loaded Transport Van",
+    "Field Side Tea Stall",
+    "Winter Harvest Gathering"
+  ],
+
+  "identity_markers": [
+    "Mustard Landscape",
+    "Railway Village Culture",
+    "Agricultural Identity",
+    "Winter Fog Heritage",
+    "Open Horizon Fields"
+  ],
+
+  "district_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
