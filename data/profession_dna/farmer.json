@@ -1,0 +1,15 @@
+{
+  "profession": "Farmer",
+
+  "sector": "Agriculture",
+
+  "income_pattern": "Seasonal",
+
+  "physical_demand": "High",
+
+  "economic_risk": "High",
+
+  "technology_adoption": "Low-Medium",
+
+  "dataset_version": "1.0"
+}
