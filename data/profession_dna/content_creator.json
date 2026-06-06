@@ -1,0 +1,248 @@
+{
+  "profession_id": "PROF_CONTENT_CREATOR_001",
+
+  "profession": "Content Creator",
+
+  "sector": "Creator Economy",
+
+  "sub_sector": "Digital Content Production",
+
+  "core_identity": [
+    "Audience Builder",
+    "Storyteller",
+    "Attention Economy Participant",
+    "Digital Influencer",
+    "Personal Brand Creator"
+  ],
+
+  "profession_archetype": [
+    "Creator",
+    "Performer",
+    "Communicator",
+    "Influencer"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Audience Based",
+
+    "income_stability": "Variable",
+
+    "cashflow_type": "Platform And Brand Revenue",
+
+    "income_sources": [
+      "Platform Monetization",
+      "Brand Sponsorships",
+      "Affiliate Marketing",
+      "Digital Products",
+      "Community Support"
+    ],
+
+    "peak_income_periods": [
+      "Viral Content",
+      "Brand Campaign Season",
+      "Rapid Audience Growth"
+    ],
+
+    "financial_stress_periods": [
+      "Algorithm Changes",
+      "Audience Decline",
+      "Brand Deal Shortage"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Trend Aware",
+      "Audience Focused",
+      "Creative",
+      "Experiment Driven"
+    ],
+
+    "trust_sources": [
+      "Audience Feedback",
+      "Analytics",
+      "Creator Community",
+      "Platform Trends"
+    ],
+
+    "fear_drivers": [
+      "Audience Loss",
+      "Irrelevance",
+      "Negative Public Reaction",
+      "Platform Restrictions"
+    ],
+
+    "motivation_drivers": [
+      "Influence",
+      "Creative Expression",
+      "Recognition",
+      "Financial Freedom",
+      "Audience Growth"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Content Planning",
+      "Recording",
+      "Editing",
+      "Publishing",
+      "Audience Engagement",
+      "Analytics Review"
+    ],
+
+    "weekly_patterns": [
+      "Trend Research",
+      "Brand Communication",
+      "Content Strategy Review",
+      "Community Interaction"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Storytelling",
+      "Video Production",
+      "Editing",
+      "Communication",
+      "Audience Building",
+      "Personal Branding"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Camera",
+      "Smartphone",
+      "Laptop",
+      "Editing Software",
+      "Internet Connection",
+      "Social Media Accounts"
+    ]
+  },
+
+  "emotion_dna": [
+    "Creativity",
+    "Ambition",
+    "Excitement",
+    "Pressure",
+    "Validation Seeking"
+  ],
+
+  "memory_dna": [
+    "First Upload",
+    "First Viral Content",
+    "First Brand Deal",
+    "First Monetization Payment",
+    "Audience Growth Milestone"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Digital Entertainer And Educator",
+
+    "social_status": "Public Digital Figure",
+
+    "community_connections": [
+      "Followers",
+      "Subscribers",
+      "Brands",
+      "Creators",
+      "Online Communities"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Technology Driven",
+      "Brand Conscious",
+      "Productivity Focused"
+    ],
+
+    "purchase_triggers": [
+      "Content Quality Improvement",
+      "Audience Growth",
+      "Production Efficiency",
+      "Brand Image"
+    ],
+
+    "purchase_barriers": [
+      "Low ROI",
+      "Creative Limitations",
+      "Budget Constraints"
+    ]
+  },
+
+  "visual_dna": [
+    "Camera Setup",
+    "Ring Light",
+    "Editing Desk",
+    "Studio Background",
+    "Analytics Dashboard"
+  ],
+
+  "object_dna": [
+    "Camera",
+    "Tripod",
+    "Microphone",
+    "Laptop",
+    "Ring Light",
+    "Content Planner"
+  ],
+
+  "sound_dna": [
+    "Microphone Recording",
+    "Video Editing Audio",
+    "Notification Sounds",
+    "Live Stream Interaction",
+    "Audience Feedback"
+  ],
+
+  "smell_dna": [
+    "Studio Environment",
+    "Coffee",
+    "Electronics",
+    "Workspace Air",
+    "Fresh Equipment"
+  ],
+
+  "micro_moment_dna": [
+    "Uploading New Content",
+    "Checking View Count",
+    "Receiving Brand Offer",
+    "Reading Audience Comments",
+    "Watching Viral Growth"
+  ],
+
+  "risk_dna": [
+    "Platform Dependency",
+    "Audience Decline",
+    "Content Burnout",
+    "Public Backlash",
+    "Income Instability"
+  ],
+
+  "aspiration_dna": [
+    "Large Audience",
+    "Personal Brand Growth",
+    "Financial Independence",
+    "Industry Influence",
+    "Global Recognition"
+  ],
+
+  "identity_markers": [
+    "Camera",
+    "Content Publishing",
+    "Audience Engagement",
+    "Personal Brand"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
