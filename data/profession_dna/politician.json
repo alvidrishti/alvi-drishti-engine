@@ -1,0 +1,242 @@
+{
+  "profession_id": "PROF_POLITICIAN_001",
+
+  "profession": "Politician",
+
+  "sector": "Politics",
+
+  "sub_sector": "Public Leadership",
+
+  "core_identity": [
+    "Public Representative",
+    "Power Negotiator",
+    "Community Mobilizer",
+    "Policy Influencer",
+    "Political Organization Builder"
+  ],
+
+  "profession_archetype": [
+    "Leader",
+    "Strategist",
+    "Negotiator",
+    "Mobilizer"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Position And Network Based",
+
+    "income_stability": "Variable",
+
+    "cashflow_type": "Role Dependent",
+
+    "income_sources": [
+      "Political Position",
+      "Public Service Role",
+      "Professional Activities",
+      "Leadership Engagements"
+    ],
+
+    "peak_income_periods": [
+      "Leadership Advancement",
+      "Public Office Appointment"
+    ],
+
+    "financial_stress_periods": [
+      "Election Campaign Period",
+      "Political Transition"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Influence Oriented",
+      "Strategic",
+      "Coalition Driven",
+      "Public Sentiment Aware"
+    ],
+
+    "trust_sources": [
+      "Grassroots Feedback",
+      "Political Advisors",
+      "Community Leaders",
+      "Field Intelligence"
+    ],
+
+    "fear_drivers": [
+      "Loss Of Public Support",
+      "Political Isolation",
+      "Reputation Damage",
+      "Leadership Failure"
+    ],
+
+    "motivation_drivers": [
+      "Public Influence",
+      "Leadership",
+      "Policy Impact",
+      "Community Recognition"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Meeting Constituents",
+      "Political Coordination",
+      "Public Events",
+      "Community Outreach",
+      "Strategic Planning"
+    ],
+
+    "weekly_patterns": [
+      "Organizational Meetings",
+      "Field Visits",
+      "Public Engagement",
+      "Issue Resolution"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Public Speaking",
+      "Negotiation",
+      "Leadership",
+      "Organization Building",
+      "Conflict Resolution",
+      "Relationship Management"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Political Network",
+      "Community Connections",
+      "Communication Channels",
+      "Leadership Experience",
+      "Public Trust"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Confidence",
+    "Responsibility",
+    "Resilience",
+    "Competitive Drive"
+  ],
+
+  "memory_dna": [
+    "First Political Campaign",
+    "First Public Speech",
+    "Major Community Movement",
+    "Leadership Victory",
+    "Election Experience"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Public Leader",
+
+    "social_status": "Influential Figure",
+
+    "community_connections": [
+      "Citizens",
+      "Party Workers",
+      "Community Leaders",
+      "Public Officials",
+      "Support Networks"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Influence Conscious",
+      "Relationship Driven",
+      "Visibility Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Public Utility",
+      "Organizational Need",
+      "Community Impact",
+      "Long Term Influence"
+    ],
+
+    "purchase_barriers": [
+      "Negative Public Perception",
+      "Low Practical Value",
+      "Trust Concerns"
+    ]
+  },
+
+  "visual_dna": [
+    "Public Gathering",
+    "Campaign Meeting",
+    "Community Visit",
+    "Leadership Stage",
+    "Public Discussion"
+  ],
+
+  "object_dna": [
+    "Microphone",
+    "Campaign Materials",
+    "Notebook",
+    "Mobile Phone",
+    "Public Documents",
+    "Meeting Agenda"
+  ],
+
+  "sound_dna": [
+    "Public Speech",
+    "Community Discussion",
+    "Meeting Conversations",
+    "Crowd Reactions",
+    "Campaign Activity"
+  ],
+
+  "smell_dna": [
+    "Outdoor Gatherings",
+    "Community Centers",
+    "Meeting Rooms",
+    "Printed Materials",
+    "Public Events"
+  ],
+
+  "micro_moment_dna": [
+    "Addressing Public Meeting",
+    "Listening To Community Concern",
+    "Negotiating Local Issue",
+    "Meeting Grassroots Workers",
+    "Responding To Public Question"
+  ],
+
+  "risk_dna": [
+    "Public Criticism",
+    "Leadership Failure",
+    "Reputation Loss",
+    "Community Conflict",
+    "Political Isolation"
+  ],
+
+  "aspiration_dna": [
+    "Leadership Growth",
+    "Policy Impact",
+    "Community Development",
+    "Public Recognition",
+    "Lasting Legacy"
+  ],
+
+  "identity_markers": [
+    "Public Speech",
+    "Community Presence",
+    "Leadership Role",
+    "Grassroots Engagement"
+  ],
+
+  "profession_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
