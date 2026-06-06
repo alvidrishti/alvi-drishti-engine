@@ -1,0 +1,301 @@
+{
+  "district_id": "BD-NOA-050",
+
+  "district_name": "Noakhali",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Noakhali Dialect Identity",
+    "Migration Civilization",
+    "Coastal Resilience",
+    "Entrepreneurial Culture",
+    "Meghna Frontier Society"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Meghna Estuary",
+      "Coastal Floodplain",
+      "Char Settlements",
+      "River Erosion Zones",
+      "Southern Coastal Belt"
+    ],
+
+    "terrain": [
+      "Delta Plain",
+      "Coastal Agricultural Land",
+      "Char Landscape",
+      "Settlement Expansion Frontier"
+    ],
+
+    "water_dependency_score": 94,
+    "migration_identity_score": 98,
+    "coastal_adaptation_score": 99
+  },
+
+  "historical_dna": [
+    "Meghna Frontier Expansion",
+    "Char Settlement History",
+    "Coastal Survival Culture",
+    "Migration Driven Family Networks",
+    "Regional Commercial Development"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Trade",
+      "Remittance",
+      "Small Business"
+    ],
+
+    "secondary": [
+      "Fishing",
+      "Transport",
+      "Retail Commerce"
+    ],
+
+    "economic_identity": [
+      "Migration Economy",
+      "Entrepreneurial Economy",
+      "Coastal Agriculture Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Business Owner",
+    "Trader",
+    "Migrant Worker",
+    "Teacher",
+    "Shop Owner"
+  ],
+
+  "migration_dna": {
+    "internal": [
+      "Dhaka Migration",
+      "Chattogram Migration"
+    ],
+
+    "international": [
+      "Middle East Migration",
+      "Malaysia Migration",
+      "Global Bangladeshi Diaspora"
+    ],
+
+    "identity": [
+      "Remittance Family Structure",
+      "Overseas Network Culture"
+    ]
+  },
+
+  "entrepreneurship_dna": [
+    "Family Business Culture",
+    "Commercial Ambition",
+    "Investment Mindset",
+    "Retail Expansion Networks",
+    "Self Employment Tradition"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Shutki",
+    "Milk Tea",
+    "Coconut Based Foods",
+    "Traditional Pitha"
+  ],
+
+  "market_dna": [
+    "Town Hall Commerce",
+    "Agricultural Markets",
+    "Remittance Driven Retail",
+    "Village Bazaar Culture",
+    "Coastal Trade Networks"
+  ],
+
+  "festival_dna": [
+    "Eid Homecoming",
+    "Village Fairs",
+    "Community Sports Tournaments",
+    "Family Reunion Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Noakhaila Dialect",
+      "Distinct Coastal Vocabulary",
+      "Migration Influenced Expressions"
+    ],
+
+    "identity_strength": 100
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Village Madrasa Networks",
+    "Religious Education Tradition",
+    "Eid Congregation Culture"
+  ],
+
+  "social_dna": [
+    "Strong Kinship Networks",
+    "Extended Family Structure",
+    "Community Reputation System",
+    "Migration Based Social Mobility"
+  ],
+
+  "emotion_dna": [
+    "Family Responsibility",
+    "Migration Sacrifice",
+    "Village Attachment",
+    "Entrepreneurial Pride",
+    "Coastal Survival Mentality"
+  ],
+
+  "visual_dna": [
+    "Wide Green Floodplains",
+    "Char Settlements",
+    "Coastal Roads",
+    "Village Markets",
+    "Meghna Horizon"
+  ],
+
+  "color_palette_dna": [
+    "Delta Green",
+    "River Blue",
+    "Harvest Gold",
+    "Mud Brown",
+    "Monsoon Gray"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Debate",
+    "Business Planning",
+    "Migration Discussions",
+    "Community Cooperation",
+    "Market Bargaining"
+  ],
+
+  "object_dna": [
+    "Tea Glass",
+    "Remittance Receipt",
+    "Rice Sack",
+    "Fishing Net",
+    "Motorcycle",
+    "Market Ledger",
+    "Mobile Phone"
+  ],
+
+  "sound_dna": [
+    "Noakhali Dialect Conversation",
+    "Azan",
+    "Market Activity",
+    "Motorcycle Movement",
+    "Tea Stall Discussions"
+  ],
+
+  "smell_dna": [
+    "Wet Delta Soil",
+    "Tea Steam",
+    "Fresh Fish",
+    "Coastal Air",
+    "Rice Harvest"
+  ],
+
+  "childhood_memory_dna": [
+    "Village Football",
+    "Eid Homecoming",
+    "Canal Fishing",
+    "School Field Gatherings",
+    "Cyclone Shelter Memories"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Agricultural Trading",
+      "Migration Travel Season"
+    ],
+
+    "monsoon": [
+      "Flood Adaptation",
+      "Waterlogged Roads",
+      "Coastal Weather Monitoring"
+    ],
+
+    "winter": [
+      "Sports Tournaments",
+      "Wedding Season",
+      "Family Gatherings"
+    ]
+  },
+
+  "night_dna": [
+    "Tea Stall Adda",
+    "Market Lights",
+    "Quiet Village Roads",
+    "Generator Powered Shops"
+  ],
+
+  "risk_dna": [
+    "River Erosion",
+    "Cyclone Exposure",
+    "Migration Dependency",
+    "Coastal Flood Risk"
+  ],
+
+  "commercial_dna": [
+    "Retail Business Networks",
+    "Agricultural Supply Chains",
+    "Remittance Commerce",
+    "Regional Trade Expansion"
+  ],
+
+  "memory_dna": [
+    "Eid Homecoming Stories",
+    "Migration Success Narratives",
+    "Cyclone Recovery Memories",
+    "Village Market Traditions",
+    "Family Business Growth"
+  ],
+
+  "micro_dna": [
+    "Tea Stall Filled With Dialect Debate",
+    "Remittance Queue Before Eid",
+    "Motorcycle Parked Outside Market",
+    "Children Playing Football On School Field",
+    "Fishing Net Hanging Beside House",
+    "Village Road Through Paddy Fields",
+    "Market Crowd Before Maghrib",
+    "Char Settlement At Sunset",
+    "Family Video Call With Overseas Worker",
+    "Fog Covered Winter Morning"
+  ],
+
+  "landmark_dna": [
+    "Maijdee",
+    "Noakhali Science And Technology University",
+    "Companiganj Coastal Belt",
+    "Meghna Estuary",
+    "Char Jabbar Region"
+  ],
+
+  "identity_markers": [
+    "Noakhali Dialect",
+    "Migration Civilization",
+    "Entrepreneurial Culture",
+    "Coastal Resilience",
+    "Meghna Frontier Society"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
