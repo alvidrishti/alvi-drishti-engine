@@ -1,0 +1,240 @@
+{
+  "profession_id": "PROF_GOVERNMENT_OFFICER_001",
+
+  "profession": "Government Officer",
+
+  "sector": "Public Administration",
+
+  "sub_sector": "Government Service",
+
+  "core_identity": [
+    "State Representative",
+    "Public Service Provider",
+    "Policy Implementer",
+    "Administrative Decision Maker",
+    "Governance System Operator"
+  ],
+
+  "profession_archetype": [
+    "Administrator",
+    "Guardian",
+    "Manager",
+    "Public Servant"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Government Salary",
+      "Allowances",
+      "Pension Benefits",
+      "Official Incentives"
+    ],
+
+    "peak_income_periods": [
+      "Promotion Cycle",
+      "Annual Increment"
+    ],
+
+    "financial_stress_periods": [
+      "Major Family Obligations"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Rule Based",
+      "Procedure Driven",
+      "Risk Controlled",
+      "Documentation Focused"
+    ],
+
+    "trust_sources": [
+      "Government Circulars",
+      "Laws And Regulations",
+      "Senior Officials",
+      "Official Records"
+    ],
+
+    "fear_drivers": [
+      "Administrative Error",
+      "Policy Violation",
+      "Public Complaint",
+      "Career Reputation Damage"
+    ],
+
+    "motivation_drivers": [
+      "Public Service",
+      "Career Progression",
+      "Job Security",
+      "Social Respect"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Office Attendance",
+      "File Review",
+      "Public Service Delivery",
+      "Meeting Participation",
+      "Documentation Processing"
+    ],
+
+    "weekly_patterns": [
+      "Administrative Reporting",
+      "Field Visits",
+      "Project Monitoring",
+      "Department Coordination"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Administration",
+      "Documentation",
+      "Communication",
+      "Policy Interpretation",
+      "Problem Resolution",
+      "Public Interaction"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Government ID Card",
+      "Official Documents",
+      "Computer",
+      "Office Access",
+      "Professional Training"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Discipline",
+    "Authority",
+    "Public Accountability",
+    "Professional Pride"
+  ],
+
+  "memory_dna": [
+    "First Posting",
+    "Government Recruitment Success",
+    "First Public Service Case",
+    "Promotion Achievement",
+    "Field Administration Experience"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Public Administrator",
+
+    "social_status": "Respected Government Representative",
+
+    "community_connections": [
+      "Citizens",
+      "Government Officials",
+      "Local Leaders",
+      "Administrative Networks"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Value Conscious",
+      "Stability Oriented",
+      "Family Focused"
+    ],
+
+    "purchase_triggers": [
+      "Reliability",
+      "Long Term Value",
+      "Family Benefit",
+      "Social Status"
+    ],
+
+    "purchase_barriers": [
+      "Financial Risk",
+      "Unnecessary Spending",
+      "Low Trust"
+    ]
+  },
+
+  "visual_dna": [
+    "Government Office",
+    "Official Files",
+    "Desk Setup",
+    "Meeting Room",
+    "Administrative Building"
+  ],
+
+  "object_dna": [
+    "Government ID Card",
+    "Official Seal",
+    "File Folder",
+    "Desktop Computer",
+    "Office Register",
+    "Policy Documents"
+  ],
+
+  "sound_dna": [
+    "Office Discussions",
+    "Keyboard Typing",
+    "Meeting Conversations",
+    "Public Service Counters",
+    "Telephone Calls"
+  ],
+
+  "smell_dna": [
+    "Paper Documents",
+    "Office Environment",
+    "Fresh Printouts",
+    "Tea",
+    "Government Building Interior"
+  ],
+
+  "micro_moment_dna": [
+    "Signing Official File",
+    "Meeting Citizens",
+    "Reviewing Government Circular",
+    "Attending Coordination Meeting",
+    "Approving Administrative Decision"
+  ],
+
+  "risk_dna": [
+    "Administrative Mistake",
+    "Public Complaint",
+    "Policy Misinterpretation",
+    "Career Stagnation",
+    "Workload Pressure"
+  ],
+
+  "aspiration_dna": [
+    "Promotion",
+    "Administrative Excellence",
+    "Public Impact",
+    "Leadership Position",
+    "Career Stability"
+  ],
+
+  "identity_markers": [
+    "Government ID Card",
+    "Official File",
+    "Administrative Authority",
+    "Public Service Role"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
