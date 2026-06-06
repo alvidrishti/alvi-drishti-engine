@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-CNG-013",
+
+  "district_name": "Chapainawabganj",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Padma River Basin",
+    "Border District",
+    "Mango Orchard Region",
+    "Barind Influence Zone",
+    "Northwestern Frontier Landscape"
+  ],
+
+  "climate_dna": [
+    "Hot Dry Summer",
+    "Cold Winter",
+    "Seasonal Fog",
+    "Moderate Monsoon",
+    "Dry Barind Climate"
+  ],
+
+  "light_dna": [
+    "Mango Orchard Sunrise",
+    "Padma Riverside Sunset",
+    "Golden Summer Orchard Light",
+    "Winter Fog Morning",
+    "Barind Afternoon Glow"
+  ],
+
+  "architecture_dna": [
+    "Nawab Heritage Structures",
+    "Historic Mosque Architecture",
+    "Traditional Courtyard Houses",
+    "Border Market Buildings",
+    "Mango Storage Facilities"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Cargo Truck",
+    "River Transport"
+  ],
+
+  "occupation_dna": [
+    "Mango Farmer",
+    "Trader",
+    "Farmer",
+    "Transport Worker",
+    "Teacher",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Mango",
+    "Rice",
+    "Milk Tea",
+    "Freshwater Fish",
+    "Pitha",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Mango Harvest Activity",
+    "Orchard Maintenance",
+    "Border Market Trading",
+    "Tea Stall Discussion",
+    "Agricultural Negotiation",
+    "Seasonal Mango Packaging"
+  ],
+
+  "object_dna": [
+    "Mango Basket",
+    "Mango Crate",
+    "Tea Glass",
+    "Orchard Ladder",
+    "Fruit Sorting Tray",
+    "Market Weighing Scale",
+    "Transport Packaging Rope"
+  ],
+
+  "memory_dna": [
+    "Mango Season",
+    "Padma Riverside Evening",
+    "Orchard Childhood Memory",
+    "Border Market Experience",
+    "Summer Harvest Activity"
+  ],
+
+  "sound_dna": [
+    "Market Crowd Noise",
+    "Morning Azan",
+    "Fruit Market Auction Calls",
+    "Transport Loading Activity",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Ripe Mango",
+    "Fresh Orchard Air",
+    "Tea Steam",
+    "Summer Dust",
+    "Padma Riverside Moisture"
+  ],
+
+  "landmark_dna": [
+    "Choto Sona Mosque",
+    "Nawabganj Heritage Area",
+    "Padma River Belt",
+    "Historic Mango Orchards"
+  ],
+
+  "micro_dna": [
+    "Mango Crates Stacked Beside Road",
+    "Orchard Ladder Leaning On Tree",
+    "Summer Mango Auction Crowd",
+    "Padma Riverside Sandbank",
+    "Fruit Sorting Courtyard",
+    "Border Trade Truck Queue",
+    "Mango Packaging Shed",
+    "Tea Stall Inside Orchard Area",
+    "Mango Blossom Season",
+    "Traditional Orchard Watchtower"
+  ],
+
+  "identity_markers": [
+    "Mango Capital",
+    "Padma Culture",
+    "Nawab Heritage",
+    "Border Trade Economy",
+    "Orchard Lifestyle"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
