@@ -1,0 +1,244 @@
+{
+  "profession_id": "PROF_MOBILE_BANKING_AGENT_001",
+
+  "profession": "Mobile Banking Agent",
+
+  "sector": "Financial Services",
+
+  "sub_sector": "Digital Financial Services",
+
+  "core_identity": [
+    "Digital Cashflow Facilitator",
+    "Financial Inclusion Enabler",
+    "Community Transaction Hub",
+    "Cash In Cash Out Specialist",
+    "Bridge Between Cash And Digital Economy"
+  ],
+
+  "profession_archetype": [
+    "Facilitator",
+    "Connector",
+    "Service Provider",
+    "Trust Builder"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Transaction Based",
+
+    "income_stability": "Medium-High",
+
+    "cashflow_type": "Commission Based",
+
+    "income_sources": [
+      "Cash In Commission",
+      "Cash Out Commission",
+      "Money Transfer",
+      "Bill Payment Services",
+      "Mobile Recharge"
+    ],
+
+    "peak_income_periods": [
+      "Salary Week",
+      "Festival Season",
+      "Remittance Season"
+    ],
+
+    "financial_stress_periods": [
+      "Cash Shortage",
+      "Network Downtime"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Trust Driven",
+      "Transaction Focused",
+      "Risk Conscious",
+      "Community Oriented"
+    ],
+
+    "trust_sources": [
+      "Customer Relationships",
+      "Mobile Banking Platform",
+      "Transaction Records",
+      "Community Reputation"
+    ],
+
+    "fear_drivers": [
+      "Fraud",
+      "Cash Shortage",
+      "System Failure",
+      "Loss Of Customer Trust"
+    ],
+
+    "motivation_drivers": [
+      "Higher Transaction Volume",
+      "Business Growth",
+      "Community Trust",
+      "Stable Income"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Opening Agent Booth",
+      "Managing Cash Balance",
+      "Processing Transactions",
+      "Helping Customers",
+      "Reconciling Accounts"
+    ],
+
+    "weekly_patterns": [
+      "Cash Replenishment",
+      "Commission Tracking",
+      "Customer Relationship Building",
+      "Agent Reporting"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Transaction Processing",
+      "Cash Management",
+      "Customer Service",
+      "Digital Platform Usage",
+      "Fraud Detection",
+      "Record Keeping"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Agent Account",
+      "Smartphone",
+      "Cash Float",
+      "Transaction Register",
+      "Internet Connection"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Trust",
+    "Alertness",
+    "Reliability",
+    "Community Pride"
+  ],
+
+  "memory_dna": [
+    "First Cash Out Transaction",
+    "Opening Agent Point",
+    "First High Volume Day",
+    "Festival Transaction Rush",
+    "Customer Trust Milestone"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Financial Access Provider",
+
+    "social_status": "Trusted Local Service Provider",
+
+    "community_connections": [
+      "Customers",
+      "Remittance Receivers",
+      "Workers",
+      "Small Businesses",
+      "Financial Networks"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Business Focused",
+      "Efficiency Driven",
+      "Trust Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Higher Transaction Capacity",
+      "Better Security",
+      "Faster Service",
+      "Customer Demand"
+    ],
+
+    "purchase_barriers": [
+      "High Cost",
+      "Security Concerns",
+      "Technical Complexity"
+    ]
+  },
+
+  "visual_dna": [
+    "Agent Booth",
+    "Transaction Banner",
+    "Cash Counter",
+    "QR Code",
+    "Customer Queue"
+  ],
+
+  "object_dna": [
+    "Smartphone",
+    "Cash Box",
+    "Transaction Register",
+    "Calculator",
+    "Agent ID",
+    "QR Display"
+  ],
+
+  "sound_dna": [
+    "Transaction Notification",
+    "Customer Requests",
+    "Mobile Alerts",
+    "Cash Counting",
+    "Market Background Noise"
+  ],
+
+  "smell_dna": [
+    "Paper Currency",
+    "Small Shop Environment",
+    "Tea",
+    "Fresh Print Receipts",
+    "Local Market Air"
+  ],
+
+  "micro_moment_dna": [
+    "Processing Cash Out",
+    "Verifying Customer Number",
+    "Counting Cash",
+    "Receiving Transaction Alert",
+    "Helping First Time User"
+  ],
+
+  "risk_dna": [
+    "Fraud",
+    "Cash Theft",
+    "Network Failure",
+    "Transaction Error",
+    "Liquidity Crisis"
+  ],
+
+  "aspiration_dna": [
+    "Larger Agent Business",
+    "More Daily Transactions",
+    "Financial Stability",
+    "Multiple Service Points",
+    "Community Recognition"
+  ],
+
+  "identity_markers": [
+    "Agent Booth",
+    "Cash In Cash Out Service",
+    "Transaction Register",
+    "Digital Finance Access"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
