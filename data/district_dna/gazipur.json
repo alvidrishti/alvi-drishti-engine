@@ -1,0 +1,311 @@
+{
+  "district_id": "BD-GAZ-054",
+
+  "district_name": "Gazipur",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Industrial Belt",
+    "Manufacturing Engine",
+    "Garment Economy",
+    "Urban Expansion Frontier",
+    "Dhaka Metropolitan Extension"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Turag River Influence",
+      "Shitalakshya Corridor Influence",
+      "Sal Forest Region",
+      "Industrial Growth Zone",
+      "Metropolitan Expansion Belt"
+    ],
+
+    "terrain": [
+      "Urban Industrial Landscape",
+      "Semi Urban Settlements",
+      "Forest Remnants",
+      "Agricultural Fringe Areas"
+    ],
+
+    "industrialization_score": 100,
+    "urbanization_score": 99,
+    "manufacturing_density_score": 100
+  },
+
+  "historical_dna": [
+    "Bhawal Heritage",
+    "Sal Forest Civilization",
+    "Agricultural District Transformation",
+    "Garment Industry Expansion",
+    "Metropolitan Integration Era"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Garments",
+      "Manufacturing",
+      "Industrial Production",
+      "Logistics"
+    ],
+
+    "secondary": [
+      "Retail Commerce",
+      "Real Estate",
+      "Transport Services"
+    ],
+
+    "economic_identity": [
+      "Factory Economy",
+      "Export Economy",
+      "Industrial Workforce Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Garment Worker",
+    "Factory Supervisor",
+    "Industrial Engineer",
+    "Business Owner",
+    "Transport Worker",
+    "Office Employee"
+  ],
+
+  "industrial_dna": [
+    "Garment Manufacturing",
+    "Textile Production",
+    "Export Processing",
+    "Factory Shift Culture",
+    "Industrial Supply Chain"
+  ],
+
+  "urban_dna": [
+    "Rapid Urban Expansion",
+    "Housing Development",
+    "Apartment Culture",
+    "Industrial Town Growth"
+  ],
+
+  "transport_dna": {
+    "major_routes": [
+      "Dhaka-Mymensingh Corridor",
+      "Industrial Highway Network",
+      "Factory Logistics Routes"
+    ],
+
+    "local_transport": [
+      "Bus",
+      "Auto Rickshaw",
+      "Motorcycle",
+      "Factory Transport"
+    ]
+  },
+
+  "food_dna": [
+    "Worker Canteen Meals",
+    "Rice",
+    "Beef Curry",
+    "Tea",
+    "Street Food",
+    "Industrial Area Restaurants"
+  ],
+
+  "market_dna": [
+    "Industrial Supply Markets",
+    "Worker Economy Markets",
+    "Wholesale Commerce",
+    "Urban Retail Centers"
+  ],
+
+  "festival_dna": [
+    "Eid Homecoming",
+    "Factory Bonus Season",
+    "Industrial Community Celebrations",
+    "Urban Cultural Programs"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Mixed National Dialects",
+      "Industrial Workplace Vocabulary",
+      "Migration Influenced Speech"
+    ]
+  },
+
+  "religious_dna": [
+    "Industrial Area Mosques",
+    "Urban Religious Communities",
+    "Worker Community Gatherings"
+  ],
+
+  "social_dna": [
+    "Migration Based Communities",
+    "Worker Networks",
+    "Industrial Neighborhoods",
+    "Mixed Regional Population"
+  ],
+
+  "emotion_dna": [
+    "Economic Aspiration",
+    "Workforce Resilience",
+    "Urban Ambition",
+    "Factory Life Discipline",
+    "Migration Sacrifice"
+  ],
+
+  "visual_dna": [
+    "Factory Chimneys",
+    "Industrial Buildings",
+    "Worker Transport Buses",
+    "Urban Expansion Projects",
+    "Busy Highway Corridors"
+  ],
+
+  "color_palette_dna": [
+    "Factory Gray",
+    "Steel Blue",
+    "Concrete White",
+    "Industrial Orange",
+    "Urban Black"
+  ],
+
+  "behavior_dna": [
+    "Shift Based Living",
+    "Factory Commuting",
+    "Tea Stall Discussions",
+    "Overtime Work Culture",
+    "Monthly Salary Planning"
+  ],
+
+  "object_dna": [
+    "Factory ID Card",
+    "Worker Uniform",
+    "Lunch Box",
+    "Factory Bus Pass",
+    "Safety Helmet",
+    "Tea Cup"
+  ],
+
+  "sound_dna": [
+    "Factory Siren",
+    "Machine Operation",
+    "Worker Shift Change",
+    "Traffic Movement",
+    "Industrial Activity"
+  ],
+
+  "smell_dna": [
+    "Factory Environment",
+    "Machine Oil",
+    "Tea Steam",
+    "Rain On Concrete",
+    "Industrial Air"
+  ],
+
+  "childhood_memory_dna": [
+    "Factory Bus Watching",
+    "Eid Bonus Shopping",
+    "Sal Forest Picnics",
+    "School Beside Industrial Areas",
+    "Urban Growth Memories"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Factory Peak Production",
+      "Heat Stress In Industrial Areas"
+    ],
+
+    "monsoon": [
+      "Traffic Congestion",
+      "Industrial Drainage Challenges"
+    ],
+
+    "winter": [
+      "Factory Expansion Projects",
+      "Picnic Season"
+    ]
+  },
+
+  "night_dna": [
+    "24 Hour Factory Operations",
+    "Industrial Zone Lights",
+    "Night Shift Culture",
+    "Worker Transport Movement"
+  ],
+
+  "risk_dna": [
+    "Industrial Accidents",
+    "Urban Congestion",
+    "Environmental Stress",
+    "Migration Pressure"
+  ],
+
+  "migration_dna": [
+    "Nationwide Workforce Migration",
+    "Industrial Employment Migration",
+    "Rural To Urban Movement"
+  ],
+
+  "commercial_dna": [
+    "Export Economy",
+    "Textile Supply Chain",
+    "Industrial Investment",
+    "Manufacturing Network"
+  ],
+
+  "forest_dna": [
+    "Bhawal Sal Forest",
+    "Forest Recreation",
+    "Environmental Memory",
+    "Urban-Forest Contrast"
+  ],
+
+  "memory_dna": [
+    "Factory Expansion Era",
+    "Garment Industry Growth",
+    "Bhawal Heritage",
+    "Worker Community Stories",
+    "Industrial Transformation"
+  ],
+
+  "micro_dna": [
+    "Factory Workers Waiting For Shift Bus",
+    "Industrial Siren At Dawn",
+    "Tea Stall Outside Factory Gate",
+    "Worker Uniforms Drying On Balcony",
+    "Traffic Queue Near Industrial Zone",
+    "Factory Smoke Against Sunset Sky",
+    "Overtime Workers Leaving At Night",
+    "Bhawal Forest Road In Winter",
+    "Salary Day Market Crowd",
+    "Industrial Area Street Food Stall"
+  ],
+
+  "landmark_dna": [
+    "Bhawal National Park",
+    "Gazipur Industrial Belt",
+    "National University",
+    "Textile Manufacturing Zones",
+    "Dhaka-Mymensingh Corridor"
+  ],
+
+  "identity_markers": [
+    "Industrial Belt",
+    "Manufacturing Engine",
+    "Garment Economy",
+    "Urban Expansion Frontier",
+    "Dhaka Metropolitan Influence"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
