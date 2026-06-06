@@ -1,0 +1,223 @@
+{
+  "profession_id": "PROF_DRIVER_001",
+
+  "profession": "Driver",
+
+  "sector": "Transportation",
+
+  "sub_sector": "Passenger And Goods Transport",
+
+  "core_identity": [
+    "Mobility Provider",
+    "Road Navigator",
+    "Time Sensitive Worker",
+    "Transport Economy Contributor",
+    "Movement Specialist"
+  ],
+
+  "profession_archetype": [
+    "Navigator",
+    "Service Provider",
+    "Risk Bearer",
+    "Connector"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Daily-Monthly",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Trip Based",
+
+    "income_sources": [
+      "Passenger Transport",
+      "Goods Transport",
+      "Ride Sharing",
+      "Contract Driving"
+    ],
+
+    "peak_income_periods": [
+      "Festival Season",
+      "Holiday Travel Season"
+    ],
+
+    "financial_stress_periods": [
+      "Fuel Price Increase",
+      "Vehicle Breakdown"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Experience Based",
+      "Road Condition Driven",
+      "Income Focused",
+      "Risk Adaptive"
+    ],
+
+    "trust_sources": [
+      "Senior Drivers",
+      "Transport Network",
+      "Vehicle Mechanics",
+      "Local Information"
+    ],
+
+    "fear_drivers": [
+      "Road Accident",
+      "Vehicle Damage",
+      "Income Loss",
+      "Traffic Penalties"
+    ],
+
+    "motivation_drivers": [
+      "Daily Earnings",
+      "Vehicle Ownership",
+      "Family Support",
+      "Financial Stability"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Early Morning Departure",
+      "Vehicle Inspection",
+      "Passenger Pickup",
+      "Traffic Navigation",
+      "Fuel Monitoring"
+    ],
+
+    "weekly_patterns": [
+      "Vehicle Maintenance",
+      "Income Calculation",
+      "Route Optimization"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Vehicle Control",
+      "Road Navigation",
+      "Traffic Awareness",
+      "Customer Handling",
+      "Basic Vehicle Maintenance"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Driving License",
+      "Vehicle",
+      "Mobile Phone",
+      "Fuel Access"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Patience",
+    "Stress",
+    "Independence",
+    "Survival Mindset"
+  ],
+
+  "memory_dna": [
+    "First Driving Lesson",
+    "First Vehicle Ownership",
+    "Long Distance Journey",
+    "Accident Avoidance Experience",
+    "Festival Transport Rush"
+  ],
+
+  "social_dna": {
+    "community_role": "Mobility Provider",
+
+    "social_status": "Transport Service Contributor",
+
+    "community_connections": [
+      "Drivers",
+      "Passengers",
+      "Mechanics",
+      "Transport Owners"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Cost Conscious",
+      "Durability Focused",
+      "Utility Driven"
+    ],
+
+    "purchase_triggers": [
+      "Fuel Efficiency",
+      "Vehicle Reliability",
+      "Higher Earnings"
+    ]
+  },
+
+  "visual_dna": [
+    "Vehicle Dashboard",
+    "Highway",
+    "Traffic Signal",
+    "Passenger Seats",
+    "Fuel Station"
+  ],
+
+  "object_dna": [
+    "Driving License",
+    "Vehicle Key",
+    "Steering Wheel",
+    "Mobile Phone",
+    "Fuel Card"
+  ],
+
+  "sound_dna": [
+    "Engine Noise",
+    "Traffic Horn",
+    "Passenger Conversations",
+    "Highway Sounds",
+    "Vehicle Indicator"
+  ],
+
+  "smell_dna": [
+    "Fuel",
+    "Vehicle Interior",
+    "Road Dust",
+    "Tea Stall",
+    "Rain On Asphalt"
+  ],
+
+  "micro_moment_dna": [
+    "Checking Fuel Level",
+    "Waiting For Passenger",
+    "Navigating Traffic Jam",
+    "Paying Toll",
+    "Vehicle Inspection Before Trip"
+  ],
+
+  "risk_dna": [
+    "Road Accident",
+    "Vehicle Breakdown",
+    "Traffic Congestion",
+    "Fuel Cost Increase"
+  ],
+
+  "aspiration_dna": [
+    "Own Vehicle",
+    "Higher Income",
+    "Business Expansion",
+    "Family Security",
+    "Debt Free Life"
+  ],
+
+  "identity_markers": [
+    "Driving License",
+    "Steering Wheel",
+    "Daily Route",
+    "Vehicle Ownership"
+  ],
+
+  "profession_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
