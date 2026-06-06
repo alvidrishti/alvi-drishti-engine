@@ -1,0 +1,295 @@
+{
+  "profession_id": "PROF_EXPORT_IMPORT_TRADER_001",
+
+  "profession": "Export Import Trader",
+
+  "sector": "International Commerce",
+
+  "sub_sector": "Global Trade And Supply Chain",
+
+  "core_identity": [
+    "Global Market Connector",
+    "Cross Border Trade Facilitator",
+    "Foreign Currency Generator",
+    "Supply Chain Coordinator",
+    "International Opportunity Seeker"
+  ],
+
+  "profession_archetype": [
+    "Trader",
+    "Negotiator",
+    "Connector",
+    "Market Explorer"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Global Trade Civilization",
+
+    "secondary_layers": [
+      "Foreign Exchange Economy",
+      "Port Economy",
+      "Industrial Supply Chain",
+      "International Commerce",
+      "Economic Expansion"
+    ]
+  },
+
+  "trade_dna": {
+    "trade_types": [
+      "Export",
+      "Import",
+      "Wholesale Trade",
+      "Raw Material Sourcing",
+      "International Distribution"
+    ],
+
+    "major_trade_channels": [
+      "Sea Freight",
+      "Air Cargo",
+      "Land Port",
+      "Container Shipping",
+      "Cross Border Logistics"
+    ],
+
+    "trade_regions": [
+      "South Asia",
+      "Middle East",
+      "Europe",
+      "North America",
+      "East Asia",
+      "Southeast Asia"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Deal Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Transaction And Contract Based",
+
+    "income_sources": [
+      "Export Margin",
+      "Import Distribution",
+      "Trade Commission",
+      "Supplier Contracts",
+      "International Partnerships"
+    ],
+
+    "peak_income_periods": [
+      "High Export Demand",
+      "Currency Advantage Period",
+      "Global Market Expansion"
+    ],
+
+    "financial_stress_periods": [
+      "Supply Chain Disruption",
+      "Currency Volatility",
+      "Import Restrictions"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Market Driven",
+      "Risk Calculated",
+      "Opportunity Focused",
+      "Data Oriented"
+    ],
+
+    "trust_sources": [
+      "Market Reports",
+      "Trade Data",
+      "Supplier Networks",
+      "International Buyers"
+    ],
+
+    "fear_drivers": [
+      "Shipment Failure",
+      "Currency Loss",
+      "Trade Ban",
+      "Contract Dispute",
+      "Customs Delay"
+    ],
+
+    "motivation_drivers": [
+      "Business Expansion",
+      "Global Reach",
+      "Higher Profit",
+      "Market Leadership"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Supplier Communication",
+      "Buyer Negotiation",
+      "Shipment Tracking",
+      "Market Analysis",
+      "Trade Documentation"
+    ],
+
+    "weekly_patterns": [
+      "Port Coordination",
+      "Customs Monitoring",
+      "Inventory Planning",
+      "Foreign Market Research"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "International Negotiation",
+      "Trade Documentation",
+      "Supply Chain Management",
+      "Foreign Market Analysis",
+      "Risk Management",
+      "Business Communication"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Trade License",
+      "Banking Network",
+      "Logistics Partners",
+      "Supplier Database",
+      "International Contacts",
+      "Foreign Currency Access"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Confidence",
+    "Adaptability",
+    "Persistence",
+    "Strategic Thinking"
+  ],
+
+  "memory_dna": [
+    "First Export Shipment",
+    "First International Client",
+    "First Container Deal",
+    "Major Market Expansion",
+    "Currency Crisis Experience"
+  ],
+
+  "social_dna": {
+    "community_role": "Global Commerce Connector",
+
+    "social_status": "International Business Professional",
+
+    "community_connections": [
+      "Manufacturers",
+      "Importers",
+      "Exporters",
+      "Customs Officials",
+      "Shipping Companies",
+      "Banks"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Port Area",
+      "Warehouse",
+      "Trade Office",
+      "Industrial Zone",
+      "International Trade Fair"
+    ],
+
+    "global_dependency": "Very High",
+
+    "market_volatility": "High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Profit Focused",
+      "Scale Oriented",
+      "Efficiency Driven"
+    ],
+
+    "purchase_triggers": [
+      "Market Demand",
+      "Competitive Advantage",
+      "Supply Reliability",
+      "Higher Margin"
+    ],
+
+    "purchase_barriers": [
+      "Trade Risk",
+      "Regulatory Uncertainty",
+      "Currency Instability"
+    ]
+  },
+
+  "visual_dna": [
+    "Shipping Container",
+    "Cargo Ship",
+    "Warehouse",
+    "Trade Documents",
+    "International Trade Meeting"
+  ],
+
+  "object_dna": [
+    "Bill Of Lading",
+    "Container",
+    "Trade Contract",
+    "Invoice",
+    "Customs Document",
+    "International Passport"
+  ],
+
+  "sound_dna": [
+    "Port Operations",
+    "Container Loading",
+    "Business Calls",
+    "Warehouse Activity",
+    "International Meetings"
+  ],
+
+  "smell_dna": [
+    "Sea Port Air",
+    "Warehouse Environment",
+    "Cargo Materials",
+    "Industrial Packaging",
+    "Shipping Containers"
+  ],
+
+  "micro_moment_dna": [
+    "Closing International Contract",
+    "Receiving Export Payment",
+    "Clearing Customs",
+    "Tracking Shipment Arrival",
+    "Negotiating New Market Entry"
+  ],
+
+  "risk_dna": [
+    "Currency Risk",
+    "Trade Restriction",
+    "Shipment Damage",
+    "Customs Delay",
+    "International Payment Failure"
+  ],
+
+  "aspiration_dna": [
+    "Global Trading Company",
+    "International Market Leadership",
+    "Multi Country Operations",
+    "Export Growth",
+    "Economic Influence"
+  ],
+
+  "identity_markers": [
+    "Trade Contracts",
+    "International Clients",
+    "Container Shipments",
+    "Global Business Network"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
