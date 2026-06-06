@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-PAT-031",
+
+  "district_name": "Patuakhali",
+
+  "division": "Barishal",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Coastal Delta Region",
+    "Bay Of Bengal Coastline",
+    "Sea River Confluence Zone",
+    "Tourism Coast",
+    "Southern Frontier Landscape"
+  ],
+
+  "climate_dna": [
+    "Humid Coastal Climate",
+    "Cyclone Exposure",
+    "Storm Surge Risk",
+    "Heavy Monsoon",
+    "High Salinity Influence"
+  ],
+
+  "light_dna": [
+    "Kuakata Sunrise",
+    "Kuakata Sunset",
+    "Golden Beach Reflection",
+    "Storm Cloud Horizon",
+    "Winter Coastal Morning Light"
+  ],
+
+  "architecture_dna": [
+    "Coastal Tourism Facilities",
+    "Cyclone Resilient Housing",
+    "Fishing Harbor Structures",
+    "Beach Market Buildings",
+    "Raised Coastal Settlements"
+  ],
+
+  "transport_dna": [
+    "Fishing Boat",
+    "Launch",
+    "Motorcycle",
+    "Rickshaw",
+    "Tourist Bus"
+  ],
+
+  "occupation_dna": [
+    "Fisherman",
+    "Tourism Worker",
+    "Boat Operator",
+    "Farmer",
+    "Trader",
+    "Hotel Employee"
+  ],
+
+  "food_dna": [
+    "Hilsa",
+    "Sea Fish",
+    "Dry Fish",
+    "Rice",
+    "Milk Tea",
+    "Coconut Based Foods"
+  ],
+
+  "behavior_dna": [
+    "Sunrise Watching",
+    "Fishing Net Maintenance",
+    "Tourist Interaction",
+    "Tea Stall Gathering",
+    "Cyclone Preparation",
+    "Beach Market Trading"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Beach Umbrella",
+    "Tea Glass",
+    "Boat Rope",
+    "Fish Basket",
+    "Life Jacket",
+    "Tourist Camera"
+  ],
+
+  "memory_dna": [
+    "Kuakata Sunrise Experience",
+    "Beach Sunset Gathering",
+    "Cyclone Shelter Experience",
+    "Fishing Season",
+    "Sea Storm Memory"
+  ],
+
+  "sound_dna": [
+    "Sea Waves",
+    "Boat Engine",
+    "Fishing Activity",
+    "Morning Azan",
+    "Tourist Crowd Noise"
+  ],
+
+  "smell_dna": [
+    "Sea Breeze",
+    "Salt Air",
+    "Fresh Fish",
+    "Tea Steam",
+    "Wet Sand"
+  ],
+
+  "landmark_dna": [
+    "Kuakata Sea Beach",
+    "Fatrar Char Region",
+    "Lebur Char",
+    "Coastal Tourism Belt"
+  ],
+
+  "micro_dna": [
+    "Sunrise Crowd At Kuakata Beach",
+    "Fishing Boat On Shoreline",
+    "Red Crab Trails On Sand",
+    "Cyclone Shelter Signboard",
+    "Tea Stall Facing The Sea",
+    "Dry Fish Rack Beside Beach",
+    "Tourist Camera Point",
+    "Boat Returning At Dawn",
+    "Storm Warning Flag",
+    "Sunset Reflection On Wet Sand"
+  ],
+
+  "identity_markers": [
+    "Kuakata",
+    "Sunrise Sunset Heritage",
+    "Coastal Tourism",
+    "Fishing Economy",
+    "Sea River Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
