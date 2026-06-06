@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-NET-035",
+
+  "district_name": "Netrokona",
+
+  "division": "Mymensingh",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Haor Basin",
+    "Wetland Civilization",
+    "Birisiri Highland Edge",
+    "Northern Border Landscape",
+    "Seasonal Water World"
+  ],
+
+  "climate_dna": [
+    "Heavy Monsoon",
+    "Seasonal Flooding",
+    "Humid Wetland Climate",
+    "Cool Winter",
+    "Dense Morning Fog"
+  ],
+
+  "light_dna": [
+    "Haor Sunrise Reflection",
+    "Blue Water Horizon Glow",
+    "Fog Covered Wetland Morning",
+    "Monsoon Cloud Reflection",
+    "Golden Haor Sunset"
+  ],
+
+  "architecture_dna": [
+    "Raised Wetland Housing",
+    "Haor Village Settlements",
+    "Birisiri Cultural Structures",
+    "Flood Adapted Homes",
+    "Traditional Indigenous Buildings"
+  ],
+
+  "transport_dna": [
+    "Boat",
+    "Engine Boat",
+    "Rickshaw",
+    "Motorcycle",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Fisherman",
+    "Farmer",
+    "Boat Operator",
+    "Small Trader",
+    "Tourism Worker",
+    "Day Laborer"
+  ],
+
+  "food_dna": [
+    "River Fish",
+    "Rice",
+    "Dry Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Boat Based Travel",
+    "Fishing Net Repair",
+    "Haor Fishing Activity",
+    "Tea Stall Discussion",
+    "Seasonal Flood Adaptation",
+    "Community Water Transport Coordination"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Wooden Boat",
+    "Tea Glass",
+    "Fish Basket",
+    "Boat Paddle",
+    "Rice Sack",
+    "Bamboo Fish Trap"
+  ],
+
+  "memory_dna": [
+    "Monsoon Haor Journey",
+    "Birisiri Visit",
+    "Boat School Experience",
+    "Flood Season Memory",
+    "Winter Wetland Morning"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "Water Waves",
+    "Wetland Bird Calls",
+    "Morning Azan",
+    "Fishing Activity"
+  ],
+
+  "smell_dna": [
+    "Wetland Water",
+    "Fresh Fish",
+    "Tea Steam",
+    "Rain Wet Soil",
+    "Morning Fog Moisture"
+  ],
+
+  "landmark_dna": [
+    "Birisiri",
+    "Someshwari River",
+    "Haor Wetlands",
+    "Susang Durgapur Region"
+  ],
+
+  "micro_dna": [
+    "Boat Moving Across Flooded Haor",
+    "Fishing Net Drying Beside Water",
+    "Blue Water Horizon At Sunset",
+    "Birisiri Red Soil Path",
+    "Children Crossing Water By Boat",
+    "Tea Stall Beside River Ghat",
+    "Monsoon Flooded Grassland",
+    "Boat Tied To Bamboo Pole",
+    "Wetland Bird Flock",
+    "Fog Covered Haor Morning"
+  ],
+
+  "identity_markers": [
+    "Haor Civilization",
+    "Birisiri Landscape",
+    "Wetland Culture",
+    "Boat Lifestyle",
+    "Northern Water Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
