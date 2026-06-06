@@ -1,0 +1,303 @@
+{
+  "district_id": "BD-CTG-044",
+
+  "district_name": "Chattogram",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Commercial Capital",
+    "Port City Civilization",
+    "Maritime Heritage",
+    "Industrial Gateway",
+    "Karnaphuli River Culture"
+  ],
+
+  "geography_dna": {
+    "major_water_bodies": [
+      "Karnaphuli River",
+      "Bay of Bengal",
+      "Halda River"
+    ],
+
+    "terrain": [
+      "Coastal Plain",
+      "Hill-River Transition",
+      "Port Landscape"
+    ],
+
+    "sea_dependency_score": 98,
+    "trade_dependency_score": 100
+  },
+
+  "historical_dna": [
+    "Ancient Maritime Trade",
+    "Arab Trading Influence",
+    "British Port Development",
+    "Colonial Commercial Center",
+    "Maritime Gateway Heritage"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Port Operations",
+      "International Trade",
+      "Manufacturing",
+      "Shipping"
+    ],
+
+    "secondary": [
+      "Tourism",
+      "Logistics",
+      "Retail Commerce"
+    ],
+
+    "economic_identity": [
+      "Port Economy",
+      "Industrial Economy",
+      "Export Gateway"
+    ]
+  },
+
+  "occupation_dna": [
+    "Port Worker",
+    "Business Owner",
+    "Factory Worker",
+    "Shipyard Worker",
+    "Trader",
+    "Logistics Employee"
+  ],
+
+  "transport_dna": {
+    "sea_transport": [
+      "Cargo Ship",
+      "Container Vessel",
+      "Fishing Trawler"
+    ],
+
+    "land_transport": [
+      "Truck",
+      "Bus",
+      "CNG",
+      "Private Vehicle"
+    ],
+
+    "identity": [
+      "Port Logistics Network",
+      "National Trade Gateway"
+    ]
+  },
+
+  "food_dna": [
+    "Mezban",
+    "Beef Kala Bhuna",
+    "Sea Fish",
+    "Rice",
+    "Milk Tea",
+    "Street Food"
+  ],
+
+  "market_dna": [
+    "Khatunganj Trade Hub",
+    "Wholesale Import Market",
+    "Port Commerce Network",
+    "Container Logistics Economy",
+    "Industrial Supply Chain"
+  ],
+
+  "festival_dna": [
+    "Eid Commerce Rush",
+    "Port City Celebrations",
+    "Trade Community Festivals",
+    "Cultural Heritage Events"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Chatgaiya Dialect",
+      "Port Trade Vocabulary",
+      "Maritime Expressions"
+    ]
+  },
+
+  "religious_dna": [
+    "Bayezid Heritage",
+    "Anderkilla Religious Core",
+    "Port Community Mosques",
+    "Multi-Community Urban Culture"
+  ],
+
+  "social_dna": [
+    "Business Network Culture",
+    "Commercial Relationships",
+    "Port Worker Communities",
+    "Urban Family Networks"
+  ],
+
+  "emotion_dna": [
+    "Commercial Pride",
+    "Port Identity",
+    "Trade Ambition",
+    "Maritime Heritage Pride",
+    "Urban Competitiveness"
+  ],
+
+  "visual_dna": [
+    "Container Ship Horizon",
+    "Port Crane Skyline",
+    "Karnaphuli Riverside",
+    "Industrial Night Lights",
+    "Busy Commercial Streets"
+  ],
+
+  "color_palette_dna": [
+    "Ocean Blue",
+    "Container Red",
+    "Industrial Gray",
+    "Port Orange",
+    "River Green"
+  ],
+
+  "behavior_dna": [
+    "Business Negotiation",
+    "Port Shift Routine",
+    "Tea Stall Commerce Discussion",
+    "Wholesale Trading",
+    "Late Night Market Activity"
+  ],
+
+  "object_dna": [
+    "Shipping Container",
+    "Cargo Manifest",
+    "Tea Glass",
+    "Dock Rope",
+    "Port Pass Card",
+    "Truck Invoice",
+    "Forklift"
+  ],
+
+  "sound_dna": [
+    "Ship Horn",
+    "Container Crane Movement",
+    "Truck Traffic",
+    "Port Announcements",
+    "Market Bargaining"
+  ],
+
+  "smell_dna": [
+    "Sea Air",
+    "Diesel Fuel",
+    "Port Warehouse",
+    "Tea Steam",
+    "Fresh Fish"
+  ],
+
+  "childhood_memory_dna": [
+    "Watching Ships On Karnaphuli",
+    "Eid Shopping In City Markets",
+    "Patenga Beach Visits",
+    "Port Area Lights At Night",
+    "School Trips To Naval Areas"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Port Peak Activity",
+      "Tourism Movement"
+    ],
+
+    "monsoon": [
+      "Heavy Port Operations",
+      "Storm Monitoring"
+    ],
+
+    "winter": [
+      "Tourist Season",
+      "Clear Coastal Skyline"
+    ]
+  },
+
+  "night_dna": [
+    "Container Terminal Lights",
+    "Port Activity After Midnight",
+    "Marine Traffic",
+    "Late Night Food Streets"
+  ],
+
+  "risk_dna": [
+    "Cyclone Risk",
+    "Port Congestion",
+    "Industrial Pollution",
+    "Coastal Storm Exposure"
+  ],
+
+  "migration_dna": [
+    "National Labor Migration",
+    "Business Migration",
+    "Industrial Workforce Movement",
+    "Port Employment Attraction"
+  ],
+
+  "commercial_dna": [
+    "National Import Gateway",
+    "Export Processing Chain",
+    "Container Economy",
+    "Maritime Trade Network",
+    "Logistics Infrastructure"
+  ],
+
+  "education_dna": [
+    "University Culture",
+    "Engineering Education",
+    "Business Education",
+    "Port Logistics Training"
+  ],
+
+  "memory_dna": [
+    "Patenga Sunset",
+    "Port Expansion Era",
+    "Karnaphuli River Journey",
+    "Mezban Gatherings",
+    "Commercial Market Memories"
+  ],
+
+  "micro_dna": [
+    "Container Stack Beside Dock",
+    "Ship Passing Under Karnaphuli Sky",
+    "Tea Stall Near Wholesale Market",
+    "Truck Queue At Port Gate",
+    "Crane Lights At Midnight",
+    "Cargo Workers Wearing Safety Helmets",
+    "Patenga Sea Breeze At Sunset",
+    "Khatunganj Trading Crowd",
+    "Dock Rope Coiled Beside Pier",
+    "Container Vessel Loading Operations"
+  ],
+
+  "landmark_dna": [
+    "Chattogram Port",
+    "Karnaphuli River",
+    "Patenga Sea Beach",
+    "Khatunganj",
+    "Bayezid Bostami Shrine",
+    "Naval Academy"
+  ],
+
+  "identity_markers": [
+    "Commercial Capital",
+    "Port City",
+    "Maritime Heritage",
+    "Industrial Gateway",
+    "Karnaphuli Civilization"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
