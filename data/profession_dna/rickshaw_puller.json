@@ -1,0 +1,264 @@
+{
+  "profession_id": "PROF_RICKSHAW_PULLER_001",
+
+  "profession": "Rickshaw Puller",
+
+  "sector": "Transportation",
+
+  "sub_sector": "Human Powered Urban Transport",
+
+  "core_identity": [
+    "Urban Mobility Provider",
+    "Daily Wage Earner",
+    "Human Powered Transport Worker",
+    "Street Economy Participant",
+    "Survival Driven Provider"
+  ],
+
+  "profession_archetype": [
+    "Provider",
+    "Survivor",
+    "Worker",
+    "Navigator"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Street Civilization",
+
+    "secondary_layers": [
+      "Urban Survival",
+      "Informal Economy",
+      "Migration Economy",
+      "Human Endurance"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Daily",
+
+    "income_stability": "Low-Medium",
+
+    "cashflow_type": "Trip Based",
+
+    "income_sources": [
+      "Passenger Transport",
+      "Short Distance Trips",
+      "Market Transport",
+      "School Transport"
+    ],
+
+    "peak_income_periods": [
+      "School Hours",
+      "Office Hours",
+      "Festival Season",
+      "Rainy Days"
+    ],
+
+    "financial_stress_periods": [
+      "Illness",
+      "Heavy Flooding",
+      "Political Shutdown",
+      "Vehicle Damage"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Income Maximization",
+      "Survival Focused",
+      "Weather Sensitive",
+      "Opportunity Driven"
+    ],
+
+    "trust_sources": [
+      "Other Drivers",
+      "Regular Passengers",
+      "Local Experience",
+      "Street Networks"
+    ],
+
+    "fear_drivers": [
+      "No Passengers",
+      "Physical Illness",
+      "Rickshaw Damage",
+      "Family Expenses"
+    ],
+
+    "motivation_drivers": [
+      "Daily Income",
+      "Family Support",
+      "Food Security",
+      "Children Education"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Early Morning Departure",
+      "Passenger Search",
+      "Tea Stall Rest",
+      "Midday Recovery",
+      "Night Return Home"
+    ],
+
+    "weekly_patterns": [
+      "Rickshaw Maintenance",
+      "Rental Payment",
+      "Family Budget Planning",
+      "Village Communication"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Road Navigation",
+      "Passenger Handling",
+      "Traffic Awareness",
+      "Physical Endurance",
+      "Urban Route Knowledge"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Rickshaw",
+      "Driving Permit",
+      "Mobile Phone",
+      "Basic Repair Tools",
+      "Weather Protection Gear"
+    ]
+  },
+
+  "emotion_dna": [
+    "Resilience",
+    "Determination",
+    "Fatigue",
+    "Hope",
+    "Responsibility"
+  ],
+
+  "memory_dna": [
+    "First Day In City",
+    "First Rickshaw Rental",
+    "Heavy Rain Workday",
+    "Festival Income Rush",
+    "Sending Money Home"
+  ],
+
+  "migration_dna": {
+    "common_origin": [
+      "Village Areas",
+      "River Erosion Zones",
+      "Economically Vulnerable Districts"
+    ],
+
+    "migration_pattern": [
+      "Village To City",
+      "Seasonal Migration",
+      "Family Supported Migration"
+    ]
+  },
+
+  "social_dna": {
+    "community_role": "Urban Transport Provider",
+
+    "social_status": "Working Class Contributor",
+
+    "community_connections": [
+      "Passengers",
+      "Rickshaw Owners",
+      "Drivers",
+      "Tea Stall Networks",
+      "Local Markets"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Price Sensitive",
+      "Necessity Driven",
+      "Durability Focused"
+    ],
+
+    "purchase_triggers": [
+      "Lower Cost",
+      "Long Lasting Use",
+      "Family Need",
+      "Income Protection"
+    ],
+
+    "purchase_barriers": [
+      "Low Cashflow",
+      "Debt",
+      "Income Uncertainty"
+    ]
+  },
+
+  "visual_dna": [
+    "Colorful Rickshaw",
+    "Busy Road",
+    "Passenger Seat",
+    "Traffic Junction",
+    "Rain Covered Rickshaw Hood"
+  ],
+
+  "object_dna": [
+    "Rickshaw",
+    "Bell",
+    "Seat Cushion",
+    "Rain Cover",
+    "Water Bottle",
+    "Mobile Phone"
+  ],
+
+  "sound_dna": [
+    "Rickshaw Bell",
+    "Traffic Noise",
+    "Passenger Negotiation",
+    "Street Vendors",
+    "City Ambience"
+  ],
+
+  "smell_dna": [
+    "Road Dust",
+    "Rain On Asphalt",
+    "Street Food",
+    "Tea Stall",
+    "Urban Air"
+  ],
+
+  "micro_moment_dna": [
+    "Finding Passenger",
+    "Negotiating Fare",
+    "Pedaling Uphill",
+    "Taking Tea Break",
+    "Returning Home With Earnings"
+  ],
+
+  "risk_dna": [
+    "Road Accident",
+    "Physical Exhaustion",
+    "Heat Exposure",
+    "Income Instability",
+    "Vehicle Theft"
+  ],
+
+  "aspiration_dna": [
+    "Own Rickshaw",
+    "Permanent House",
+    "Children Education",
+    "Small Business Ownership",
+    "Financial Stability"
+  ],
+
+  "identity_markers": [
+    "Rickshaw",
+    "Daily Earnings",
+    "Urban Roads",
+    "Human Powered Mobility"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
