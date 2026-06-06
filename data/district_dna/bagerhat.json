@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-BAG-017",
+
+  "district_name": "Bagerhat",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Southwestern Delta Region",
+    "River Canal Network",
+    "Sundarbans Gateway",
+    "Coastal Plain",
+    "Mangrove Influence Zone"
+  ],
+
+  "climate_dna": [
+    "Humid Coastal Climate",
+    "Cyclone Risk",
+    "Monsoon Dominated",
+    "Warm Winter",
+    "High Humidity"
+  ],
+
+  "light_dna": [
+    "Canal Reflection Sunrise",
+    "Mangrove Sunset Glow",
+    "Monsoon Cloud Diffusion",
+    "Golden Mosque Brick Light",
+    "Coastal Evening Atmosphere"
+  ],
+
+  "architecture_dna": [
+    "Sixty Dome Mosque",
+    "Khan Jahan Ali Heritage",
+    "Sultanate Brick Architecture",
+    "Historic Islamic Structures",
+    "Canal Side Settlements"
+  ],
+
+  "transport_dna": [
+    "Boat",
+    "Motorcycle",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Shrimp Farmer",
+    "Fisherman",
+    "Farmer",
+    "Tourism Worker",
+    "Trader",
+    "Boat Operator"
+  ],
+
+  "food_dna": [
+    "Shrimp",
+    "River Fish",
+    "Rice",
+    "Milk Tea",
+    "Coconut Based Foods",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "Canal Based Travel",
+    "Shrimp Gher Management",
+    "Fishing Activity",
+    "Tea Stall Gathering",
+    "Heritage Site Visiting",
+    "River Market Trading"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Shrimp Basket",
+    "Tea Glass",
+    "Boat Paddle",
+    "River Rope",
+    "Fish Container",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Sixty Dome Mosque Visit",
+    "Canal Boat Journey",
+    "Monsoon River Scene",
+    "Shrimp Harvest Season",
+    "Village Tea Stall"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Water Movement",
+    "Morning Azan",
+    "Fishing Activity",
+    "Market Crowd Noise"
+  ],
+
+  "smell_dna": [
+    "River Water",
+    "Mangrove Air",
+    "Fresh Fish",
+    "Tea Steam",
+    "Wet Soil"
+  ],
+
+  "landmark_dna": [
+    "Sixty Dome Mosque",
+    "Khan Jahan Ali Mazar",
+    "Sundarbans Gateway Region",
+    "Historic Mosque City"
+  ],
+
+  "micro_dna": [
+    "Red Brick Mosque Wall Texture",
+    "Shrimp Gher Beside Canal",
+    "Boat Tied To Palm Tree",
+    "Canal Side Tea Stall",
+    "Fishing Net Drying In Sun",
+    "Historic Archway Shadow",
+    "River Market Fish Auction",
+    "Mangrove Bound Transport Boat",
+    "Brick Heritage Courtyard",
+    "Shrimp Basket Loading Activity"
+  ],
+
+  "identity_markers": [
+    "Sixty Dome Mosque",
+    "Sundarbans Gateway",
+    "Shrimp Economy",
+    "Canal Culture",
+    "Islamic Heritage"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
