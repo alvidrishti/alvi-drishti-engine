@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-BSL-028",
+
+  "district_name": "Barishal",
+
+  "division": "Barishal",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "River Capital Region",
+    "Kirtankhola River Corridor",
+    "Delta Floodplain",
+    "Canal Network Civilization",
+    "Southern River Hub"
+  ],
+
+  "climate_dna": [
+    "Humid River Climate",
+    "Heavy Monsoon",
+    "Warm Winter",
+    "High Humidity",
+    "Seasonal Storm Exposure"
+  ],
+
+  "light_dna": [
+    "Kirtankhola Sunrise Reflection",
+    "Launch Terminal Night Lights",
+    "Golden River Sunset",
+    "Monsoon Cloud Reflection",
+    "Canal Side Evening Glow"
+  ],
+
+  "architecture_dna": [
+    "Colonial Educational Buildings",
+    "River Port Infrastructure",
+    "Launch Terminal Structures",
+    "Urban Commercial Blocks",
+    "Canal Side Settlements"
+  ],
+
+  "transport_dna": [
+    "Launch",
+    "Boat",
+    "Rickshaw",
+    "Motorcycle",
+    "Bus"
+  ],
+
+  "occupation_dna": [
+    "Trader",
+    "Boat Operator",
+    "Teacher",
+    "Government Employee",
+    "Fisherman",
+    "Business Owner"
+  ],
+
+  "food_dna": [
+    "Hilsa",
+    "Rice",
+    "River Fish",
+    "Milk Tea",
+    "Coconut Based Foods",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "Launch Terminal Waiting",
+    "River Based Commerce",
+    "Tea Stall Discussion",
+    "Canal Side Gathering",
+    "Fish Market Trading",
+    "Evening Riverside Walk"
+  ],
+
+  "object_dna": [
+    "Launch Ticket",
+    "Boat Rope",
+    "Tea Glass",
+    "Fish Basket",
+    "River Cargo Sack",
+    "Rickshaw Bell",
+    "Dock Pass"
+  ],
+
+  "memory_dna": [
+    "Launch Journey To Dhaka",
+    "Kirtankhola Sunset",
+    "River Port Experience",
+    "Monsoon River Scene",
+    "Fish Market Morning"
+  ],
+
+  "sound_dna": [
+    "Launch Horn",
+    "River Engine Noise",
+    "Morning Azan",
+    "Market Crowd Activity",
+    "Dockside Announcements"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Fresh Fish",
+    "Tea Steam",
+    "Rain Wet Concrete",
+    "Canal Water Moisture"
+  ],
+
+  "landmark_dna": [
+    "Kirtankhola River",
+    "Barishal Launch Terminal",
+    "Oxford Mission",
+    "Bell's Park"
+  ],
+
+  "micro_dna": [
+    "Launch Terminal Passenger Queue",
+    "Kirtankhola Riverside Tea Stall",
+    "Night Launch Floodlights",
+    "Fish Basket Loaded Onto Boat",
+    "Canal Side Wooden Bridge",
+    "River Port Cargo Activity",
+    "Rickshaw Waiting Near Launch Ghat",
+    "Monsoon Waterlogged Riverside Road",
+    "Launch Departure Announcement",
+    "Evening Crowd Along Riverfront"
+  ],
+
+  "identity_markers": [
+    "River Capital",
+    "Launch Culture",
+    "Kirtankhola Identity",
+    "Oxford Of Bengal Legacy",
+    "Southern River Civilization"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
