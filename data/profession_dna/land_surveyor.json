@@ -1,0 +1,284 @@
+{
+  "profession_id": "PROF_LAND_SURVEYOR_001",
+
+  "profession": "Land Surveyor",
+
+  "sector": "Land Administration",
+
+  "sub_sector": "Surveying And Geospatial Mapping",
+
+  "core_identity": [
+    "Boundary Verifier",
+    "Land Mapping Specialist",
+    "Property Documentation Facilitator",
+    "Territorial Data Collector",
+    "Land Ownership Interpreter"
+  ],
+
+  "profession_archetype": [
+    "Mapper",
+    "Investigator",
+    "Technical Expert",
+    "Verifier"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Land Civilization",
+
+    "secondary_layers": [
+      "Property Rights",
+      "Agricultural Mapping",
+      "Urban Expansion",
+      "Infrastructure Planning",
+      "Legal Documentation"
+    ]
+  },
+
+  "land_dna": {
+    "land_categories": [
+      "Agricultural Land",
+      "Residential Land",
+      "Commercial Property",
+      "Char Land",
+      "Government Land",
+      "Industrial Land"
+    ],
+
+    "common_tasks": [
+      "Boundary Survey",
+      "Land Measurement",
+      "Ownership Verification",
+      "Mutation Support",
+      "Development Mapping"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Project Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Survey Assignment Based",
+
+    "income_sources": [
+      "Land Survey Projects",
+      "Property Mapping",
+      "Boundary Verification",
+      "Development Site Surveys",
+      "Government Contracts"
+    ],
+
+    "peak_income_periods": [
+      "Construction Boom",
+      "Property Registration Season",
+      "Infrastructure Projects"
+    ],
+
+    "financial_stress_periods": [
+      "Low Development Activity",
+      "Land Market Slowdown"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Evidence Based",
+      "Measurement Driven",
+      "Documentation Focused",
+      "Accuracy Oriented"
+    ],
+
+    "trust_sources": [
+      "Survey Maps",
+      "Land Records",
+      "GPS Data",
+      "Historical Documents"
+    ],
+
+    "fear_drivers": [
+      "Measurement Error",
+      "Boundary Conflict",
+      "Documentation Dispute",
+      "Legal Challenge"
+    ],
+
+    "motivation_drivers": [
+      "Technical Accuracy",
+      "Property Clarity",
+      "Professional Reputation",
+      "Project Success"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Field Measurement",
+      "GPS Mapping",
+      "Boundary Inspection",
+      "Document Review",
+      "Client Consultation"
+    ],
+
+    "weekly_patterns": [
+      "Survey Report Preparation",
+      "Land Record Verification",
+      "Site Visits",
+      "Project Planning"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Land Measurement",
+      "GPS Operation",
+      "Map Reading",
+      "Geospatial Analysis",
+      "Technical Documentation",
+      "Boundary Verification"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Survey Equipment",
+      "GPS Device",
+      "Measuring Tools",
+      "Land Maps",
+      "Survey Software",
+      "Field Vehicle"
+    ]
+  },
+
+  "emotion_dna": [
+    "Precision",
+    "Patience",
+    "Responsibility",
+    "Objectivity",
+    "Professional Discipline"
+  ],
+
+  "memory_dna": [
+    "First Boundary Survey",
+    "Major Land Dispute Resolution",
+    "Large Development Project",
+    "First GPS Mapping Assignment",
+    "Complex Property Verification"
+  ],
+
+  "social_dna": {
+    "community_role": "Land Information Provider",
+
+    "social_status": "Technical Land Specialist",
+
+    "community_connections": [
+      "Landowners",
+      "Farmers",
+      "Lawyers",
+      "Developers",
+      "Government Offices"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Agricultural Fields",
+      "Construction Sites",
+      "Village Boundaries",
+      "Urban Development Zones",
+      "Land Registry Offices"
+    ],
+
+    "weather_dependency": "Medium",
+
+    "field_work_ratio": "High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Accuracy Focused",
+      "Technology Driven",
+      "Durability Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Higher Precision",
+      "Better Mapping Capability",
+      "Time Efficiency",
+      "Data Reliability"
+    ],
+
+    "purchase_barriers": [
+      "High Equipment Cost",
+      "Technical Complexity",
+      "Maintenance Expense"
+    ]
+  },
+
+  "visual_dna": [
+    "Survey Team",
+    "GPS Equipment",
+    "Boundary Markers",
+    "Land Maps",
+    "Open Field Measurement"
+  ],
+
+  "object_dna": [
+    "GPS Device",
+    "Total Station",
+    "Survey Pole",
+    "Land Map",
+    "Measuring Tape",
+    "Field Notebook"
+  ],
+
+  "sound_dna": [
+    "Survey Team Communication",
+    "Construction Activity",
+    "GPS Alerts",
+    "Field Discussions",
+    "Vehicle Movement"
+  ],
+
+  "smell_dna": [
+    "Fresh Soil",
+    "Grass",
+    "Construction Dust",
+    "Survey Equipment",
+    "Open Air Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Marking Boundary Point",
+    "Reading GPS Coordinates",
+    "Comparing Land Records",
+    "Resolving Boundary Question",
+    "Finalizing Survey Map"
+  ],
+
+  "risk_dna": [
+    "Boundary Dispute",
+    "Measurement Error",
+    "Legal Challenge",
+    "Equipment Failure",
+    "Field Accident"
+  ],
+
+  "aspiration_dna": [
+    "National Survey Expertise",
+    "Large Infrastructure Projects",
+    "Professional Recognition",
+    "Geospatial Innovation",
+    "Land Governance Impact"
+  ],
+
+  "identity_markers": [
+    "GPS Equipment",
+    "Survey Maps",
+    "Boundary Verification",
+    "Land Measurement"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
