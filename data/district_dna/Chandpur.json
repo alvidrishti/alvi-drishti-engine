@@ -1,0 +1,285 @@
+{
+  "district_id": "BD-CHA-043",
+
+  "district_name": "Chandpur",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Hilsa Capital",
+    "River Confluence Civilization",
+    "Launch Port Heritage",
+    "Fishing Economy",
+    "Waterway Trade Culture"
+  ],
+
+  "geography_dna": {
+    "major_rivers": [
+      "Meghna",
+      "Dakatia"
+    ],
+
+    "terrain": [
+      "Floodplain",
+      "River Delta",
+      "Riverbank Settlements"
+    ],
+
+    "water_dominance_score": 98,
+
+    "river_dependency_score": 95
+  },
+
+  "historical_dna": [
+    "Ancient River Trade Route",
+    "Colonial River Commerce",
+    "Launch Transport Heritage",
+    "Fishing Market Evolution",
+    "Traditional River Civilization"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Hilsa Fishing",
+      "Fish Trading",
+      "Agriculture"
+    ],
+
+    "secondary": [
+      "River Transport",
+      "Wholesale Commerce",
+      "Retail Business"
+    ],
+
+    "economic_identity": [
+      "Hilsa Economy",
+      "River Market Economy",
+      "Launch Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Fisherman",
+    "Fish Trader",
+    "Boat Operator",
+    "Farmer",
+    "Business Owner",
+    "Transport Worker"
+  ],
+
+  "transport_dna": {
+    "water_transport": [
+      "Launch",
+      "Fishing Boat",
+      "Cargo Boat"
+    ],
+
+    "land_transport": [
+      "Rickshaw",
+      "Motorcycle",
+      "Bus"
+    ],
+
+    "transport_identity": [
+      "Launch Terminal Culture",
+      "River Mobility"
+    ]
+  },
+
+  "food_dna": [
+    "Hilsa",
+    "Rice",
+    "Freshwater Fish",
+    "Pitha",
+    "Milk Tea"
+  ],
+
+  "market_dna": [
+    "Fish Auction Market",
+    "River Port Market",
+    "Wholesale Fish Trade",
+    "Early Morning Trading Culture"
+  ],
+
+  "festival_dna": [
+    "Eid Market Rush",
+    "Riverfront Fair",
+    "Fishing Season Celebration",
+    "Local Cultural Programs"
+  ],
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Eid Congregation Memory",
+    "Riverbank Religious Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Chandpur Riverbelt Accent",
+      "Fishing Community Vocabulary"
+    ]
+  },
+
+  "social_dna": [
+    "River Based Community Bonding",
+    "Tea Stall Discussion",
+    "Fishing Network Relationships",
+    "Strong Family Connections"
+  ],
+
+  "emotion_dna": [
+    "River Pride",
+    "Fishing Heritage Pride",
+    "Launch Journey Nostalgia",
+    "Flood Resilience"
+  ],
+
+  "behavior_dna": [
+    "Fishing Net Repair",
+    "River Watching",
+    "Fish Auction Participation",
+    "Tea Stall Discussion",
+    "Launch Travel Routine"
+  ],
+
+  "visual_dna": [
+    "Silver Hilsa Reflection",
+    "Dense Fishing Boats",
+    "River Sunset",
+    "Launch Terminal Crowd",
+    "Morning Fish Market"
+  ],
+
+  "color_palette_dna": [
+    "River Blue",
+    "Hilsa Silver",
+    "Fishing Net Green",
+    "Sunset Orange",
+    "Mud Brown"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Hilsa Basket",
+    "Boat Rope",
+    "Tea Glass",
+    "Launch Ticket",
+    "Fish Crate"
+  ],
+
+  "sound_dna": [
+    "Launch Horn",
+    "Fish Auction Shouting",
+    "Boat Engine",
+    "Morning Azan",
+    "River Waves"
+  ],
+
+  "smell_dna": [
+    "Fresh Hilsa",
+    "River Air",
+    "Wet Net",
+    "Tea Steam",
+    "Morning Fish Market"
+  ],
+
+  "childhood_memory_dna": [
+    "Watching Fishing Boats",
+    "Visiting Launch Ghat",
+    "Buying Hilsa With Family",
+    "Riverbank Football",
+    "Monsoon Flood Memories"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "River Trade Activity",
+      "Fishing Preparation"
+    ],
+
+    "monsoon": [
+      "River Expansion",
+      "Flood Adaptation",
+      "Launch Dependency"
+    ],
+
+    "winter": [
+      "Dense River Fog",
+      "Morning Fish Market"
+    ]
+  },
+
+  "night_dna": [
+    "Launch Terminal Lights",
+    "Night Fish Trading",
+    "Riverside Tea Stall",
+    "Port Activity"
+  ],
+
+  "risk_dna": [
+    "Flood Risk",
+    "River Erosion",
+    "Storm Exposure",
+    "Fishing Livelihood Uncertainty"
+  ],
+
+  "migration_dna": [
+    "Dhaka Migration",
+    "River Commerce Migration",
+    "Seasonal Labor Movement"
+  ],
+
+  "commercial_dna": [
+    "Hilsa Branding",
+    "Fish Export Chain",
+    "River Trade Network",
+    "Transport Commerce"
+  ],
+
+  "memory_dna": [
+    "Hilsa Season",
+    "Launch Journey",
+    "River Sunset",
+    "Flood Year Memory",
+    "Fish Market Morning"
+  ],
+
+  "micro_dna": [
+    "Hilsa Basket On Wet Dock",
+    "Launch Horn Before Departure",
+    "Fishing Net Drying On Riverbank",
+    "Morning Fish Auction Crowd",
+    "Fog Covered Meghna River",
+    "Tea Stall Beside Launch Ghat",
+    "Boat Rope Tied To Bamboo Pole",
+    "Children Playing Near Riverbank",
+    "Fish Crates Being Loaded",
+    "Sunset Reflection On Meghna"
+  ],
+
+  "landmark_dna": [
+    "Meghna-Dakatia Confluence",
+    "Chandpur Launch Terminal",
+    "Historic River Port",
+    "Hilsa Landing Centers"
+  ],
+
+  "identity_markers": [
+    "Hilsa Capital",
+    "River Civilization",
+    "Fishing Culture",
+    "Launch Heritage",
+    "Waterway Economy"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
