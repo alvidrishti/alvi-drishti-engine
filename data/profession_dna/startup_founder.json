@@ -1,0 +1,340 @@
+{
+  "profession_id": "PROF_STARTUP_FOUNDER_001",
+
+  "profession": "Startup Founder",
+
+  "sector": "Innovation Economy",
+
+  "sub_sector": "Technology And Venture Creation",
+
+  "core_identity": [
+    "Innovation Builder",
+    "Problem Solver",
+    "Future Market Creator",
+    "Technology Disruptor",
+    "Venture Architect"
+  ],
+
+  "profession_archetype": [
+    "Founder",
+    "Visionary",
+    "Builder",
+    "Innovator"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Innovation Civilization",
+
+    "secondary_layers": [
+      "Technology Transformation",
+      "Digital Economy",
+      "Future Employment",
+      "Knowledge Economy",
+      "Global Competitiveness"
+    ]
+  },
+
+  "startup_dna": {
+    "startup_stages": [
+      "Idea Stage",
+      "Prototype Stage",
+      "Product Market Fit",
+      "Growth Stage",
+      "Scale Stage"
+    ],
+
+    "startup_models": [
+      "SaaS",
+      "Marketplace",
+      "Fintech",
+      "EdTech",
+      "HealthTech",
+      "AI Startup",
+      "Ecommerce",
+      "Deep Technology"
+    ],
+
+    "growth_mechanisms": [
+      "User Acquisition",
+      "Network Effects",
+      "Viral Growth",
+      "Partnership Expansion",
+      "Technology Scaling"
+    ]
+  },
+
+  "innovation_dna": {
+    "problem_sources": [
+      "Customer Pain Point",
+      "Market Inefficiency",
+      "Technology Gap",
+      "Economic Opportunity",
+      "Social Challenge"
+    ],
+
+    "innovation_types": [
+      "Product Innovation",
+      "Business Model Innovation",
+      "Process Innovation",
+      "Platform Innovation",
+      "AI Driven Innovation"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Highly Variable",
+
+    "income_stability": "Low",
+
+    "cashflow_type": "Growth Based",
+
+    "income_sources": [
+      "Product Revenue",
+      "Subscription Revenue",
+      "Marketplace Fees",
+      "Equity Appreciation",
+      "Strategic Partnerships"
+    ],
+
+    "peak_income_periods": [
+      "Funding Round",
+      "Product Breakthrough",
+      "Rapid User Growth",
+      "Market Expansion"
+    ],
+
+    "financial_stress_periods": [
+      "Runway Shortage",
+      "Product Failure",
+      "Fundraising Failure",
+      "Market Recession"
+    ]
+  },
+
+  "venture_capital_dna": {
+    "capital_sources": [
+      "Personal Savings",
+      "Angel Investors",
+      "Seed Funds",
+      "Venture Capital",
+      "Strategic Investors"
+    ],
+
+    "fundraising_pressures": [
+      "Runway Management",
+      "Growth Expectations",
+      "Investor Reporting",
+      "Valuation Pressure"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "High Risk",
+      "Data Informed",
+      "Experiment Driven",
+      "Future Focused"
+    ],
+
+    "trust_sources": [
+      "Customer Data",
+      "Product Metrics",
+      "Market Research",
+      "Founder Network"
+    ],
+
+    "fear_drivers": [
+      "Startup Failure",
+      "Cash Burn",
+      "Team Collapse",
+      "Market Irrelevance",
+      "Investor Rejection"
+    ],
+
+    "motivation_drivers": [
+      "Impact Creation",
+      "Innovation",
+      "Freedom",
+      "Global Scale",
+      "Legacy Building"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Product Review",
+      "Customer Feedback Analysis",
+      "Team Coordination",
+      "Investor Communication",
+      "Growth Planning"
+    ],
+
+    "weekly_patterns": [
+      "Strategy Review",
+      "Hiring",
+      "Fundraising",
+      "Partnership Discussions",
+      "Product Iteration"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Leadership",
+      "Product Thinking",
+      "Fundraising",
+      "Growth Strategy",
+      "Sales",
+      "Execution",
+      "Problem Solving"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Founding Team",
+      "Product Vision",
+      "Market Access",
+      "Technology Infrastructure",
+      "Investor Network"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Optimism",
+    "Stress",
+    "Persistence",
+    "Conviction"
+  ],
+
+  "memory_dna": [
+    "Startup Launch Day",
+    "First User",
+    "First Revenue",
+    "First Investment",
+    "Near Failure Experience",
+    "Breakthrough Growth Moment"
+  ],
+
+  "social_dna": {
+    "community_role": "Innovation Catalyst",
+
+    "social_status": "Founder",
+
+    "community_connections": [
+      "Customers",
+      "Investors",
+      "Employees",
+      "Mentors",
+      "Startup Ecosystem",
+      "Technology Community"
+    ]
+  },
+
+  "future_dna": {
+    "future_focus": [
+      "Technology Adoption",
+      "Automation",
+      "Artificial Intelligence",
+      "Digital Transformation",
+      "Global Expansion"
+    ],
+
+    "civilization_impact": [
+      "Job Creation",
+      "Industry Disruption",
+      "Knowledge Creation",
+      "Economic Modernization"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Growth Driven",
+      "ROI Focused",
+      "Scalability Oriented"
+    ],
+
+    "purchase_triggers": [
+      "User Growth",
+      "Automation",
+      "Competitive Advantage",
+      "Operational Efficiency"
+    ],
+
+    "purchase_barriers": [
+      "Cash Constraints",
+      "Poor ROI",
+      "Scalability Risk"
+    ]
+  },
+
+  "visual_dna": [
+    "Startup Office",
+    "Product Dashboard",
+    "Pitch Stage",
+    "Whiteboard Strategy Session",
+    "Development Team"
+  ],
+
+  "object_dna": [
+    "Pitch Deck",
+    "Laptop",
+    "Product Roadmap",
+    "Investor Report",
+    "Analytics Dashboard",
+    "Prototype"
+  ],
+
+  "sound_dna": [
+    "Team Brainstorming",
+    "Investor Pitch",
+    "Customer Interviews",
+    "Product Demo",
+    "Startup Meeting"
+  ],
+
+  "smell_dna": [
+    "Coffee",
+    "Coworking Space",
+    "Electronics",
+    "Office Environment",
+    "Late Night Work Session"
+  ],
+
+  "micro_moment_dna": [
+    "Launching MVP",
+    "Receiving First Investment",
+    "Closing Enterprise Client",
+    "Watching User Growth Spike",
+    "Pitching Investors"
+  ],
+
+  "risk_dna": [
+    "Startup Failure",
+    "Funding Failure",
+    "Technology Obsolescence",
+    "Competitive Disruption",
+    "Founder Burnout"
+  ],
+
+  "aspiration_dna": [
+    "Unicorn Company",
+    "Global Expansion",
+    "Industry Transformation",
+    "Massive Impact",
+    "Technology Leadership"
+  ],
+
+  "identity_markers": [
+    "Pitch Deck",
+    "Product Vision",
+    "Startup Team",
+    "Innovation Mindset"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
