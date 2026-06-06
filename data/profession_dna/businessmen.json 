@@ -1,0 +1,167 @@
+{
+  "profession": "Businessman",
+
+  "sector": "Commerce",
+
+  "sub_sector": "Business Ownership",
+
+  "core_identity": [
+    "Opportunity Creator",
+    "Risk Taker",
+    "Capital Allocator",
+    "Network Builder",
+    "Economic Growth Driver"
+  ],
+
+  "profession_reality_score": 98,
+
+  "income_dna": {
+    "pattern": "Variable",
+    "cashflow": "Business Dependent",
+    "stability": "Medium-High",
+
+    "sources": [
+      "Product Sales",
+      "Service Revenue",
+      "Investments",
+      "Business Expansion"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Profit Driven",
+      "Opportunity Focused",
+      "Risk Aware",
+      "Market Responsive"
+    ],
+
+    "trust_sources": [
+      "Business Network",
+      "Customer Feedback",
+      "Market Data",
+      "Experienced Entrepreneurs"
+    ],
+
+    "fear_drivers": [
+      "Business Loss",
+      "Cashflow Crisis",
+      "Competition",
+      "Market Collapse"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Sales Monitoring",
+      "Customer Interaction",
+      "Cashflow Review",
+      "Supplier Negotiation",
+      "Market Observation"
+    ],
+
+    "weekly_patterns": [
+      "Inventory Management",
+      "Financial Planning",
+      "Business Networking",
+      "Growth Evaluation"
+    ]
+  },
+
+  "emotion_dna": [
+    "Ambition",
+    "Competition",
+    "Achievement",
+    "Responsibility",
+    "Growth Mindset"
+  ],
+
+  "memory_dna": [
+    "First Business Sale",
+    "First Major Profit",
+    "Business Crisis Experience",
+    "Expansion Milestone",
+    "Customer Success Stories"
+  ],
+
+  "visual_dna": [
+    "Shop Counter",
+    "Cash Box",
+    "Inventory Shelves",
+    "Ledger Book",
+    "Customer Crowd"
+  ],
+
+  "object_dna": [
+    "Calculator",
+    "Ledger",
+    "Invoice Book",
+    "Cash Drawer",
+    "Smartphone",
+    "Business Card"
+  ],
+
+  "sound_dna": [
+    "Customer Conversations",
+    "Cash Register",
+    "Phone Calls",
+    "Market Noise",
+    "Business Negotiations"
+  ],
+
+  "smell_dna": [
+    "Shop Environment",
+    "Tea Steam",
+    "Fresh Products",
+    "Warehouse Storage",
+    "Street Market Air"
+  ],
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "ROI Focused",
+      "Value Driven",
+      "Brand Aware",
+      "Long Term Thinking"
+    ],
+
+    "purchase_triggers": [
+      "Profit Increase",
+      "Efficiency Gain",
+      "Market Demand",
+      "Competitive Advantage"
+    ]
+  },
+
+  "micro_moment_dna": [
+    "Checking Daily Sales",
+    "Negotiating Supplier Price",
+    "Handling Customer Complaint",
+    "Planning Expansion",
+    "Reviewing Monthly Profit"
+  ],
+
+  "risk_dna": [
+    "Market Competition",
+    "Cashflow Problems",
+    "Economic Slowdown",
+    "Inventory Loss"
+  ],
+
+  "aspiration_dna": [
+    "Business Expansion",
+    "Financial Freedom",
+    "Market Leadership",
+    "Family Prosperity",
+    "Asset Growth"
+  ],
+
+  "identity_markers": [
+    "Customer Network",
+    "Daily Sales Review",
+    "Market Awareness",
+    "Business Ownership"
+  ],
+
+  "three_second_identity_test": "PASS"
+}
