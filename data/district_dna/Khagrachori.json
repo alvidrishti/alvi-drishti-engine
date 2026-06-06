@@ -1,0 +1,293 @@
+{
+  "district_id": "BD-KHA-048",
+
+  "district_name": "Khagrachari",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Hill Tracts Heritage",
+    "Indigenous Cultural Mosaic",
+    "Mountain Agriculture",
+    "Border Highland Identity",
+    "Community-Centered Civilization"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Chittagong Hill Tracts",
+      "Mountain Valleys",
+      "Forest Hills",
+      "Border Highlands",
+      "Terraced Cultivation Zones"
+    ],
+
+    "terrain": [
+      "Mountain Landscape",
+      "Forest Covered Hills",
+      "Valley Settlements",
+      "Highland Agricultural Areas"
+    ],
+
+    "elevation_identity_score": 96,
+    "forest_dependency_score": 89,
+    "indigenous_landscape_score": 100
+  },
+
+  "historical_dna": [
+    "Hill Tracts Civilization",
+    "Indigenous Kingdom Legacy",
+    "Traditional Community Governance",
+    "Borderland Cultural Exchange",
+    "Mountain Settlement History"
+  ],
+
+  "cultural_dna": [
+    "Chakma Heritage",
+    "Tripura Heritage",
+    "Marma Presence",
+    "Multi-Ethnic Coexistence",
+    "Traditional Festival Culture"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Jhum Cultivation",
+      "Fruit Production",
+      "Tourism"
+    ],
+
+    "secondary": [
+      "Handicrafts",
+      "Small Trade",
+      "Forest Products"
+    ],
+
+    "economic_identity": [
+      "Hill Economy",
+      "Fruit Economy",
+      "Tourism Economy"
+    ]
+  },
+
+  "occupation_dna": [
+    "Jhum Cultivator",
+    "Fruit Farmer",
+    "Handicraft Producer",
+    "Tourism Worker",
+    "Trader",
+    "Teacher"
+  ],
+
+  "agriculture_dna": [
+    "Jhum Farming",
+    "Pineapple Cultivation",
+    "Banana Production",
+    "Papaya Farming",
+    "Hill Vegetable Farming"
+  ],
+
+  "forest_dna": [
+    "Bamboo Resources",
+    "Forest Collection Activities",
+    "Traditional Nature Knowledge",
+    "Forest Path Mobility"
+  ],
+
+  "food_dna": [
+    "Bamboo Shoot Dishes",
+    "Hill Vegetables",
+    "Rice",
+    "Traditional Indigenous Foods",
+    "Fresh Fruits",
+    "Smoked Foods"
+  ],
+
+  "festival_dna": [
+    "Biju Festival",
+    "Boisu Celebration",
+    "Traditional Harvest Festivals",
+    "Community Gatherings",
+    "Cultural Dance Events"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "community_languages": [
+      "Chakma",
+      "Tripura Languages",
+      "Marma Language"
+    ]
+  },
+
+  "religious_dna": [
+    "Buddhist Heritage",
+    "Traditional Indigenous Beliefs",
+    "Mosque Centered Communities",
+    "Temple Based Social Memory"
+  ],
+
+  "social_dna": [
+    "Village Cooperation",
+    "Community Decision Making",
+    "Family-Based Social Structure",
+    "Inter-Ethnic Coexistence"
+  ],
+
+  "emotion_dna": [
+    "Hill Pride",
+    "Community Belonging",
+    "Cultural Preservation",
+    "Landscape Attachment",
+    "Borderland Identity"
+  ],
+
+  "visual_dna": [
+    "Layered Green Hills",
+    "Cloud Covered Mountains",
+    "Bamboo Houses",
+    "Fruit Gardens",
+    "Traditional Dress Patterns"
+  ],
+
+  "color_palette_dna": [
+    "Forest Green",
+    "Bamboo Yellow",
+    "Mountain Blue",
+    "Earth Brown",
+    "Traditional Textile Red"
+  ],
+
+  "behavior_dna": [
+    "Hill Market Gathering",
+    "Community Festival Participation",
+    "Agricultural Cooperation",
+    "Forest Trail Travel",
+    "Traditional Craft Production"
+  ],
+
+  "object_dna": [
+    "Bamboo Basket",
+    "Traditional Textile",
+    "Fruit Crate",
+    "Jhum Tool",
+    "Handwoven Bag",
+    "Bamboo Water Container"
+  ],
+
+  "sound_dna": [
+    "Forest Birds",
+    "Mountain Wind",
+    "Traditional Festival Drums",
+    "Village Conversations",
+    "Bamboo Grove Sounds"
+  ],
+
+  "smell_dna": [
+    "Fresh Bamboo",
+    "Forest Soil",
+    "Mountain Rain",
+    "Fruit Gardens",
+    "Wood Smoke"
+  ],
+
+  "childhood_memory_dna": [
+    "Walking Through Hill Paths",
+    "Festival Dance Practice",
+    "Fruit Harvest Season",
+    "Mountain Stream Visits",
+    "Community Gatherings"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Fruit Harvest",
+      "Hill Market Activity"
+    ],
+
+    "monsoon": [
+      "Cloud Covered Mountains",
+      "Green Landscape Peak",
+      "Forest Growth Season"
+    ],
+
+    "winter": [
+      "Clear Mountain Views",
+      "Tourism Activity"
+    ]
+  },
+
+  "night_dna": [
+    "Quiet Hill Settlements",
+    "Festival Bonfires",
+    "Mountain Darkness",
+    "Village Community Gatherings"
+  ],
+
+  "risk_dna": [
+    "Landslide Risk",
+    "Remote Access Challenges",
+    "Agricultural Dependency",
+    "Climate Variability"
+  ],
+
+  "migration_dna": [
+    "Education Migration",
+    "Tourism Employment Movement",
+    "Urban Workforce Migration"
+  ],
+
+  "commercial_dna": [
+    "Fruit Branding",
+    "Handicraft Economy",
+    "Tourism Services",
+    "Regional Hill Market Network"
+  ],
+
+  "memory_dna": [
+    "Biju Celebrations",
+    "Hill Market Days",
+    "Fruit Harvest Seasons",
+    "Community Festivals",
+    "Mountain Landscape Memories"
+  ],
+
+  "micro_dna": [
+    "Bamboo Basket Hanging On Wooden Wall",
+    "Pineapple Stacked In Hill Market",
+    "Children Walking Through Hill Trails",
+    "Clouds Touching Mountain Ridge",
+    "Traditional Textile Drying In Sunlight",
+    "Festival Drums Before Celebration",
+    "Fruit Truck Descending Hill Road",
+    "Bamboo Bridge Over Small Stream",
+    "Village Meeting Under Large Tree",
+    "Morning Mist Covering Valley Settlement"
+  ],
+
+  "landmark_dna": [
+    "Alutila Cave",
+    "Richhang Waterfall",
+    "Khagrachari Hill Region",
+    "Hanging Bridge Areas",
+    "Hill Tracts Landscape"
+  ],
+
+  "identity_markers": [
+    "Hill Tracts Heritage",
+    "Indigenous Mosaic",
+    "Mountain Agriculture",
+    "Border Highland Culture",
+    "Community Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
