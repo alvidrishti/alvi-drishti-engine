@@ -1,0 +1,296 @@
+{
+  "district_id": "BD-NARS-061",
+
+  "district_name": "Narsingdi",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Textile Heartland",
+    "Entrepreneurial Agriculture",
+    "River Commerce Network",
+    "Industrial-Agricultural Hybrid",
+    "Enterprise Culture"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Meghna River",
+      "Shitalakshya Influence",
+      "Arial Khan Tributary Networks",
+      "Floodplain Agriculture",
+      "Industrial Growth Belt"
+    ],
+
+    "terrain": [
+      "River Floodplain",
+      "Agricultural Plains",
+      "Industrial Expansion Zones",
+      "Commercial Settlements"
+    ],
+
+    "river_dependency_score": 95,
+    "industrialization_score": 92,
+    "entrepreneurship_score": 100
+  },
+
+  "historical_dna": [
+    "Traditional Textile Production",
+    "River Trade Heritage",
+    "Agricultural Commerce Evolution",
+    "Family Business Expansion",
+    "Regional Market Leadership"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Textile Production",
+      "Agriculture",
+      "Wholesale Trade",
+      "Manufacturing"
+    ],
+
+    "secondary": [
+      "Transport",
+      "Retail Business",
+      "Food Processing"
+    ],
+
+    "economic_identity": [
+      "Textile Economy",
+      "Enterprise Economy",
+      "Agricultural Commerce"
+    ]
+  },
+
+  "occupation_dna": [
+    "Textile Entrepreneur",
+    "Farmer",
+    "Trader",
+    "Factory Worker",
+    "Business Owner",
+    "Transport Operator"
+  ],
+
+  "textile_dna": [
+    "Power Loom Culture",
+    "Fabric Manufacturing",
+    "Local Textile Clusters",
+    "Family Owned Production Units",
+    "Wholesale Fabric Networks"
+  ],
+
+  "entrepreneurship_dna": [
+    "SME Leadership",
+    "Family Business Expansion",
+    "Investment Mindset",
+    "Commercial Risk Taking",
+    "Independent Enterprise Culture"
+  ],
+
+  "agriculture_dna": [
+    "Rice Cultivation",
+    "Vegetable Farming",
+    "Fruit Production",
+    "Commercial Agriculture",
+    "Market Oriented Farming"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Fruits",
+    "Traditional Bengali Cuisine"
+  ],
+
+  "market_dna": [
+    "Textile Markets",
+    "Agricultural Wholesale Centers",
+    "Fabric Trading Hubs",
+    "Regional Commerce Networks",
+    "River Trade Markets"
+  ],
+
+  "festival_dna": [
+    "Eid Commerce Season",
+    "Business Community Gatherings",
+    "Village Fairs",
+    "Harvest Festivals"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Narsingdi Dialect",
+      "Business Vocabulary",
+      "River Commerce Expressions"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Communities",
+    "Business Community Religious Networks",
+    "Village Congregation Culture"
+  ],
+
+  "social_dna": [
+    "Entrepreneur Families",
+    "Business Networks",
+    "Village-Urban Hybrid Society",
+    "Commercial Reputation Culture"
+  ],
+
+  "emotion_dna": [
+    "Business Pride",
+    "Self Reliance",
+    "Commercial Ambition",
+    "Family Success Motivation",
+    "Regional Confidence"
+  ],
+
+  "visual_dna": [
+    "Fabric Markets",
+    "Textile Workshops",
+    "Green Agricultural Fields",
+    "River Trade Activity",
+    "Commercial Town Centers"
+  ],
+
+  "color_palette_dna": [
+    "Fabric Blue",
+    "Enterprise Green",
+    "Market Red",
+    "River Silver",
+    "Harvest Gold"
+  ],
+
+  "behavior_dna": [
+    "Business Negotiation",
+    "Market Monitoring",
+    "Tea Stall Commerce Discussion",
+    "Investment Planning",
+    "Production Scheduling"
+  ],
+
+  "object_dna": [
+    "Fabric Rolls",
+    "Business Ledger",
+    "Tea Glass",
+    "Rice Sack",
+    "Delivery Truck",
+    "Textile Samples"
+  ],
+
+  "sound_dna": [
+    "Power Loom Machines",
+    "Market Bargaining",
+    "Truck Movement",
+    "Azan",
+    "Business Discussions"
+  ],
+
+  "smell_dna": [
+    "Fresh Fabric",
+    "Tea Steam",
+    "River Air",
+    "Wet Soil",
+    "Market Environment"
+  ],
+
+  "childhood_memory_dna": [
+    "Visiting Fabric Markets",
+    "Village Football",
+    "Family Business Exposure",
+    "Riverbank Gatherings",
+    "Harvest Seasons"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Textile Production Peak",
+      "Agricultural Trading"
+    ],
+    "monsoon": [
+      "River Expansion",
+      "Market Adaptation"
+    ],
+    "winter": [
+      "Business Growth Season",
+      "Harvest Commerce"
+    ]
+  },
+
+  "night_dna": [
+    "Textile Workshop Lights",
+    "Late Night Business Planning",
+    "Market Area Activity",
+    "Highway Commerce"
+  ],
+
+  "risk_dna": [
+    "Market Competition",
+    "Industrial Dependency",
+    "Flood Risk",
+    "Raw Material Price Volatility"
+  ],
+
+  "migration_dna": [
+    "Business Mobility",
+    "Industrial Workforce Movement",
+    "Dhaka Metropolitan Integration"
+  ],
+
+  "commercial_dna": [
+    "Fabric Supply Chains",
+    "SME Manufacturing",
+    "Regional Wholesale Trade",
+    "Enterprise Networks"
+  ],
+
+  "memory_dna": [
+    "Textile Expansion Era",
+    "Family Business Stories",
+    "River Commerce Heritage",
+    "Agricultural Prosperity"
+  ],
+
+  "micro_dna": [
+    "Fabric Rolls Stacked In Warehouse",
+    "Tea Stall Beside Textile Market",
+    "Power Loom Running At Dawn",
+    "Businessman Checking Ledger Book",
+    "Truck Loading Fabric Bales",
+    "Farmers Selling Produce In Wholesale Market",
+    "Children Playing Near Riverbank",
+    "Market Crowd Before Eid",
+    "Textile Workshop Lights After Sunset",
+    "Morning Fog Over Agricultural Fields"
+  ],
+
+  "landmark_dna": [
+    "Meghna River Belt",
+    "Madhabdi Textile Hub",
+    "Narsingdi Town",
+    "Regional Fabric Markets",
+    "Agricultural Trade Centers"
+  ],
+
+  "identity_markers": [
+    "Textile Heartland",
+    "Entrepreneurial Agriculture",
+    "River Commerce Network",
+    "Industrial-Agricultural Hybrid",
+    "Enterprise Culture"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
