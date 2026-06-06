@@ -1,0 +1,242 @@
+{
+  "profession_id": "PROF_MECHANIC_001",
+
+  "profession": "Mechanic",
+
+  "sector": "Technical Services",
+
+  "sub_sector": "Vehicle And Machinery Repair",
+
+  "core_identity": [
+    "Machine Doctor",
+    "Mobility Restorer",
+    "Technical Troubleshooter",
+    "Repair Economy Specialist",
+    "Mechanical System Guardian"
+  ],
+
+  "profession_archetype": [
+    "Repairer",
+    "Technician",
+    "Problem Solver",
+    "Craftsman"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Daily And Service Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Repair Based",
+
+    "income_sources": [
+      "Vehicle Repair",
+      "Engine Service",
+      "Parts Replacement",
+      "Workshop Contracts",
+      "Emergency Repair"
+    ],
+
+    "peak_income_periods": [
+      "Festival Travel Season",
+      "Harvest Transport Season"
+    ],
+
+    "financial_stress_periods": [
+      "Low Customer Traffic",
+      "Economic Slowdown"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Problem Focused",
+      "Experience Driven",
+      "Practical",
+      "Efficiency Oriented"
+    ],
+
+    "trust_sources": [
+      "Hands On Experience",
+      "Senior Mechanics",
+      "Technical Manuals",
+      "Workshop Knowledge"
+    ],
+
+    "fear_drivers": [
+      "Misdiagnosis",
+      "Customer Dissatisfaction",
+      "Workshop Accident",
+      "Income Instability"
+    ],
+
+    "motivation_drivers": [
+      "Technical Mastery",
+      "Higher Income",
+      "Workshop Ownership",
+      "Customer Trust"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Vehicle Inspection",
+      "Fault Diagnosis",
+      "Repair Work",
+      "Parts Installation",
+      "Customer Consultation"
+    ],
+
+    "weekly_patterns": [
+      "Tool Maintenance",
+      "Parts Procurement",
+      "Workshop Cleaning",
+      "Skill Improvement"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Engine Repair",
+      "Fault Detection",
+      "Tool Handling",
+      "Mechanical Analysis",
+      "Parts Installation",
+      "Vehicle Maintenance"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Tool Kit",
+      "Workshop Access",
+      "Diagnostic Equipment",
+      "Safety Gear",
+      "Spare Parts Inventory"
+    ]
+  },
+
+  "emotion_dna": [
+    "Pride In Craftsmanship",
+    "Patience",
+    "Persistence",
+    "Technical Confidence",
+    "Problem Solving Satisfaction"
+  ],
+
+  "memory_dna": [
+    "First Engine Repair",
+    "Opening Workshop",
+    "Major Breakdown Recovery",
+    "Mentor Training Experience",
+    "First Loyal Customer"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Machine Care Specialist",
+
+    "social_status": "Skilled Technical Worker",
+
+    "community_connections": [
+      "Drivers",
+      "Vehicle Owners",
+      "Parts Suppliers",
+      "Workshop Workers"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Tool Focused",
+      "Durability Driven",
+      "Performance Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Higher Efficiency",
+      "Better Repair Quality",
+      "Long Lasting Equipment",
+      "Customer Demand"
+    ],
+
+    "purchase_barriers": [
+      "Low Quality Parts",
+      "High Equipment Cost",
+      "Uncertain Return"
+    ]
+  },
+
+  "visual_dna": [
+    "Workshop",
+    "Vehicle Lift",
+    "Engine Components",
+    "Grease Covered Tools",
+    "Repair Bay"
+  ],
+
+  "object_dna": [
+    "Wrench Set",
+    "Engine Oil",
+    "Jack Stand",
+    "Diagnostic Scanner",
+    "Tool Box",
+    "Spare Parts"
+  ],
+
+  "sound_dna": [
+    "Engine Revving",
+    "Metal Clanking",
+    "Power Tools",
+    "Workshop Conversation",
+    "Air Compressor"
+  ],
+
+  "smell_dna": [
+    "Engine Oil",
+    "Grease",
+    "Metal",
+    "Fuel",
+    "Workshop Air"
+  ],
+
+  "micro_moment_dna": [
+    "Opening Engine Cover",
+    "Diagnosing Fault",
+    "Replacing Broken Part",
+    "Testing Repaired Vehicle",
+    "Handing Vehicle Back To Customer"
+  ],
+
+  "risk_dna": [
+    "Workshop Injury",
+    "Tool Accident",
+    "Misdiagnosis",
+    "Customer Dispute",
+    "Income Volatility"
+  ],
+
+  "aspiration_dna": [
+    "Own Large Workshop",
+    "Technical Expertise",
+    "Higher Income",
+    "Skilled Team Management",
+    "Industry Reputation"
+  ],
+
+  "identity_markers": [
+    "Tool Box",
+    "Workshop",
+    "Engine Repair",
+    "Grease Stained Hands"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
