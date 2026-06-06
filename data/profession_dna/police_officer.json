@@ -1,0 +1,241 @@
+{
+  "profession_id": "PROF_POLICE_OFFICER_001",
+
+  "profession": "Police Officer",
+
+  "sector": "Law Enforcement",
+
+  "sub_sector": "Public Security",
+
+  "core_identity": [
+    "Law Protector",
+    "Public Safety Guardian",
+    "Crisis Responder",
+    "Order Maintainer",
+    "Community Security Provider"
+  ],
+
+  "profession_archetype": [
+    "Guardian",
+    "Protector",
+    "Responder",
+    "Authority Figure"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Government Salary",
+      "Allowances",
+      "Special Duty Benefits",
+      "Pension Benefits"
+    ],
+
+    "peak_income_periods": [
+      "Promotion Cycle",
+      "Special Assignments"
+    ],
+
+    "financial_stress_periods": [
+      "Family Emergencies",
+      "Unexpected Obligations"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Rule Based",
+      "Rapid Response",
+      "Situation Dependent",
+      "Risk Assessed"
+    ],
+
+    "trust_sources": [
+      "Law",
+      "Official Orders",
+      "Operational Experience",
+      "Senior Officers"
+    ],
+
+    "fear_drivers": [
+      "Operational Failure",
+      "Public Harm",
+      "Officer Injury",
+      "Professional Misconduct"
+    ],
+
+    "motivation_drivers": [
+      "Public Safety",
+      "Duty",
+      "National Service",
+      "Career Progression"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Duty Briefing",
+      "Patrol Activity",
+      "Incident Response",
+      "Public Interaction",
+      "Report Writing"
+    ],
+
+    "weekly_patterns": [
+      "Operational Review",
+      "Training",
+      "Community Policing",
+      "Security Coordination"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Law Enforcement",
+      "Conflict Resolution",
+      "Investigation",
+      "Communication",
+      "Emergency Response",
+      "Situational Awareness"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Police ID",
+      "Uniform",
+      "Communication Device",
+      "Training Certification",
+      "Official Equipment"
+    ]
+  },
+
+  "emotion_dna": [
+    "Duty",
+    "Discipline",
+    "Courage",
+    "Responsibility",
+    "Alertness"
+  ],
+
+  "memory_dna": [
+    "Police Academy Training",
+    "First Patrol",
+    "Major Incident Response",
+    "Community Service Experience",
+    "Promotion Achievement"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Security Provider",
+
+    "social_status": "Authority Figure",
+
+    "community_connections": [
+      "Citizens",
+      "Police Units",
+      "Government Agencies",
+      "Local Communities"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Practical",
+      "Durability Focused",
+      "Family Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Reliability",
+      "Safety",
+      "Long Term Use",
+      "Family Benefit"
+    ],
+
+    "purchase_barriers": [
+      "Low Quality",
+      "Unnecessary Risk",
+      "Lack Of Reliability"
+    ]
+  },
+
+  "visual_dna": [
+    "Police Station",
+    "Uniform",
+    "Patrol Vehicle",
+    "Checkpoint",
+    "Community Patrol"
+  ],
+
+  "object_dna": [
+    "Police ID Card",
+    "Uniform",
+    "Notebook",
+    "Radio",
+    "Duty Log",
+    "Official Badge"
+  ],
+
+  "sound_dna": [
+    "Police Radio",
+    "Traffic Noise",
+    "Public Announcements",
+    "Station Activity",
+    "Emergency Calls"
+  ],
+
+  "smell_dna": [
+    "Station Environment",
+    "Paper Files",
+    "Outdoor Air",
+    "Vehicle Interior",
+    "Tea"
+  ],
+
+  "micro_moment_dna": [
+    "Responding To Emergency Call",
+    "Checking Duty Assignment",
+    "Managing Traffic",
+    "Recording Incident Report",
+    "Community Interaction"
+  ],
+
+  "risk_dna": [
+    "Physical Danger",
+    "Operational Stress",
+    "Public Conflict",
+    "High Pressure Situations",
+    "Long Working Hours"
+  ],
+
+  "aspiration_dna": [
+    "Promotion",
+    "Professional Excellence",
+    "Public Respect",
+    "Leadership Position",
+    "Community Impact"
+  ],
+
+  "identity_markers": [
+    "Uniform",
+    "Police ID",
+    "Patrol Duty",
+    "Public Safety Role"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
