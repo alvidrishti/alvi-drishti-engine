@@ -1,0 +1,241 @@
+{
+  "profession_id": "PROF_CONSTRUCTION_WORKER_001",
+
+  "profession": "Construction Worker",
+
+  "sector": "Construction",
+
+  "sub_sector": "Infrastructure Development",
+
+  "core_identity": [
+    "Infrastructure Builder",
+    "Physical Workforce Contributor",
+    "Urban Growth Enabler",
+    "Development Frontliner",
+    "Nation Building Labor Force"
+  ],
+
+  "profession_archetype": [
+    "Builder",
+    "Worker",
+    "Creator",
+    "Survivor"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Daily Wage",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Workday Based",
+
+    "income_sources": [
+      "Construction Labor",
+      "Contract Work",
+      "Overtime",
+      "Skilled Trade Services"
+    ],
+
+    "peak_income_periods": [
+      "Construction Season",
+      "Major Infrastructure Projects"
+    ],
+
+    "financial_stress_periods": [
+      "Rainy Season",
+      "Work Shortage"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Survival Focused",
+      "Income Driven",
+      "Practical",
+      "Short Term Oriented"
+    ],
+
+    "trust_sources": [
+      "Site Supervisor",
+      "Experienced Workers",
+      "Labor Network",
+      "Personal Experience"
+    ],
+
+    "fear_drivers": [
+      "Workplace Injury",
+      "Job Shortage",
+      "Delayed Payment",
+      "Family Financial Crisis"
+    ],
+
+    "motivation_drivers": [
+      "Daily Income",
+      "Family Support",
+      "Better Living Conditions",
+      "Children Education"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Early Morning Site Arrival",
+      "Physical Labor",
+      "Material Handling",
+      "Team Coordination",
+      "End Of Day Wage Calculation"
+    ],
+
+    "weekly_patterns": [
+      "Wage Collection",
+      "Tool Maintenance",
+      "Labor Network Communication",
+      "Family Budget Planning"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Physical Strength",
+      "Tool Handling",
+      "Construction Safety",
+      "Material Knowledge",
+      "Teamwork",
+      "Site Awareness"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Safety Helmet",
+      "Work Boots",
+      "Work Gloves",
+      "Basic Tools",
+      "Mobile Phone"
+    ]
+  },
+
+  "emotion_dna": [
+    "Resilience",
+    "Determination",
+    "Responsibility",
+    "Physical Endurance",
+    "Hope"
+  ],
+
+  "memory_dna": [
+    "First Construction Job",
+    "First Full Wage Payment",
+    "Major Project Completion",
+    "Migration To City",
+    "Workplace Challenges"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Infrastructure Workforce",
+
+    "social_status": "Working Class Contributor",
+
+    "community_connections": [
+      "Construction Workers",
+      "Contractors",
+      "Site Supervisors",
+      "Labor Communities"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Price Sensitive",
+      "Durability Focused",
+      "Necessity Driven"
+    ],
+
+    "purchase_triggers": [
+      "Lower Cost",
+      "Long Lasting Quality",
+      "Immediate Need",
+      "Family Requirement"
+    ],
+
+    "purchase_barriers": [
+      "Limited Budget",
+      "Income Uncertainty",
+      "Unexpected Expenses"
+    ]
+  },
+
+  "visual_dna": [
+    "Construction Site",
+    "Concrete Structure",
+    "Safety Helmet",
+    "Scaffolding",
+    "Building Materials"
+  ],
+
+  "object_dna": [
+    "Helmet",
+    "Shovel",
+    "Hammer",
+    "Safety Vest",
+    "Cement Bag",
+    "Work Gloves"
+  ],
+
+  "sound_dna": [
+    "Hammering",
+    "Concrete Mixer",
+    "Construction Machinery",
+    "Worker Communication",
+    "Site Activity"
+  ],
+
+  "smell_dna": [
+    "Wet Concrete",
+    "Dust",
+    "Steel",
+    "Construction Materials",
+    "Outdoor Heat"
+  ],
+
+  "micro_moment_dna": [
+    "Lifting Construction Materials",
+    "Receiving Daily Wage",
+    "Wearing Safety Gear",
+    "Working Under Sunlight",
+    "Completing Site Task"
+  ],
+
+  "risk_dna": [
+    "Workplace Injury",
+    "Height Related Accidents",
+    "Income Disruption",
+    "Physical Exhaustion",
+    "Weather Exposure"
+  ],
+
+  "aspiration_dna": [
+    "Higher Income",
+    "Skilled Trade Certification",
+    "House Ownership",
+    "Family Stability",
+    "Small Business Ownership"
+  ],
+
+  "identity_markers": [
+    "Safety Helmet",
+    "Construction Site",
+    "Physical Labor",
+    "Infrastructure Development"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
