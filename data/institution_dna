@@ -1,0 +1,171 @@
+{
+  "institution_id": "INST_SCHOOL_001",
+
+  "institution": "School",
+
+  "institution_type": "Educational Institution",
+
+  "civilization_role": {
+    "primary_layer": "Knowledge Civilization",
+
+    "secondary_layers": [
+      "Human Capital Formation",
+      "Socialization System",
+      "Future Workforce Development",
+      "Citizenship Formation",
+      "Cultural Transmission"
+    ]
+  },
+
+  "core_identity": [
+    "Knowledge Transfer Center",
+    "Human Development Engine",
+    "Child Socialization Hub",
+    "Future Skill Builder",
+    "Community Institution"
+  ],
+
+  "institution_archetype": [
+    "Teacher",
+    "Mentor",
+    "Builder",
+    "Civilization Multiplier"
+  ],
+
+  "knowledge_dna": {
+    "knowledge_domains": [
+      "Language",
+      "Mathematics",
+      "Science",
+      "History",
+      "Technology",
+      "Ethics"
+    ],
+
+    "learning_modes": [
+      "Classroom Learning",
+      "Peer Learning",
+      "Experiential Learning",
+      "Examination System"
+    ]
+  },
+
+  "human_capital_dna": {
+    "outputs": [
+      "Literacy",
+      "Numeracy",
+      "Critical Thinking",
+      "Discipline",
+      "Social Skills"
+    ],
+
+    "long_term_impact": [
+      "Career Development",
+      "Economic Mobility",
+      "Innovation Capacity",
+      "Civic Participation"
+    ]
+  },
+
+  "stakeholder_dna": {
+    "primary_stakeholders": [
+      "Students",
+      "Teachers",
+      "Parents"
+    ],
+
+    "secondary_stakeholders": [
+      "Government",
+      "Community",
+      "Employers",
+      "Universities"
+    ]
+  },
+
+  "daily_reality_dna": {
+    "daily_patterns": [
+      "Morning Assembly",
+      "Class Activities",
+      "Examinations",
+      "Sports",
+      "Homework"
+    ],
+
+    "seasonal_patterns": [
+      "Academic Session",
+      "Examination Period",
+      "Admission Season",
+      "Vacation"
+    ]
+  },
+
+  "memory_dna": [
+    "First School Day",
+    "Annual Sports Day",
+    "Board Examination",
+    "Graduation Ceremony",
+    "Favorite Teacher Memory"
+  ],
+
+  "social_dna": {
+    "community_role": "Knowledge Generator",
+
+    "social_connections": [
+      "Families",
+      "Universities",
+      "Government",
+      "Employers",
+      "Local Community"
+    ]
+  },
+
+  "economic_dna": {
+    "economic_effects": [
+      "Skill Development",
+      "Workforce Creation",
+      "Income Mobility",
+      "Productivity Growth"
+    ]
+  },
+
+  "risk_dna": [
+    "Dropout",
+    "Teacher Shortage",
+    "Infrastructure Deficit",
+    "Learning Gap",
+    "Digital Divide"
+  ],
+
+  "aspiration_dna": [
+    "Quality Education",
+    "Future Readiness",
+    "Innovation Culture",
+    "National Development"
+  ],
+
+  "visual_dna": [
+    "Classroom",
+    "Blackboard",
+    "School Uniform",
+    "Playground",
+    "Morning Assembly"
+  ],
+
+  "sound_dna": [
+    "School Bell",
+    "Classroom Discussion",
+    "Morning Assembly",
+    "Children Playing"
+  ],
+
+  "identity_markers": [
+    "Students",
+    "Teachers",
+    "Books",
+    "Learning Environment"
+  ],
+
+  "institution_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
