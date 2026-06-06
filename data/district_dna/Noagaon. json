@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-NAO-011",
+
+  "district_name": "Naogaon",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Barind Tract",
+    "Northwestern Agricultural Plain",
+    "Highland Farming Region",
+    "Dry Zone Agriculture",
+    "Historic Settlement Landscape"
+  ],
+
+  "climate_dna": [
+    "Hot Dry Summer",
+    "Cold Winter",
+    "Dense Winter Fog",
+    "Moderate Monsoon",
+    "Seasonal Drought Risk"
+  ],
+
+  "light_dna": [
+    "Golden Rice Field Sunrise",
+    "Barind Sunset Glow",
+    "Winter Fog Morning",
+    "Harvest Season Afternoon Light",
+    "Ancient Brick Heritage Light"
+  ],
+
+  "architecture_dna": [
+    "Somapura Mahavihara Heritage",
+    "Traditional Brick Villages",
+    "Agricultural Storage Structures",
+    "Historic Archaeological Remains",
+    "Rural Courtyard Homes"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Agricultural Transport Vehicle",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Rice Cultivator",
+    "Agricultural Laborer",
+    "Trader",
+    "Teacher",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Mango",
+    "Milk Tea",
+    "Pitha",
+    "Freshwater Fish",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Rice Harvest Activity",
+    "Field Irrigation Monitoring",
+    "Tea Stall Discussion",
+    "Agricultural Market Trading",
+    "Harvest Cooperation",
+    "Winter Morning Gathering"
+  ],
+
+  "object_dna": [
+    "Rice Sack",
+    "Irrigation Pump",
+    "Tea Glass",
+    "Bamboo Basket",
+    "Crop Storage Drum",
+    "Harvest Knife",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Rice Harvest Season",
+    "Somapura Heritage Visit",
+    "Winter Fog Morning",
+    "Village Market Day",
+    "Tea Stall Debate"
+  ],
+
+  "sound_dna": [
+    "Morning Azan",
+    "Harvest Activity",
+    "Market Crowd Noise",
+    "Rickshaw Bell",
+    "Field Worker Conversation"
+  ],
+
+  "smell_dna": [
+    "Harvested Rice",
+    "Fresh Soil",
+    "Tea Steam",
+    "Dry Barind Earth",
+    "Winter Morning Air"
+  ],
+
+  "landmark_dna": [
+    "Somapura Mahavihara",
+    "Paharpur Archaeological Site",
+    "Barind Region",
+    "Historic Buddhist Heritage Zone"
+  ],
+
+  "micro_dna": [
+    "Paharpur Brick Pattern",
+    "Rice Sack Cluster In Market",
+    "Barind Dry Soil Crack",
+    "Irrigation Canal Beside Field",
+    "Harvest Season Grain Yard",
+    "Ancient Ruin Pathway",
+    "Fog Covered Rice Field",
+    "Tea Stall Beside Crop Market",
+    "Rice Loaded Transport Van",
+    "Traditional Grain Storage Area"
+  ],
+
+  "identity_markers": [
+    "Barind Identity",
+    "Rice Capital Culture",
+    "Somapura Heritage",
+    "Agricultural Heartland",
+    "Ancient Buddhist Legacy"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
