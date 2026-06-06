@@ -1,0 +1,235 @@
+{
+  "profession_id": "PROF_GARMENT_WORKER_001",
+
+  "profession": "Garment Worker",
+
+  "sector": "Manufacturing",
+
+  "sub_sector": "Ready Made Garments",
+
+  "core_identity": [
+    "Industrial Workforce",
+    "Export Economy Contributor",
+    "Production Line Specialist",
+    "Urban Migrant Worker",
+    "Factory Based Income Earner"
+  ],
+
+  "profession_archetype": [
+    "Builder",
+    "Producer",
+    "Survivor",
+    "Economic Contributor"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly Salary",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Fixed Wage",
+
+    "income_sources": [
+      "Monthly Salary",
+      "Overtime",
+      "Festival Bonus"
+    ],
+
+    "peak_income_periods": [
+      "Bonus Season",
+      "High Overtime Months"
+    ],
+
+    "financial_stress_periods": [
+      "Job Loss",
+      "Low Overtime Period"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Income Security Driven",
+      "Family Focused",
+      "Risk Averse",
+      "Practical Decision Maker"
+    ],
+
+    "trust_sources": [
+      "Co Workers",
+      "Family",
+      "Factory Supervisors",
+      "Local Community"
+    ],
+
+    "fear_drivers": [
+      "Job Loss",
+      "Factory Closure",
+      "Medical Emergency",
+      "Family Financial Crisis"
+    ],
+
+    "motivation_drivers": [
+      "Stable Income",
+      "Family Support",
+      "Children Education",
+      "Better Housing"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Wake Early",
+      "Factory Commute",
+      "Production Line Work",
+      "Overtime Shift",
+      "Return Home"
+    ],
+
+    "weekly_patterns": [
+      "Salary Budgeting",
+      "Market Shopping",
+      "Family Communication"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Sewing",
+      "Machine Operation",
+      "Quality Checking",
+      "Production Efficiency",
+      "Team Coordination"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Factory ID Card",
+      "Work Uniform",
+      "Mobile Phone",
+      "Salary Account"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Resilience",
+    "Hope",
+    "Financial Pressure",
+    "Family Commitment"
+  ],
+
+  "memory_dna": [
+    "First Salary",
+    "First Factory Job",
+    "Festival Bonus",
+    "Village To City Migration",
+    "Overtime Season"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Industrial Worker",
+
+    "social_status": "Working Class Contributor",
+
+    "community_connections": [
+      "Co Workers",
+      "Factory Community",
+      "Family Members",
+      "Urban Neighborhood"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Price Sensitive",
+      "Necessity Driven",
+      "Family Focused"
+    ],
+
+    "purchase_triggers": [
+      "Discount",
+      "Durability",
+      "Family Need",
+      "Monthly Salary Day"
+    ],
+
+    "purchase_barriers": [
+      "Limited Income",
+      "Unexpected Expenses",
+      "Job Uncertainty"
+    ]
+  },
+
+  "visual_dna": [
+    "Factory Floor",
+    "Sewing Machine",
+    "Worker Uniform",
+    "Production Line",
+    "Factory Bus"
+  ],
+
+  "object_dna": [
+    "Factory ID Card",
+    "Sewing Machine",
+    "Lunch Box",
+    "Mobile Phone",
+    "Attendance Card"
+  ],
+
+  "sound_dna": [
+    "Sewing Machines",
+    "Factory Bell",
+    "Production Line Noise",
+    "Worker Conversations",
+    "Factory Bus"
+  ],
+
+  "smell_dna": [
+    "Fabric",
+    "Machine Oil",
+    "Factory Air",
+    "Tea Steam",
+    "Packed Workspace"
+  ],
+
+  "micro_moment_dna": [
+    "Clocking In",
+    "Checking Production Target",
+    "Lunch Break Discussion",
+    "Salary Day",
+    "Waiting For Bonus Announcement"
+  ],
+
+  "risk_dna": [
+    "Job Loss",
+    "Factory Accident",
+    "Health Problems",
+    "Income Disruption"
+  ],
+
+  "aspiration_dna": [
+    "Higher Salary",
+    "Better House",
+    "Children Education",
+    "Financial Stability",
+    "Small Business Ownership"
+  ],
+
+  "identity_markers": [
+    "Factory ID Card",
+    "Production Line",
+    "Salary Day",
+    "Overtime Work"
+  ],
+
+  "profession_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
