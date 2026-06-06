@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-CHU-018",
+
+  "district_name": "Chuadanga",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Western Border District",
+    "Agricultural Plain",
+    "Frontier Trade Zone",
+    "Crop Cultivation Belt",
+    "Rural Settlement Landscape"
+  ],
+
+  "climate_dna": [
+    "Extreme Summer Heat",
+    "Dry Season Dominance",
+    "Cold Winter",
+    "Moderate Monsoon",
+    "Seasonal Dust Conditions"
+  ],
+
+  "light_dna": [
+    "Intense Summer Noon Light",
+    "Golden Crop Field Sunset",
+    "Winter Fog Sunrise",
+    "Dry Season Dust Filtered Light",
+    "Railway Market Evening Glow"
+  ],
+
+  "architecture_dna": [
+    "Railway Market Buildings",
+    "Traditional Rural Houses",
+    "Agricultural Storage Structures",
+    "Border Trade Warehouses",
+    "Local Commercial Complexes"
+  ],
+
+  "transport_dna": [
+    "Train",
+    "Motorcycle",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Cargo Truck"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Tobacco Cultivator",
+    "Trader",
+    "Transport Worker",
+    "Teacher",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Wheat",
+    "Milk Tea",
+    "Freshwater Fish",
+    "Seasonal Vegetables",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "Early Morning Field Work",
+    "Railway Market Trading",
+    "Tea Stall Discussion",
+    "Border Commerce Activity",
+    "Crop Negotiation",
+    "Summer Heat Avoidance Routine"
+  ],
+
+  "object_dna": [
+    "Tobacco Bundle",
+    "Tea Glass",
+    "Railway Ticket",
+    "Crop Storage Sack",
+    "Market Weighing Scale",
+    "Cargo Rope",
+    "Bamboo Basket"
+  ],
+
+  "memory_dna": [
+    "Extreme Summer Afternoon",
+    "Railway Journey",
+    "Harvest Season",
+    "Border Market Experience",
+    "Winter Fog Morning"
+  ],
+
+  "sound_dna": [
+    "Train Horn",
+    "Market Crowd Noise",
+    "Morning Azan",
+    "Rickshaw Bell",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Dry Soil",
+    "Tea Steam",
+    "Harvested Crops",
+    "Railway Platform Dust",
+    "Fresh Tobacco Leaves"
+  ],
+
+  "landmark_dna": [
+    "Chuadanga Railway Station",
+    "Border Trade Routes",
+    "Agricultural Trading Areas",
+    "Historic Railway Corridor"
+  ],
+
+  "micro_dna": [
+    "Tobacco Leaves Drying In Yard",
+    "Heat Shimmer Above Road",
+    "Railway Platform Tea Stall",
+    "Crop Loaded Van",
+    "Border Cargo Queue",
+    "Summer Dust Covered Market",
+    "Rail Crossing Crowd",
+    "Village Water Pump Gathering",
+    "Morning Field Irrigation Activity",
+    "Tobacco Bundle Storage Shed"
+  ],
+
+  "identity_markers": [
+    "Western Frontier Identity",
+    "Tobacco Belt",
+    "Railway Trade Culture",
+    "Extreme Summer Climate",
+    "Agricultural Economy"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
