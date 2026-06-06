@@ -1,0 +1,243 @@
+{
+  "profession_id": "PROF_FREELANCER_001",
+
+  "profession": "Freelancer",
+
+  "sector": "Digital Economy",
+
+  "sub_sector": "Remote Professional Services",
+
+  "core_identity": [
+    "Independent Earner",
+    "Global Marketplace Worker",
+    "Digital Service Provider",
+    "Self Managed Professional",
+    "Location Independent Worker"
+  ],
+
+  "profession_archetype": [
+    "Creator",
+    "Problem Solver",
+    "Entrepreneur",
+    "Digital Nomad"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Project Based",
+
+    "income_stability": "Variable",
+
+    "cashflow_type": "Client Payment Based",
+
+    "income_sources": [
+      "Project Contracts",
+      "Hourly Work",
+      "Retainer Clients",
+      "Digital Services",
+      "Consulting"
+    ],
+
+    "peak_income_periods": [
+      "High Client Demand",
+      "Long Term Contracts"
+    ],
+
+    "financial_stress_periods": [
+      "Client Shortage",
+      "Payment Delays",
+      "Platform Account Issues"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Opportunity Driven",
+      "Market Aware",
+      "Skill Focused",
+      "Income Optimized"
+    ],
+
+    "trust_sources": [
+      "Client Reviews",
+      "Freelancer Community",
+      "Industry Experts",
+      "Portfolio Evidence"
+    ],
+
+    "fear_drivers": [
+      "Client Loss",
+      "Income Instability",
+      "Platform Ban",
+      "Skill Obsolescence"
+    ],
+
+    "motivation_drivers": [
+      "Financial Freedom",
+      "Flexible Lifestyle",
+      "Global Opportunities",
+      "Skill Growth"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Checking Client Messages",
+      "Project Delivery",
+      "Skill Development",
+      "Proposal Submission",
+      "Portfolio Updates"
+    ],
+
+    "weekly_patterns": [
+      "Client Meetings",
+      "Payment Tracking",
+      "Learning New Skills",
+      "Market Research"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Communication",
+      "Time Management",
+      "Client Management",
+      "Digital Tools",
+      "Problem Solving",
+      "Self Learning"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Laptop",
+      "Internet Connection",
+      "Digital Portfolio",
+      "Online Accounts",
+      "Payment Method"
+    ]
+  },
+
+  "emotion_dna": [
+    "Independence",
+    "Ambition",
+    "Uncertainty",
+    "Self Confidence",
+    "Growth Mindset"
+  ],
+
+  "memory_dna": [
+    "First Online Client",
+    "First International Payment",
+    "Portfolio Breakthrough",
+    "Client Success Story",
+    "First Major Contract"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Digital Professional",
+
+    "social_status": "Independent Earner",
+
+    "community_connections": [
+      "Clients",
+      "Freelancers",
+      "Online Communities",
+      "Industry Networks"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Productivity Focused",
+      "Technology Driven",
+      "ROI Conscious"
+    ],
+
+    "purchase_triggers": [
+      "Time Savings",
+      "Income Growth",
+      "Skill Improvement",
+      "Workflow Efficiency"
+    ],
+
+    "purchase_barriers": [
+      "High Cost",
+      "Unclear ROI",
+      "Low Reliability"
+    ]
+  },
+
+  "visual_dna": [
+    "Laptop Workspace",
+    "Home Office",
+    "Video Call Screen",
+    "Digital Dashboard",
+    "Coffee Desk Setup"
+  ],
+
+  "object_dna": [
+    "Laptop",
+    "Headphones",
+    "External Monitor",
+    "Notebook",
+    "Smartphone",
+    "Payment Dashboard"
+  ],
+
+  "sound_dna": [
+    "Keyboard Typing",
+    "Notification Alerts",
+    "Video Calls",
+    "Online Meetings",
+    "Workspace Ambience"
+  ],
+
+  "smell_dna": [
+    "Coffee",
+    "Workspace Air",
+    "Electronics",
+    "Fresh Notebook",
+    "Home Office Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Receiving New Client Message",
+    "Submitting Proposal",
+    "Sending Project Delivery",
+    "Receiving Payment Notification",
+    "Checking Client Review"
+  ],
+
+  "risk_dna": [
+    "Income Instability",
+    "Client Dependency",
+    "Platform Risk",
+    "Burnout",
+    "Skill Irrelevance"
+  ],
+
+  "aspiration_dna": [
+    "Financial Freedom",
+    "Global Client Base",
+    "Higher Income",
+    "Agency Ownership",
+    "Location Independence"
+  ],
+
+  "identity_markers": [
+    "Laptop",
+    "Online Portfolio",
+    "Client Reviews",
+    "Remote Work Lifestyle"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
