@@ -1,0 +1,242 @@
+{
+  "profession_id": "PROF_IMAM_001",
+
+  "profession": "Imam",
+
+  "sector": "Religious Services",
+
+  "sub_sector": "Islamic Leadership",
+
+  "core_identity": [
+    "Religious Guide",
+    "Community Mentor",
+    "Moral Educator",
+    "Mosque Leader",
+    "Faith Based Counselor"
+  ],
+
+  "profession_archetype": [
+    "Guide",
+    "Teacher",
+    "Mentor",
+    "Spiritual Leader"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly And Community Supported",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary And Donations",
+
+    "income_sources": [
+      "Mosque Salary",
+      "Religious Teaching",
+      "Community Contributions",
+      "Special Religious Events"
+    ],
+
+    "peak_income_periods": [
+      "Ramadan",
+      "Eid Seasons",
+      "Religious Gatherings"
+    ],
+
+    "financial_stress_periods": [
+      "Low Community Funding",
+      "Economic Hardship Periods"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Faith Guided",
+      "Community Focused",
+      "Ethics Driven",
+      "Long Term Oriented"
+    ],
+
+    "trust_sources": [
+      "Quran",
+      "Hadith",
+      "Islamic Scholars",
+      "Religious Knowledge"
+    ],
+
+    "fear_drivers": [
+      "Community Division",
+      "Loss Of Trust",
+      "Religious Misguidance",
+      "Moral Decline"
+    ],
+
+    "motivation_drivers": [
+      "Community Welfare",
+      "Spiritual Growth",
+      "Religious Service",
+      "Positive Social Impact"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Leading Prayers",
+      "Religious Teaching",
+      "Community Counseling",
+      "Quran Study",
+      "Mosque Management"
+    ],
+
+    "weekly_patterns": [
+      "Jumu'ah Khutbah Preparation",
+      "Religious Discussions",
+      "Community Meetings",
+      "Youth Guidance"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Quran Recitation",
+      "Islamic Knowledge",
+      "Public Speaking",
+      "Counseling",
+      "Community Leadership",
+      "Teaching"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Religious Education",
+      "Islamic Literature",
+      "Mosque Access",
+      "Teaching Materials",
+      "Community Trust"
+    ]
+  },
+
+  "emotion_dna": [
+    "Patience",
+    "Compassion",
+    "Responsibility",
+    "Humility",
+    "Spiritual Commitment"
+  ],
+
+  "memory_dna": [
+    "First Khutbah",
+    "Religious Graduation",
+    "Ramadan Leadership",
+    "Community Support Experience",
+    "Teaching Students"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Religious Leader",
+
+    "social_status": "Trusted Spiritual Figure",
+
+    "community_connections": [
+      "Muslim Community",
+      "Students",
+      "Families",
+      "Mosque Committees",
+      "Religious Scholars"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Need Based",
+      "Value Conscious",
+      "Community Focused"
+    ],
+
+    "purchase_triggers": [
+      "Educational Benefit",
+      "Religious Value",
+      "Community Need",
+      "Long Term Utility"
+    ],
+
+    "purchase_barriers": [
+      "Wastefulness",
+      "Unnecessary Luxury",
+      "Low Practical Value"
+    ]
+  },
+
+  "visual_dna": [
+    "Mosque",
+    "Prayer Hall",
+    "Minbar",
+    "Quran Study Circle",
+    "Religious Gathering"
+  ],
+
+  "object_dna": [
+    "Quran",
+    "Prayer Cap",
+    "Religious Books",
+    "Microphone",
+    "Tasbih",
+    "Khutbah Notes"
+  ],
+
+  "sound_dna": [
+    "Quran Recitation",
+    "Adhan",
+    "Khutbah",
+    "Prayer Congregation",
+    "Religious Discussions"
+  ],
+
+  "smell_dna": [
+    "Mosque Carpet",
+    "Attar",
+    "Old Religious Books",
+    "Prayer Hall Air",
+    "Community Gathering"
+  ],
+
+  "micro_moment_dna": [
+    "Leading Congregational Prayer",
+    "Delivering Khutbah",
+    "Teaching Quran",
+    "Counseling Community Member",
+    "Answering Religious Question"
+  ],
+
+  "risk_dna": [
+    "Community Conflict",
+    "Religious Misinterpretation",
+    "Social Pressure",
+    "Leadership Responsibility"
+  ],
+
+  "aspiration_dna": [
+    "Community Development",
+    "Religious Excellence",
+    "Student Success",
+    "Social Harmony",
+    "Positive Legacy"
+  ],
+
+  "identity_markers": [
+    "Mosque Leadership",
+    "Quran Teaching",
+    "Khutbah",
+    "Community Guidance"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
