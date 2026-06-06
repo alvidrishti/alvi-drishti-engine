@@ -1,0 +1,283 @@
+{
+  "profession_id": "PROF_VILLAGE_DOCTOR_001",
+
+  "profession": "Village Doctor",
+
+  "sector": "Rural Healthcare",
+
+  "sub_sector": "Primary Community Healthcare",
+
+  "core_identity": [
+    "First Medical Contact",
+    "Community Health Provider",
+    "Rural Emergency Responder",
+    "Accessible Healthcare Facilitator",
+    "Village Trust Figure"
+  ],
+
+  "profession_archetype": [
+    "Caregiver",
+    "Responder",
+    "Advisor",
+    "Community Healer"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Rural Healthcare Civilization",
+
+    "secondary_layers": [
+      "Healthcare Accessibility",
+      "Emergency Response",
+      "Community Trust",
+      "Disease Prevention",
+      "Health Awareness"
+    ]
+  },
+
+  "healthcare_dna": {
+    "service_scope": [
+      "Primary Treatment",
+      "Basic Diagnosis",
+      "Emergency First Response",
+      "Medicine Dispensing",
+      "Health Advice"
+    ],
+
+    "common_cases": [
+      "Fever",
+      "Cold And Flu",
+      "Diarrhea",
+      "Minor Injuries",
+      "Skin Problems",
+      "Childhood Illness"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Daily And Consultation Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Patient Service Based",
+
+    "income_sources": [
+      "Patient Consultation",
+      "Medicine Sales",
+      "Emergency Visits",
+      "Home Visits"
+    ],
+
+    "peak_income_periods": [
+      "Seasonal Disease Outbreak",
+      "Monsoon Season",
+      "Winter Illness Period"
+    ],
+
+    "financial_stress_periods": [
+      "Low Patient Volume",
+      "Medicine Supply Disruption"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Patient Focused",
+      "Experience Driven",
+      "Urgency Based",
+      "Community Oriented"
+    ],
+
+    "trust_sources": [
+      "Field Experience",
+      "Senior Practitioners",
+      "Medical Representatives",
+      "Community Feedback"
+    ],
+
+    "fear_drivers": [
+      "Patient Deterioration",
+      "Misdiagnosis",
+      "Community Distrust",
+      "Medicine Shortage"
+    ],
+
+    "motivation_drivers": [
+      "Helping Patients",
+      "Community Respect",
+      "Healthcare Access",
+      "Family Income"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Opening Clinic",
+      "Patient Consultation",
+      "Medicine Dispensing",
+      "Emergency Response",
+      "Home Visits"
+    ],
+
+    "weekly_patterns": [
+      "Medicine Procurement",
+      "Community Health Monitoring",
+      "Referral Coordination",
+      "Inventory Review"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Basic Diagnosis",
+      "Patient Communication",
+      "Medicine Knowledge",
+      "Emergency Response",
+      "Observation",
+      "Record Keeping"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Clinic Room",
+      "Medicine Stock",
+      "Blood Pressure Machine",
+      "Thermometer",
+      "Medical Register",
+      "Mobile Phone"
+    ]
+  },
+
+  "emotion_dna": [
+    "Compassion",
+    "Responsibility",
+    "Patience",
+    "Empathy",
+    "Community Commitment"
+  ],
+
+  "memory_dna": [
+    "First Patient Recovery",
+    "Emergency Night Call",
+    "Disease Outbreak Response",
+    "Saving Critical Patient",
+    "Community Recognition"
+  ],
+
+  "social_dna": {
+    "community_role": "Primary Health Contact",
+
+    "social_status": "Trusted Rural Health Figure",
+
+    "community_connections": [
+      "Families",
+      "Patients",
+      "Pharmacies",
+      "Local Leaders",
+      "Health Workers"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Village Clinic",
+      "Local Pharmacy",
+      "Patient Home",
+      "Rural Market",
+      "Community Gathering Area"
+    ],
+
+    "service_availability": "High",
+
+    "night_call_frequency": "Common"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Medicine Focused",
+      "Patient Need Driven",
+      "Practical"
+    ],
+
+    "purchase_triggers": [
+      "Treatment Effectiveness",
+      "Medicine Availability",
+      "Patient Demand",
+      "Emergency Preparedness"
+    ],
+
+    "purchase_barriers": [
+      "High Medicine Cost",
+      "Supply Shortage",
+      "Low Purchasing Power"
+    ]
+  },
+
+  "visual_dna": [
+    "Small Rural Clinic",
+    "Medicine Shelf",
+    "Waiting Patients",
+    "Consultation Desk",
+    "Night Emergency Visit"
+  ],
+
+  "object_dna": [
+    "Stethoscope",
+    "Thermometer",
+    "Medicine Box",
+    "Prescription Pad",
+    "Blood Pressure Machine",
+    "Patient Register"
+  ],
+
+  "sound_dna": [
+    "Patient Complaints",
+    "Medicine Packaging",
+    "Phone Calls",
+    "Clinic Conversations",
+    "Night Emergency Knock"
+  ],
+
+  "smell_dna": [
+    "Medicine",
+    "Clinic Room",
+    "Antiseptic",
+    "Paper Records",
+    "Rural Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Checking Patient Temperature",
+    "Giving First Treatment",
+    "Responding To Night Call",
+    "Referring Serious Patient",
+    "Dispensing Medicine"
+  ],
+
+  "risk_dna": [
+    "Medical Error",
+    "Medicine Shortage",
+    "Patient Trust Loss",
+    "Disease Outbreak",
+    "Resource Limitation"
+  ],
+
+  "aspiration_dna": [
+    "Better Clinic",
+    "Advanced Medical Training",
+    "Community Health Improvement",
+    "Healthcare Accessibility",
+    "Professional Recognition"
+  ],
+
+  "identity_markers": [
+    "Village Clinic",
+    "Medicine Shelf",
+    "Community Trust",
+    "Emergency Availability"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
