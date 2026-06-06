@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-MOU-038",
+
+  "district_name": "Moulvibazar",
+
+  "division": "Sylhet",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Tea Garden Highlands",
+    "Hill Forest Landscape",
+    "Eastern Border Region",
+    "Rainforest Ecosystem",
+    "Garden Valley Terrain"
+  ],
+
+  "climate_dna": [
+    "Heavy Rainfall",
+    "High Humidity",
+    "Monsoon Dominated",
+    "Mild Winter",
+    "Frequent Morning Mist"
+  ],
+
+  "light_dna": [
+    "Tea Garden Sunrise",
+    "Forest Filtered Light",
+    "Mist Covered Hill Dawn",
+    "Golden Tea Estate Sunset",
+    "Rainforest Canopy Glow"
+  ],
+
+  "architecture_dna": [
+    "Tea Estate Bungalows",
+    "Khasia Punji Settlements",
+    "Colonial Tea Infrastructure",
+    "Forest Edge Villages",
+    "Hill Market Structures"
+  ],
+
+  "transport_dna": [
+    "CNG Auto Rickshaw",
+    "Motorcycle",
+    "Local Bus",
+    "Pickup Van",
+    "Tea Estate Transport"
+  ],
+
+  "occupation_dna": [
+    "Tea Worker",
+    "Tea Estate Manager",
+    "Farmer",
+    "Tourism Worker",
+    "Trader",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Seven Layer Tea",
+    "Tea",
+    "Rice",
+    "Freshwater Fish",
+    "Pitha",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Tea Garden Work Routine",
+    "Tea Stall Discussion",
+    "Forest Tourism Activity",
+    "Market Bargaining",
+    "Hill Community Gathering",
+    "Evening Tea Culture"
+  ],
+
+  "object_dna": [
+    "Tea Basket",
+    "Tea Leaf Sack",
+    "Seven Layer Tea Glass",
+    "Bamboo Carrier",
+    "Tea Pruning Shears",
+    "Market Weighing Scale",
+    "Rain Umbrella"
+  ],
+
+  "memory_dna": [
+    "Lawachara Forest Visit",
+    "Tea Garden Childhood",
+    "Seven Layer Tea Experience",
+    "Mist Covered Morning",
+    "Rainforest Train Journey"
+  ],
+
+  "sound_dna": [
+    "Forest Birds",
+    "Tea Worker Calls",
+    "Rain On Tea Leaves",
+    "Morning Azan",
+    "Tourist Conversations"
+  ],
+
+  "smell_dna": [
+    "Fresh Tea Leaves",
+    "Rainforest Soil",
+    "Tea Steam",
+    "Wet Bamboo",
+    "Morning Mist"
+  ],
+
+  "landmark_dna": [
+    "Lawachara National Park",
+    "Sreemangal Tea Gardens",
+    "Madhabkunda Waterfall",
+    "Khasia Punji Areas"
+  ],
+
+  "micro_dna": [
+    "Tea Picker Carrying Basket Through Garden",
+    "Seven Layer Tea Served In Glass",
+    "Mist Floating Above Tea Estate",
+    "Forest Trail Through Lawachara",
+    "Tea Leaf Drying Facility",
+    "Bamboo Stairway To Punji",
+    "Rain Covered Tea Garden Road",
+    "Tourists Watching Tea Hills",
+    "Tea Worker Rest Shed",
+    "Sunlight Breaking Through Rainforest Canopy"
+  ],
+
+  "identity_markers": [
+    "Tea Capital",
+    "Lawachara Heritage",
+    "Seven Layer Tea",
+    "Khasia Culture",
+    "Hill Garden Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
