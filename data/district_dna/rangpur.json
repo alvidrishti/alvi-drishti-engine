@@ -1,23 +1,122 @@
 {
   "district": "Rangpur",
+
   "division": "Rangpur",
+
   "country": "Bangladesh",
 
-  "economy": "Agriculture",
+  "dataset_version": "24.0",
 
-  "major_crops": [
-    "Rice",
-    "Potato",
-    "Maize"
-  ],
+  "geography": {
+    "region": "North Bengal",
+    "terrain": "Floodplain",
+    "major_rivers": [
+      "Teesta",
+      "Ghaghat"
+    ],
+    "climate_type": "Subtropical Monsoon"
+  },
 
-  "common_professions": [
-    "Farmer",
-    "Day Laborer",
-    "Small Business Owner"
-  ],
+  "climate_profile": {
+    "summer": "Hot",
+    "winter": "Cold",
+    "rainfall_level": "Medium-High",
+    "flood_risk": "Medium",
+    "drought_risk": "Medium"
+  },
 
-  "technology_adoption": "Medium",
+  "economy_profile": {
+    "primary_sector": "Agriculture",
 
-  "dataset_version": "1.0"
+    "major_crops": [
+      "Rice",
+      "Potato",
+      "Maize",
+      "Wheat",
+      "Vegetables"
+    ],
+
+    "major_industries": [
+      "Agriculture",
+      "Food Processing",
+      "Small Trade"
+    ],
+
+    "economic_growth": "Medium"
+  },
+
+  "population_profile": {
+    "urbanization_level": "Low-Medium",
+    "population_density": "High",
+    "migration_pattern": "Domestic Migration"
+  },
+
+  "profession_profile": {
+    "common_professions": [
+      "Farmer",
+      "Day Laborer",
+      "Small Business Owner",
+      "Teacher",
+      "Driver",
+      "Government Employee"
+    ]
+  },
+
+  "education_profile": {
+    "education_access": "Medium",
+    "literacy_trend": "Improving",
+    "higher_education_access": "Medium"
+  },
+
+  "technology_profile": {
+    "internet_access": "Medium",
+    "smartphone_adoption": "Medium-High",
+    "digital_payment_adoption": "Growing"
+  },
+
+  "culture_profile": {
+    "primary_language": "Bangla",
+    "community_orientation": "High",
+    "religious_diversity": "Low-Medium",
+    "cultural_identity": "Strong Northern Bengal Heritage"
+  },
+
+  "infrastructure_profile": {
+    "road_connectivity": "Medium",
+    "electricity_access": "High",
+    "healthcare_access": "Medium",
+    "transport_access": "Medium"
+  },
+
+  "risk_profile": {
+    "natural_disasters": [
+      "Flood",
+      "River Erosion",
+      "Cold Wave"
+    ],
+
+    "economic_risks": [
+      "Crop Failure",
+      "Commodity Price Volatility"
+    ]
+  },
+
+  "opportunity_profile": {
+    "growth_sectors": [
+      "Modern Agriculture",
+      "Agri Technology",
+      "Food Processing",
+      "E-Commerce"
+    ],
+
+    "future_potential": "High"
+  },
+
+  "reality_factors": {
+    "environment_factor": 85,
+    "economic_factor": 75,
+    "technology_factor": 60,
+    "social_factor": 80,
+    "infrastructure_factor": 70
+  }
 }
