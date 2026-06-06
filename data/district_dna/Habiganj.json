@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-HAB-037",
+
+  "district_name": "Habiganj",
+
+  "division": "Sylhet",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Haor Transition Zone",
+    "Tea Garden Fringe Region",
+    "Eastern Floodplain",
+    "Gas Resource Belt",
+    "Wetland Agricultural Landscape"
+  ],
+
+  "climate_dna": [
+    "Heavy Monsoon",
+    "High Humidity",
+    "Seasonal Flooding",
+    "Mild Winter",
+    "Dense Morning Mist"
+  ],
+
+  "light_dna": [
+    "Tea Garden Sunrise",
+    "Haor Water Reflection",
+    "Monsoon Cloud Glow",
+    "Fog Covered Wetland Dawn",
+    "Golden Paddy Sunset"
+  ],
+
+  "architecture_dna": [
+    "Tea Estate Settlements",
+    "Haor Village Housing",
+    "Industrial Gas Facilities",
+    "Traditional Rural Homesteads",
+    "Market Town Structures"
+  ],
+
+  "transport_dna": [
+    "Motorcycle",
+    "Rickshaw",
+    "CNG Auto Rickshaw",
+    "Boat",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Tea Worker",
+    "Gas Field Employee",
+    "Fisherman",
+    "Trader",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Tea",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussion",
+    "Haor Fishing Activity",
+    "Market Bargaining",
+    "Tea Garden Work Routine",
+    "Community Flood Preparation",
+    "Evening Social Gathering"
+  ],
+
+  "object_dna": [
+    "Tea Basket",
+    "Fishing Net",
+    "Tea Glass",
+    "Rice Sack",
+    "Boat Paddle",
+    "Market Weighing Scale",
+    "Bamboo Basket"
+  ],
+
+  "memory_dna": [
+    "Monsoon Flood Season",
+    "Tea Garden Childhood",
+    "Haor Boat Journey",
+    "Winter Morning Mist",
+    "Village Market Day"
+  ],
+
+  "sound_dna": [
+    "Tea Garden Worker Calls",
+    "Wetland Birds",
+    "Boat Engine",
+    "Morning Azan",
+    "Market Crowd Noise"
+  ],
+
+  "smell_dna": [
+    "Fresh Tea Leaves",
+    "Wetland Water",
+    "Tea Steam",
+    "Rain Wet Soil",
+    "Fresh Fish"
+  ],
+
+  "landmark_dna": [
+    "Bibiyana Gas Field",
+    "Habiganj Tea Estates",
+    "Haor Wetlands",
+    "Eastern Energy Corridor"
+  ],
+
+  "micro_dna": [
+    "Tea Basket Carried Through Garden Path",
+    "Boat Crossing Flooded Haor",
+    "Morning Mist Above Paddy Field",
+    "Tea Stall Beside Highway",
+    "Fishing Net Drying Near Water",
+    "Gas Field Worker Transport Bus",
+    "Market Day Livestock Trading",
+    "Rain Covered Tea Garden Road",
+    "Bamboo Bridge Across Canal",
+    "Wetland Bird Flock At Sunset"
+  ],
+
+  "identity_markers": [
+    "Tea Garden Culture",
+    "Haor Identity",
+    "Gas Economy",
+    "Wetland Lifestyle",
+    "Eastern Frontier Heritage"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
