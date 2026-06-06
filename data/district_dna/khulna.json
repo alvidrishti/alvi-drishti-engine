@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-KHU-021",
+
+  "district_name": "Khulna",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Southwestern Delta",
+    "Rupsha River Corridor",
+    "Bhairab River Network",
+    "Coastal Urban Region",
+    "Sundarbans Influence Zone"
+  ],
+
+  "climate_dna": [
+    "Humid Coastal Climate",
+    "Cyclone Exposure",
+    "Monsoon Dominated",
+    "Warm Winter",
+    "High River Humidity"
+  ],
+
+  "light_dna": [
+    "Rupsha River Sunrise",
+    "Industrial Dock Night Light",
+    "Monsoon Cloud Reflection",
+    "Golden River Sunset",
+    "Port Area Floodlight Glow"
+  ],
+
+  "architecture_dna": [
+    "Port Infrastructure",
+    "Industrial Warehouses",
+    "Riverfront Settlements",
+    "Colonial Commercial Buildings",
+    "Modern Urban Structures"
+  ],
+
+  "transport_dna": [
+    "Cargo Ship",
+    "Launch",
+    "Bus",
+    "Rickshaw",
+    "Motorcycle"
+  ],
+
+  "occupation_dna": [
+    "Port Worker",
+    "Shipyard Worker",
+    "Industrial Employee",
+    "Trader",
+    "Fisherman",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "River Fish",
+    "Shrimp",
+    "Rice",
+    "Milk Tea",
+    "Coastal Cuisine",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "River Based Commerce",
+    "Port Logistics Activity",
+    "Tea Stall Discussion",
+    "Industrial Shift Routine",
+    "Fish Market Trading",
+    "Dockside Loading Operations"
+  ],
+
+  "object_dna": [
+    "Cargo Container",
+    "Fishing Net",
+    "Tea Glass",
+    "Dock Rope",
+    "Port Pass Card",
+    "Ship Welding Mask",
+    "River Boat"
+  ],
+
+  "memory_dna": [
+    "Rupsha Ferry Crossing",
+    "Mongla Port Visit",
+    "Industrial Night Skyline",
+    "Fish Market Morning",
+    "Riverfront Evening Walk"
+  ],
+
+  "sound_dna": [
+    "Ship Horn",
+    "Dock Crane Movement",
+    "River Engine Noise",
+    "Morning Azan",
+    "Fish Market Activity"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Salt Moisture",
+    "Fresh Fish",
+    "Industrial Metal Smell",
+    "Tea Steam"
+  ],
+
+  "landmark_dna": [
+    "Mongla Port",
+    "Rupsha Bridge",
+    "Khulna Shipyard Areas",
+    "Sundarbans Gateway Corridor"
+  ],
+
+  "micro_dna": [
+    "Cargo Container Stack",
+    "Shipyard Welding Sparks",
+    "Rupsha Riverside Tea Stall",
+    "Fishing Boat At Dawn",
+    "Dock Worker Helmet Line",
+    "River Cargo Loading Activity",
+    "Industrial Shift Change Crowd",
+    "Port Security Gate",
+    "Fish Auction Before Sunrise",
+    "Container Truck Queue"
+  ],
+
+  "identity_markers": [
+    "Mongla Port",
+    "Sundarbans Gateway",
+    "Shipyard Culture",
+    "River Economy",
+    "Industrial Coastal Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
