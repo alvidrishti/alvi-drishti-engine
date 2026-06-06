@@ -1,106 +1,237 @@
 {
-  "profession": "Farmer",
+  "profession_id": "PROF_FARMER_001",
 
-  "version": "1.0",
+  "profession": "Farmer",
 
   "sector": "Agriculture",
 
-  "sub_sectors": [
-    "Crop Farming",
-    "Vegetable Farming",
-    "Fruit Farming",
-    "Livestock",
-    "Poultry"
+  "sub_sector": "Crop Production",
+
+  "core_identity": [
+    "Food Producer",
+    "Land Steward",
+    "Weather Dependent Decision Maker",
+    "Seasonal Risk Manager",
+    "Village Economic Backbone"
   ],
 
-  "income_profile": {
+  "profession_archetype": [
+    "Producer",
+    "Caretaker",
+    "Builder",
+    "Survivor"
+  ],
+
+  "income_dna": {
     "income_pattern": "Seasonal",
-    "income_stability": "Low",
-    "income_growth_potential": "Medium",
-    "financial_risk": "High"
-  },
+    "income_stability": "Medium",
+    "cashflow_type": "Harvest Based",
 
-  "work_profile": {
-    "physical_demand": "Very High",
-    "mental_demand": "Medium",
-    "working_hours": "Sunrise to Sunset",
-    "work_environment": "Outdoor"
-  },
-
-  "education_profile": {
-    "minimum_education": "None to Secondary",
-    "skill_dependency": "High",
-    "technology_literacy": "Low-Medium"
-  },
-
-  "decision_profile": {
-    "decision_style": [
-      "Experience Driven",
-      "Weather Driven",
-      "Market Driven"
+    "income_sources": [
+      "Rice",
+      "Potato",
+      "Maize",
+      "Vegetables",
+      "Livestock",
+      "Fish Farming"
     ],
 
-    "risk_tolerance": "Medium",
+    "peak_income_periods": [
+      "Harvest Season"
+    ],
 
-    "planning_horizon": "Seasonal"
+    "financial_stress_periods": [
+      "Pre-Harvest Season"
+    ]
   },
 
-  "dependency_profile": {
-    "weather_dependency": 95,
-    "market_dependency": 85,
-    "government_dependency": 70,
-    "technology_dependency": 40,
-    "community_dependency": 60
+  "decision_dna": {
+    "decision_style": [
+      "Experience Driven",
+      "Weather Influenced",
+      "Community Influenced",
+      "Risk Sensitive"
+    ],
+
+    "trust_sources": [
+      "Senior Farmers",
+      "Agricultural Officers",
+      "Local Dealers",
+      "Family Experience"
+    ],
+
+    "fear_drivers": [
+      "Crop Failure",
+      "Flood",
+      "Drought",
+      "Market Price Crash",
+      "Debt Burden"
+    ],
+
+    "motivation_drivers": [
+      "Higher Yield",
+      "Family Stability",
+      "Land Expansion",
+      "Children Education"
+    ]
   },
 
-  "primary_goals": [
-    "Stable Crop Production",
-    "Family Income",
-    "Land Preservation",
-    "Debt Reduction",
-    "Business Expansion"
+  "behavior_dna": {
+    "daily_patterns": [
+      "Wake Before Sunrise",
+      "Field Inspection",
+      "Weather Observation",
+      "Crop Monitoring",
+      "Tea Stall Discussion",
+      "Market Price Checking"
+    ],
+
+    "weekly_patterns": [
+      "Local Market Visit",
+      "Agricultural Supply Purchase",
+      "Community Consultation"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Crop Planning",
+      "Land Preparation",
+      "Irrigation Management",
+      "Pest Control",
+      "Harvest Management",
+      "Market Negotiation"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Land",
+      "Seeds",
+      "Fertilizer",
+      "Agricultural Equipment",
+      "Water Source",
+      "Storage Facility"
+    ]
+  },
+
+  "emotion_dna": [
+    "Land Pride",
+    "Harvest Joy",
+    "Weather Anxiety",
+    "Family Responsibility",
+    "Community Belonging"
   ],
 
-  "primary_concerns": [
+  "memory_dna": [
+    "First Harvest",
+    "Flood Survival Story",
+    "Father Teaching Farming",
+    "Market Day Memories",
+    "Seasonal Crop Success"
+  ],
+
+  "social_dna": {
+    "community_role": "Village Producer",
+
+    "social_status": "Essential Economic Contributor",
+
+    "community_connections": [
+      "Farmers",
+      "Dealers",
+      "Local Markets",
+      "Agricultural Officers"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Price Sensitive",
+      "Trust Driven",
+      "Community Influenced"
+    ],
+
+    "purchase_triggers": [
+      "Higher Yield",
+      "Lower Cost",
+      "Neighbor Recommendation",
+      "Government Support"
+    ],
+
+    "purchase_barriers": [
+      "High Cost",
+      "Lack Of Trust",
+      "Financial Risk"
+    ]
+  },
+
+  "visual_dna": [
+    "Paddy Fields",
+    "Potato Fields",
+    "Tractor",
+    "Rice Sacks",
+    "Mud Roads",
+    "Irrigation Pumps"
+  ],
+
+  "object_dna": [
+    "Hoe",
+    "Spade",
+    "Rice Sack",
+    "Seed Bag",
+    "Sprayer Machine",
+    "Tea Glass"
+  ],
+
+  "sound_dna": [
+    "Birds At Dawn",
+    "Irrigation Pump",
+    "Market Noise",
+    "Field Workers Talking",
+    "Rainfall"
+  ],
+
+  "smell_dna": [
+    "Wet Soil",
+    "Fresh Paddy",
+    "Fertilizer",
+    "Rain On Farmland",
+    "Harvest Crops"
+  ],
+
+  "micro_moment_dna": [
+    "Checking Clouds Before Rain",
+    "Inspecting Crop Disease",
+    "Negotiating Crop Price",
+    "Waiting For Harvest",
+    "Buying Seeds For New Season"
+  ],
+
+  "risk_dna": [
     "Flood",
     "Drought",
     "Crop Disease",
-    "Market Price Volatility",
-    "Input Cost Increase",
-    "Natural Disaster"
+    "Pest Attack",
+    "Market Volatility",
+    "Debt Risk"
   ],
 
-  "key_assets": [
-    "Agricultural Land",
-    "Livestock",
-    "Irrigation Access",
-    "Farming Equipment",
-    "Storage Facilities"
+  "aspiration_dna": [
+    "Higher Yield",
+    "Modern Equipment",
+    "More Land",
+    "Financial Stability",
+    "Children Higher Education"
   ],
 
-  "common_skills": [
-    "Crop Planning",
-    "Seed Selection",
-    "Irrigation Management",
-    "Pest Control",
-    "Harvest Management",
-    "Market Negotiation"
+  "identity_markers": [
+    "Sunrise Field Visit",
+    "Tea Stall Agriculture Discussion",
+    "Harvest Celebration",
+    "Land Ownership Pride"
   ],
 
-  "psychology_profile": {
-    "future_orientation": "Medium",
-    "adaptability": "Medium",
-    "uncertainty_exposure": "Very High",
-    "community_orientation": "High"
-  },
+  "profession_uniqueness_score": 98,
 
-  "reality_factors": {
-    "environment_factor": 95,
-    "economic_factor": 85,
-    "technology_factor": 40,
-    "social_factor": 70,
-    "policy_factor": 65
-  },
-
-  "dataset_version": "1.0"
+  "three_second_identity_test": "PASS"
 }
