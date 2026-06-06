@@ -1,0 +1,237 @@
+{
+  "profession_id": "PROF_PHARMACIST_001",
+
+  "profession": "Pharmacist",
+
+  "sector": "Healthcare",
+
+  "sub_sector": "Pharmaceutical Services",
+
+  "core_identity": [
+    "Medicine Access Provider",
+    "Treatment Support Specialist",
+    "Community Health Advisor",
+    "Healthcare Supply Manager",
+    "Patient Guidance Facilitator"
+  ],
+
+  "profession_archetype": [
+    "Caregiver",
+    "Advisor",
+    "Distributor",
+    "Health Facilitator"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly And Business Based",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Medicine Sales And Services",
+
+    "income_sources": [
+      "Medicine Sales",
+      "Prescription Fulfillment",
+      "Healthcare Products",
+      "Pharmacy Operations"
+    ],
+
+    "peak_income_periods": [
+      "Seasonal Illness Period",
+      "Epidemic Outbreaks",
+      "Winter Season"
+    ],
+
+    "financial_stress_periods": [
+      "Supply Chain Disruptions",
+      "Medicine Price Fluctuations"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Safety Focused",
+      "Evidence Based",
+      "Patient Oriented",
+      "Compliance Driven"
+    ],
+
+    "trust_sources": [
+      "Medical Guidelines",
+      "Drug Information",
+      "Physicians",
+      "Healthcare Regulations"
+    ],
+
+    "fear_drivers": [
+      "Medication Error",
+      "Counterfeit Medicine",
+      "Patient Harm",
+      "Regulatory Violation"
+    ],
+
+    "motivation_drivers": [
+      "Patient Wellbeing",
+      "Healthcare Service",
+      "Professional Trust",
+      "Business Stability"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Dispensing Medicines",
+      "Checking Prescriptions",
+      "Advising Customers",
+      "Managing Inventory",
+      "Monitoring Expiry Dates"
+    ],
+
+    "weekly_patterns": [
+      "Medicine Reordering",
+      "Stock Auditing",
+      "Supplier Coordination",
+      "Health Product Management"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Pharmacology",
+      "Prescription Reading",
+      "Inventory Management",
+      "Customer Counseling",
+      "Drug Safety",
+      "Healthcare Communication"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Pharmacy License",
+      "Medicine Inventory",
+      "Prescription Records",
+      "Drug Information Resources",
+      "Storage Systems"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Precision",
+    "Care",
+    "Trustworthiness",
+    "Professional Discipline"
+  ],
+
+  "memory_dna": [
+    "First Prescription Fulfillment",
+    "Opening Pharmacy",
+    "Helping Emergency Patient",
+    "Medicine Shortage Experience",
+    "Community Health Support"
+  ],
+
+  "social_dna": {
+    "community_role": "Healthcare Access Provider",
+
+    "social_status": "Trusted Health Professional",
+
+    "community_connections": [
+      "Patients",
+      "Doctors",
+      "Medicine Suppliers",
+      "Healthcare Workers",
+      "Families"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Quality Focused",
+      "Safety Driven",
+      "Trust Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Product Reliability",
+      "Patient Demand",
+      "Clinical Effectiveness",
+      "Brand Trust"
+    ],
+
+    "purchase_barriers": [
+      "Counterfeit Risk",
+      "Poor Quality",
+      "Regulatory Issues"
+    ]
+  },
+
+  "visual_dna": [
+    "Pharmacy Counter",
+    "Medicine Shelves",
+    "Prescription Desk",
+    "Healthcare Products",
+    "Customer Queue"
+  ],
+
+  "object_dna": [
+    "Prescription Pad",
+    "Medicine Boxes",
+    "Barcode Scanner",
+    "Medicine Shelf",
+    "Cash Register",
+    "Drug Reference Book"
+  ],
+
+  "sound_dna": [
+    "Customer Consultations",
+    "Barcode Scanning",
+    "Medicine Drawer Opening",
+    "Phone Orders",
+    "Pharmacy Activity"
+  ],
+
+  "smell_dna": [
+    "Medicine Storage",
+    "Pharmacy Air",
+    "Healthcare Products",
+    "Clean Environment",
+    "Packaging Materials"
+  ],
+
+  "micro_moment_dna": [
+    "Reading Prescription",
+    "Finding Correct Medicine",
+    "Explaining Dosage",
+    "Checking Expiry Date",
+    "Assisting Emergency Customer"
+  ],
+
+  "risk_dna": [
+    "Dispensing Error",
+    "Counterfeit Medicines",
+    "Inventory Loss",
+    "Regulatory Inspection",
+    "Supply Disruption"
+  ],
+
+  "aspiration_dna": [
+    "Trusted Community Pharmacy",
+    "Healthcare Excellence",
+    "Business Expansion",
+    "Patient Impact",
+    "Professional Recognition"
+  ],
+
+  "identity_markers": [
+    "Medicine Shelves",
+    "Prescription Service",
+    "Drug Knowledge",
+    "Community Healthcare"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
