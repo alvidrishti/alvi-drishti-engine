@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-SUN-039",
+
+  "district_name": "Sunamganj",
+
+  "division": "Sylhet",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Haor Basin",
+    "Tanguar Haor Ecosystem",
+    "Wetland Civilization",
+    "Northern Border Wetlands",
+    "Seasonal Inland Sea Landscape"
+  ],
+
+  "climate_dna": [
+    "Extreme Monsoon Rainfall",
+    "Seasonal Flooding",
+    "High Humidity",
+    "Cool Winter",
+    "Dense Wetland Fog"
+  ],
+
+  "light_dna": [
+    "Haor Sunrise Reflection",
+    "Monsoon Water Horizon Glow",
+    "Fog Covered Wetland Dawn",
+    "Golden Haor Sunset",
+    "Storm Cloud Reflection Across Water"
+  ],
+
+  "architecture_dna": [
+    "Raised Wetland Housing",
+    "Haor Village Settlements",
+    "Flood Adapted Structures",
+    "Boat Dependent Communities",
+    "Rural Riverside Markets"
+  ],
+
+  "transport_dna": [
+    "Wooden Boat",
+    "Engine Boat",
+    "Fishing Boat",
+    "Motorcycle",
+    "Local Bus"
+  ],
+
+  "occupation_dna": [
+    "Fisherman",
+    "Farmer",
+    "Boat Operator",
+    "Day Laborer",
+    "Small Trader",
+    "Tourism Worker"
+  ],
+
+  "food_dna": [
+    "Freshwater Fish",
+    "Rice",
+    "Dry Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Boat Based Daily Travel",
+    "Fishing Net Maintenance",
+    "Haor Fishing Activity",
+    "Tea Stall Discussion",
+    "Flood Season Adaptation",
+    "Wetland Resource Collection"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Wooden Boat",
+    "Fish Basket",
+    "Tea Glass",
+    "Boat Paddle",
+    "Bamboo Fish Trap",
+    "Rain Shield"
+  ],
+
+  "memory_dna": [
+    "Monsoon Boat Journey",
+    "Tanguar Haor Visit",
+    "Flood Season Memory",
+    "Winter Wetland Morning",
+    "Fishing Season Experience"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "Wetland Bird Calls",
+    "Water Waves",
+    "Morning Azan",
+    "Fishing Activity"
+  ],
+
+  "smell_dna": [
+    "Wetland Water",
+    "Fresh Fish",
+    "Tea Steam",
+    "Rain Wet Soil",
+    "Morning Mist"
+  ],
+
+  "landmark_dna": [
+    "Tanguar Haor",
+    "Jadukata River",
+    "Tahirpur Wetlands",
+    "Haor Conservation Region"
+  ],
+
+  "micro_dna": [
+    "Boat Moving Across Endless Haor Water",
+    "Fishing Net Drying Beside Wetland House",
+    "Migratory Bird Flock Over Haor",
+    "Tea Stall Beside Boat Ghat",
+    "Monsoon Flooded Village Path",
+    "Wooden Boat Tied To Bamboo Pole",
+    "Storm Clouds Above Open Water",
+    "Children Crossing Water By Boat",
+    "Sunset Reflection Across Haor Horizon",
+    "Fog Covered Wetland At Dawn"
+  ],
+
+  "identity_markers": [
+    "Haor Kingdom",
+    "Tanguar Haor",
+    "Boat Civilization",
+    "Monsoon Water World",
+    "Wetland Folk Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
