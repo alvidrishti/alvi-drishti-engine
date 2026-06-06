@@ -1,0 +1,314 @@
+{
+  "profession_id": "PROF_FOREST_OFFICER_001",
+
+  "profession": "Forest Officer",
+
+  "sector": "Forestry And Environment",
+
+  "sub_sector": "Forest Management And Conservation",
+
+  "core_identity": [
+    "Forest Guardian",
+    "Biodiversity Protector",
+    "Climate Resilience Steward",
+    "Wildlife Conservation Officer",
+    "Natural Heritage Custodian"
+  ],
+
+  "profession_archetype": [
+    "Guardian",
+    "Conservationist",
+    "Protector",
+    "Environmental Manager"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Ecological Civilization",
+
+    "secondary_layers": [
+      "Climate Protection",
+      "Biodiversity Conservation",
+      "Wildlife Protection",
+      "Natural Resource Governance",
+      "Environmental Sustainability"
+    ]
+  },
+
+  "forest_ecosystem_dna": {
+    "forest_types": [
+      "Mangrove Forest",
+      "Tropical Evergreen Forest",
+      "Sal Forest",
+      "Hill Forest",
+      "Social Forestry",
+      "Protected Reserve Forest"
+    ],
+
+    "ecosystem_services": [
+      "Carbon Storage",
+      "Water Regulation",
+      "Soil Protection",
+      "Climate Regulation",
+      "Habitat Preservation"
+    ],
+
+    "key_biodiversity_assets": [
+      "Wildlife",
+      "Bird Species",
+      "Medicinal Plants",
+      "Native Trees",
+      "Endangered Species"
+    ]
+  },
+
+  "climate_dna": {
+    "climate_functions": [
+      "Carbon Sequestration",
+      "Temperature Regulation",
+      "Flood Mitigation",
+      "Storm Protection",
+      "Drought Resilience"
+    ],
+
+    "climate_threats": [
+      "Deforestation",
+      "Wildfire",
+      "Illegal Logging",
+      "Climate Change",
+      "Habitat Fragmentation"
+    ]
+  },
+
+  "wildlife_dna": {
+    "protected_species_groups": [
+      "Mammals",
+      "Birds",
+      "Reptiles",
+      "Amphibians",
+      "Aquatic Wildlife"
+    ],
+
+    "conservation_activities": [
+      "Anti Poaching Patrol",
+      "Habitat Restoration",
+      "Species Monitoring",
+      "Wildlife Rescue",
+      "Population Survey"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Government Salary Based",
+
+    "income_sources": [
+      "Government Service",
+      "Conservation Projects",
+      "Forest Management Programs",
+      "Environmental Initiatives"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Science Based",
+      "Long Term Focused",
+      "Conservation Driven",
+      "Risk Aware"
+    ],
+
+    "trust_sources": [
+      "Ecological Research",
+      "Forest Surveys",
+      "Satellite Data",
+      "Environmental Policy"
+    ],
+
+    "fear_drivers": [
+      "Forest Loss",
+      "Species Extinction",
+      "Illegal Encroachment",
+      "Wildfire",
+      "Ecosystem Collapse"
+    ],
+
+    "motivation_drivers": [
+      "Nature Protection",
+      "Climate Stability",
+      "Wildlife Survival",
+      "Future Generations"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Forest Patrol",
+      "Wildlife Monitoring",
+      "Illegal Activity Inspection",
+      "Community Engagement",
+      "Environmental Reporting"
+    ],
+
+    "weekly_patterns": [
+      "Biodiversity Survey",
+      "Forest Health Assessment",
+      "Conservation Planning",
+      "Stakeholder Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Forestry Science",
+      "Wildlife Management",
+      "GIS Mapping",
+      "Environmental Monitoring",
+      "Conservation Planning",
+      "Law Enforcement"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "GPS Device",
+      "Forest Maps",
+      "Patrol Vehicle",
+      "Binoculars",
+      "Camera Trap",
+      "Environmental Database"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Patience",
+    "Vigilance",
+    "Respect For Nature",
+    "Dedication"
+  ],
+
+  "memory_dna": [
+    "First Wildlife Rescue",
+    "Major Anti Poaching Operation",
+    "Forest Restoration Project",
+    "Rare Species Sighting",
+    "Wildfire Response Mission"
+  ],
+
+  "social_dna": {
+    "community_role": "Environmental Protector",
+
+    "social_status": "Conservation Professional",
+
+    "community_connections": [
+      "Local Communities",
+      "Researchers",
+      "Wildlife Experts",
+      "Government Agencies",
+      "Environmental Organizations"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Forest Reserve",
+      "Wildlife Sanctuary",
+      "National Park",
+      "Mangrove Ecosystem",
+      "Protected Area"
+    ],
+
+    "ecological_sensitivity": "Extremely High",
+
+    "field_exposure": "Very High"
+  },
+
+  "ecological_memory_dna": {
+    "memory_assets": [
+      "Ancient Trees",
+      "Wildlife Migration Routes",
+      "Historical Forest Boundaries",
+      "Traditional Ecological Knowledge",
+      "Species Population Records"
+    ],
+
+    "civilization_value": [
+      "Natural Heritage",
+      "Ecological Continuity",
+      "Climate Stability",
+      "Biodiversity Preservation"
+    ]
+  },
+
+  "visual_dna": [
+    "Dense Forest",
+    "Forest Patrol",
+    "Wildlife Habitat",
+    "Mangrove Ecosystem",
+    "Forest Observation Tower"
+  ],
+
+  "object_dna": [
+    "GPS Device",
+    "Forest Map",
+    "Camera Trap",
+    "Binoculars",
+    "Patrol Logbook",
+    "Wildlife Monitoring Equipment"
+  ],
+
+  "sound_dna": [
+    "Bird Calls",
+    "Forest Wind",
+    "Wildlife Movement",
+    "River Flow",
+    "Patrol Communication"
+  ],
+
+  "smell_dna": [
+    "Wet Soil",
+    "Forest Vegetation",
+    "Tree Bark",
+    "Fresh Rain",
+    "Wild Forest Air"
+  ],
+
+  "micro_moment_dna": [
+    "Tracking Wildlife",
+    "Discovering Illegal Logging",
+    "Planting Tree Saplings",
+    "Monitoring Rare Species",
+    "Protecting Forest Boundary"
+  ],
+
+  "risk_dna": [
+    "Deforestation",
+    "Poaching",
+    "Wildfire",
+    "Human Wildlife Conflict",
+    "Climate Change",
+    "Habitat Degradation"
+  ],
+
+  "aspiration_dna": [
+    "Healthy Forest Ecosystem",
+    "Zero Illegal Deforestation",
+    "Wildlife Recovery",
+    "Climate Resilience",
+    "Ecological Legacy"
+  ],
+
+  "identity_markers": [
+    "Forest Protection",
+    "Wildlife Conservation",
+    "Biodiversity Monitoring",
+    "Environmental Stewardship"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
