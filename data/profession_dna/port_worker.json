@@ -1,0 +1,311 @@
+{
+  "profession_id": "PROF_PORT_WORKER_001",
+
+  "profession": "Port Worker",
+
+  "sector": "Maritime Logistics",
+
+  "sub_sector": "Port Operations And Cargo Handling",
+
+  "core_identity": [
+    "Cargo Movement Operator",
+    "Maritime Trade Facilitator",
+    "Port Infrastructure Worker",
+    "Global Supply Chain Enabler",
+    "Trade Flow Frontliner"
+  ],
+
+  "profession_archetype": [
+    "Worker",
+    "Operator",
+    "Handler",
+    "Connector"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Port Civilization",
+
+    "secondary_layers": [
+      "Global Trade",
+      "Maritime Logistics",
+      "Container Economy",
+      "Supply Chain Infrastructure",
+      "Import Export Operations"
+    ]
+  },
+
+  "port_dna": {
+    "port_types": [
+      "Sea Port",
+      "River Port",
+      "Container Terminal",
+      "Bulk Cargo Terminal",
+      "Industrial Port"
+    ],
+
+    "cargo_categories": [
+      "Containers",
+      "Food Products",
+      "Industrial Machinery",
+      "Textiles",
+      "Raw Materials",
+      "Fuel And Energy Products"
+    ],
+
+    "operational_zones": [
+      "Container Yard",
+      "Dock Area",
+      "Loading Bay",
+      "Warehouse",
+      "Cargo Inspection Zone"
+    ]
+  },
+
+  "maritime_trade_dna": {
+    "connected_systems": [
+      "Shipping Lines",
+      "Customs Operations",
+      "Warehouses",
+      "Factories",
+      "Export Import Networks"
+    ],
+
+    "trade_importance": [
+      "National Revenue",
+      "Supply Chain Continuity",
+      "Export Competitiveness",
+      "Industrial Production",
+      "Consumer Goods Availability"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly And Shift Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary And Overtime Based",
+
+    "income_sources": [
+      "Port Operations",
+      "Cargo Handling",
+      "Container Loading",
+      "Special Logistics Assignments"
+    ],
+
+    "peak_income_periods": [
+      "High Cargo Season",
+      "Export Rush Period",
+      "Festival Import Season"
+    ],
+
+    "financial_stress_periods": [
+      "Port Slowdown",
+      "Trade Disruption",
+      "Shipping Decline"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Safety First",
+      "Task Oriented",
+      "Efficiency Driven",
+      "Team Coordinated"
+    ],
+
+    "trust_sources": [
+      "Operational Procedures",
+      "Supervisors",
+      "Safety Protocols",
+      "Experience"
+    ],
+
+    "fear_drivers": [
+      "Workplace Accident",
+      "Cargo Damage",
+      "Equipment Failure",
+      "Operational Delay"
+    ],
+
+    "motivation_drivers": [
+      "Income Stability",
+      "Operational Success",
+      "Workplace Safety",
+      "Career Progression"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Cargo Loading",
+      "Container Handling",
+      "Equipment Operation",
+      "Safety Inspection",
+      "Shift Coordination"
+    ],
+
+    "weekly_patterns": [
+      "Equipment Checks",
+      "Operational Briefings",
+      "Safety Training",
+      "Cargo Flow Review"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Cargo Handling",
+      "Equipment Operation",
+      "Team Coordination",
+      "Safety Compliance",
+      "Physical Endurance",
+      "Port Operations Knowledge"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Safety Helmet",
+      "Protective Boots",
+      "High Visibility Vest",
+      "Communication Device",
+      "Port Access Card"
+    ]
+  },
+
+  "emotion_dna": [
+    "Discipline",
+    "Alertness",
+    "Responsibility",
+    "Teamwork",
+    "Resilience"
+  ],
+
+  "memory_dna": [
+    "First Ship Unloading",
+    "Major Export Operation",
+    "Storm Season Work",
+    "High Volume Cargo Day",
+    "Port Expansion Project"
+  ],
+
+  "social_dna": {
+    "community_role": "Trade Infrastructure Worker",
+
+    "social_status": "Logistics Frontliner",
+
+    "community_connections": [
+      "Customs Officers",
+      "Logistics Managers",
+      "Truck Drivers",
+      "Warehouse Staff",
+      "Shipping Agents",
+      "Port Authority"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Sea Port",
+      "Container Yard",
+      "Dock",
+      "Cargo Warehouse",
+      "Shipping Terminal"
+    ],
+
+    "weather_exposure": "High",
+
+    "physical_intensity": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Durability Focused",
+      "Safety Focused",
+      "Practical"
+    ],
+
+    "purchase_triggers": [
+      "Workplace Safety",
+      "Physical Comfort",
+      "Long Term Durability",
+      "Operational Utility"
+    ],
+
+    "purchase_barriers": [
+      "Low Quality",
+      "Safety Risk",
+      "High Cost"
+    ]
+  },
+
+  "visual_dna": [
+    "Cargo Ship",
+    "Shipping Container",
+    "Container Crane",
+    "Dock Operations",
+    "Port Terminal"
+  ],
+
+  "object_dna": [
+    "Container",
+    "Crane",
+    "Forklift",
+    "Cargo Net",
+    "Safety Helmet",
+    "Shipping Manifest"
+  ],
+
+  "sound_dna": [
+    "Ship Horn",
+    "Container Crane",
+    "Forklift Movement",
+    "Port Radio Communication",
+    "Cargo Loading Activity"
+  ],
+
+  "smell_dna": [
+    "Sea Air",
+    "Diesel Fuel",
+    "Metal Containers",
+    "Port Environment",
+    "Industrial Cargo Area"
+  ],
+
+  "micro_moment_dna": [
+    "Loading Export Container",
+    "Unloading Cargo Ship",
+    "Directing Crane Operation",
+    "Completing Shift Target",
+    "Securing Heavy Cargo"
+  ],
+
+  "risk_dna": [
+    "Heavy Equipment Accident",
+    "Falling Cargo",
+    "Weather Exposure",
+    "Physical Injury",
+    "Operational Disruption",
+    "Maritime Hazard"
+  ],
+
+  "aspiration_dna": [
+    "Port Operations Leadership",
+    "Stable Family Income",
+    "Advanced Logistics Career",
+    "Technical Certification",
+    "Workplace Recognition"
+  ],
+
+  "identity_markers": [
+    "Cargo Handling",
+    "Container Operations",
+    "Port Infrastructure",
+    "Maritime Logistics"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
