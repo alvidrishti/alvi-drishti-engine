@@ -1,0 +1,266 @@
+{
+  "profession_id": "PROF_RELIGIOUS_TEACHER_MADRASA_001",
+
+  "profession": "Religious Teacher (Madrasa)",
+
+  "sector": "Religious Education",
+
+  "sub_sector": "Islamic Education",
+
+  "core_identity": [
+    "Knowledge Transmitter",
+    "Faith Educator",
+    "Quran Preserver",
+    "Character Builder",
+    "Religious Civilization Carrier"
+  ],
+
+  "profession_archetype": [
+    "Teacher",
+    "Mentor",
+    "Guide",
+    "Scholar"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Religious Education Civilization",
+
+    "secondary_layers": [
+      "Moral Development",
+      "Quran Preservation",
+      "Community Guidance",
+      "Religious Literacy",
+      "Cultural Continuity"
+    ]
+  },
+
+  "education_dna": {
+    "education_model": [
+      "Hifz Education",
+      "Quranic Studies",
+      "Islamic Jurisprudence",
+      "Arabic Language",
+      "Moral Education"
+    ],
+
+    "student_groups": [
+      "Hifz Students",
+      "Maktab Students",
+      "Madrasa Students",
+      "Adult Learners"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Salary And Community Support",
+
+    "income_sources": [
+      "Madrasa Salary",
+      "Teaching Allowance",
+      "Community Contributions",
+      "Religious Programs"
+    ],
+
+    "peak_income_periods": [
+      "Ramadan",
+      "Religious Gatherings",
+      "Annual Madrasa Events"
+    ],
+
+    "financial_stress_periods": [
+      "Funding Shortages",
+      "Economic Downturns"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Faith Guided",
+      "Knowledge Based",
+      "Community Oriented",
+      "Long Term Character Focused"
+    ],
+
+    "trust_sources": [
+      "Quran",
+      "Hadith",
+      "Islamic Scholarship",
+      "Religious Institutions"
+    ],
+
+    "fear_drivers": [
+      "Student Misguidance",
+      "Loss Of Religious Knowledge",
+      "Community Division",
+      "Moral Decline"
+    ],
+
+    "motivation_drivers": [
+      "Knowledge Preservation",
+      "Student Success",
+      "Religious Service",
+      "Positive Community Impact"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Teaching Quran",
+      "Memorization Supervision",
+      "Student Counseling",
+      "Religious Discussion",
+      "Lesson Preparation"
+    ],
+
+    "weekly_patterns": [
+      "Parent Meetings",
+      "Student Assessment",
+      "Religious Study Circle",
+      "Community Teaching"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Quran Recitation",
+      "Teaching",
+      "Arabic Language",
+      "Islamic Studies",
+      "Student Mentoring",
+      "Public Speaking"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Islamic Education",
+      "Quran Collection",
+      "Teaching Materials",
+      "Religious Literature",
+      "Student Records"
+    ]
+  },
+
+  "emotion_dna": [
+    "Patience",
+    "Humility",
+    "Responsibility",
+    "Compassion",
+    "Spiritual Commitment"
+  ],
+
+  "memory_dna": [
+    "First Student Completing Hifz",
+    "First Teaching Assignment",
+    "Ramadan Teaching Experience",
+    "Student Achievement",
+    "Religious Graduation Ceremony"
+  ],
+
+  "social_dna": {
+    "community_role": "Religious Educator",
+
+    "social_status": "Trusted Knowledge Figure",
+
+    "community_connections": [
+      "Students",
+      "Parents",
+      "Imams",
+      "Scholars",
+      "Mosque Community"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Value Driven",
+      "Education Focused",
+      "Need Based"
+    ],
+
+    "purchase_triggers": [
+      "Educational Benefit",
+      "Religious Value",
+      "Student Development",
+      "Knowledge Preservation"
+    ],
+
+    "purchase_barriers": [
+      "Unnecessary Luxury",
+      "Low Educational Value",
+      "Questionable Authenticity"
+    ]
+  },
+
+  "visual_dna": [
+    "Madrasa Classroom",
+    "Quran Study Circle",
+    "Arabic Textbooks",
+    "Student Recitation Session",
+    "Religious Library"
+  ],
+
+  "object_dna": [
+    "Quran",
+    "Arabic Textbook",
+    "Attendance Register",
+    "Whiteboard",
+    "Tasbih",
+    "Teaching Notes"
+  ],
+
+  "sound_dna": [
+    "Quran Recitation",
+    "Student Memorization",
+    "Arabic Lessons",
+    "Religious Discussions",
+    "Classroom Teaching"
+  ],
+
+  "smell_dna": [
+    "Religious Books",
+    "Classroom Environment",
+    "Mosque Air",
+    "Old Paper",
+    "Prayer Hall"
+  ],
+
+  "micro_moment_dna": [
+    "Correcting Student Recitation",
+    "Listening To Memorization",
+    "Explaining Religious Concept",
+    "Congratulating Student Achievement",
+    "Leading Study Session"
+  ],
+
+  "risk_dna": [
+    "Educational Resource Shortage",
+    "Student Dropout",
+    "Funding Challenges",
+    "Community Pressure",
+    "Knowledge Continuity Risk"
+  ],
+
+  "aspiration_dna": [
+    "Producing Scholars",
+    "Community Development",
+    "Knowledge Preservation",
+    "Educational Excellence",
+    "Positive Legacy"
+  ],
+
+  "identity_markers": [
+    "Quran Teaching",
+    "Student Mentorship",
+    "Religious Education",
+    "Knowledge Transmission"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
