@@ -1,0 +1,237 @@
+{
+  "profession_id": "PROF_DOCTOR_001",
+
+  "profession": "Doctor",
+
+  "sector": "Healthcare",
+
+  "sub_sector": "Medical Practice",
+
+  "core_identity": [
+    "Life Saver",
+    "Health Guardian",
+    "Medical Decision Maker",
+    "Community Health Protector",
+    "Human Recovery Specialist"
+  ],
+
+  "profession_archetype": [
+    "Healer",
+    "Protector",
+    "Problem Solver",
+    "Caregiver"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly And Service Based",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Plus Consultation",
+
+    "income_sources": [
+      "Hospital Salary",
+      "Private Practice",
+      "Consultation Fees",
+      "Medical Services"
+    ],
+
+    "peak_income_periods": [
+      "Private Practice Growth",
+      "Specialist Appointments"
+    ],
+
+    "financial_stress_periods": [
+      "Career Training Phase"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Evidence Based",
+      "Risk Controlled",
+      "Analytical",
+      "Patient Focused"
+    ],
+
+    "trust_sources": [
+      "Medical Research",
+      "Clinical Experience",
+      "Medical Guidelines",
+      "Professional Networks"
+    ],
+
+    "fear_drivers": [
+      "Misdiagnosis",
+      "Patient Death",
+      "Medical Error",
+      "Professional Negligence"
+    ],
+
+    "motivation_drivers": [
+      "Saving Lives",
+      "Patient Recovery",
+      "Professional Excellence",
+      "Medical Advancement"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Patient Consultation",
+      "Diagnosis",
+      "Prescription Writing",
+      "Medical Documentation",
+      "Emergency Response"
+    ],
+
+    "weekly_patterns": [
+      "Case Review",
+      "Medical Learning",
+      "Hospital Meetings",
+      "Follow Up Evaluation"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Diagnosis",
+      "Clinical Assessment",
+      "Medical Knowledge",
+      "Patient Communication",
+      "Emergency Management"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Medical Degree",
+      "License",
+      "Stethoscope",
+      "Medical References",
+      "Clinical Equipment"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Compassion",
+    "Stress",
+    "Empathy",
+    "Professional Pride"
+  ],
+
+  "memory_dna": [
+    "First Patient",
+    "Medical Graduation",
+    "Emergency Case",
+    "Successful Recovery",
+    "Life Saving Intervention"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Health Protector",
+
+    "social_status": "Highly Respected Professional",
+
+    "community_connections": [
+      "Patients",
+      "Nurses",
+      "Doctors",
+      "Hospitals",
+      "Medical Community"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Quality Focused",
+      "Reliability Driven",
+      "Evidence Based"
+    ],
+
+    "purchase_triggers": [
+      "Clinical Effectiveness",
+      "Professional Utility",
+      "Long Term Reliability"
+    ],
+
+    "purchase_barriers": [
+      "Poor Quality",
+      "Lack Of Scientific Validation"
+    ]
+  },
+
+  "visual_dna": [
+    "Hospital Ward",
+    "White Coat",
+    "Patient Bed",
+    "Medical Equipment",
+    "Clinic Desk"
+  ],
+
+  "object_dna": [
+    "Stethoscope",
+    "Prescription Pad",
+    "Blood Pressure Monitor",
+    "Medical File",
+    "Doctor ID Card"
+  ],
+
+  "sound_dna": [
+    "Hospital Monitor",
+    "Patient Conversations",
+    "Emergency Alerts",
+    "Medical Equipment",
+    "Ward Activity"
+  ],
+
+  "smell_dna": [
+    "Hospital Air",
+    "Disinfectant",
+    "Medicine",
+    "Clinical Environment",
+    "Sanitizer"
+  ],
+
+  "micro_moment_dna": [
+    "Listening To Heartbeat",
+    "Explaining Diagnosis",
+    "Reviewing Test Results",
+    "Emergency Response",
+    "Writing Prescription"
+  ],
+
+  "risk_dna": [
+    "Medical Error",
+    "Burnout",
+    "Infectious Exposure",
+    "High Stress",
+    "Legal Liability"
+  ],
+
+  "aspiration_dna": [
+    "Patient Recovery",
+    "Medical Excellence",
+    "Specialization",
+    "Research Contribution",
+    "Healthcare Impact"
+  ],
+
+  "identity_markers": [
+    "White Coat",
+    "Stethoscope",
+    "Patient Care",
+    "Medical Expertise"
+  ],
+
+  "profession_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
