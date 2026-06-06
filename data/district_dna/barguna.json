@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-BAR-027",
+
+  "district_name": "Barguna",
+
+  "division": "Barishal",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Coastal Delta Region",
+    "River Estuary Landscape",
+    "Bay Influence Zone",
+    "Canal Network",
+    "Fishing Belt"
+  ],
+
+  "climate_dna": [
+    "Humid Coastal Climate",
+    "Cyclone Exposure",
+    "Storm Surge Risk",
+    "Monsoon Dominated",
+    "High Humidity"
+  ],
+
+  "light_dna": [
+    "River Sunrise Reflection",
+    "Golden Coastal Sunset",
+    "Storm Cloud Formation",
+    "Fog Covered Winter Canal",
+    "Monsoon Sky Diffusion"
+  ],
+
+  "architecture_dna": [
+    "Cyclone Resilient Housing",
+    "Canal Side Settlements",
+    "Fishing Village Structures",
+    "Coastal Market Buildings",
+    "Raised Rural Homes"
+  ],
+
+  "transport_dna": [
+    "Fishing Boat",
+    "Engine Boat",
+    "Motorcycle",
+    "Rickshaw",
+    "Launch"
+  ],
+
+  "occupation_dna": [
+    "Fisherman",
+    "Boat Operator",
+    "Farmer",
+    "Trader",
+    "Shrimp Worker",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Hilsa",
+    "River Fish",
+    "Rice",
+    "Dry Fish",
+    "Milk Tea",
+    "Coconut Based Foods"
+  ],
+
+  "behavior_dna": [
+    "Fishing Net Repair",
+    "Cyclone Preparation",
+    "Boat Based Travel",
+    "Tea Stall Gathering",
+    "Fish Market Trading",
+    "River Tide Monitoring"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Boat Rope",
+    "Fish Basket",
+    "Tea Glass",
+    "Life Jacket",
+    "Dry Fish Rack",
+    "Boat Engine"
+  ],
+
+  "memory_dna": [
+    "Cyclone Shelter Experience",
+    "Fishing Season",
+    "River Journey",
+    "Monsoon Storm Memory",
+    "Fish Market Morning"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Waves",
+    "Fishing Activity",
+    "Morning Azan",
+    "Fish Market Noise"
+  ],
+
+  "smell_dna": [
+    "Salt Air",
+    "Fresh Fish",
+    "River Water",
+    "Tea Steam",
+    "Wet Coastal Soil"
+  ],
+
+  "landmark_dna": [
+    "Patharghata Coastal Belt",
+    "Baleshwar River Region",
+    "Fishing Harbor Areas",
+    "Coastal Embankment Network"
+  ],
+
+  "micro_dna": [
+    "Fishing Net Drying Beside Canal",
+    "Boat Waiting At Low Tide",
+    "Cyclone Shelter Signboard",
+    "Fish Basket Loaded Van",
+    "Storm Warning Loudspeaker",
+    "Canal Side Tea Stall",
+    "Life Jacket Hanging In Boat",
+    "Dry Fish Rack Beside House",
+    "Morning Fish Auction",
+    "Coastal Embankment Walkway"
+  ],
+
+  "identity_markers": [
+    "Fishing Economy",
+    "Coastal River Culture",
+    "Cyclone Resilience",
+    "Boat Lifestyle",
+    "Southern Delta Identity"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
