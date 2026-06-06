@@ -1,0 +1,243 @@
+{
+  "profession_id": "PROF_ELECTRICIAN_001",
+
+  "profession": "Electrician",
+
+  "sector": "Technical Services",
+
+  "sub_sector": "Electrical Installation And Maintenance",
+
+  "core_identity": [
+    "Power Restorer",
+    "Technical Problem Solver",
+    "Infrastructure Maintainer",
+    "Emergency Service Provider",
+    "Electrical Safety Guardian"
+  ],
+
+  "profession_archetype": [
+    "Technician",
+    "Repairer",
+    "Builder",
+    "Responder"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Daily And Project Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Service Based",
+
+    "income_sources": [
+      "Electrical Installation",
+      "Repair Services",
+      "Maintenance Contracts",
+      "Emergency Calls"
+    ],
+
+    "peak_income_periods": [
+      "Construction Season",
+      "Summer Demand",
+      "Festival Preparation"
+    ],
+
+    "financial_stress_periods": [
+      "Low Construction Activity",
+      "Off Season"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Safety First",
+      "Problem Focused",
+      "Experience Driven",
+      "Practical"
+    ],
+
+    "trust_sources": [
+      "Technical Experience",
+      "Senior Electricians",
+      "Electrical Standards",
+      "Field Practice"
+    ],
+
+    "fear_drivers": [
+      "Electric Shock",
+      "Fire Hazard",
+      "Installation Failure",
+      "Customer Injury"
+    ],
+
+    "motivation_drivers": [
+      "Technical Mastery",
+      "Income Growth",
+      "Customer Trust",
+      "Business Expansion"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Tool Inspection",
+      "Site Visit",
+      "Electrical Diagnosis",
+      "Wiring Installation",
+      "Customer Service"
+    ],
+
+    "weekly_patterns": [
+      "Tool Maintenance",
+      "Material Purchase",
+      "Client Follow Up",
+      "Project Planning"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Electrical Wiring",
+      "Fault Detection",
+      "Circuit Analysis",
+      "Safety Compliance",
+      "Equipment Installation",
+      "Technical Troubleshooting"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Tool Kit",
+      "Voltage Tester",
+      "Safety Gloves",
+      "Ladder",
+      "Mobile Phone"
+    ]
+  },
+
+  "emotion_dna": [
+    "Confidence",
+    "Responsibility",
+    "Precision",
+    "Alertness",
+    "Problem Solving Satisfaction"
+  ],
+
+  "memory_dna": [
+    "First Independent Repair",
+    "Major Power Restoration",
+    "Customer Appreciation",
+    "Electrical Training Experience",
+    "Emergency Service Call"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Technical Service Provider",
+
+    "social_status": "Skilled Trades Professional",
+
+    "community_connections": [
+      "Homeowners",
+      "Builders",
+      "Contractors",
+      "Shop Owners",
+      "Technicians"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Quality Focused",
+      "Tool Oriented",
+      "Durability Driven"
+    ],
+
+    "purchase_triggers": [
+      "Safety",
+      "Reliability",
+      "Efficiency",
+      "Long Service Life"
+    ],
+
+    "purchase_barriers": [
+      "Poor Quality",
+      "Unsafe Equipment",
+      "Low Durability"
+    ]
+  },
+
+  "visual_dna": [
+    "Electrical Panel",
+    "Wiring Installation",
+    "Tool Belt",
+    "Repair Work",
+    "Construction Site"
+  ],
+
+  "object_dna": [
+    "Screwdriver Set",
+    "Voltage Tester",
+    "Wire Cutter",
+    "Insulation Tape",
+    "Safety Gloves",
+    "Tool Box"
+  ],
+
+  "sound_dna": [
+    "Power Tools",
+    "Drilling",
+    "Electrical Testing Device",
+    "Worksite Communication",
+    "Generator Noise"
+  ],
+
+  "smell_dna": [
+    "Fresh Wiring",
+    "Electrical Equipment",
+    "Construction Dust",
+    "Metal Components",
+    "Workshop Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Testing Live Circuit",
+    "Restoring Power Connection",
+    "Diagnosing Electrical Fault",
+    "Installing New Wiring",
+    "Responding To Emergency Call"
+  ],
+
+  "risk_dna": [
+    "Electric Shock",
+    "Fire Hazard",
+    "Workplace Injury",
+    "Equipment Failure",
+    "Height Related Accident"
+  ],
+
+  "aspiration_dna": [
+    "Own Electrical Business",
+    "Advanced Certification",
+    "Higher Income",
+    "Larger Contracts",
+    "Technical Reputation"
+  ],
+
+  "identity_markers": [
+    "Tool Box",
+    "Electrical Wiring",
+    "Safety Gear",
+    "Power Restoration"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
