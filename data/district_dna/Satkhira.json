@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-SAT-026",
+
+  "district_name": "Satkhira",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Coastal Delta Region",
+    "Sundarbans Frontier",
+    "Mangrove Ecosystem Zone",
+    "Border Landscape",
+    "Shrimp Aquaculture Belt"
+  ],
+
+  "climate_dna": [
+    "Humid Coastal Climate",
+    "Cyclone Exposure",
+    "Storm Surge Risk",
+    "Monsoon Dominated",
+    "High Salinity Environment"
+  ],
+
+  "light_dna": [
+    "Mangrove Sunrise Reflection",
+    "Cyclone Cloud Formation",
+    "Golden Shrimp Gher Sunset",
+    "Fog Covered Winter Canal",
+    "Coastal Evening Glow"
+  ],
+
+  "architecture_dna": [
+    "Cyclone Resilient Housing",
+    "Coastal Embankment Settlements",
+    "Shrimp Farm Infrastructure",
+    "River Canal Villages",
+    "Border Market Structures"
+  ],
+
+  "transport_dna": [
+    "Boat",
+    "Motorcycle",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "River Transport"
+  ],
+
+  "occupation_dna": [
+    "Shrimp Farmer",
+    "Fisherman",
+    "Honey Collector",
+    "Crab Collector",
+    "Trader",
+    "Boat Operator"
+  ],
+
+  "food_dna": [
+    "Shrimp",
+    "Crab",
+    "River Fish",
+    "Rice",
+    "Milk Tea",
+    "Coconut Based Foods"
+  ],
+
+  "behavior_dna": [
+    "Cyclone Preparation Activity",
+    "Shrimp Gher Management",
+    "Fishing Net Maintenance",
+    "Canal Based Travel",
+    "Tea Stall Gathering",
+    "Tide Monitoring Routine"
+  ],
+
+  "object_dna": [
+    "Fishing Net",
+    "Shrimp Basket",
+    "Crab Cage",
+    "Tea Glass",
+    "Boat Rope",
+    "Life Jacket",
+    "Mangrove Collection Basket"
+  ],
+
+  "memory_dna": [
+    "Cyclone Shelter Experience",
+    "Sundarbans Journey",
+    "Tiger Story From Elders",
+    "Shrimp Harvest Season",
+    "Canal Boat Travel"
+  ],
+
+  "sound_dna": [
+    "Boat Engine",
+    "River Tide Movement",
+    "Fishing Activity",
+    "Morning Azan",
+    "Coastal Wind"
+  ],
+
+  "smell_dna": [
+    "Salt Air",
+    "Mangrove Mud",
+    "Fresh Shrimp",
+    "River Water",
+    "Tea Steam"
+  ],
+
+  "landmark_dna": [
+    "Sundarbans Buffer Zone",
+    "Shyamnagar Coastal Belt",
+    "Burigoalini Region",
+    "Coastal Embankment Network"
+  ],
+
+  "micro_dna": [
+    "Shrimp Gher Beside Embankment",
+    "Cyclone Shelter Signboard",
+    "Tiger Warning Board",
+    "Crab Cage Drying Near Canal",
+    "Boat Waiting For High Tide",
+    "Mangrove Mud Footprints",
+    "Honey Collector Equipment",
+    "Salt Stained Embankment Wall",
+    "Fishing Net Spread On Grass",
+    "Storm Preparedness Loudspeaker"
+  ],
+
+  "identity_markers": [
+    "Sundarbans Frontier",
+    "Shrimp Economy",
+    "Cyclone Resilience",
+    "Coastal Border Identity",
+    "Mangrove Culture"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
