@@ -1,0 +1,23 @@
+{
+  "district": "Rangpur",
+  "division": "Rangpur",
+  "country": "Bangladesh",
+
+  "economy": "Agriculture",
+
+  "major_crops": [
+    "Rice",
+    "Potato",
+    "Maize"
+  ],
+
+  "common_professions": [
+    "Farmer",
+    "Day Laborer",
+    "Small Business Owner"
+  ],
+
+  "technology_adoption": "Medium",
+
+  "dataset_version": "1.0"
+}
