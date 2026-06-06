@@ -1,0 +1,241 @@
+{
+  "profession_id": "PROF_NURSE_001",
+
+  "profession": "Nurse",
+
+  "sector": "Healthcare",
+
+  "sub_sector": "Patient Care",
+
+  "core_identity": [
+    "Patient Caregiver",
+    "Recovery Facilitator",
+    "Healthcare Frontliner",
+    "Medical Support Specialist",
+    "Compassion Driven Professional"
+  ],
+
+  "profession_archetype": [
+    "Caregiver",
+    "Protector",
+    "Supporter",
+    "Healer"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Hospital Salary",
+      "Private Healthcare",
+      "Special Duty Allowance",
+      "Healthcare Services"
+    ],
+
+    "peak_income_periods": [
+      "Promotion Cycle",
+      "Special Assignments"
+    ],
+
+    "financial_stress_periods": [
+      "Family Medical Emergencies"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Patient Focused",
+      "Protocol Driven",
+      "Rapid Response",
+      "Compassion Oriented"
+    ],
+
+    "trust_sources": [
+      "Medical Guidelines",
+      "Doctors",
+      "Clinical Experience",
+      "Hospital Protocols"
+    ],
+
+    "fear_drivers": [
+      "Patient Deterioration",
+      "Medical Mistake",
+      "Emergency Failure",
+      "Infection Exposure"
+    ],
+
+    "motivation_drivers": [
+      "Patient Recovery",
+      "Helping Others",
+      "Professional Excellence",
+      "Healthcare Service"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Patient Monitoring",
+      "Medicine Administration",
+      "Vital Sign Checking",
+      "Shift Handover",
+      "Patient Support"
+    ],
+
+    "weekly_patterns": [
+      "Ward Coordination",
+      "Clinical Training",
+      "Patient Follow Up",
+      "Healthcare Documentation"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Patient Care",
+      "Medicine Administration",
+      "Clinical Observation",
+      "Emergency Support",
+      "Communication",
+      "Empathy"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Nursing Degree",
+      "Professional License",
+      "Uniform",
+      "Medical Knowledge",
+      "Clinical Training"
+    ]
+  },
+
+  "emotion_dna": [
+    "Empathy",
+    "Compassion",
+    "Responsibility",
+    "Patience",
+    "Emotional Resilience"
+  ],
+
+  "memory_dna": [
+    "First Patient Care Experience",
+    "First Night Shift",
+    "Critical Patient Recovery",
+    "Healthcare Training",
+    "Emergency Ward Experience"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Healthcare Caregiver",
+
+    "social_status": "Trusted Health Professional",
+
+    "community_connections": [
+      "Patients",
+      "Doctors",
+      "Nurses",
+      "Hospital Staff",
+      "Families"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Practical",
+      "Health Conscious",
+      "Quality Focused"
+    ],
+
+    "purchase_triggers": [
+      "Reliability",
+      "Comfort",
+      "Health Benefits",
+      "Professional Utility"
+    ],
+
+    "purchase_barriers": [
+      "Poor Quality",
+      "Health Risks",
+      "Low Durability"
+    ]
+  },
+
+  "visual_dna": [
+    "Hospital Ward",
+    "Nurse Station",
+    "Patient Bed",
+    "Medical Uniform",
+    "Medicine Cart"
+  ],
+
+  "object_dna": [
+    "Nurse ID Card",
+    "Medical Chart",
+    "Medicine Tray",
+    "Blood Pressure Monitor",
+    "Thermometer",
+    "Uniform"
+  ],
+
+  "sound_dna": [
+    "Patient Monitor",
+    "Hospital Announcements",
+    "Ward Conversations",
+    "Medical Equipment",
+    "Shift Handover Discussion"
+  ],
+
+  "smell_dna": [
+    "Hospital Air",
+    "Sanitizer",
+    "Medicine",
+    "Clean Linen",
+    "Clinical Environment"
+  ],
+
+  "micro_moment_dna": [
+    "Checking Patient Vitals",
+    "Administering Medication",
+    "Responding To Emergency Bell",
+    "Comforting Patient Family",
+    "Preparing Shift Report"
+  ],
+
+  "risk_dna": [
+    "Infection Exposure",
+    "Burnout",
+    "Shift Fatigue",
+    "Emotional Stress",
+    "Emergency Pressure"
+  ],
+
+  "aspiration_dna": [
+    "Better Patient Outcomes",
+    "Professional Growth",
+    "Specialized Training",
+    "Leadership Role",
+    "Healthcare Impact"
+  ],
+
+  "identity_markers": [
+    "Nursing Uniform",
+    "Patient Care",
+    "Medicine Administration",
+    "Hospital Shift Work"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
