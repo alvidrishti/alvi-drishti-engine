@@ -1,0 +1,303 @@
+{
+  "profession_id": "PROF_ELECTRIC_GRID_TECHNICIAN_001",
+
+  "profession": "Electric Grid Technician",
+
+  "sector": "Energy Infrastructure",
+
+  "sub_sector": "Power Distribution And Grid Operations",
+
+  "core_identity": [
+    "Power Continuity Protector",
+    "Grid Infrastructure Operator",
+    "Energy Distribution Specialist",
+    "Emergency Restoration Responder",
+    "Infrastructure Backbone Worker"
+  ],
+
+  "profession_archetype": [
+    "Protector",
+    "Technician",
+    "Responder",
+    "Infrastructure Guardian"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Energy Civilization",
+
+    "secondary_layers": [
+      "Industrial Continuity",
+      "Digital Connectivity",
+      "Healthcare Reliability",
+      "Economic Productivity",
+      "National Infrastructure"
+    ]
+  },
+
+  "energy_dna": {
+    "grid_components": [
+      "Transmission Line",
+      "Distribution Line",
+      "Substation",
+      "Transformer",
+      "Power Meter",
+      "Grid Control System"
+    ],
+
+    "service_domains": [
+      "Residential Power",
+      "Industrial Power",
+      "Commercial Supply",
+      "Rural Electrification",
+      "Emergency Restoration"
+    ]
+  },
+
+  "critical_dependency_dna": {
+    "dependent_systems": [
+      "Hospitals",
+      "Factories",
+      "Telecommunication",
+      "Internet Networks",
+      "Water Supply",
+      "Transportation Systems"
+    ],
+
+    "failure_impact": [
+      "Power Outage",
+      "Economic Loss",
+      "Communication Breakdown",
+      "Healthcare Disruption",
+      "Industrial Shutdown"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Utility Employment",
+      "Emergency Response Duty",
+      "Infrastructure Projects",
+      "Technical Services"
+    ],
+
+    "peak_income_periods": [
+      "Grid Expansion Projects",
+      "Disaster Recovery Operations",
+      "Infrastructure Upgrades"
+    ],
+
+    "financial_stress_periods": [
+      "Operational Restructuring"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Safety First",
+      "Protocol Driven",
+      "Rapid Response",
+      "Reliability Focused"
+    ],
+
+    "trust_sources": [
+      "Grid Monitoring Systems",
+      "Technical Manuals",
+      "Operational Procedures",
+      "Engineering Standards"
+    ],
+
+    "fear_drivers": [
+      "Electrocution",
+      "Grid Failure",
+      "Public Safety Incident",
+      "Extended Power Outage",
+      "Equipment Failure"
+    ],
+
+    "motivation_drivers": [
+      "Reliable Power Supply",
+      "Public Service",
+      "Technical Excellence",
+      "Infrastructure Stability"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Grid Inspection",
+      "Transformer Monitoring",
+      "Fault Detection",
+      "Maintenance Operations",
+      "Emergency Response"
+    ],
+
+    "weekly_patterns": [
+      "Substation Inspection",
+      "Safety Audit",
+      "Equipment Testing",
+      "Network Reliability Review"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Electrical Systems",
+      "Fault Diagnosis",
+      "Grid Maintenance",
+      "Transformer Operations",
+      "Emergency Restoration",
+      "Safety Compliance"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Safety Helmet",
+      "Insulated Gloves",
+      "Voltage Tester",
+      "Utility Vehicle",
+      "Climbing Equipment",
+      "Communication Device"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Alertness",
+    "Discipline",
+    "Courage",
+    "Precision"
+  ],
+
+  "memory_dna": [
+    "First Live Line Repair",
+    "Major Blackout Recovery",
+    "Storm Restoration Mission",
+    "Substation Upgrade Project",
+    "Emergency Power Restoration"
+  ],
+
+  "social_dna": {
+    "community_role": "Power Supply Guardian",
+
+    "social_status": "Infrastructure Professional",
+
+    "community_connections": [
+      "Utility Engineers",
+      "Substation Operators",
+      "Industrial Customers",
+      "Community Residents",
+      "Emergency Services"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Power Substation",
+      "Transmission Tower",
+      "Distribution Network",
+      "Control Room",
+      "Emergency Repair Site"
+    ],
+
+    "weather_exposure": "High",
+
+    "hazard_level": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Safety Focused",
+      "Reliability Driven",
+      "Performance Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Operational Safety",
+      "Equipment Durability",
+      "Grid Reliability",
+      "Response Speed"
+    ],
+
+    "purchase_barriers": [
+      "Safety Risk",
+      "Low Reliability",
+      "Technical Incompatibility"
+    ]
+  },
+
+  "visual_dna": [
+    "Transmission Tower",
+    "Power Line",
+    "Transformer",
+    "Substation",
+    "Emergency Repair Crew"
+  ],
+
+  "object_dna": [
+    "Transformer",
+    "Power Meter",
+    "Insulated Tools",
+    "Safety Harness",
+    "Control Panel",
+    "Utility Truck"
+  ],
+
+  "sound_dna": [
+    "Transformer Hum",
+    "Substation Noise",
+    "Radio Communication",
+    "Repair Equipment",
+    "Power Line Buzz"
+  ],
+
+  "smell_dna": [
+    "Electrical Equipment",
+    "Transformer Oil",
+    "Industrial Environment",
+    "Rain On Infrastructure",
+    "Metal Components"
+  ],
+
+  "micro_moment_dna": [
+    "Restoring Power After Outage",
+    "Repairing Broken Line",
+    "Inspecting Transformer",
+    "Responding To Emergency Call",
+    "Reconnecting Community Power"
+  ],
+
+  "risk_dna": [
+    "Electrocution",
+    "Fall From Height",
+    "Storm Exposure",
+    "Equipment Explosion",
+    "Grid Failure",
+    "Public Safety Incident"
+  ],
+
+  "aspiration_dna": [
+    "National Grid Reliability",
+    "Smart Grid Leadership",
+    "Zero Preventable Outages",
+    "Infrastructure Excellence",
+    "Energy Security"
+  ],
+
+  "identity_markers": [
+    "Power Line Maintenance",
+    "Grid Operations",
+    "Emergency Restoration",
+    "Energy Infrastructure"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
