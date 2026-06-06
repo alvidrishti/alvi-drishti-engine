@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-KUS-022",
+
+  "district_name": "Kushtia",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Padma River Influence Zone",
+    "Gorai River Corridor",
+    "Western Agricultural Plain",
+    "Historic Cultural Region",
+    "River Civilization Landscape"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Humid Monsoon",
+    "Cool Winter",
+    "Seasonal Fog",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Lalon Akhra Sunset Glow",
+    "Winter Fog Morning",
+    "Padma Riverside Golden Light",
+    "Baul Festival Evening Illumination",
+    "Village Field Sunrise"
+  ],
+
+  "architecture_dna": [
+    "Lalon Akhra Complex",
+    "Traditional Courtyard Homes",
+    "Hardinge Bridge Engineering Heritage",
+    "Cultural Gathering Spaces",
+    "Historic Educational Buildings"
+  ],
+
+  "transport_dna": [
+    "Train",
+    "Rickshaw",
+    "Motorcycle",
+    "Bus",
+    "River Transport"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Teacher",
+    "Cultural Performer",
+    "Trader",
+    "Government Employee",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Traditional Sweets",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Baul Song Gathering",
+    "Tea Stall Discussion",
+    "Cultural Festival Participation",
+    "Agricultural Market Trading",
+    "Evening Riverside Gathering",
+    "Literary Discussion"
+  ],
+
+  "object_dna": [
+    "Ektara",
+    "Dotara",
+    "Tea Glass",
+    "Rice Sack",
+    "Festival Banner",
+    "Book Collection",
+    "Bamboo Stool"
+  ],
+
+  "memory_dna": [
+    "Lalon Mela",
+    "Baul Performance Night",
+    "Hardinge Bridge Journey",
+    "Winter Cultural Festival",
+    "Padma Riverside Evening"
+  ],
+
+  "sound_dna": [
+    "Baul Song",
+    "Ektara Melody",
+    "Morning Azan",
+    "Tea Stall Conversation",
+    "Festival Crowd Sound"
+  ],
+
+  "smell_dna": [
+    "River Air",
+    "Tea Steam",
+    "Festival Food Aroma",
+    "Fresh Soil",
+    "Winter Morning Moisture"
+  ],
+
+  "landmark_dna": [
+    "Lalon Akhra",
+    "Hardinge Bridge",
+    "Rabindra Kuthibari (Shilaidaha)",
+    "Gorai River Region"
+  ],
+
+  "micro_dna": [
+    "Ektara Hanging Inside Akhra",
+    "Baul Sitting Under Tree",
+    "Lalon Mela Lantern Lights",
+    "Tea Stall Beside Cultural Ground",
+    "Hardinge Bridge Steel Pattern",
+    "Dotara Beside Bamboo Mat",
+    "Padma Riverside Gathering Circle",
+    "Festival Stage Sound Check",
+    "Handwritten Song Notebook",
+    "Winter Night Folk Music Session"
+  ],
+
+  "identity_markers": [
+    "Lalon Heritage",
+    "Baul Culture",
+    "Rabindranath Connection",
+    "Hardinge Bridge",
+    "Folk Music Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
