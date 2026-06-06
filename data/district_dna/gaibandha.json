@@ -1,5 +1,7 @@
 {
-  "district": "Gaibandha",
+  "district_id": "BD-GAI-003",
+
+  "district_name": "Gaibandha",
 
   "division": "Rangpur",
 
@@ -7,119 +9,136 @@
 
   "dataset_version": "24.0",
 
-  "geography": {
-    "region": "North Bengal",
-    "terrain": "Floodplain",
-    "major_rivers": [
-      "Jamuna",
-      "Brahmaputra",
-      "Teesta",
-      "Ghaghat"
-    ],
-    "climate_type": "Subtropical Monsoon"
-  },
+  "geography_dna": [
+    "Jamuna Floodplain",
+    "Brahmaputra Influence",
+    "Ghaghat River System",
+    "River Basin Agriculture",
+    "Char Land Ecosystem"
+  ],
 
-  "climate_profile": {
-    "summer": "Hot",
-    "winter": "Cold",
-    "rainfall_level": "High",
-    "flood_risk": "Very High",
-    "drought_risk": "Low"
-  },
+  "climate_dna": [
+    "Monsoon Dominated",
+    "Cold Winter",
+    "High Humidity",
+    "Seasonal Flooding",
+    "River Fog"
+  ],
 
-  "economy_profile": {
-    "primary_sector": "Agriculture",
+  "light_dna": [
+    "Foggy Winter Sunrise",
+    "River Reflection Light",
+    "Monsoon Overcast Light",
+    "Golden Paddy Field Sunset",
+    "Dusty Dry Season Afternoon"
+  ],
 
-    "major_crops": [
-      "Rice",
-      "Jute",
-      "Maize",
-      "Potato",
-      "Vegetables"
-    ],
+  "architecture_dna": [
+    "Flood Adapted Rural Housing",
+    "Tin Roof Settlements",
+    "Raised Courtyard Homes",
+    "Char Village Structures",
+    "Roadside Market Sheds"
+  ],
 
-    "major_industries": [
-      "Agriculture",
-      "Livestock",
-      "Small Trade"
-    ],
+  "transport_dna": [
+    "Boat",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Motorcycle",
+    "Local Bus"
+  ],
 
-    "economic_growth": "Medium"
-  },
+  "occupation_dna": [
+    "Farmer",
+    "Day Laborer",
+    "Fisherman",
+    "Livestock Farmer",
+    "Small Trader",
+    "Transport Worker"
+  ],
 
-  "population_profile": {
-    "urbanization_level": "Low",
-    "population_density": "High",
-    "migration_pattern": "Seasonal Labor Migration"
-  },
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Jute Related Rural Economy",
+    "Potato",
+    "Pitha",
+    "Milk Tea"
+  ],
 
-  "profession_profile": {
-    "common_professions": [
-      "Farmer",
-      "Day Laborer",
-      "Fisherman",
-      "Small Business Owner",
-      "Driver",
-      "Teacher"
-    ]
-  },
+  "behavior_dna": [
+    "Flood Season Preparation",
+    "Riverbank Observation",
+    "Market Bargaining",
+    "Fishing Net Maintenance",
+    "Livestock Protection Activity",
+    "Tea Stall Social Gathering"
+  ],
 
-  "education_profile": {
-    "education_access": "Medium",
-    "literacy_trend": "Improving",
-    "higher_education_access": "Medium"
-  },
+  "object_dna": [
+    "Fishing Net",
+    "Jute Rope",
+    "River Boat",
+    "Tea Glass",
+    "Bamboo Basket",
+    "Livestock Feed Container",
+    "Crop Storage Sack"
+  ],
 
-  "technology_profile": {
-    "internet_access": "Medium",
-    "smartphone_adoption": "Medium",
-    "digital_payment_adoption": "Growing"
-  },
+  "memory_dna": [
+    "Flood Season Childhood Memory",
+    "Jamuna River Journey",
+    "Winter Tea Stall Gathering",
+    "Market Day Activity",
+    "Riverbank Evening Scene"
+  ],
 
-  "culture_profile": {
-    "primary_language": "Bangla",
-    "community_orientation": "Very High",
-    "religious_diversity": "Low",
-    "cultural_identity": "River-Based Rural Heritage"
-  },
+  "sound_dna": [
+    "Boat Engine",
+    "River Current",
+    "Morning Azan",
+    "Tea Stall Discussion",
+    "Livestock Sound"
+  ],
 
-  "infrastructure_profile": {
-    "road_connectivity": "Medium",
-    "electricity_access": "High",
-    "healthcare_access": "Medium",
-    "transport_access": "Medium"
-  },
+  "smell_dna": [
+    "Wet River Soil",
+    "Fresh Fish",
+    "Tea Steam",
+    "Harvested Paddy",
+    "Jute Fiber Smell"
+  ],
 
-  "risk_profile": {
-    "natural_disasters": [
-      "Flood",
-      "River Erosion",
-      "Storm"
-    ],
+  "landmark_dna": [
+    "Brahmaputra River Area",
+    "Jamuna River Belt",
+    "Gaibandha Char Settlements",
+    "Ghaghat River Region"
+  ],
 
-    "economic_risks": [
-      "Crop Failure",
-      "Commodity Price Fluctuation",
-      "Seasonal Unemployment"
-    ]
-  },
+  "micro_dna": [
+    "River Erosion Scar",
+    "Bamboo Flood Marker",
+    "Jute Rope Drying",
+    "Boat Tied To Riverbank Tree",
+    "Char Land Crop Rows",
+    "Flood Shelter Signboard",
+    "River Sand Deposit",
+    "Temporary Bamboo Bridge",
+    "Livestock Raised Ground",
+    "Seasonal Migration Preparation"
+  ],
 
-  "opportunity_profile": {
-    "growth_sectors": [
-      "Modern Agriculture",
-      "Livestock",
-      "Food Processing",
-      "Digital Commerce"
-    ],
+  "identity_markers": [
+    "River Economy",
+    "Flood Adaptation",
+    "Char Culture",
+    "Jute Heritage",
+    "Northern Rural Identity"
+  ],
 
-    "future_potential": "Medium-High"
-  },
+  "district_uniqueness_score": 96,
 
-  "reality_factors": {
-    "environment_factor": 92,
-    "economic_factor": 68,
-    "technology_factor": 58,
-    "social_factor": 88,
-    "infrastructure_factor": 65
-  }
+  "three_second_identity_test": "PASS"
 }
