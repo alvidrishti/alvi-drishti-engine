@@ -1,0 +1,300 @@
+{
+  "district_id": "BD-FAR-053",
+
+  "district_name": "Faridpur",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Padma Civilization",
+    "Jute Heritage",
+    "Agricultural Heartland",
+    "River Commerce Culture",
+    "Central Bengal Identity"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Padma River Basin",
+      "Madhumati River",
+      "Arial Khan River Influence",
+      "Central Floodplain",
+      "Agricultural Landscape"
+    ],
+
+    "terrain": [
+      "River Floodplain",
+      "Fertile Agricultural Land",
+      "Wetland Zones",
+      "Rural Settlement Network"
+    ],
+
+    "river_dependency_score": 97,
+    "agricultural_identity_score": 99,
+    "fertility_score": 98
+  },
+
+  "historical_dna": [
+    "River Trade Heritage",
+    "Jute Economy Legacy",
+    "Colonial Agricultural Development",
+    "Folk Cultural Evolution",
+    "Central Bengal Commercial History"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Jute Production",
+      "Rice Cultivation",
+      "Trade"
+    ],
+
+    "secondary": [
+      "Small Industry",
+      "Livestock",
+      "Retail Commerce"
+    ],
+
+    "economic_identity": [
+      "Agricultural Economy",
+      "Jute Economy",
+      "River Commerce"
+    ]
+  },
+
+  "occupation_dna": [
+    "Farmer",
+    "Jute Trader",
+    "Rice Merchant",
+    "Teacher",
+    "Business Owner",
+    "Day Laborer"
+  ],
+
+  "agriculture_dna": [
+    "Jute Cultivation",
+    "Rice Farming",
+    "Vegetable Production",
+    "Mustard Farming",
+    "Seasonal Crop Rotation"
+  ],
+
+  "river_dna": [
+    "Padma Dependency",
+    "Boat Connectivity",
+    "Flood Adaptation",
+    "River Market Tradition"
+  ],
+
+  "folk_culture_dna": [
+    "Baul Tradition",
+    "Palligiti Heritage",
+    "Village Cultural Gatherings",
+    "Traditional Musical Identity"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "River Fish",
+    "Pitha",
+    "Milk Tea",
+    "Mustard Based Dishes",
+    "Traditional Bengali Cuisine"
+  ],
+
+  "market_dna": [
+    "Jute Markets",
+    "Agricultural Trading Centers",
+    "Village Bazaars",
+    "River Commerce Hubs",
+    "Livestock Markets"
+  ],
+
+  "festival_dna": [
+    "Nabanna",
+    "Eid Celebrations",
+    "Village Fairs",
+    "Harvest Festivals",
+    "Baul Gatherings"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Faridpur Dialect",
+      "Central Bengal Expressions",
+      "Agricultural Vocabulary"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque Centered Community Life",
+    "Sufi Heritage",
+    "Village Religious Gatherings",
+    "Eid Congregation Identity"
+  ],
+
+  "social_dna": [
+    "Village Kinship Networks",
+    "Agricultural Cooperation",
+    "Community Reputation Culture",
+    "Multi-Generational Family Structure"
+  ],
+
+  "emotion_dna": [
+    "Land Attachment",
+    "Agricultural Pride",
+    "River Memory",
+    "Family Legacy",
+    "Village Identity"
+  ],
+
+  "visual_dna": [
+    "Golden Paddy Fields",
+    "Jute Fields",
+    "River Ghats",
+    "Village Roads",
+    "Seasonal Floodplains"
+  ],
+
+  "color_palette_dna": [
+    "Paddy Gold",
+    "Jute Green",
+    "River Blue",
+    "Mud Brown",
+    "Harvest Yellow"
+  ],
+
+  "behavior_dna": [
+    "Tea Stall Discussion",
+    "Agricultural Planning",
+    "Market Bargaining",
+    "Community Cooperation",
+    "River Monitoring"
+  ],
+
+  "object_dna": [
+    "Jute Bundle",
+    "Rice Sack",
+    "Tea Glass",
+    "Fishing Net",
+    "Bamboo Basket",
+    "Wooden Boat"
+  ],
+
+  "sound_dna": [
+    "Azan",
+    "Market Activity",
+    "Boat Engine",
+    "Baul Music",
+    "Village Conversations"
+  ],
+
+  "smell_dna": [
+    "Fresh Jute",
+    "Wet Soil",
+    "River Air",
+    "Tea Steam",
+    "Rice Harvest"
+  ],
+
+  "childhood_memory_dna": [
+    "Swimming In Canal",
+    "Harvest Season Activities",
+    "Village Football",
+    "Boat Journeys",
+    "Eid Gatherings"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Crop Management",
+      "Market Trading"
+    ],
+
+    "monsoon": [
+      "Flood Adaptation",
+      "River Expansion",
+      "Boat Dependency"
+    ],
+
+    "winter": [
+      "Harvest Season",
+      "Village Fairs",
+      "Wedding Season"
+    ]
+  },
+
+  "night_dna": [
+    "Tea Stall Adda",
+    "Village Market Lights",
+    "Quiet Riverbanks",
+    "Seasonal Cultural Events"
+  ],
+
+  "risk_dna": [
+    "Flood Risk",
+    "River Erosion",
+    "Agricultural Price Volatility",
+    "Climate Dependency"
+  ],
+
+  "migration_dna": [
+    "Dhaka Employment Migration",
+    "Student Migration",
+    "Seasonal Labor Movement"
+  ],
+
+  "commercial_dna": [
+    "Jute Supply Chain",
+    "Agricultural Commerce",
+    "Regional Trade Networks",
+    "Rural Retail Economy"
+  ],
+
+  "memory_dna": [
+    "Padma Flood Memories",
+    "Jute Harvest Seasons",
+    "Village Fair Traditions",
+    "River Market Heritage",
+    "Family Farming Legacy"
+  ],
+
+  "micro_dna": [
+    "Jute Bundles Drying Beside Field",
+    "Farmer Drinking Tea At Market",
+    "Boat Moored At Rural Ghat",
+    "Golden Paddy Moving In Wind",
+    "Children Playing Football On Harvested Land",
+    "Village Fair Ferris Wheel",
+    "Rice Sacks Loaded On Pickup",
+    "Fog Covering Winter Fields",
+    "Baul Singer At Community Gathering",
+    "Sunset Reflection On Floodplain Water"
+  ],
+
+  "landmark_dna": [
+    "Padma River Belt",
+    "Madhumati River",
+    "Faridpur Town",
+    "Historic Agricultural Regions"
+  ],
+
+  "identity_markers": [
+    "Padma Civilization",
+    "Jute Heritage",
+    "Agricultural Heartland",
+    "River Commerce Culture",
+    "Central Bengal Identity"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
