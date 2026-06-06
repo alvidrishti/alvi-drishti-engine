@@ -1,0 +1,145 @@
+{
+  "district_id": "BD-SYL-040",
+
+  "district_name": "Sylhet",
+
+  "division": "Sylhet",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Surma River Basin",
+    "Tea Garden Highlands",
+    "Jaflong Stone Landscape",
+    "Border Hill Region",
+    "Eastern Gateway Zone"
+  ],
+
+  "climate_dna": [
+    "High Rainfall",
+    "Humid Subtropical Climate",
+    "Frequent Morning Mist",
+    "Monsoon Dominated",
+    "Mild Winter"
+  ],
+
+  "light_dna": [
+    "Jaflong Sunrise Reflection",
+    "Tea Garden Morning Glow",
+    "Hill Mist Dawn",
+    "Golden River Sunset",
+    "Rain Washed Evening Light"
+  ],
+
+  "architecture_dna": [
+    "Shah Jalal Shrine Complex",
+    "Tea Estate Bungalows",
+    "Colonial Administrative Buildings",
+    "Modern Probashi Residences",
+    "Traditional Sylheti Homesteads"
+  ],
+
+  "transport_dna": [
+    "CNG Auto Rickshaw",
+    "Motorcycle",
+    "Bus",
+    "Private Car",
+    "Boat"
+  ],
+
+  "occupation_dna": [
+    "Tea Worker",
+    "Business Owner",
+    "Trader",
+    "Tourism Worker",
+    "Teacher",
+    "Probashi Family Enterprise"
+  ],
+
+  "food_dna": [
+    "Seven Layer Tea",
+    "Satkora Cuisine",
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Traditional Pitha"
+  ],
+
+  "behavior_dna": [
+    "Shrine Visiting",
+    "Tea Stall Discussion",
+    "Probashi Family Networking",
+    "Tourism Activity",
+    "Market Bargaining",
+    "Evening Social Gathering"
+  ],
+
+  "object_dna": [
+    "Tea Basket",
+    "Satkora Fruit",
+    "Tea Glass",
+    "Prayer Cap",
+    "Travel Suitcase",
+    "Stone Collection Basket",
+    "Market Weighing Scale"
+  ],
+
+  "memory_dna": [
+    "Shah Jalal Shrine Visit",
+    "Jaflong Day Trip",
+    "Tea Garden Childhood",
+    "Probashi Family Reunion",
+    "Monsoon Rain Memory"
+  ],
+
+  "sound_dna": [
+    "Azan From Shrine Area",
+    "Tea Garden Worker Calls",
+    "Surma River Flow",
+    "Tourist Conversations",
+    "Market Activity"
+  ],
+
+  "smell_dna": [
+    "Fresh Tea Leaves",
+    "Rain Wet Soil",
+    "Tea Steam",
+    "River Air",
+    "Forest Moisture"
+  ],
+
+  "landmark_dna": [
+    "Hazrat Shah Jalal Shrine",
+    "Jaflong",
+    "Surma River",
+    "Ratargul Swamp Forest",
+    "Tea Estate Region"
+  ],
+
+  "micro_dna": [
+    "Tea Picker Walking Through Garden",
+    "Jaflong Stone Collection Boats",
+    "Pilgrims Entering Shrine Complex",
+    "Tea Stall Beside Surma River",
+    "Mist Covering Border Hills",
+    "Satkora Display In Local Market",
+    "Probashi Built Modern House",
+    "Rain Covered Tea Estate Road",
+    "Tourist Crowd At Jaflong Viewpoint",
+    "Evening Gathering Around Tea Shop"
+  ],
+
+  "identity_markers": [
+    "Tea Garden Capital",
+    "Shah Jalal Heritage",
+    "Probashi Identity",
+    "Jaflong Landscape",
+    "Spiritual Cultural Hub"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
