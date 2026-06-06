@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-JHE-020",
+
+  "district_name": "Jhenaidah",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Southwestern Agricultural Plain",
+    "Palm Tree Landscape",
+    "Village Based Settlement Pattern",
+    "Crop Cultivation Belt",
+    "Rural Market Network"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Warm Humid Monsoon",
+    "Cool Winter",
+    "Seasonal Fog",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Date Palm Sunrise Silhouette",
+    "Winter Fog Morning",
+    "Golden Paddy Sunset",
+    "Village Field Afternoon Light",
+    "Palm Tree Shadow Pattern"
+  ],
+
+  "architecture_dna": [
+    "Traditional Rural Courtyard Homes",
+    "Tin Roof Houses",
+    "Village Market Structures",
+    "Date Juice Collection Sheds",
+    "Agricultural Storage Buildings"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus",
+    "Agricultural Transport Van"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Date Juice Collector",
+    "Small Trader",
+    "Teacher",
+    "Driver",
+    "Agricultural Laborer"
+  ],
+
+  "food_dna": [
+    "Khejurer Ros",
+    "Patali Gur",
+    "Rice",
+    "Milk Tea",
+    "Pitha",
+    "Freshwater Fish"
+  ],
+
+  "behavior_dna": [
+    "Date Juice Collection At Dawn",
+    "Village Tea Stall Discussion",
+    "Market Bargaining",
+    "Winter Gur Production",
+    "Agricultural Trading",
+    "Local Sports Gathering"
+  ],
+
+  "object_dna": [
+    "Date Juice Pot",
+    "Bamboo Ladder",
+    "Clay Gur Mold",
+    "Tea Glass",
+    "Rice Sack",
+    "Palm Collection Knife",
+    "Village Bench"
+  ],
+
+  "memory_dna": [
+    "Winter Date Juice Morning",
+    "Palm Tree Climber",
+    "Village Football Match",
+    "Tea Stall Gathering",
+    "Patali Gur Season"
+  ],
+
+  "sound_dna": [
+    "Morning Azan",
+    "Village Market Noise",
+    "Football Match Crowd",
+    "Rickshaw Bell",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Fresh Date Juice",
+    "Boiling Gur",
+    "Tea Steam",
+    "Fresh Soil",
+    "Winter Morning Moisture"
+  ],
+
+  "landmark_dna": [
+    "Pagla Kanai Heritage",
+    "Historic Rural Markets",
+    "Palm Tree Belts",
+    "Traditional Gur Production Areas"
+  ],
+
+  "micro_dna": [
+    "Clay Pot Hanging On Date Palm Tree",
+    "Palm Climber Before Sunrise",
+    "Boiling Gur Smoke",
+    "Winter Fog Across Palm Horizon",
+    "Village Football Field Crowd",
+    "Tea Stall Beside Market Road",
+    "Fresh Date Juice Selling Point",
+    "Palm Tree Shadow On Crop Field",
+    "Patali Gur Cooling Tray",
+    "Bamboo Ladder Leaning On Palm Tree"
+  ],
+
+  "identity_markers": [
+    "Date Palm Culture",
+    "Khejurer Ros Heritage",
+    "Patali Gur Economy",
+    "Village Sports Identity",
+    "Palm Tree Landscape"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
