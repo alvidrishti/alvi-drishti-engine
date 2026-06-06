@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-BOG-009",
+
+  "district_name": "Bogura",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Karatoya Basin",
+    "North Central Bangladesh",
+    "Agricultural Plain",
+    "Historic Settlement Zone",
+    "Trade Corridor Region"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Cold Winter",
+    "Seasonal Fog",
+    "Humid Monsoon",
+    "Moderate Rainfall"
+  ],
+
+  "light_dna": [
+    "Winter Market Morning Light",
+    "Fog Filtered Sunrise",
+    "Golden Paddy Sunset",
+    "Urban Market Night Glow",
+    "Monsoon Cloud Diffusion"
+  ],
+
+  "architecture_dna": [
+    "Mahasthangarh Heritage",
+    "Urban Commercial Buildings",
+    "Traditional Brick Houses",
+    "Roadside Market Structures",
+    "Historic Archaeological Remains"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Motorcycle",
+    "Intercity Bus",
+    "Cargo Truck"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Business Owner",
+    "Trader",
+    "Teacher",
+    "Driver",
+    "Government Employee"
+  ],
+
+  "food_dna": [
+    "Bogurar Doi",
+    "Rice",
+    "Milk Products",
+    "Tea",
+    "Pitha",
+    "Freshwater Fish"
+  ],
+
+  "behavior_dna": [
+    "Morning Market Bargaining",
+    "Sweet Shop Gathering",
+    "Tea Stall Discussion",
+    "Agricultural Trading",
+    "Festival Shopping Activity",
+    "Business Negotiation"
+  ],
+
+  "object_dna": [
+    "Clay Doi Pot",
+    "Tea Glass",
+    "Market Weighing Scale",
+    "Rice Sack",
+    "Bamboo Basket",
+    "Sweet Shop Tray",
+    "Rickshaw Bell"
+  ],
+
+  "memory_dna": [
+    "Bogurar Doi",
+    "Mahasthangarh Visit",
+    "Winter Market Morning",
+    "Tea Stall Debate",
+    "Festival Shopping Experience"
+  ],
+
+  "sound_dna": [
+    "Market Crowd Noise",
+    "Rickshaw Bell",
+    "Morning Azan",
+    "Shopkeeper Calling Customers",
+    "Tea Stall Conversation"
+  ],
+
+  "smell_dna": [
+    "Fresh Doi",
+    "Milk Steam",
+    "Tea Aroma",
+    "Fresh Soil",
+    "Traditional Sweet Shop"
+  ],
+
+  "landmark_dna": [
+    "Mahasthangarh",
+    "Karatoya Region",
+    "Bogura City Market Area",
+    "Historic Archaeological Sites"
+  ],
+
+  "micro_dna": [
+    "Clay Pot Doi Display",
+    "Morning Doi Delivery Cycle",
+    "Mahasthangarh Brick Texture",
+    "Sweet Shop Queue",
+    "Roadside Doi Advertisement",
+    "Tea Stall Political Debate",
+    "Market Sack Loading Activity",
+    "Traditional Doi Packaging",
+    "Historic Ruin Pathway",
+    "Urban Rural Trade Connection"
+  ],
+
+  "identity_markers": [
+    "Bogurar Doi",
+    "Mahasthangarh Heritage",
+    "Commercial Culture",
+    "Historic Identity",
+    "North Bengal Trade Hub"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
