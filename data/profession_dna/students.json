@@ -1,0 +1,166 @@
+{
+  "profession": "Student",
+
+  "sector": "Education",
+
+  "sub_sector": "Academic Learning",
+
+  "core_identity": [
+    "Future Builder",
+    "Knowledge Seeker",
+    "Career Explorer",
+    "Skill Accumulator",
+    "Identity Formation Stage"
+  ],
+
+  "profession_reality_score": 97,
+
+  "income_dna": {
+    "pattern": "Dependent",
+    "cashflow": "Limited",
+    "stability": "Family Supported",
+
+    "sources": [
+      "Family Support",
+      "Scholarship",
+      "Part Time Work",
+      "Freelancing"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Future Oriented",
+      "Peer Influenced",
+      "Aspiration Driven"
+    ],
+
+    "trust_sources": [
+      "Teachers",
+      "Senior Students",
+      "Online Resources",
+      "Parents"
+    ],
+
+    "fear_drivers": [
+      "Academic Failure",
+      "Career Uncertainty",
+      "Financial Limitation",
+      "Social Comparison"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Attending Classes",
+      "Studying",
+      "Using Social Media",
+      "Career Research",
+      "Group Discussions"
+    ],
+
+    "weekly_patterns": [
+      "Assignments",
+      "Exams",
+      "Skill Development",
+      "Campus Activities"
+    ]
+  },
+
+  "emotion_dna": [
+    "Hope",
+    "Ambition",
+    "Stress",
+    "Curiosity",
+    "Achievement Motivation"
+  ],
+
+  "memory_dna": [
+    "First School Day",
+    "Exam Results",
+    "Campus Friendships",
+    "Competition Participation",
+    "Graduation Dreams"
+  ],
+
+  "visual_dna": [
+    "Backpack",
+    "Books",
+    "Classroom",
+    "Laptop",
+    "Notebook",
+    "Campus Environment"
+  ],
+
+  "object_dna": [
+    "School Bag",
+    "Notebook",
+    "Pen",
+    "Laptop",
+    "Mobile Phone",
+    "Student ID Card"
+  ],
+
+  "sound_dna": [
+    "School Bell",
+    "Classroom Discussion",
+    "Campus Crowd",
+    "Keyboard Typing",
+    "Library Silence"
+  ],
+
+  "smell_dna": [
+    "New Books",
+    "Paper",
+    "Library Environment",
+    "Tea Stall",
+    "Rainy Campus Ground"
+  ],
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Budget Conscious",
+      "Trend Sensitive",
+      "Peer Influenced"
+    ],
+
+    "purchase_triggers": [
+      "Educational Value",
+      "Discount",
+      "Technology Upgrade",
+      "Social Relevance"
+    ]
+  },
+
+  "micro_moment_dna": [
+    "Preparing For Exam",
+    "Checking Result Online",
+    "Watching Career Videos",
+    "Submitting Assignment",
+    "Waiting For Admission Result"
+  ],
+
+  "risk_dna": [
+    "Academic Failure",
+    "Skill Gap",
+    "Career Mismatch",
+    "Digital Distraction"
+  ],
+
+  "aspiration_dna": [
+    "Good Career",
+    "Financial Independence",
+    "Higher Education",
+    "Family Success",
+    "Social Recognition"
+  ],
+
+  "identity_markers": [
+    "Backpack",
+    "Exam Preparation",
+    "Campus Life",
+    "Career Planning"
+  ],
+
+  "three_second_identity_test": "PASS"
+}
