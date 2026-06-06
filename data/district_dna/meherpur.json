@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-MEH-024",
+
+  "district_name": "Meherpur",
+
+  "division": "Khulna",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Western Border District",
+    "Agricultural Plain",
+    "Frontier Landscape",
+    "Mango Cultivation Zone",
+    "Historic National Region"
+  ],
+
+  "climate_dna": [
+    "Hot Summer",
+    "Dry Season Influence",
+    "Cool Winter",
+    "Moderate Monsoon",
+    "Seasonal Fog"
+  ],
+
+  "light_dna": [
+    "Mujibnagar Sunrise",
+    "Mango Orchard Morning Light",
+    "Winter Fog Across Fields",
+    "Golden Crop Sunset",
+    "Historic Memorial Evening Glow"
+  ],
+
+  "architecture_dna": [
+    "Mujibnagar Memorial Complex",
+    "Traditional Rural Homesteads",
+    "Border Market Structures",
+    "Agricultural Storage Buildings",
+    "Historic Commemoration Sites"
+  ],
+
+  "transport_dna": [
+    "Motorcycle",
+    "Rickshaw",
+    "Auto Rickshaw",
+    "Local Bus",
+    "Cargo Transport"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Mango Cultivator",
+    "Trader",
+    "Teacher",
+    "Government Employee",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Mango",
+    "Milk Tea",
+    "Freshwater Fish",
+    "Pitha",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Liberation Day Commemoration",
+    "Tea Stall Discussion",
+    "Agricultural Market Trading",
+    "Mango Harvest Activity",
+    "Border Commerce Interaction",
+    "Community Gathering"
+  ],
+
+  "object_dna": [
+    "National Flag",
+    "Mango Basket",
+    "Tea Glass",
+    "Rice Sack",
+    "Memorial Wreath",
+    "Market Weighing Scale",
+    "Bamboo Basket"
+  ],
+
+  "memory_dna": [
+    "Mujibnagar Day",
+    "Liberation War Stories",
+    "Mango Harvest Season",
+    "Winter Fog Morning",
+    "Village Market Experience"
+  ],
+
+  "sound_dna": [
+    "Patriotic Songs",
+    "Morning Azan",
+    "Market Crowd Noise",
+    "Tea Stall Conversation",
+    "School Assembly Microphone"
+  ],
+
+  "smell_dna": [
+    "Fresh Mango",
+    "Tea Steam",
+    "Fresh Soil",
+    "Harvested Crops",
+    "Winter Morning Moisture"
+  ],
+
+  "landmark_dna": [
+    "Mujibnagar Memorial Complex",
+    "Historic Mujibnagar Site",
+    "Border Trade Region",
+    "Western Agricultural Belt"
+  ],
+
+  "micro_dna": [
+    "Mujibnagar Memorial Flagpole",
+    "School Children Visiting Memorial",
+    "Mango Crates Beside Road",
+    "Liberation War Mural",
+    "Border Market Tea Stall",
+    "Memorial Wreath Ceremony",
+    "Winter Fog Around Monument",
+    "Village Loudspeaker Announcement",
+    "Historic Plaque Display",
+    "Mango Orchard Walking Path"
+  ],
+
+  "identity_markers": [
+    "Mujibnagar",
+    "Liberation War Capital",
+    "National Heritage",
+    "Border Culture",
+    "Mango Economy"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
