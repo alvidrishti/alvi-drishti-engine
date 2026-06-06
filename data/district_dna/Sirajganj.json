@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-SIR-016",
+
+  "district_name": "Sirajganj",
+
+  "division": "Rajshahi",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Jamuna River Corridor",
+    "River Trade Zone",
+    "Char Landscape",
+    "Floodplain Geography",
+    "National Transport Gateway"
+  ],
+
+  "climate_dna": [
+    "Humid Monsoon",
+    "Cold Winter",
+    "Seasonal Flood Risk",
+    "Dense River Fog",
+    "Hot Summer"
+  ],
+
+  "light_dna": [
+    "Jamuna Sunrise Reflection",
+    "Bridge Night Illumination",
+    "Fog Covered River Morning",
+    "Golden Riverbank Sunset",
+    "Monsoon Cloud Reflection"
+  ],
+
+  "architecture_dna": [
+    "Traditional Weaving Settlements",
+    "River Port Structures",
+    "Jamuna Bridge Infrastructure",
+    "Flood Adapted Housing",
+    "Rural Market Buildings"
+  ],
+
+  "transport_dna": [
+    "Bus",
+    "Truck",
+    "Boat",
+    "Rickshaw",
+    "Motorcycle"
+  ],
+
+  "occupation_dna": [
+    "Weaver",
+    "Farmer",
+    "Trader",
+    "Transport Worker",
+    "Fisherman",
+    "Small Business Owner"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Pitha",
+    "Seasonal Vegetables",
+    "Local Sweets"
+  ],
+
+  "behavior_dna": [
+    "Handloom Production Activity",
+    "River Market Trading",
+    "Tea Stall Discussion",
+    "Bridge Corridor Commerce",
+    "Flood Season Preparation",
+    "Char Based Farming"
+  ],
+
+  "object_dna": [
+    "Handloom Machine",
+    "Thread Spool",
+    "Tea Glass",
+    "Fishing Net",
+    "Rice Sack",
+    "Transport Cargo Rope",
+    "River Boat"
+  ],
+
+  "memory_dna": [
+    "Jamuna Bridge Journey",
+    "Handloom Production Memory",
+    "Flood Season Experience",
+    "River Market Day",
+    "Winter Fog Morning"
+  ],
+
+  "sound_dna": [
+    "Handloom Machine Rhythm",
+    "Truck Movement",
+    "River Boat Engine",
+    "Morning Azan",
+    "Market Crowd Noise"
+  ],
+
+  "smell_dna": [
+    "Cotton Thread",
+    "River Moisture",
+    "Tea Steam",
+    "Fresh Soil",
+    "Fishing Net Odor"
+  ],
+
+  "landmark_dna": [
+    "Bangabandhu Bridge",
+    "Jamuna River",
+    "Sirajganj Handloom Belt",
+    "River Port Areas"
+  ],
+
+  "micro_dna": [
+    "Handloom Thread Hanging Outside House",
+    "Jamuna Bridge Traffic Stream",
+    "Riverbank Cargo Loading",
+    "Flood Mark On House Wall",
+    "Char Land Crop Pattern",
+    "Tea Stall Beside Highway",
+    "Truck Queue Near Bridge",
+    "Handloom Workshop Courtyard",
+    "River Ferry Waiting Point",
+    "Winter Fog Over Jamuna"
+  ],
+
+  "identity_markers": [
+    "Jamuna Gateway",
+    "Handloom Heritage",
+    "River Economy",
+    "Transport Corridor",
+    "Char Culture"
+  ],
+
+  "district_uniqueness_score": 99,
+
+  "three_second_identity_test": "PASS"
+}
