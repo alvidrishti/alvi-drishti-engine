@@ -1,0 +1,144 @@
+{
+  "district_id": "BD-DIN-006",
+
+  "district_name": "Dinajpur",
+
+  "division": "Rangpur",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Northern Bengal Plain",
+    "Fertile Agricultural Land",
+    "Historic Settlement Zone",
+    "Rural Cultivation Belt",
+    "River Influenced Farming Region"
+  ],
+
+  "climate_dna": [
+    "Cold Winter",
+    "Dry Winter Morning",
+    "Humid Monsoon",
+    "Hot Summer",
+    "Seasonal Fog"
+  ],
+
+  "light_dna": [
+    "Golden Paddy Sunset",
+    "Winter Fog Sunrise",
+    "Litchi Orchard Morning Light",
+    "Ancient Temple Evening Glow",
+    "Monsoon Cloud Diffusion"
+  ],
+
+  "architecture_dna": [
+    "Kantajew Temple Architecture",
+    "Historic Brick Structures",
+    "Traditional Courtyard Houses",
+    "Rural Market Buildings",
+    "Colonial Era Educational Buildings"
+  ],
+
+  "transport_dna": [
+    "Rickshaw",
+    "Motorcycle",
+    "Auto Rickshaw",
+    "Local Bus",
+    "Agricultural Transport Vehicles"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Litchi Cultivator",
+    "Small Business Owner",
+    "Teacher",
+    "Government Employee",
+    "Day Laborer"
+  ],
+
+  "food_dna": [
+    "Rice",
+    "Litchi",
+    "Milk Tea",
+    "Pitha",
+    "Freshwater Fish",
+    "Seasonal Vegetables"
+  ],
+
+  "behavior_dna": [
+    "Litchi Harvest Activity",
+    "Temple Visit Tradition",
+    "Agricultural Market Bargaining",
+    "Tea Stall Discussion",
+    "Winter Morning Gathering",
+    "Harvest Season Cooperation"
+  ],
+
+  "object_dna": [
+    "Litchi Basket",
+    "Tea Glass",
+    "Rice Sack",
+    "Bamboo Carrier",
+    "Temple Brick Pattern",
+    "Market Weighing Scale",
+    "Village Bench"
+  ],
+
+  "memory_dna": [
+    "Litchi Season",
+    "Kantajew Temple Visit",
+    "Winter Fog Morning",
+    "Harvest Festival Memory",
+    "Tea Stall Conversation"
+  ],
+
+  "sound_dna": [
+    "Morning Azan",
+    "Market Crowd Noise",
+    "Rickshaw Bell",
+    "Village Loudspeaker",
+    "Harvest Season Activity"
+  ],
+
+  "smell_dna": [
+    "Litchi Orchard Aroma",
+    "Fresh Soil",
+    "Tea Steam",
+    "Harvested Paddy",
+    "Winter Morning Air"
+  ],
+
+  "landmark_dna": [
+    "Kantajew Temple",
+    "Ramsagar",
+    "Dinajpur Rajbari Area",
+    "Historic Northern Heritage Sites"
+  ],
+
+  "micro_dna": [
+    "Litchi Basket Beside Road",
+    "Temple Terracotta Detail",
+    "Winter Fog Covered Orchard",
+    "Harvest Season Rice Yard",
+    "Old Brick Heritage Pattern",
+    "Roadside Litchi Trading",
+    "Village Tea Stall Debate",
+    "Morning Market Vegetable Cluster",
+    "Historic School Compound",
+    "Traditional Bamboo Produce Carrier"
+  ],
+
+  "identity_markers": [
+    "Kantajew Heritage",
+    "Litchi Culture",
+    "Rice Economy",
+    "Historic North Bengal Identity",
+    "Ancient Brick Architecture"
+  ],
+
+  "district_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
