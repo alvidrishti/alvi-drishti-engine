@@ -1,0 +1,239 @@
+{
+  "profession_id": "PROF_TOUR_GUIDE_001",
+
+  "profession": "Tour Guide",
+
+  "sector": "Tourism",
+
+  "sub_sector": "Travel And Visitor Services",
+
+  "core_identity": [
+    "Cultural Storyteller",
+    "Geographic Interpreter",
+    "Visitor Experience Creator",
+    "Heritage Ambassador",
+    "Local Identity Representative"
+  ],
+
+  "profession_archetype": [
+    "Guide",
+    "Storyteller",
+    "Educator",
+    "Ambassador"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Tour And Season Based",
+
+    "income_stability": "Medium",
+
+    "cashflow_type": "Service And Commission Based",
+
+    "income_sources": [
+      "Guided Tours",
+      "Travel Packages",
+      "Private Tour Services",
+      "Tourism Partnerships",
+      "Visitor Assistance"
+    ],
+
+    "peak_income_periods": [
+      "Winter Tourism Season",
+      "Holiday Period",
+      "Festival Tourism"
+    ],
+
+    "financial_stress_periods": [
+      "Off Season",
+      "Travel Restrictions",
+      "Low Tourist Flow"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Visitor Focused",
+      "Experience Driven",
+      "Safety Conscious",
+      "Culturally Sensitive"
+    ],
+
+    "trust_sources": [
+      "Local Knowledge",
+      "Historical Records",
+      "Community Elders",
+      "Tourism Networks"
+    ],
+
+    "fear_drivers": [
+      "Tourist Dissatisfaction",
+      "Safety Incident",
+      "Incorrect Information",
+      "Reputation Loss"
+    ],
+
+    "motivation_drivers": [
+      "Sharing Culture",
+      "Tourist Satisfaction",
+      "Regional Promotion",
+      "Income Growth"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Tour Preparation",
+      "Welcoming Visitors",
+      "Historical Explanation",
+      "Route Management",
+      "Visitor Support"
+    ],
+
+    "weekly_patterns": [
+      "Tour Planning",
+      "Site Research",
+      "Local Networking",
+      "Tourism Coordination"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Public Speaking",
+      "Storytelling",
+      "History Knowledge",
+      "Geography Knowledge",
+      "Communication",
+      "Crowd Management"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Guide License",
+      "Tour Information Resources",
+      "Mobile Device",
+      "Transportation Access",
+      "Local Network"
+    ]
+  },
+
+  "emotion_dna": [
+    "Curiosity",
+    "Enthusiasm",
+    "Pride",
+    "Hospitality",
+    "Patience"
+  ],
+
+  "memory_dna": [
+    "First Guided Tour",
+    "First International Visitor",
+    "Major Festival Tour",
+    "Historic Site Experience",
+    "Visitor Appreciation Moment"
+  ],
+
+  "social_dna": {
+    "community_role": "Cultural Ambassador",
+
+    "social_status": "Tourism Representative",
+
+    "community_connections": [
+      "Tourists",
+      "Hotels",
+      "Restaurants",
+      "Local Communities",
+      "Tour Operators"
+    ]
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Experience Focused",
+      "Knowledge Oriented",
+      "Service Driven"
+    ],
+
+    "purchase_triggers": [
+      "Tour Quality",
+      "Visitor Comfort",
+      "Local Authenticity",
+      "Professional Development"
+    ],
+
+    "purchase_barriers": [
+      "High Costs",
+      "Low Tourist Demand",
+      "Poor Infrastructure"
+    ]
+  },
+
+  "visual_dna": [
+    "Historical Site",
+    "Tour Group",
+    "Cultural Landmark",
+    "Scenic Landscape",
+    "Heritage Architecture"
+  ],
+
+  "object_dna": [
+    "Guide Badge",
+    "Map",
+    "Microphone",
+    "Tour Schedule",
+    "Visitor List",
+    "Information Booklet"
+  ],
+
+  "sound_dna": [
+    "Tour Explanation",
+    "Tourist Questions",
+    "Historical Narratives",
+    "Nature Sounds",
+    "Crowd Activity"
+  ],
+
+  "smell_dna": [
+    "Historic Buildings",
+    "Local Food",
+    "Fresh Air",
+    "River Breeze",
+    "Tourist Attractions"
+  ],
+
+  "micro_moment_dna": [
+    "Explaining Historical Event",
+    "Welcoming New Tour Group",
+    "Answering Tourist Question",
+    "Showing Hidden Local Spot",
+    "Taking Group Photo"
+  ],
+
+  "risk_dna": [
+    "Tourist Injury",
+    "Misinformation",
+    "Bad Weather",
+    "Low Tourist Volume",
+    "Transportation Disruption"
+  ],
+
+  "aspiration_dna": [
+    "Top Rated Guide",
+    "International Recognition",
+    "Tourism Business Ownership",
+    "Regional Promotion",
+    "Cultural Preservation"
+  ],
+
+  "identity_markers": [
+    "Guide Badge",
+    "Local Knowledge",
+    "Historical Storytelling",
+    "Tour Leadership"
+  ],
+
+  "profession_uniqueness_score": 98,
+
+  "three_second_identity_test": "PASS"
+}
