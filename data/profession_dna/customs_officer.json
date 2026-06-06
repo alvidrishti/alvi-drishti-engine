@@ -1,0 +1,300 @@
+{
+  "profession_id": "PROF_CUSTOMS_OFFICER_001",
+
+  "profession": "Customs Officer",
+
+  "sector": "Border Administration",
+
+  "sub_sector": "Customs And Trade Regulation",
+
+  "core_identity": [
+    "Trade Gatekeeper",
+    "Border Revenue Protector",
+    "Economic Security Officer",
+    "Import Export Regulator",
+    "National Commerce Guardian"
+  ],
+
+  "profession_archetype": [
+    "Guardian",
+    "Inspector",
+    "Regulator",
+    "Enforcer"
+  ],
+
+  "civilization_role": {
+    "primary_layer": "Border Commerce Civilization",
+
+    "secondary_layers": [
+      "National Revenue",
+      "Trade Security",
+      "Import Export Governance",
+      "Economic Sovereignty",
+      "International Commerce"
+    ]
+  },
+
+  "border_dna": {
+    "operating_zones": [
+      "Sea Port",
+      "Land Port",
+      "Airport Cargo Terminal",
+      "Container Terminal",
+      "Border Checkpost"
+    ],
+
+    "inspection_targets": [
+      "Imported Goods",
+      "Export Shipments",
+      "Passenger Baggage",
+      "Commercial Cargo",
+      "Cross Border Trade"
+    ]
+  },
+
+  "economic_security_dna": {
+    "protected_systems": [
+      "Government Revenue",
+      "Legal Trade Flow",
+      "National Economy",
+      "Border Security",
+      "Supply Chain Integrity"
+    ],
+
+    "threat_categories": [
+      "Smuggling",
+      "Undervaluation",
+      "Trade Fraud",
+      "Counterfeit Goods",
+      "Illegal Imports"
+    ]
+  },
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "Very High",
+
+    "cashflow_type": "Government Salary Based",
+
+    "income_sources": [
+      "Government Employment",
+      "Border Administration",
+      "Trade Compliance Activities",
+      "Special Assignments"
+    ],
+
+    "peak_income_periods": [
+      "Promotion Cycle",
+      "Major Trade Expansion Projects"
+    ],
+
+    "financial_stress_periods": [
+      "Large Family Obligations"
+    ]
+  },
+
+  "decision_dna": {
+    "decision_style": [
+      "Rule Based",
+      "Evidence Driven",
+      "Risk Focused",
+      "Compliance Oriented"
+    ],
+
+    "trust_sources": [
+      "Trade Documents",
+      "Customs Regulations",
+      "Inspection Reports",
+      "International Trade Standards"
+    ],
+
+    "fear_drivers": [
+      "Revenue Loss",
+      "Security Breach",
+      "Trade Fraud",
+      "Illegal Goods Entry",
+      "Documentation Error"
+    ],
+
+    "motivation_drivers": [
+      "National Service",
+      "Economic Protection",
+      "Trade Integrity",
+      "Professional Excellence"
+    ]
+  },
+
+  "behavior_dna": {
+    "daily_patterns": [
+      "Cargo Inspection",
+      "Document Verification",
+      "Risk Assessment",
+      "Trade Monitoring",
+      "Border Coordination"
+    ],
+
+    "weekly_patterns": [
+      "Compliance Review",
+      "Audit Activities",
+      "Intelligence Sharing",
+      "Trade Flow Analysis"
+    ]
+  },
+
+  "skill_dna": {
+    "required_skills": [
+      "Customs Law",
+      "Trade Documentation",
+      "Cargo Inspection",
+      "Risk Analysis",
+      "Investigation",
+      "Regulatory Compliance"
+    ]
+  },
+
+  "asset_dna": {
+    "required_assets": [
+      "Inspection Equipment",
+      "Trade Database Access",
+      "Customs Software",
+      "Legal References",
+      "Communication Systems"
+    ]
+  },
+
+  "emotion_dna": [
+    "Integrity",
+    "Discipline",
+    "Alertness",
+    "Responsibility",
+    "Professional Neutrality"
+  ],
+
+  "memory_dna": [
+    "First Cargo Clearance",
+    "Major Smuggling Detection",
+    "High Value Shipment Inspection",
+    "Trade Fraud Investigation",
+    "Border Security Operation"
+  ],
+
+  "social_dna": {
+    "community_role": "Trade Integrity Protector",
+
+    "social_status": "Government Enforcement Professional",
+
+    "community_connections": [
+      "Importers",
+      "Exporters",
+      "Port Authorities",
+      "Shipping Agents",
+      "Border Security Agencies",
+      "Trade Regulators"
+    ]
+  },
+
+  "environment_dna": {
+    "primary_environments": [
+      "Sea Port",
+      "Land Port",
+      "Airport Cargo Area",
+      "Container Yard",
+      "Customs Office"
+    ],
+
+    "trade_dependency": "Very High",
+
+    "security_sensitivity": "Very High"
+  },
+
+  "commercial_dna": {
+    "purchase_behavior": [
+      "Compliance Focused",
+      "Security Driven",
+      "Reliability Oriented"
+    ],
+
+    "purchase_triggers": [
+      "Inspection Accuracy",
+      "Operational Efficiency",
+      "Security Improvement",
+      "Trade Transparency"
+    ],
+
+    "purchase_barriers": [
+      "Regulatory Conflict",
+      "Security Risk",
+      "Data Integrity Concerns"
+    ]
+  },
+
+  "visual_dna": [
+    "Container Terminal",
+    "Customs Checkpoint",
+    "Cargo Inspection",
+    "Shipping Containers",
+    "Border Trade Facility"
+  ],
+
+  "object_dna": [
+    "Customs Seal",
+    "Cargo Manifest",
+    "Inspection Scanner",
+    "Trade Documents",
+    "Container Lock",
+    "Official ID Card"
+  ],
+
+  "sound_dna": [
+    "Container Handling",
+    "Port Operations",
+    "Inspection Communication",
+    "Cargo Movement",
+    "Customs Clearance Activity"
+  ],
+
+  "smell_dna": [
+    "Sea Port Air",
+    "Cargo Warehouse",
+    "Shipping Containers",
+    "Industrial Logistics Environment",
+    "Border Trade Facility"
+  ],
+
+  "micro_moment_dna": [
+    "Inspecting High Risk Cargo",
+    "Approving Shipment Clearance",
+    "Detecting Documentation Error",
+    "Preventing Illegal Import",
+    "Completing Customs Audit"
+  ],
+
+  "risk_dna": [
+    "Trade Fraud",
+    "Smuggling Network",
+    "Revenue Leakage",
+    "Security Breach",
+    "Documentation Manipulation",
+    "Cross Border Crime"
+  ],
+
+  "aspiration_dna": [
+    "World Class Customs System",
+    "Trade Transparency",
+    "Economic Security Excellence",
+    "Border Modernization",
+    "National Revenue Protection"
+  ],
+
+  "identity_markers": [
+    "Cargo Inspection",
+    "Customs Clearance",
+    "Border Control",
+    "Trade Regulation"
+  ],
+
+  "profession_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
