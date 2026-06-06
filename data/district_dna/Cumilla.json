@@ -1,0 +1,307 @@
+{
+  "district_id": "BD-CUM-046",
+
+  "district_name": "Cumilla",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Ancient Mainamati Civilization",
+    "Educational Heritage",
+    "Rasmalai Culture",
+    "Military Legacy",
+    "Historic Trade Corridor"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Mainamati-Lalmai Ridge",
+      "Gomti River",
+      "Eastern Floodplain",
+      "Agricultural Plain",
+      "Transport Corridor"
+    ],
+
+    "terrain": [
+      "Low Hills",
+      "Floodplain",
+      "Urban-Rural Hybrid Landscape"
+    ],
+
+    "connectivity_score": 98,
+    "historical_density_score": 100
+  },
+
+  "historical_dna": [
+    "Mainamati Buddhist Civilization",
+    "Ancient Samatata Kingdom",
+    "Archaeological Heritage",
+    "Colonial Education Expansion",
+    "Historic Trade Route Development"
+  ],
+
+  "civilization_dna": [
+    "Buddhist Monastic Heritage",
+    "Ancient Learning Centers",
+    "Archaeological Identity",
+    "Cross-Cultural Exchange History"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Agriculture",
+      "Trade",
+      "Education Services",
+      "Retail Business"
+    ],
+
+    "secondary": [
+      "Transport Economy",
+      "Food Industry",
+      "Tourism"
+    ],
+
+    "economic_identity": [
+      "Corridor Economy",
+      "Education Economy",
+      "Regional Trade Hub"
+    ]
+  },
+
+  "occupation_dna": [
+    "Teacher",
+    "Student",
+    "Farmer",
+    "Trader",
+    "Government Employee",
+    "Business Owner"
+  ],
+
+  "education_dna": [
+    "Historic Educational Culture",
+    "College Town Identity",
+    "Academic Competition",
+    "Private Coaching Ecosystem",
+    "Knowledge-Based Social Status"
+  ],
+
+  "transport_dna": {
+    "road_transport": [
+      "Bus",
+      "Truck",
+      "Private Car",
+      "Motorcycle"
+    ],
+
+    "local_transport": [
+      "Rickshaw",
+      "Auto Rickshaw",
+      "Easy Bike"
+    ],
+
+    "identity": [
+      "Dhaka-Chattogram Corridor",
+      "Regional Transport Hub"
+    ]
+  },
+
+  "food_dna": [
+    "Rasmalai",
+    "Rice",
+    "Freshwater Fish",
+    "Milk Tea",
+    "Traditional Sweets",
+    "Pitha"
+  ],
+
+  "market_dna": [
+    "Traditional Bazaars",
+    "Educational Product Markets",
+    "Agricultural Trading Centers",
+    "Corridor Commerce"
+  ],
+
+  "festival_dna": [
+    "Book Fair Culture",
+    "Eid Market Rush",
+    "Educational Celebrations",
+    "Local Cultural Festivals"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "regional_patterns": [
+      "Cumilla Dialect",
+      "Academic Vocabulary Influence",
+      "Historic Regional Expressions"
+    ]
+  },
+
+  "religious_dna": [
+    "Mosque-Centered Community Life",
+    "Sufi Heritage",
+    "Buddhist Archaeological Legacy",
+    "Multi-Historical Religious Memory"
+  ],
+
+  "social_dna": [
+    "Education Focused Families",
+    "Strong Community Networks",
+    "Middle-Class Aspirational Culture",
+    "Academic Competition"
+  ],
+
+  "emotion_dna": [
+    "Educational Pride",
+    "Historic Pride",
+    "Regional Identity",
+    "Family Achievement Culture",
+    "Academic Ambition"
+  ],
+
+  "visual_dna": [
+    "Mainamati Ruins",
+    "Red Brick Archaeology",
+    "Rasmalai Shops",
+    "Busy Academic Streets",
+    "Green Agricultural Fields"
+  ],
+
+  "color_palette_dna": [
+    "Brick Red",
+    "Heritage Brown",
+    "Field Green",
+    "Academic White",
+    "Sunset Gold"
+  ],
+
+  "behavior_dna": [
+    "Academic Discussion",
+    "Tea Stall Debate",
+    "Exam Preparation Culture",
+    "Market Negotiation",
+    "Family-Centered Social Life"
+  ],
+
+  "object_dna": [
+    "Books",
+    "Rasmalai Box",
+    "Tea Glass",
+    "School Bag",
+    "Exam Guide Book",
+    "Market Ledger"
+  ],
+
+  "sound_dna": [
+    "School Bell",
+    "Classroom Activity",
+    "Market Crowd",
+    "Azan",
+    "Tea Stall Discussion"
+  ],
+
+  "smell_dna": [
+    "Fresh Rasmalai",
+    "Book Paper",
+    "Tea Steam",
+    "Rain Wet Soil",
+    "Traditional Sweet Shops"
+  ],
+
+  "childhood_memory_dna": [
+    "School Field Games",
+    "Buying Rasmalai With Family",
+    "Mainamati Educational Tours",
+    "Exam Result Day",
+    "Village Market Visits"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Exam Season",
+      "Mango Markets"
+    ],
+
+    "monsoon": [
+      "Green Countryside",
+      "Rain Covered Mainamati"
+    ],
+
+    "winter": [
+      "Picnic Season",
+      "Educational Excursions"
+    ]
+  },
+
+  "night_dna": [
+    "Coaching Center Lights",
+    "Tea Stall Discussions",
+    "Highway Traffic",
+    "Student Study Culture"
+  ],
+
+  "risk_dna": [
+    "Urban Congestion",
+    "Youth Employment Pressure",
+    "Agricultural Market Volatility"
+  ],
+
+  "migration_dna": [
+    "Dhaka Education Migration",
+    "Employment Migration",
+    "Student Mobility"
+  ],
+
+  "commercial_dna": [
+    "Rasmalai Branding",
+    "Education Services Economy",
+    "Regional Retail Network",
+    "Corridor Commerce"
+  ],
+
+  "memory_dna": [
+    "Mainamati Heritage",
+    "Rasmalai Tradition",
+    "Academic Success Stories",
+    "Historic Learning Culture",
+    "Regional Trade Legacy"
+  ],
+
+  "micro_dna": [
+    "Rasmalai Display In Sweet Shop",
+    "Students Carrying Guide Books",
+    "Mainamati Ruins At Sunset",
+    "Tea Stall Beside College Gate",
+    "Rickshaw Parked Near Coaching Center",
+    "Exam Notice Board Crowd",
+    "Ancient Brick Wall Remains",
+    "Family Buying Sweets Before Eid",
+    "Rain On Lalmai Hills",
+    "Bookstore Packed With Students"
+  ],
+
+  "landmark_dna": [
+    "Mainamati",
+    "Shalban Vihara",
+    "Lalmai Hills",
+    "Cumilla Town Hall",
+    "Historic Educational Institutions"
+  ],
+
+  "identity_markers": [
+    "Mainamati Civilization",
+    "Educational Heritage",
+    "Rasmalai Culture",
+    "Historic Corridor",
+    "Academic Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
