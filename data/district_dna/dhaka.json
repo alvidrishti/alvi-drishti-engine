@@ -1,0 +1,334 @@
+{
+  "district_id": "BD-DHA-052",
+
+  "district_name": "Dhaka",
+
+  "division": "Dhaka",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.1",
+
+  "core_identity": [
+    "Capital Civilization",
+    "Political Power Center",
+    "National Decision Engine",
+    "Mega Urban Identity",
+    "Economic Command Center"
+  ],
+
+  "geography_dna": {
+    "major_features": [
+      "Buriganga River",
+      "Turag River",
+      "Balu River",
+      "Urban Megacity Region",
+      "National Administrative Zone"
+    ],
+
+    "terrain": [
+      "Dense Urban Landscape",
+      "River Basin",
+      "Metropolitan Expansion Zone"
+    ],
+
+    "urban_density_score": 100,
+    "national_influence_score": 100,
+    "economic_centrality_score": 100
+  },
+
+  "historical_dna": [
+    "Mughal Capital Heritage",
+    "Jahangirnagar Legacy",
+    "Colonial Administrative Evolution",
+    "Language Movement Memory",
+    "Liberation War Political Center"
+  ],
+
+  "political_dna": [
+    "Parliamentary Power Center",
+    "National Policy Formation",
+    "Government Administration",
+    "Political Mobilization",
+    "National Leadership Hub"
+  ],
+
+  "economic_dna": {
+    "primary": [
+      "Corporate Economy",
+      "Finance",
+      "Government Administration",
+      "Commerce"
+    ],
+
+    "secondary": [
+      "Technology Services",
+      "Media Industry",
+      "Education Industry",
+      "Healthcare Economy"
+    ],
+
+    "economic_identity": [
+      "National Economic Engine",
+      "Corporate Capital",
+      "Financial Hub"
+    ]
+  },
+
+  "occupation_dna": [
+    "Government Officer",
+    "Corporate Executive",
+    "Entrepreneur",
+    "Teacher",
+    "Student",
+    "Factory Worker",
+    "Service Professional",
+    "Ride Sharing Driver"
+  ],
+
+  "migration_dna": {
+    "internal": [
+      "Rural To Urban Migration",
+      "Student Migration",
+      "Employment Migration"
+    ],
+
+    "identity": [
+      "Dream City",
+      "Opportunity Magnet",
+      "National Migration Hub"
+    ]
+  },
+
+  "administrative_dna": [
+    "Secretariat Culture",
+    "Ministry Network",
+    "Policy Formation System",
+    "Regulatory Institutions",
+    "National Governance Structure"
+  ],
+
+  "corporate_dna": [
+    "Head Office Culture",
+    "Startup Ecosystem",
+    "Banking Headquarters",
+    "Telecom Industry",
+    "Business District Identity"
+  ],
+
+  "education_dna": [
+    "University Culture",
+    "Coaching Economy",
+    "Academic Competition",
+    "Research Institutions",
+    "Professional Development Culture"
+  ],
+
+  "media_dna": [
+    "Television Networks",
+    "News Industry",
+    "Digital Media Ecosystem",
+    "Content Creation Economy"
+  ],
+
+  "food_dna": [
+    "Kacchi Biryani",
+    "Tehari",
+    "Bakarkhani",
+    "Street Food",
+    "Coffee Culture",
+    "Global Cuisine"
+  ],
+
+  "market_dna": [
+    "New Market",
+    "Karwan Bazar",
+    "Motijheel Commerce",
+    "Gulshan Business District",
+    "Wholesale Supply Chains"
+  ],
+
+  "festival_dna": [
+    "Pohela Boishakh",
+    "Eid Commerce Rush",
+    "Book Fair",
+    "Victory Day Programs",
+    "Language Day Events"
+  ],
+
+  "language_dna": {
+    "primary_language": "Bangla",
+
+    "urban_patterns": [
+      "Standard Dhakaiya Bangla",
+      "Corporate Vocabulary",
+      "Mixed Urban Expressions"
+    ]
+  },
+
+  "religious_dna": [
+    "National Mosque Culture",
+    "Baitul Mukarram Identity",
+    "Multi Community Urban Spirituality"
+  ],
+
+  "social_dna": [
+    "Fast Paced Urban Life",
+    "Professional Networking",
+    "Class Diversity",
+    "Apartment Society Culture"
+  ],
+
+  "emotion_dna": [
+    "Ambition",
+    "Competition",
+    "Survival Mentality",
+    "Achievement Drive",
+    "Urban Pride"
+  ],
+
+  "traffic_dna": [
+    "Traffic Congestion",
+    "Ride Sharing Culture",
+    "Commuter Lifestyle",
+    "Rush Hour Identity"
+  ],
+
+  "visual_dna": [
+    "High Rise Skyline",
+    "Traffic Streams",
+    "Corporate Towers",
+    "Crowded Streets",
+    "Urban Neon Lights"
+  ],
+
+  "color_palette_dna": [
+    "Concrete Gray",
+    "Glass Blue",
+    "Traffic Red",
+    "Neon White",
+    "Corporate Black"
+  ],
+
+  "behavior_dna": [
+    "Daily Commuting",
+    "Career Building",
+    "Networking",
+    "Tea Stall Debate",
+    "Digital Lifestyle"
+  ],
+
+  "object_dna": [
+    "ID Card",
+    "Laptop",
+    "Metro Rail Card",
+    "Smartphone",
+    "Office Bag",
+    "Tea Cup"
+  ],
+
+  "sound_dna": [
+    "Traffic Horns",
+    "Metro Rail Movement",
+    "Office Crowd",
+    "Political Rally",
+    "Construction Activity"
+  ],
+
+  "smell_dna": [
+    "Street Food",
+    "Coffee",
+    "Rain On Concrete",
+    "Traffic Exhaust",
+    "Tea Steam"
+  ],
+
+  "childhood_memory_dna": [
+    "School Bus Journey",
+    "Book Fair Visit",
+    "Eid Shopping",
+    "Ramna Park Walk",
+    "Zoo And Museum Trips"
+  ],
+
+  "seasonal_dna": {
+    "summer": [
+      "Heat Waves",
+      "Office Rush"
+    ],
+
+    "monsoon": [
+      "Waterlogging",
+      "Traffic Gridlock"
+    ],
+
+    "winter": [
+      "Wedding Season",
+      "Book Fair Preparation"
+    ]
+  },
+
+  "night_dna": [
+    "Gulshan Nightlife",
+    "Late Night Food Streets",
+    "Corporate Overtime",
+    "24 Hour Urban Activity"
+  ],
+
+  "risk_dna": [
+    "Traffic Congestion",
+    "Urban Stress",
+    "Pollution",
+    "Housing Pressure"
+  ],
+
+  "commercial_dna": [
+    "Corporate Headquarters",
+    "National Banking System",
+    "Retail Economy",
+    "Technology Startups",
+    "Digital Commerce"
+  ],
+
+  "memory_dna": [
+    "Language Movement",
+    "Liberation War History",
+    "Book Fair Memories",
+    "Political Movements",
+    "Urban Growth Story"
+  ],
+
+  "micro_dna": [
+    "Crowded Bus Stop At 8 AM",
+    "Tea Stall Beside Office Tower",
+    "Metro Rail Passing Above Traffic",
+    "Food Delivery Rider Waiting At Signal",
+    "Students Carrying Coaching Notes",
+    "Political Posters On Wall",
+    "Corporate Employees Crossing Road",
+    "Street Vendor Selling Tea At Midnight",
+    "Rainwater Accumulating On Urban Streets",
+    "Skyline Visible Through Smog"
+  ],
+
+  "landmark_dna": [
+    "Jatiya Sangsad Bhaban",
+    "Baitul Mukarram",
+    "Dhaka University",
+    "Ramna Park",
+    "Ahsan Manzil",
+    "Karwan Bazar"
+  ],
+
+  "identity_markers": [
+    "Capital Civilization",
+    "Political Power Center",
+    "Economic Command Center",
+    "Mega Urban Identity",
+    "National Decision Engine"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
