@@ -1,0 +1,240 @@
+{
+  "profession_id": "PROF_BANKER_001",
+
+  "profession": "Banker",
+
+  "sector": "Financial Services",
+
+  "sub_sector": "Banking And Finance",
+
+  "core_identity": [
+    "Financial Gatekeeper",
+    "Trust Economy Operator",
+    "Capital Flow Manager",
+    "Risk Assessment Professional",
+    "Economic System Facilitator"
+  ],
+
+  "profession_archetype": [
+    "Manager",
+    "Advisor",
+    "Evaluator",
+    "Financial Guardian"
+  ],
+
+  "income_dna": {
+    "income_pattern": "Monthly",
+
+    "income_stability": "High",
+
+    "cashflow_type": "Salary Based",
+
+    "income_sources": [
+      "Bank Salary",
+      "Performance Incentives",
+      "Professional Allowances",
+      "Financial Service Bonuses"
+    ],
+
+    "peak_income_periods": [
+      "Performance Review Cycle",
+      "Promotion Period"
+    ],
+
+    "financial_stress_periods": [
+      "Target Pressure Periods"
+    ]
+  },
+
+  "decision_dna": {
+
+    "decision_style": [
+      "Data Driven",
+      "Risk Controlled",
+      "Compliance Focused",
+      "Evidence Based"
+    ],
+
+    "trust_sources": [
+      "Financial Records",
+      "Banking Regulations",
+      "Credit History",
+      "Market Data"
+    ],
+
+    "fear_drivers": [
+      "Financial Fraud",
+      "Loan Default",
+      "Compliance Violation",
+      "Operational Errors"
+    ],
+
+    "motivation_drivers": [
+      "Career Growth",
+      "Financial Stability",
+      "Professional Reputation",
+      "Performance Achievement"
+    ]
+  },
+
+  "behavior_dna": {
+
+    "daily_patterns": [
+      "Customer Service",
+      "Transaction Verification",
+      "Account Management",
+      "Loan Processing",
+      "Financial Documentation"
+    ],
+
+    "weekly_patterns": [
+      "Portfolio Review",
+      "Target Tracking",
+      "Customer Meetings",
+      "Compliance Checks"
+    ]
+  },
+
+  "skill_dna": {
+
+    "required_skills": [
+      "Financial Analysis",
+      "Customer Communication",
+      "Risk Assessment",
+      "Data Interpretation",
+      "Regulatory Compliance",
+      "Problem Solving"
+    ]
+  },
+
+  "asset_dna": {
+
+    "required_assets": [
+      "Banking Knowledge",
+      "Computer System Access",
+      "Professional Certification",
+      "Customer Database Access",
+      "Financial Software"
+    ]
+  },
+
+  "emotion_dna": [
+    "Responsibility",
+    "Trust",
+    "Precision",
+    "Professional Discipline",
+    "Achievement"
+  ],
+
+  "memory_dna": [
+    "First Customer Account",
+    "Loan Approval Experience",
+    "Promotion Milestone",
+    "High Value Transaction",
+    "Financial Crisis Management"
+  ],
+
+  "social_dna": {
+
+    "community_role": "Financial Facilitator",
+
+    "social_status": "Trusted Financial Professional",
+
+    "community_connections": [
+      "Customers",
+      "Business Owners",
+      "Bank Employees",
+      "Financial Institutions"
+    ]
+  },
+
+  "commercial_dna": {
+
+    "purchase_behavior": [
+      "Value Conscious",
+      "Risk Aware",
+      "Long Term Focused"
+    ],
+
+    "purchase_triggers": [
+      "Financial Benefit",
+      "Reliability",
+      "Security",
+      "Long Term Return"
+    ],
+
+    "purchase_barriers": [
+      "High Risk",
+      "Uncertain Outcome",
+      "Lack Of Trust"
+    ]
+  },
+
+  "visual_dna": [
+    "Bank Branch",
+    "Customer Service Desk",
+    "ATM Booth",
+    "Financial Documents",
+    "Office Workspace"
+  ],
+
+  "object_dna": [
+    "Bank ID Card",
+    "Computer Terminal",
+    "Cheque Book",
+    "Financial Forms",
+    "Calculator",
+    "Customer Files"
+  ],
+
+  "sound_dna": [
+    "Keyboard Typing",
+    "Customer Discussions",
+    "Transaction Alerts",
+    "Office Communication",
+    "ATM Sounds"
+  ],
+
+  "smell_dna": [
+    "Office Environment",
+    "Fresh Paper",
+    "Air Conditioned Space",
+    "Printer Ink",
+    "Coffee"
+  ],
+
+  "micro_moment_dna": [
+    "Approving Loan Application",
+    "Verifying Customer Identity",
+    "Handling Large Transaction",
+    "Reviewing Credit Profile",
+    "Meeting Financial Targets"
+  ],
+
+  "risk_dna": [
+    "Fraud Risk",
+    "Compliance Failure",
+    "Customer Dispute",
+    "Data Breach",
+    "Target Pressure"
+  ],
+
+  "aspiration_dna": [
+    "Branch Leadership",
+    "Financial Expertise",
+    "Career Advancement",
+    "Professional Recognition",
+    "Economic Stability"
+  ],
+
+  "identity_markers": [
+    "Bank ID Card",
+    "Financial Documentation",
+    "Customer Advisory Role",
+    "Risk Evaluation"
+  ],
+
+  "profession_uniqueness_score": 97,
+
+  "three_second_identity_test": "PASS"
+}
