@@ -1,0 +1,145 @@
+{
+  "district_id": "BD-BAN-041",
+
+  "district_name": "Bandarban",
+
+  "division": "Chattogram",
+
+  "country": "Bangladesh",
+
+  "dataset_version": "24.0",
+
+  "geography_dna": [
+    "Hill Tract Region",
+    "Mountain Landscape",
+    "Border Highland Zone",
+    "Forest Covered Valley",
+    "Waterfall Ecosystem"
+  ],
+
+  "climate_dna": [
+    "Heavy Monsoon Rainfall",
+    "Mountain Mist",
+    "High Humidity",
+    "Cool Winter Nights",
+    "Dense Cloud Cover"
+  ],
+
+  "light_dna": [
+    "Cloud Covered Mountain Sunrise",
+    "Golden Valley Sunset",
+    "Waterfall Reflection Light",
+    "Fog Filled Forest Dawn",
+    "Hilltop Evening Glow"
+  ],
+
+  "architecture_dna": [
+    "Bamboo Stilt Houses",
+    "Indigenous Village Settlements",
+    "Hilltop Religious Structures",
+    "Eco Tourism Facilities",
+    "Forest Edge Communities"
+  ],
+
+  "transport_dna": [
+    "Motorcycle",
+    "Jeep",
+    "Boat",
+    "Local Bus",
+    "Hill Transport Vehicle"
+  ],
+
+  "occupation_dna": [
+    "Farmer",
+    "Jhum Cultivator",
+    "Tourism Worker",
+    "Small Trader",
+    "Forest Resource Collector",
+    "Handicraft Producer"
+  ],
+
+  "food_dna": [
+    "Hill Vegetables",
+    "Bamboo Shoot",
+    "Fresh River Fish",
+    "Rice",
+    "Traditional Indigenous Cuisine",
+    "Seasonal Fruits"
+  ],
+
+  "behavior_dna": [
+    "Jhum Cultivation",
+    "Hill Market Gathering",
+    "Community Festival Participation",
+    "Tourism Interaction",
+    "Forest Resource Collection",
+    "Village Cooperation"
+  ],
+
+  "object_dna": [
+    "Bamboo Basket",
+    "Jhum Cultivation Tool",
+    "Traditional Handwoven Cloth",
+    "Hill Walking Stick",
+    "Wooden Canoe",
+    "Fruit Basket",
+    "Handmade Craft Item"
+  ],
+
+  "memory_dna": [
+    "Nilgiri Sunrise",
+    "Waterfall Trekking Journey",
+    "Indigenous Festival",
+    "Cloud Covered Mountain Morning",
+    "Hill Market Experience"
+  ],
+
+  "sound_dna": [
+    "Waterfall Flow",
+    "Forest Birds",
+    "Mountain Wind",
+    "Traditional Festival Drums",
+    "Village Gathering Voices"
+  ],
+
+  "smell_dna": [
+    "Wet Forest Soil",
+    "Fresh Bamboo",
+    "Mountain Air",
+    "Rain Wet Leaves",
+    "Wood Smoke"
+  ],
+
+  "landmark_dna": [
+    "Nilgiri",
+    "Nafakhum Waterfall",
+    "Boga Lake",
+    "Nilachal",
+    "Chimbuk Hill"
+  ],
+
+  "micro_dna": [
+    "Clouds Rolling Across Hilltop Road",
+    "Bamboo Stilt House On Slope",
+    "Traditional Hill Market",
+    "Waterfall Spray On Rocks",
+    "Jhum Field On Mountain Side",
+    "Boga Lake Reflection",
+    "Indigenous Handwoven Textile",
+    "Fog Covered Valley",
+    "Hilltop Sunrise Viewpoint",
+    "Mountain Road Curving Through Forest"
+  ],
+
+  "identity_markers": [
+    "Hill Kingdom",
+    "Indigenous Heritage",
+    "Cloud Mountains",
+    "Waterfall Civilization",
+    "Highland Identity"
+  ],
+
+  "district_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
