@@ -1,0 +1,200 @@
+{
+  "institution_id": "INST_HOSPITAL_001",
+
+  "institution": "Hospital",
+
+  "institution_type": "Healthcare Institution",
+
+  "civilization_role": {
+    "primary_layer": "Health Civilization",
+
+    "secondary_layers": [
+      "Human Survival System",
+      "Disease Control Network",
+      "Emergency Response Infrastructure",
+      "Medical Knowledge Institution",
+      "Public Health Protection"
+    ]
+  },
+
+  "core_identity": [
+    "Life Saving Center",
+    "Healthcare Provider",
+    "Emergency Response Hub",
+    "Medical Knowledge Institution",
+    "Public Health Protector"
+  ],
+
+  "institution_archetype": [
+    "Healer",
+    "Protector",
+    "Responder",
+    "Caregiver"
+  ],
+
+  "healthcare_dna": {
+    "core_functions": [
+      "Diagnosis",
+      "Treatment",
+      "Emergency Care",
+      "Surgery",
+      "Rehabilitation"
+    ],
+
+    "service_domains": [
+      "Medicine",
+      "Surgery",
+      "Pediatrics",
+      "Gynecology",
+      "Cardiology",
+      "Orthopedics"
+    ]
+  },
+
+  "human_survival_dna": {
+    "life_preservation_roles": [
+      "Emergency Response",
+      "Disease Treatment",
+      "Injury Recovery",
+      "Maternal Care",
+      "Critical Care"
+    ],
+
+    "survival_dependencies": [
+      "Doctors",
+      "Nurses",
+      "Medicine",
+      "Medical Equipment",
+      "Electricity"
+    ]
+  },
+
+  "stakeholder_dna": {
+    "primary_stakeholders": [
+      "Patients",
+      "Doctors",
+      "Nurses",
+      "Families"
+    ],
+
+    "secondary_stakeholders": [
+      "Government",
+      "Insurance Providers",
+      "Pharmaceutical Companies",
+      "Medical Universities"
+    ]
+  },
+
+  "daily_reality_dna": {
+    "daily_patterns": [
+      "Patient Admission",
+      "Medical Consultation",
+      "Emergency Treatment",
+      "Surgery",
+      "Ward Monitoring"
+    ],
+
+    "seasonal_patterns": [
+      "Dengue Season",
+      "Flu Outbreak",
+      "Heatwave Illness",
+      "Disaster Response"
+    ]
+  },
+
+  "memory_dna": [
+    "Birth Of Child",
+    "Life Saving Surgery",
+    "Emergency Rescue",
+    "Recovery From Illness",
+    "Critical Care Survival"
+  ],
+
+  "social_dna": {
+    "community_role": "Health Protector",
+
+    "social_connections": [
+      "Families",
+      "Schools",
+      "Government",
+      "Pharmacies",
+      "Communities"
+    ]
+  },
+
+  "economic_dna": {
+    "economic_effects": [
+      "Workforce Health",
+      "Productivity Preservation",
+      "Medical Employment",
+      "Healthcare Investment"
+    ]
+  },
+
+  "risk_dna": [
+    "Disease Outbreak",
+    "Medicine Shortage",
+    "Equipment Failure",
+    "Staff Shortage",
+    "Pandemic"
+  ],
+
+  "aspiration_dna": [
+    "Universal Healthcare",
+    "Advanced Medical Technology",
+    "Healthy Population",
+    "Medical Excellence"
+  ],
+
+  "visual_dna": [
+    "Emergency Room",
+    "Hospital Bed",
+    "Operating Theater",
+    "Doctors",
+    "Ambulance"
+  ],
+
+  "sound_dna": [
+    "Heart Monitor",
+    "Ambulance Siren",
+    "Hospital Announcement",
+    "Medical Equipment",
+    "Patient Care Activity"
+  ],
+
+  "smell_dna": [
+    "Disinfectant",
+    "Medicine",
+    "Hospital Air",
+    "Sterile Equipment"
+  ],
+
+  "object_dna": [
+    "Stethoscope",
+    "Hospital Bed",
+    "Ventilator",
+    "Medical Record",
+    "Syringe",
+    "Ambulance"
+  ],
+
+  "micro_moment_dna": [
+    "Emergency Arrival",
+    "Successful Surgery",
+    "Newborn Delivery",
+    "Doctor Consultation",
+    "Patient Discharge"
+  ],
+
+  "identity_markers": [
+    "Doctors",
+    "Nurses",
+    "Patients",
+    "Medical Equipment",
+    "Emergency Services"
+  ],
+
+  "institution_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
