@@ -1,0 +1,200 @@
+{
+  "institution_id": "INST_MARKET_001",
+
+  "institution": "Market",
+
+  "institution_type": "Commercial Institution",
+
+  "civilization_role": {
+    "primary_layer": "Commerce Civilization",
+
+    "secondary_layers": [
+      "Local Economy",
+      "Price Discovery System",
+      "Consumer Exchange Network",
+      "Supply Chain Distribution",
+      "Community Interaction"
+    ]
+  },
+
+  "core_identity": [
+    "Economic Exchange Hub",
+    "Price Discovery Center",
+    "Supply And Demand Connector",
+    "Community Marketplace",
+    "Commercial Ecosystem"
+  ],
+
+  "institution_archetype": [
+    "Trader",
+    "Merchant",
+    "Connector",
+    "Economic Multiplier"
+  ],
+
+  "commerce_dna": {
+    "core_functions": [
+      "Buying",
+      "Selling",
+      "Negotiation",
+      "Distribution",
+      "Price Formation"
+    ],
+
+    "market_types": [
+      "Village Market",
+      "Urban Market",
+      "Wholesale Market",
+      "Retail Market",
+      "Livestock Market",
+      "Fish Market"
+    ]
+  },
+
+  "economic_flow_dna": {
+    "flow_components": [
+      "Products",
+      "Money",
+      "Information",
+      "Demand",
+      "Supply"
+    ],
+
+    "economic_roles": [
+      "Income Generation",
+      "Employment Creation",
+      "Price Signaling",
+      "Resource Allocation"
+    ]
+  },
+
+  "stakeholder_dna": {
+    "primary_stakeholders": [
+      "Buyers",
+      "Sellers",
+      "Wholesalers",
+      "Retailers"
+    ],
+
+    "secondary_stakeholders": [
+      "Farmers",
+      "Transporters",
+      "Banks",
+      "Government"
+    ]
+  },
+
+  "daily_reality_dna": {
+    "daily_patterns": [
+      "Buying Activities",
+      "Selling Activities",
+      "Price Negotiation",
+      "Goods Delivery",
+      "Customer Interaction"
+    ],
+
+    "seasonal_patterns": [
+      "Eid Market",
+      "Harvest Season",
+      "Festival Shopping",
+      "Monsoon Supply Changes"
+    ]
+  },
+
+  "memory_dna": [
+    "Weekly Market Day",
+    "Festival Shopping",
+    "First Business Sale",
+    "Major Trade Transaction",
+    "Community Gathering"
+  ],
+
+  "social_dna": {
+    "community_role": "Economic Meeting Point",
+
+    "social_connections": [
+      "Families",
+      "Businesses",
+      "Farmers",
+      "Consumers",
+      "Local Community"
+    ]
+  },
+
+  "economic_dna": {
+    "economic_effects": [
+      "Local Trade Growth",
+      "Income Circulation",
+      "Employment Support",
+      "Consumer Access"
+    ]
+  },
+
+  "risk_dna": [
+    "Price Inflation",
+    "Supply Disruption",
+    "Low Demand",
+    "Natural Disaster",
+    "Market Fire"
+  ],
+
+  "aspiration_dna": [
+    "Fair Trade",
+    "Economic Growth",
+    "Business Expansion",
+    "Community Prosperity"
+  ],
+
+  "visual_dna": [
+    "Market Stalls",
+    "Crowded Shoppers",
+    "Fresh Produce",
+    "Retail Shops",
+    "Wholesale Trading"
+  ],
+
+  "sound_dna": [
+    "Vendor Calls",
+    "Customer Bargaining",
+    "Traffic Noise",
+    "Goods Loading",
+    "Business Conversations"
+  ],
+
+  "smell_dna": [
+    "Fresh Vegetables",
+    "Fish Market",
+    "Spices",
+    "Street Food",
+    "Packed Marketplace"
+  ],
+
+  "object_dna": [
+    "Cash Register",
+    "Weighing Scale",
+    "Shopping Bag",
+    "Product Shelf",
+    "Market Stall",
+    "Price Board"
+  ],
+
+  "micro_moment_dna": [
+    "Negotiating Price",
+    "Completing Sale",
+    "Receiving Goods",
+    "Market Opening",
+    "Peak Shopping Hour"
+  ],
+
+  "identity_markers": [
+    "Traders",
+    "Customers",
+    "Goods",
+    "Prices",
+    "Commercial Activity"
+  ],
+
+  "institution_uniqueness_score": 100,
+
+  "three_second_identity_test": "PASS"
+}
