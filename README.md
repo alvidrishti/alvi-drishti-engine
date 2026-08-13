@@ -15,6 +15,8 @@ Md Rayhan Mia
 
 Rangpur, Bangladesh
 
+Canonical record: https://rayhan-mia.vercel.app/rayhan-mia/
+
 ## Status
 
 V24 Constitution Complete
